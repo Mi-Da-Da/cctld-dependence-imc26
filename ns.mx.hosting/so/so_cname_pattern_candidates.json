@@ -1,0 +1,83 @@
+[
+  {
+    "sld": "gvip.nl",
+    "total_count": 91,
+    "provider_hint": "Kaopu Cloud HK Limited",
+    "top_asn": {
+      "asn": 138915,
+      "org": "Kaopu Cloud HK Limited"
+    },
+    "pct": 0.846,
+    "countries": [
+      "PH",
+      "SG",
+      "RU"
+    ],
+    "example_targets": [
+      "tieseven.gvip.nl",
+      "tie.gvip.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gvip\\.nl(?:\\.|$)",
+      "(?:^|\\.)gvip[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "feicdn.net",
+    "total_count": 13,
+    "provider_hint": "GORILLASERVERS",
+    "top_asn": {
+      "asn": 53850,
+      "org": "GORILLASERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "a237b26e.feicdn.net",
+      "79bd7bcc.feicdn.net",
+      "eae30016.feicdn.net",
+      "aa2d9b0b.feicdn.net",
+      "2ca43d71.feicdn.net",
+      "b59102d1.feicdn.net",
+      "8f2a79d8.feicdn.net",
+      "4bca47c7.feicdn.net",
+      "38d491d9.feicdn.net",
+      "21f754e7.feicdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)feicdn\\.net(?:\\.|$)",
+      "(?:^|\\.)feicdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "railway.app",
+    "total_count": 10,
+    "provider_hint": "RAILWAY",
+    "top_asn": {
+      "asn": 400940,
+      "org": "RAILWAY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ixhuo2z3.up.railway.app",
+      "gxgbii99.up.railway.app",
+      "ug9i5awr.up.railway.app",
+      "b9f677hs.up.railway.app",
+      "vvk2j2mn.up.railway.app",
+      "fjv0tnee.up.railway.app",
+      "ky29n0jl.up.railway.app",
+      "sboqcgpq.up.railway.app",
+      "f89ppcj7.up.railway.app",
+      "t6zntzfr.up.railway.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)railway\\.app(?:\\.|$)",
+      "(?:^|\\.)railway[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
