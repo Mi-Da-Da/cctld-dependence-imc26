@@ -1,0 +1,29 @@
+{
+  "ns_provider": {
+    "top3_coverage": 66.19,
+    "HHI": 0.3353,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "SECURITYSERVICES",
+      "AMAZON-02"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 71.47,
+    "HHI": 0.2091,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "NTT-DATA-2914",
+      "CTG Server Limited"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 33.81,
+    "HHI": 0.054,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "AMAZON-AES"
+    ]
+  }
+}
