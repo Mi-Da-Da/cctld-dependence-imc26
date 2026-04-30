@@ -1,0 +1,54 @@
+{
+  "ns_provider": {
+    "total": 11,
+    "HHI": 0.7025,
+    "providers": [
+      {
+        "name": "UUNET",
+        "count": 9,
+        "percentage": 81.82
+      },
+      {
+        "name": "MARSHALL ISLANDS NTA ISP AS",
+        "count": 2,
+        "percentage": 18.18
+      }
+    ]
+  },
+  "cname_provider": {
+    "total": 0,
+    "HHI": 0.0,
+    "providers": []
+  },
+  "ip_asns": {
+    "total": 5,
+    "HHI": 0.2,
+    "providers": [
+      {
+        "name": "Hostinger International Limited",
+        "count": 1,
+        "percentage": 20.0
+      },
+      {
+        "name": "AUTOMATTIC",
+        "count": 1,
+        "percentage": 20.0
+      },
+      {
+        "name": "CLOUDFLARENET",
+        "count": 1,
+        "percentage": 20.0
+      },
+      {
+        "name": "Wix.com Ltd.",
+        "count": 1,
+        "percentage": 20.0
+      },
+      {
+        "name": "Cloudflare London, LLC",
+        "count": 1,
+        "percentage": 20.0
+      }
+    ]
+  }
+}
