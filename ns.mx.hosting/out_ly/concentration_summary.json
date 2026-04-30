@@ -1,0 +1,27 @@
+{
+  "ns_provider": {
+    "top3_coverage": 55.43,
+    "HHI": 0.1338,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "AMAZON-AES"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 1.0,
+    "top3_providers": [
+      "AMAZON-AES"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 56.91,
+    "HHI": 0.1333,
+    "top3_providers": [
+      "Hetzner Online GmbH",
+      "Libyan-Spider-for-IT-LTD",
+      "CLOUDFLARENET"
+    ]
+  }
+}
