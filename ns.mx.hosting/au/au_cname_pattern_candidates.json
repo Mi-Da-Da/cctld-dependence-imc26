@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "bodis.com",
+    "total_count": 15,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "86817.bodis.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
