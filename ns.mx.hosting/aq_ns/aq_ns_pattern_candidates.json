@@ -1,0 +1,81 @@
+[
+  {
+    "sld": "aarnet.net.au",
+    "total_count": 22,
+    "provider_hint": "Australian Academic and Research Network AARNet",
+    "top_asn": {
+      "asn": 7575,
+      "org": "Australian Academic and Research Network AARNet"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AU"
+    ],
+    "example_targets": [
+      "ns3.aarnet.net.au",
+      "ns1.aarnet.net.au",
+      "ns2.aarnet.net.au"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aarnet.net.au(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ipev.fr",
+    "total_count": 12,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "ns.ipev.fr"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ipev.fr(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ovh.net",
+    "total_count": 12,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "sdns2.ovh.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ovh.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fx.net.nz",
+    "total_count": 10,
+    "provider_hint": "Two Degrees Networks Limited",
+    "top_asn": {
+      "asn": 9790,
+      "org": "Two Degrees Networks Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "NZ"
+    ],
+    "example_targets": [
+      "ns1.fx.net.nz",
+      "ns2.fx.net.nz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fx.net.nz(?:\\.|$)"
+    ]
+  }
+]
