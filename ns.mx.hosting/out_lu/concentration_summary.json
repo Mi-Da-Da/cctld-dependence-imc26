@@ -1,0 +1,28 @@
+{
+  "ns_provider": {
+    "top3_coverage": 51.25,
+    "HHI": 0.1074,
+    "top3_providers": [
+      "OVH SAS",
+      "NUCDN",
+      "CLOUDFLARENET"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 0.5005,
+    "top3_providers": [
+      "GOOGLE-CLOUD-PLATFORM",
+      "ANTI-DDOS"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 29.82,
+    "HHI": 0.0531,
+    "top3_providers": [
+      "OVH SAS",
+      "AMAZON-02",
+      "Team Internet AG"
+    ]
+  }
+}
