@@ -1,0 +1,974 @@
+{
+  "ns_provider": {
+    "total": 1382,
+    "HHI": 0.2921,
+    "providers": [
+      {
+        "name": "CLOUDFLARENET",
+        "count": 715,
+        "percentage": 51.74
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 157,
+        "percentage": 11.36
+      },
+      {
+        "name": "AMAZON-02",
+        "count": 77,
+        "percentage": 5.57
+      },
+      {
+        "name": "NSONE",
+        "count": 64,
+        "percentage": 4.63
+      },
+      {
+        "name": "Host Europe GmbH",
+        "count": 57,
+        "percentage": 4.12
+      },
+      {
+        "name": "Safenames Ltd.",
+        "count": 52,
+        "percentage": 3.76
+      },
+      {
+        "name": "Soluciones Corporativas IP, SL",
+        "count": 46,
+        "percentage": 3.33
+      },
+      {
+        "name": "ipcom GmbH",
+        "count": 32,
+        "percentage": 2.32
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 30,
+        "percentage": 2.17
+      },
+      {
+        "name": "GOOGLE",
+        "count": 25,
+        "percentage": 1.81
+      },
+      {
+        "name": "NUCDN",
+        "count": 21,
+        "percentage": 1.52
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 16,
+        "percentage": 1.16
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 14,
+        "percentage": 1.01
+      },
+      {
+        "name": "SkyExchange Internet Access",
+        "count": 10,
+        "percentage": 0.72
+      },
+      {
+        "name": "OVH SAS",
+        "count": 9,
+        "percentage": 0.65
+      },
+      {
+        "name": "IONOS SE",
+        "count": 7,
+        "percentage": 0.51
+      },
+      {
+        "name": "DIGICERT",
+        "count": 7,
+        "percentage": 0.51
+      },
+      {
+        "name": "Universidad Tecnologica de Panama",
+        "count": 6,
+        "percentage": 0.43
+      },
+      {
+        "name": "HVC-AS",
+        "count": 5,
+        "percentage": 0.36
+      },
+      {
+        "name": "SCAAM0001",
+        "count": 5,
+        "percentage": 0.36
+      },
+      {
+        "name": "Nameshield SAS",
+        "count": 5,
+        "percentage": 0.36
+      },
+      {
+        "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+        "count": 5,
+        "percentage": 0.36
+      },
+      {
+        "name": "NForce Entertainment B.V.",
+        "count": 4,
+        "percentage": 0.29
+      },
+      {
+        "name": "acens Technologies, S.L.",
+        "count": 4,
+        "percentage": 0.29
+      },
+      {
+        "name": "HURRICANE",
+        "count": 2,
+        "percentage": 0.14
+      },
+      {
+        "name": "Academia Nacional de Ciencias",
+        "count": 2,
+        "percentage": 0.14
+      },
+      {
+        "name": "LATIN AMERICAN AND CARIBBEAN TLD ASSOCIATION",
+        "count": 1,
+        "percentage": 0.07
+      },
+      {
+        "name": "Nucleo de Inf. e Coord. do Ponto BR - NIC.",
+        "count": 1,
+        "percentage": 0.07
+      },
+      {
+        "name": "Gransy s.r.o.",
+        "count": 1,
+        "percentage": 0.07
+      },
+      {
+        "name": "NetActuate, Inc",
+        "count": 1,
+        "percentage": 0.07
+      },
+      {
+        "name": "NIC Chile",
+        "count": 1,
+        "percentage": 0.07
+      }
+    ]
+  },
+  "cname_provider": {
+    "total": 0,
+    "HHI": 0.0,
+    "providers": []
+  },
+  "ip_asns": {
+    "total": 1680,
+    "HHI": 0.0926,
+    "providers": [
+      {
+        "name": "AMAZON-02",
+        "count": 322,
+        "percentage": 19.17
+      },
+      {
+        "name": "INCAPSULA",
+        "count": 222,
+        "percentage": 13.21
+      },
+      {
+        "name": "unknown",
+        "count": 218,
+        "percentage": 12.98
+      },
+      {
+        "name": "CLOUDFLARENET",
+        "count": 194,
+        "percentage": 11.55
+      },
+      {
+        "name": "CSC",
+        "count": 100,
+        "percentage": 5.95
+      },
+      {
+        "name": "OVH SAS",
+        "count": 66,
+        "percentage": 3.93
+      },
+      {
+        "name": "Safenames Ltd.",
+        "count": 49,
+        "percentage": 2.92
+      },
+      {
+        "name": "Soluciones Corporativas IP, SL",
+        "count": 42,
+        "percentage": 2.5
+      },
+      {
+        "name": "AMAZON-AES",
+        "count": 36,
+        "percentage": 2.14
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 27,
+        "percentage": 1.61
+      },
+      {
+        "name": "GOOGLE-CLOUD-PLATFORM",
+        "count": 17,
+        "percentage": 1.01
+      },
+      {
+        "name": "UNIFIEDLAYER-AS-1",
+        "count": 14,
+        "percentage": 0.83
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 14,
+        "percentage": 0.83
+      },
+      {
+        "name": "Hostinger International Limited",
+        "count": 13,
+        "percentage": 0.77
+      },
+      {
+        "name": "Hetzner Online GmbH",
+        "count": 12,
+        "percentage": 0.71
+      },
+      {
+        "name": "DIGITALOCEAN-ASN",
+        "count": 10,
+        "percentage": 0.6
+      },
+      {
+        "name": "Datacenter Luxembourg S.A.",
+        "count": 10,
+        "percentage": 0.6
+      },
+      {
+        "name": "GO-DADDY-COM-LLC",
+        "count": 10,
+        "percentage": 0.6
+      },
+      {
+        "name": "Wix.com Ltd.",
+        "count": 10,
+        "percentage": 0.6
+      },
+      {
+        "name": "Nameshield SAS",
+        "count": 9,
+        "percentage": 0.54
+      },
+      {
+        "name": "Register S.p.A.",
+        "count": 9,
+        "percentage": 0.54
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 8,
+        "percentage": 0.48
+      },
+      {
+        "name": "GOOGLE",
+        "count": 8,
+        "percentage": 0.48
+      },
+      {
+        "name": "IONOS SE",
+        "count": 8,
+        "percentage": 0.48
+      },
+      {
+        "name": "A2HOSTING",
+        "count": 7,
+        "percentage": 0.42
+      },
+      {
+        "name": "Akamai Connected Cloud",
+        "count": 7,
+        "percentage": 0.42
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 7,
+        "percentage": 0.42
+      },
+      {
+        "name": "NAMECHEAP-NET",
+        "count": 7,
+        "percentage": 0.42
+      },
+      {
+        "name": "SEDO GmbH",
+        "count": 7,
+        "percentage": 0.42
+      },
+      {
+        "name": "Team Internet AG",
+        "count": 6,
+        "percentage": 0.36
+      },
+      {
+        "name": "FASTLY",
+        "count": 6,
+        "percentage": 0.36
+      },
+      {
+        "name": "HVC-AS",
+        "count": 6,
+        "percentage": 0.36
+      },
+      {
+        "name": "acens Technologies, S.L.",
+        "count": 6,
+        "percentage": 0.36
+      },
+      {
+        "name": "NETWORK-SOLUTIONS-HOSTING",
+        "count": 6,
+        "percentage": 0.36
+      },
+      {
+        "name": "SQUARESPACE",
+        "count": 5,
+        "percentage": 0.3
+      },
+      {
+        "name": "DREAMHOST-AS",
+        "count": 5,
+        "percentage": 0.3
+      },
+      {
+        "name": "HILTON-E",
+        "count": 5,
+        "percentage": 0.3
+      },
+      {
+        "name": "AS-VULTR",
+        "count": 4,
+        "percentage": 0.24
+      },
+      {
+        "name": "Cloudflare London, LLC",
+        "count": 4,
+        "percentage": 0.24
+      },
+      {
+        "name": "Adam EcoTech, S.A",
+        "count": 4,
+        "percentage": 0.24
+      },
+      {
+        "name": "Offshore Racks S.A",
+        "count": 4,
+        "percentage": 0.24
+      },
+      {
+        "name": "CSC Administrative Services Limited",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "Alibaba US Technology Co., Ltd.",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "Entain Corporate Services Limited",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "Neue Medien Muennich GmbH",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "Cable & Wireless Panama",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "Tele2 SWIPnet",
+        "count": 3,
+        "percentage": 0.18
+      },
+      {
+        "name": "InterNetworX Management GmbH",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Hosting eXperts Switzerland AG",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "RACKSPACE",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Red Cientifica Peruana",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Signet B.V.",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Vodafone Ono, S.A.",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Planet Service SARL",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "SERVERCENTRAL",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Gransy s.r.o.",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "LEMARIT GmbH",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Opera Norway AS",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "SOFTLAYER",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "IS-AS-1",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "DIGICERT",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "AS17378",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "DinaHosting S.L.",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "WHG Hosting Services Ltd",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "ONIAAS",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "EDNS",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "WBD-AS40703",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "YANDEX LLC",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Dattatec.com",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "Dataspace P.s.a.",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "IT7NET",
+        "count": 2,
+        "percentage": 0.12
+      },
+      {
+        "name": "COGENT-174",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "SOC. COMERCIAL WIRENET CHILE LTDA.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Agfa Gevaert NV",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Optitrust GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "HOSTWINDS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "WI-NET TELECOM S.A.C.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "WEBHOSTINGHOLDINGS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "RADWARE-CLOUD-SERVICES",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "AKAMAI-AS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "ANEXIA Internetdienstleistungs GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Hostpoint AG",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "DFW-DATACENTER",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Universidad Tecnologica de Panama",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "PRIVATESYSTEMS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Colombia Hosting",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "BIZLAND-SD",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "UFINET PANAMA S.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Iomart Cloud Services Limited",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "TSG Interactive Services Limited",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Infopact Netwerkdiensten B.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "SAREnet, S.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Ddos-guard Ltd",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "SERVER-MANIA",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "UK-2 Limited",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "KNAPP AG",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "FACEBOOK",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Koninklijke Luchtvaart Maatschappij N.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Tencent Building, Kejizhongyi Avenue",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "NForce Entertainment B.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Fastmail Pty Ltd",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "COLT Technology Services Group Limited",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "EPAG Domainservices GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Volvo Information Technology AB",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "KKM IT Limited",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "InterNetX GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "QTI",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "INFOLINK-MIA",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Enflow B.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "united-domains GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "INTEL-SC-AS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "IWEB-AS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Liebherr-IT Services GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Autoridad Nacional para la Innovacion Gubernamental",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "ResMed Dual Internet Gateway",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "IFX18747",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "GIGASNET-AS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Panamaserver.com",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Reevo S.p.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "COGECO-PEER1",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "GTD COLOMBIA S.A.S",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Vodafone Libertel B.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Andorra Telecom, S.a.u.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "SINGLEHOP-LLC",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "CDM",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "NAVEGALO S.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Telmex Chile Internet S.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "GConnect Technology Ltd",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "TECNOWEB PERU SAC",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Kaspersky Lab Switzerland GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "ESECUREDATA",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Planetel SPA",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Cloud Builders SA",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Amazon Data Services Ireland Ltd",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "NCUBE-OREGON-AS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "VIVO CONNECTION spol. s r.o.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "ENTEGA Medianet GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "DEDICATED",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Global Village GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Equinix (EMEA) Acquisition Enterprises B.V.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "ORACLE-BMC-31898",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Xirra GmbH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "APPLE-ENGINEERING",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "PAIR-NETWORKS",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "SHARKTECH",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "IMH-IAD",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Netsons s.r.l.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "LINKEDIN",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Corporacion La Prensa S.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "genesys informatica srl",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Data Miners S.A. Racknation.cr",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "NOCIX",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "LEVEL3",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "BIGCOMMERCE",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Grupo Loading Systems, S.L.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "BT Italia S.p.A.",
+        "count": 1,
+        "percentage": 0.06
+      },
+      {
+        "name": "Clever Cloud SAS",
+        "count": 1,
+        "percentage": 0.06
+      }
+    ]
+  }
+}
