@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "aliasqiangtiao.com",
+    "total_count": 15,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "mqg4-n78q.aliasqiangtiao.com",
+      "net7k5g8.aliasqiangtiao.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliasqiangtiao\\.com(?:\\.|$)"
+    ]
+  }
+]
