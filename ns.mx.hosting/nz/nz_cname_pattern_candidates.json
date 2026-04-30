@@ -1,0 +1,108 @@
+[
+  {
+    "sld": "92kun.com",
+    "total_count": 21,
+    "provider_hint": "Eons Data Communications Limited",
+    "top_asn": {
+      "asn": 138997,
+      "org": "Eons Data Communications Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "zonghe168.92kun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)92kun\\.com(?:\\.|$)",
+      "(?:^|\\.)92kun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "worldcloudshops.com",
+    "total_count": 21,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "TW"
+    ],
+    "example_targets": [
+      "park.worldcloudshops.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)worldcloudshops\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 17,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "5783rb6y.aisdun-cname.com",
+      "tyxvzd72.aisdun-cname.com",
+      "d65m9nk2.aisdun-cname.com",
+      "hbv8cxsu.aisdun-cname.com",
+      "hx2gvaej.aisdun-cname.com",
+      "agjs85hw.aisdun-cname.com",
+      "kc42m86r.aisdun-cname.com",
+      "4qxynpzd.aisdun-cname.com",
+      "5p8s3e9j.aisdun-cname.com",
+      "yr68hqxp.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "taomsvpfm8z0.com",
+    "total_count": 11,
+    "provider_hint": "CHINA UNICOM China169 Backbone",
+    "top_asn": {
+      "asn": 4837,
+      "org": "CHINA UNICOM China169 Backbone"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "zhegnzheng.taomsvpfm8z0.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)taomsvpfm8z0\\.com(?:\\.|$)",
+      "(?:^|\\.)taomsvpfm8z0[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 11,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xz.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  }
+]
