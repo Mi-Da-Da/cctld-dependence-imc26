@@ -1,0 +1,110 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 162,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sky.vc",
+    "total_count": 38,
+    "provider_hint": "FiberPower LLC",
+    "top_asn": {
+      "asn": 214483,
+      "org": "FiberPower LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pk.sky.vc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sky\\.vc(?:\\.|$)",
+      "(?:^|\\.)sky[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 30,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "dvapkny7.aisdun-cname.com",
+      "eb79auvr.aisdun-cname.com",
+      "wq42e57y.aisdun-cname.com",
+      "nubmw46p.aisdun-cname.com",
+      "fgw6napk.aisdun-cname.com",
+      "txrp8jey.aisdun-cname.com",
+      "tp26rx8v.aisdun-cname.com",
+      "q42ntbxf.aisdun-cname.com",
+      "8u5kcq9v.aisdun-cname.com",
+      "q3pvk478.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qo4.net",
+    "total_count": 12,
+    "provider_hint": "Contabo Asia Private Limited",
+    "top_asn": {
+      "asn": 141995,
+      "org": "Contabo Asia Private Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "7012889c.qo4.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qo4\\.net(?:\\.|$)",
+      "(?:^|\\.)qo4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "le.cn",
+    "total_count": 11,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xls.cs.le.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)le\\.cn(?:\\.|$)",
+      "(?:^|\\.)le[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
