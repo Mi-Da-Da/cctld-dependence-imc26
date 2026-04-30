@@ -1,0 +1,145 @@
+[
+  {
+    "sld": "cdn300.cn",
+    "total_count": 88,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 0.989,
+    "countries": [
+      "HK",
+      "CN",
+      "US"
+    ],
+    "example_targets": [
+      "2001185008.cdn.site.cdn300.cn",
+      "1802010078.cdn.fsite.cdn300.cn",
+      "301.cdn300.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn300\\.cn(?:\\.|$)",
+      "(?:^|\\.)cdn300[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vhostgo.com",
+    "total_count": 57,
+    "provider_hint": "West263 International Limited",
+    "top_asn": {
+      "asn": 139021,
+      "org": "West263 International Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "freeurl.vhostgo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vhostgo\\.com(?:\\.|$)",
+      "(?:^|\\.)vhostgo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nawang.cn",
+    "total_count": 45,
+    "provider_hint": "MULTA-ASN1",
+    "top_asn": {
+      "asn": 35916,
+      "org": "MULTA-ASN1"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "url.nawang.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nawang\\.cn(?:\\.|$)",
+      "(?:^|\\.)nawang[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xincache.com",
+    "total_count": 36,
+    "provider_hint": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+    "top_asn": {
+      "asn": 135377,
+      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "url.xincache.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xincache\\.com(?:\\.|$)",
+      "(?:^|\\.)xincache[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsgulf.com",
+    "total_count": 31,
+    "provider_hint": "YISU CLOUD LTD",
+    "top_asn": {
+      "asn": 138152,
+      "org": "YISU CLOUD LTD"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "url.dnsgulf.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsgulf\\.com(?:\\.|$)",
+      "(?:^|\\.)dnsgulf[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "shushang-z.cn",
+    "total_count": 28,
+    "provider_hint": "China Unicom Beijing Province Network",
+    "top_asn": {
+      "asn": 4808,
+      "org": "China Unicom Beijing Province Network"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "301.shushang-z.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)shushang\\-z\\.cn(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "thefastcdns.com",
+    "total_count": 26,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "301.thefastcdns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)thefastcdns\\.com(?:\\.|$)",
+      "(?:^|\\.)thefastcdns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
