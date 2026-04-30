@@ -1,0 +1,25 @@
+{
+  "ns_provider": {
+    "top3_coverage": 49.57,
+    "HHI": 0.1165,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "DIGITALOCEAN-ASN",
+      "OVH SAS"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 0,
+    "HHI": 0,
+    "top3_providers": []
+  },
+  "ip_asns": {
+    "top3_coverage": 25.97,
+    "HHI": 0.0444,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "NAMECHEAP-NET",
+      "SS-ASH"
+    ]
+  }
+}
