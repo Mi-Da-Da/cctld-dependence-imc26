@@ -1,0 +1,29 @@
+{
+  "ns_provider": {
+    "top3_coverage": 73.42,
+    "HHI": 0.2952,
+    "top3_providers": [
+      "Host Europe GmbH",
+      "CLOUDFLARENET",
+      "GOOGLE"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 69.34,
+    "HHI": 0.2771,
+    "top3_providers": [
+      "Akamai Connected Cloud",
+      "AMAZON-02",
+      "GOOGLE-CLOUD-PLATFORM"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 52.25,
+    "HHI": 0.1796,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "OVH SAS"
+    ]
+  }
+}
