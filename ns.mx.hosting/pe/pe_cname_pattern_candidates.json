@@ -1,0 +1,23 @@
+[
+  {
+    "sld": "myshopify.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "thn-by-triathlon.myshopify.com",
+      "shops.myshopify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)myshopify\\.com(?:\\.|$)",
+      "(?:^|\\.)myshopify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
