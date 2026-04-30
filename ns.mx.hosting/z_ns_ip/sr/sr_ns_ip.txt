@@ -1,0 +1,74 @@
+=== 数据来源: sr ===
+NS 域名数: 302
+ASN 域名数: 323
+NS+ASN 交集: 302
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 80
+  ASN: CLOUDFLARENET (AS13335)          48  60.00%
+  ASN: AMAZON-02 (AS16509)              12  15.00%
+  ASN: Hostinger International Limited (AS47583)      5   6.25%
+  ASN: INMOTION (AS22611)                3   3.75%
+  ASN: TELNET (AS27553)                  2   2.50%
+
+[NS 提供商] CARIBBEAN COMMUNICATION SERVICES，域名数 52
+  ASN: CARIBBEAN COMMUNICATION SERVICES (AS263799)     42  80.77%
+  ASN: AMAZON-02 (AS16509)               2   3.85%
+  ASN: Hetzner Online GmbH (AS213230)      2   3.85%
+  ASN: Signet B.V. (AS35470)             1   1.92%
+  ASN: CLDIN B.V. (AS48635)              1   1.92%
+
+[NS 提供商] AMAZON-02，域名数 17
+  ASN: SINGLEHOP-LLC (AS32475)           7  41.18%
+  ASN: A2HOSTING (AS55293)               4  23.53%
+  ASN: GOOGLE (AS15169)                  3  17.65%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2  11.76%
+  ASN: INCAPSULA (AS19551)               1   5.88%
+
+[NS 提供商] SECURITYSERVICES，域名数 10
+  ASN: CSC (AS19574)                     8  80.00%
+  ASN: DIGIKEY (AS14738)                 1  10.00%
+  ASN: Bayerische Motoren Werke Aktiengesellschaft (AS8590)      1  10.00%
+
+=== 数据来源: sr ===
+NS 域名数: 302
+ASN 域名数: 323
+NS+ASN 交集: 302
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 49
+  NS: CLOUDFLARENET                    48  97.96%
+  NS: oraclecloud.net                   1   2.04%
+
+[ASN] CARIBBEAN COMMUNICATION SERVICES (AS263799)，域名数 46
+  NS: CARIBBEAN COMMUNICATION SERVICES     42  91.30%
+  NS: CLOUDFLARENET                     2   4.35%
+  NS: Telecommunicationcompany Suriname - TeleSur      1   2.17%
+  NS: digicertdns.com                   1   2.17%
+
+[ASN] AMAZON-02 (AS16509)，域名数 37
+  NS: CLOUDFLARENET                    12  32.43%
+  NS: markmonitor.com                   8  21.62%
+  NS: CARIBBEAN COMMUNICATION SERVICES      2   5.41%
+  NS: dan.com                           1   2.70%
+  NS: ipage.com                         1   2.70%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 11
+  NS: hostgator.com                     5  45.45%
+  NS: arvixeshared.com                  2  18.18%
+  NS: bluehost.com                      2  18.18%
+  NS: webhostingserver.nl               1   9.09%
+  NS: netlinknv.com                     1   9.09%
+
+[ASN] SINGLEHOP-LLC (AS32475)，域名数 10
+  NS: AMAZON-02                         7  70.00%
+  NS: gumair.sr                         1  10.00%
+  NS: CLOUDFLARENET                     1  10.00%
+  NS: websitehostserver.net             1  10.00%
+
+[ASN] CSC (AS19574)，域名数 10
+  NS: SECURITYSERVICES                  8  80.00%
+  NS: netnames.net                      1  10.00%
+  NS: nsroot1.com                       1  10.00%

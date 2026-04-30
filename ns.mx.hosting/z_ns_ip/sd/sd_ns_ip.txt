@@ -1,0 +1,193 @@
+=== 数据来源: sd ===
+NS 域名数: 1329
+ASN 域名数: 1390
+NS+ASN 交集: 1329
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 403
+  ASN: CLOUDFLARENET (AS13335)         198  49.13%
+  ASN: AMAZON-02 (AS16509)              51  12.66%
+  ASN: Hostinger International Limited (AS47583)     45  11.17%
+  ASN: INCAPSULA (AS19551)              17   4.22%
+  ASN: DIGITALOCEAN-ASN (AS14061)       11   2.73%
+
+[NS 提供商] Hetzner Online GmbH，域名数 185
+  ASN: Hetzner Online GmbH (AS24940)    176  95.14%
+  ASN: WIIT AG (AS24961)                 7   3.78%
+  ASN: FASTLY (AS54113)                  1   0.54%
+  ASN: Sudatel (AS15706)                 1   0.54%
+
+[NS 提供商] Hydra Communications Ltd，域名数 67
+  ASN: Enix Ltd (AS52148)               67 100.00%
+
+[NS 提供商] SECURITYSERVICES，域名数 55
+  ASN: NAMECHEAP-NET (AS22612)          40  72.73%
+  ASN: CSC (AS19574)                    14  25.45%
+  ASN: HOSTKEY-USA (AS395839)            1   1.82%
+
+[NS 提供商] supremepanel.com，域名数 51
+  ASN: LIQUIDNETLTD1 (AS14555)          51 100.00%
+
+[NS 提供商] AMAZON-02，域名数 43
+  ASN: WHG Hosting Services Ltd (AS14670)     25  58.14%
+  ASN: SINGLEHOP-LLC (AS32475)           8  18.60%
+  ASN: A2HOSTING (AS55293)               4   9.30%
+  ASN: WHG Hosting Services Ltd (AS51713)      2   4.65%
+  ASN: WHG Hosting Services Ltd (AS36454)      1   2.33%
+
+[NS 提供商] Contabo GmbH，域名数 42
+  ASN: Contabo GmbH (AS51167)           41  97.62%
+  ASN: Sudatel (AS15706)                 1   2.38%
+
+[NS 提供商] IS-AS-1，域名数 25
+  ASN: IS-AS-1 (AS19318)                25 100.00%
+
+[NS 提供商] LIQUIDWEB，域名数 21
+  ASN: LIQUIDWEB (AS32244)              21 100.00%
+
+[NS 提供商] NSONE，域名数 16
+  ASN: AMAZON-02 (AS16509)              12  75.00%
+  ASN: GOOGLE (AS15169)                  3  18.75%
+  ASN: CLOUDFLARENET (AS13335)           1   6.25%
+
+[NS 提供商] linode.com，域名数 15
+  ASN: Akamai Connected Cloud (AS63949)      9  60.00%
+  ASN: Contabo GmbH (AS51167)            5  33.33%
+  ASN: Enix Ltd (AS52148)                1   6.67%
+
+[NS 提供商] thundercloud.uk，域名数 14
+  ASN: Awareness Software Limited (AS34931)     14 100.00%
+
+[NS 提供商] supremedns.com，域名数 13
+  ASN: UK Dedicated Servers Limited (AS42831)     12  92.31%
+  ASN: Ficolo Oy (AS49282)               1   7.69%
+
+[NS 提供商] GOOGLE-CLOUD-PLATFORM，域名数 11
+  ASN: 20i Limited (AS48254)            11 100.00%
+
+[NS 提供商] markmonitor.com，域名数 10
+  ASN: AMAZON-02 (AS16509)               9  90.00%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1  10.00%
+
+[NS 提供商] sedoparking.com，域名数 10
+  ASN: SEDO GmbH (AS47846)              10 100.00%
+
+=== 数据来源: sd ===
+NS 域名数: 1329
+ASN 域名数: 1390
+NS+ASN 交集: 1329
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 200
+  NS: CLOUDFLARENET                   198  99.00%
+  NS: awsdns-49.com                     1   0.50%
+  NS: NSONE                             1   0.50%
+
+[ASN] Hetzner Online GmbH (AS24940)，域名数 199
+  NS: Hetzner Online GmbH             176  88.44%
+  NS: CLOUDFLARENET                     7   3.52%
+  NS: mobic-host.com                    3   1.51%
+  NS: second-ns.com                     3   1.51%
+  NS: hetzner.com                       2   1.01%
+
+[ASN] AMAZON-02 (AS16509)，域名数 93
+  NS: CLOUDFLARENET                    51  54.84%
+  NS: NSONE                            12  12.90%
+  NS: markmonitor.com                   9   9.68%
+  NS: Host Europe GmbH                  7   7.53%
+  NS: co.uk                             2   2.15%
+
+[ASN] Enix Ltd (AS52148)，域名数 76
+  NS: Hydra Communications Ltd         67  88.16%
+  NS: skyhost-sd.com                    3   3.95%
+  NS: UK-2 Limited                      2   2.63%
+  NS: CLOUDFLARENET                     2   2.63%
+  NS: coderspulse.net                   1   1.32%
+
+[ASN] Contabo GmbH (AS51167)，域名数 67
+  NS: Contabo GmbH                     41  61.19%
+  NS: linode.com                        5   7.46%
+  NS: contabo.net                       4   5.97%
+  NS: CLOUDFLARENET                     4   5.97%
+  NS: hostuszone.com                    2   2.99%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 57
+  NS: SECURITYSERVICES                 40  70.18%
+  NS: NAMECHEAP-NET                     6  10.53%
+  NS: CLOUDFLARENET                     3   5.26%
+  NS: darsaaed.com                      3   5.26%
+  NS: registrar-servers.com             2   3.51%
+
+[ASN] LIQUIDNETLTD1 (AS14555)，域名数 57
+  NS: supremepanel.com                 51  89.47%
+  NS: itexhost.net                      4   7.02%
+  NS: itexhoat.net                      1   1.75%
+  NS: exclusivehosting.net              1   1.75%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 50
+  NS: CLOUDFLARENET                    45  90.00%
+  NS: loresmart.com                     2   4.00%
+  NS: maaly.net                         1   2.00%
+  NS: boxsecured.com                    1   2.00%
+  NS: canar.sd                          1   2.00%
+
+[ASN] IS-AS-1 (AS19318)，域名数 31
+  NS: IS-AS-1                          25  80.65%
+  NS: constt.xyz                        3   9.68%
+  NS: constt.cloud                      2   6.45%
+  NS: elbarbaryg.com                    1   3.23%
+
+[ASN] WHG Hosting Services Ltd (AS14670)，域名数 25
+  NS: AMAZON-02                        25 100.00%
+
+[ASN] UK Dedicated Servers Limited (AS42831)，域名数 24
+  NS: supremedns.com                   12  50.00%
+  NS: UK Dedicated Servers Limited      8  33.33%
+  NS: prowebdns.com                     3  12.50%
+  NS: CLOUDFLARENET                     1   4.17%
+
+[ASN] LIQUIDWEB (AS32244)，域名数 21
+  NS: LIQUIDWEB                        21 100.00%
+
+[ASN] Awareness Software Limited (AS34931)，域名数 18
+  NS: thundercloud.uk                  14  77.78%
+  NS: zoalonline.org                    3  16.67%
+  NS: CLOUDFLARENET                     1   5.56%
+
+[ASN] INCAPSULA (AS19551)，域名数 17
+  NS: CLOUDFLARENET                    17 100.00%
+
+[ASN] Sudatel (AS15706)，域名数 15
+  NS: Sudatel                           7  46.67%
+  NS: DIGICERT                          3  20.00%
+  NS: mdnsservice.com                   1   6.67%
+  NS: Host Europe GmbH                  1   6.67%
+  NS: Contabo GmbH                      1   6.67%
+
+[ASN] CSC (AS19574)，域名数 14
+  NS: SECURITYSERVICES                 14 100.00%
+
+[ASN] Akamai Connected Cloud (AS63949)，域名数 13
+  NS: linode.com                        9  69.23%
+  NS: Rackspace Ltd.                    3  23.08%
+  NS: zoneedit.com                      1   7.69%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 13
+  NS: CLOUDFLARENET                    11  84.62%
+  NS: NAMECHEAP-NET                     1   7.69%
+  NS: infomaniak.ch                     1   7.69%
+
+[ASN] WIIT AG (AS24961)，域名数 11
+  NS: Hetzner Online GmbH               7  63.64%
+  NS: cloudns.net                       1   9.09%
+  NS: aljanob.sa                        1   9.09%
+  NS: sudahosting.com                   1   9.09%
+  NS: CLOUDFLARENET                     1   9.09%
+
+[ASN] 20i Limited (AS48254)，域名数 11
+  NS: GOOGLE-CLOUD-PLATFORM            11 100.00%
+
+[ASN] SEDO GmbH (AS47846)，域名数 10
+  NS: sedoparking.com                  10 100.00%

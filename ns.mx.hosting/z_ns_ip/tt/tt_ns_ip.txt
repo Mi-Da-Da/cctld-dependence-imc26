@@ -1,0 +1,128 @@
+=== 数据来源: tt ===
+NS 域名数: 789
+ASN 域名数: 819
+NS+ASN 交集: 789
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 234
+  ASN: CLOUDFLARENET (AS13335)         119  50.85%
+  ASN: AMAZON-02 (AS16509)              36  15.38%
+  ASN: INCAPSULA (AS19551)              12   5.13%
+  ASN: DREAMHOST-AS (AS26347)           10   4.27%
+  ASN: Hostinger International Limited (AS47583)      6   2.56%
+
+[NS 提供商] SECURITYSERVICES，域名数 111
+  ASN: CSC (AS19574)                    73  65.77%
+  ASN: SECURITYSERVICES (AS12008)        7   6.31%
+  ASN: AMAZON-AES (AS14618)              5   4.50%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      3   2.70%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      3   2.70%
+
+[NS 提供商] markmonitor.com，域名数 62
+  ASN: AMAZON-02 (AS16509)              56  90.32%
+  ASN: HILTON-E (AS26529)                4   6.45%
+  ASN: Akamai Connected Cloud (AS63949)      1   1.61%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   1.61%
+
+[NS 提供商] Host Europe GmbH，域名数 24
+  ASN: AMAZON-02 (AS16509)               7  29.17%
+  ASN: GO-DADDY-COM-LLC (AS398101)       5  20.83%
+  ASN: Cloudflare London, LLC (AS209242)      2   8.33%
+  ASN: GO-DADDY-COM-LLC (AS398787)       1   4.17%
+  ASN: VERISIGN-ILG1 (AS30060)           1   4.17%
+
+[NS 提供商] Akamai International B.V.，域名数 21
+  ASN: Akamai International B.V. (AS20940)      8  38.10%
+  ASN: MASTER-7-AS (AS26380)             3  14.29%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2   9.52%
+  ASN: AMAZON-AES (AS14618)              1   4.76%
+  ASN: AKAMAI-AS (AS16625)               1   4.76%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 17
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      8  47.06%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2  11.76%
+  ASN: CENTURYLINK-LEGACY-SAVVIS (AS3561)      2  11.76%
+  ASN: Digicel Trinidad and Tobago Ltd. (AS27800)      1   5.88%
+  ASN: AMAZON-02 (AS16509)               1   5.88%
+
+[NS 提供商] GANDI SAS，域名数 14
+  ASN: GANDI SAS (AS29169)               8  57.14%
+  ASN: AMAZON-02 (AS16509)               3  21.43%
+  ASN: Alibaba US Technology Co., Ltd. (AS45102)      1   7.14%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   7.14%
+  ASN: CLOUDFLARENET (AS13335)           1   7.14%
+
+[NS 提供商] GOOGLE，域名数 11
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4  36.36%
+  ASN: GOOGLE (AS15169)                  3  27.27%
+  ASN: FASTLY (AS54113)                  3  27.27%
+  ASN: UUNET (AS701)                     1   9.09%
+
+[NS 提供商] AMAZON-02，域名数 10
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      9  90.00%
+  ASN: Hetzner Online GmbH (AS24940)      1  10.00%
+
+=== 数据来源: tt ===
+NS 域名数: 789
+ASN 域名数: 819
+NS+ASN 交集: 789
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 153
+  NS: markmonitor.com                  56  36.60%
+  NS: CLOUDFLARENET                    36  23.53%
+  NS: ipcom GmbH                        7   4.58%
+  NS: Host Europe GmbH                  7   4.58%
+  NS: awsdns-25.net                     4   2.61%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 128
+  NS: CLOUDFLARENET                   119  92.97%
+  NS: co.uk                             2   1.56%
+  NS: Misaka Network, Inc.              1   0.78%
+  NS: co.za                             1   0.78%
+  NS: hackerone.com                     1   0.78%
+
+[ASN] CSC (AS19574)，域名数 78
+  NS: SECURITYSERVICES                 73  93.59%
+  NS: domainnetwork.se                  3   3.85%
+  NS: Akamai International B.V.         1   1.28%
+  NS: cscudns.com                       1   1.28%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 37
+  NS: AMAZON-02                         9  24.32%
+  NS: CLOUDFLARENET                     5  13.51%
+  NS: GOOGLE                            4  10.81%
+  NS: Misaka Network, Inc.              3   8.11%
+  NS: SECURITYSERVICES                  3   8.11%
+
+[ASN] AMAZON-AES (AS14618)，域名数 27
+  NS: SECURITYSERVICES                  5  18.52%
+  NS: co.uk                             5  18.52%
+  NS: CLOUDFLARENET                     3  11.11%
+  NS: NSONE                             3  11.11%
+  NS: Akamai International B.V.         1   3.70%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 21
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       8  38.10%
+  NS: SECURITYSERVICES                  3  14.29%
+  NS: gov.tt                            2   9.52%
+  NS: CLOUDFLARENET                     2   9.52%
+  NS: shell.com                         1   4.76%
+
+[ASN] INCAPSULA (AS19551)，域名数 14
+  NS: CLOUDFLARENET                    12  85.71%
+  NS: SECURITYSERVICES                  2  14.29%
+
+[ASN] Safenames Ltd. (AS60819)，域名数 11
+  NS: Safenames Ltd.                    8  72.73%
+  NS: safenames.com                     3  27.27%
+
+[ASN] Akamai International B.V. (AS20940)，域名数 10
+  NS: Akamai International B.V.         8  80.00%
+  NS: akashield.net                     1  10.00%
+  NS: dnsimple.com                      1  10.00%
+
+[ASN] DREAMHOST-AS (AS26347)，域名数 10
+  NS: CLOUDFLARENET                    10 100.00%

@@ -1,0 +1,142 @@
+=== 数据来源: bb ===
+NS 域名数: 527
+ASN 域名数: 545
+NS+ASN 交集: 527
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] cloudflare.com，域名数 84
+  ASN: CLOUDFLARENET (AS13335)          45  53.57%
+  ASN: Alibaba US Technology Co., Ltd. (AS45102)      7   8.33%
+  ASN: Cloudflare London, LLC (AS209242)      6   7.14%
+  ASN: Hangzhou Alibaba Advertising Co.,Ltd. (AS37963)      5   5.95%
+  ASN: LEMON TELECOMMUNICATIONS LIMITED (AS132325)      3   3.57%
+
+[NS 提供商] CLOUDFLARENET，域名数 79
+  ASN: DREAMHOST-AS (AS26347)           16  20.25%
+  ASN: AMAZON-02 (AS16509)              13  16.46%
+  ASN: INCAPSULA (AS19551)               9  11.39%
+  ASN: CYBERCON (AS7393)                 8  10.13%
+  ASN: CLOUDFLARENET (AS13335)           6   7.59%
+
+[NS 提供商] Host Europe GmbH，域名数 64
+  ASN: AMAZON-02 (AS16509)              47  73.44%
+  ASN: Cloudflare London, LLC (AS209242)      4   6.25%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2   3.12%
+  ASN: GO-DADDY-COM-LLC (AS400754)       2   3.12%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       1   1.56%
+
+[NS 提供商] SECURITYSERVICES，域名数 32
+  ASN: CSC (AS19574)                    21  65.62%
+  ASN: Bayerische Motoren Werke Aktiengesellschaft (AS8590)      1   3.12%
+  ASN: INCAPSULA (AS19551)               1   3.12%
+  ASN: COGECO-PEER1 (AS13768)            1   3.12%
+  ASN: AMAZON-02 (AS16509)               1   3.12%
+
+[NS 提供商] markmonitor.com，域名数 22
+  ASN: AMAZON-02 (AS16509)              21  95.45%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   4.55%
+
+[NS 提供商] GOOGLE，域名数 17
+  ASN: Wix.com Ltd. (AS58182)           11  64.71%
+  ASN: CLOUDFLARENET (AS13335)           1   5.88%
+  ASN: GOOGLE (AS15169)                  1   5.88%
+  ASN: AMAZON-AES (AS14618)              1   5.88%
+  ASN: INCAPSULA (AS19551)               1   5.88%
+
+[NS 提供商] LIQUIDWEB，域名数 16
+  ASN: LIQUIDWEB (AS32244)              13  81.25%
+  ASN: BB-COLUMBUS (AS14813)             2  12.50%
+  ASN: RMH-14 (AS33070)                  1   6.25%
+
+[NS 提供商] UNIFIEDLAYER-AS-1，域名数 12
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       9  75.00%
+  ASN: NETWORK-SOLUTIONS-HOSTING (AS19871)      2  16.67%
+  ASN: INCAPSULA (AS19551)               1   8.33%
+
+[NS 提供商] AMAZON-02，域名数 11
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4  36.36%
+  ASN: GOOGLE (AS15169)                  4  36.36%
+  ASN: A2HOSTING (AS55293)               3  27.27%
+
+[NS 提供商] Safenames Ltd.，域名数 10
+  ASN: Safenames Ltd. (AS60819)          9  90.00%
+  ASN: Cloudflare London, LLC (AS209242)      1  10.00%
+
+=== 数据来源: bb ===
+NS 域名数: 527
+ASN 域名数: 545
+NS+ASN 交集: 527
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 96
+  NS: Host Europe GmbH                 47  48.96%
+  NS: markmonitor.com                  21  21.88%
+  NS: CLOUDFLARENET                    13  13.54%
+  NS: cloudflare.com                    2   2.08%
+  NS: brandshelter.com                  2   2.08%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 56
+  NS: cloudflare.com                   45  80.36%
+  NS: CLOUDFLARENET                     6  10.71%
+  NS: co.uk                             2   3.57%
+  NS: GOOGLE                            1   1.79%
+  NS: .                                 1   1.79%
+
+[ASN] CSC (AS19574)，域名数 22
+  NS: SECURITYSERVICES                 21  95.45%
+  NS: cscudns.com                       1   4.55%
+
+[ASN] DREAMHOST-AS (AS26347)，域名数 20
+  NS: CLOUDFLARENET                    16  80.00%
+  NS: williamsind.com                   3  15.00%
+  NS: bajans.net                        1   5.00%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 18
+  NS: UNIFIEDLAYER-AS-1                 9  50.00%
+  NS: relatable.host                    2  11.11%
+  NS: CLOUDFLARENET                     2  11.11%
+  NS: justhost.com                      1   5.56%
+  NS: arvixe.com                        1   5.56%
+
+[ASN] LIQUIDWEB (AS32244)，域名数 18
+  NS: LIQUIDWEB                        13  72.22%
+  NS: CLOUDFLARENET                     3  16.67%
+  NS: sourcedns.com                     1   5.56%
+  NS: rebel.ca                          1   5.56%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 15
+  NS: AMAZON-02                         4  26.67%
+  NS: CLOUDFLARENET                     3  20.00%
+  NS: homedepot.com                     1   6.67%
+  NS: delair.net                        1   6.67%
+  NS: hostway.net                       1   6.67%
+
+[ASN] BB-COLUMBUS (AS14813)，域名数 14
+  NS: BB-COLUMBUS                       5  35.71%
+  NS: CWC-ROC-11139                     4  28.57%
+  NS: LIQUIDWEB                         2  14.29%
+  NS: easydns.ca                        1   7.14%
+  NS: CLOUDFLARENET                     1   7.14%
+
+[ASN] Cloudflare London, LLC (AS209242)，域名数 13
+  NS: cloudflare.com                    6  46.15%
+  NS: Host Europe GmbH                  4  30.77%
+  NS: CLOUDFLARENET                     2  15.38%
+  NS: Safenames Ltd.                    1   7.69%
+
+[ASN] Wix.com Ltd. (AS58182)，域名数 13
+  NS: GOOGLE                           11  84.62%
+  NS: fsglobalhost.com                  1   7.69%
+  NS: ORACLE-BMC-31898                  1   7.69%
+
+[ASN] Safenames Ltd. (AS60819)，域名数 12
+  NS: Safenames Ltd.                    9  75.00%
+  NS: safenames.com                     3  25.00%
+
+[ASN] INCAPSULA (AS19551)，域名数 12
+  NS: CLOUDFLARENET                     9  75.00%
+  NS: SECURITYSERVICES                  1   8.33%
+  NS: GOOGLE                            1   8.33%
+  NS: UNIFIEDLAYER-AS-1                 1   8.33%

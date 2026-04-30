@@ -1,0 +1,68 @@
+=== 数据来源: ki ===
+NS 域名数: 230
+ASN 域名数: 231
+NS+ASN 交集: 230
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] IONOS SE，域名数 32
+  ASN: united-domains GmbH (AS202108)     24  75.00%
+  ASN: AMAZON-02 (AS16509)               5  15.62%
+  ASN: AS-VULTR (AS20473)                1   3.12%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   3.12%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   3.12%
+
+[NS 提供商] CLOUDFLARENET，域名数 29
+  ASN: CLOUDFLARENET (AS13335)          14  48.28%
+  ASN: AMAZON-02 (AS16509)               7  24.14%
+  ASN: Hetzner Online GmbH (AS24940)      2   6.90%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2   6.90%
+  ASN: Alibaba US Technology Co., Ltd. (AS45102)      1   3.45%
+
+[NS 提供商] Hetzner Online GmbH，域名数 18
+  ASN: Contabo GmbH (AS51167)           18 100.00%
+
+[NS 提供商] markmonitor.com，域名数 16
+  ASN: AMAZON-02 (AS16509)              13  81.25%
+  ASN: HILTON-E (AS26529)                3  18.75%
+
+[NS 提供商] SECURITYSERVICES，域名数 16
+  ASN: CSC (AS19574)                    12  75.00%
+  ASN: COGECO-PEER1 (AS13768)            3  18.75%
+  ASN: UPS (AS12217)                     1   6.25%
+
+[NS 提供商] GANDI SAS，域名数 11
+  ASN: GANDI SAS (AS29169)               5  45.45%
+  ASN: Mythic Beasts Ltd (AS44684)       1   9.09%
+  ASN: GLASFASER RUHR GmbH & Co. KG (AS12329)      1   9.09%
+  ASN: Scaleway S.a.s. (AS12876)         1   9.09%
+  ASN: FASTLY (AS54113)                  1   9.09%
+
+=== 数据来源: ki ===
+NS 域名数: 230
+ASN 域名数: 231
+NS+ASN 交集: 230
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 47
+  NS: markmonitor.com                  13  27.66%
+  NS: CLOUDFLARENET                     7  14.89%
+  NS: IONOS SE                          5  10.64%
+  NS: awsdns-25.net                     4   8.51%
+  NS: 3m.com                            2   4.26%
+
+[ASN] united-domains GmbH (AS202108)，域名数 24
+  NS: IONOS SE                         24 100.00%
+
+[ASN] Contabo GmbH (AS51167)，域名数 18
+  NS: Hetzner Online GmbH              18 100.00%
+
+[ASN] CSC (AS19574)，域名数 15
+  NS: SECURITYSERVICES                 12  80.00%
+  NS: domainnetwork.se                  2  13.33%
+  NS: Akamai International B.V.         1   6.67%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 15
+  NS: CLOUDFLARENET                    14  93.33%
+  NS: cctld.com                         1   6.67%

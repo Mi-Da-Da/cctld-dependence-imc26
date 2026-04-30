@@ -1,0 +1,135 @@
+=== 数据来源: hm ===
+NS 域名数: 803
+ASN 域名数: 819
+NS+ASN 交集: 803
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] Host Europe GmbH，域名数 266
+  ASN: AMAZON-02 (AS16509)             258  96.99%
+  ASN: ALLIANCECOM-NET (AS401415)        4   1.50%
+  ASN: SOFTLAYER (AS36351)               1   0.38%
+  ASN: dogado GmbH (AS45012)             1   0.38%
+  ASN: Host Europe GmbH (AS44273)        1   0.38%
+
+[NS 提供商] CLOUDFLARENET，域名数 136
+  ASN: AMAZON-02 (AS16509)              74  54.41%
+  ASN: CLOUDFLARENET (AS13335)          30  22.06%
+  ASN: INCAPSULA (AS19551)               4   2.94%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4   2.94%
+  ASN: DREAMHOST-AS (AS26347)            4   2.94%
+
+[NS 提供商] SECURITYSERVICES，域名数 35
+  ASN: CSC (AS19574)                    23  65.71%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      3   8.57%
+  ASN: AMAZON-02 (AS16509)               3   8.57%
+  ASN: Enterprise Services Sverige AB (AS15869)      2   5.71%
+  ASN: DXC-AS3360 (AS3360)               1   2.86%
+
+[NS 提供商] vche.net，域名数 30
+  ASN: HostSlim B.V. (AS207083)         20  66.67%
+  ASN: EVOCATIVE-GLOBAL (AS4213)         3  10.00%
+  ASN: NUCDN (AS23393)                   2   6.67%
+  ASN: xTom Japan Corporation (AS3258)      1   3.33%
+  ASN: MULTA-ASN1 (AS35916)              1   3.33%
+
+[NS 提供商] sedoparking.com，域名数 23
+  ASN: SEDO GmbH (AS47846)              22  95.65%
+  ASN: BIZLAND-SD (AS29873)              1   4.35%
+
+[NS 提供商] BIZLAND-SD，域名数 20
+  ASN: BIZLAND-SD (AS29873)             19  95.00%
+  ASN: SOFTLAYER (AS36351)               1   5.00%
+
+[NS 提供商] IONOS SE，域名数 17
+  ASN: united-domains GmbH (AS202108)     16  94.12%
+  ASN: IONOS SE (AS8560)                 1   5.88%
+
+[NS 提供商] fabulous.com，域名数 11
+  ASN: Team Internet AG (AS61969)       11 100.00%
+
+[NS 提供商] AS-VULTR，域名数 10
+  ASN: AS-VULTR (AS20473)                7  70.00%
+  ASN: Akamai Connected Cloud (AS63949)      2  20.00%
+  ASN: DATAPIPE-SEA (AS22205)            1  10.00%
+
+[NS 提供商] AMAZON-02，域名数 10
+  ASN: Team Internet AG (AS206834)      10 100.00%
+
+[NS 提供商] Akamai International B.V.，域名数 10
+  ASN: Akamai International B.V. (AS20940)      6  60.00%
+  ASN: MASTER-7-AS (AS26380)             2  20.00%
+  ASN: AMAZON-02 (AS16509)               1  10.00%
+  ASN: CSC (AS19574)                     1  10.00%
+
+=== 数据来源: hm ===
+NS 域名数: 803
+ASN 域名数: 819
+NS+ASN 交集: 803
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 369
+  NS: Host Europe GmbH                258  69.92%
+  NS: CLOUDFLARENET                    74  20.05%
+  NS: markmonitor.com                   8   2.17%
+  NS: SECURITYSERVICES                  3   0.81%
+  NS: openprovider.be                   2   0.54%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 31
+  NS: CLOUDFLARENET                    30  96.77%
+  NS: dnsvisa.com                       1   3.23%
+
+[ASN] CSC (AS19574)，域名数 25
+  NS: SECURITYSERVICES                 23  92.00%
+  NS: Akamai International B.V.         1   4.00%
+  NS: nsroot1.com                       1   4.00%
+
+[ASN] SEDO GmbH (AS47846)，域名数 22
+  NS: sedoparking.com                  22 100.00%
+
+[ASN] HostSlim B.V. (AS207083)，域名数 21
+  NS: vche.net                         20  95.24%
+  NS: 8.et                              1   4.76%
+
+[ASN] BIZLAND-SD (AS29873)，域名数 21
+  NS: BIZLAND-SD                       19  90.48%
+  NS: sedoparking.com                   1   4.76%
+  NS: netfirms.com                      1   4.76%
+
+[ASN] united-domains GmbH (AS202108)，域名数 16
+  NS: IONOS SE                         16 100.00%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 13
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       5  38.46%
+  NS: SECURITYSERVICES                  3  23.08%
+  NS: awsdns-21.com                     1   7.69%
+  NS: bearingpoint.com                  1   7.69%
+  NS: NUCDN                             1   7.69%
+
+[ASN] Team Internet AG (AS61969)，域名数 12
+  NS: fabulous.com                     11  91.67%
+  NS: NUCDN                             1   8.33%
+
+[ASN] Hetzner Online GmbH (AS24940)，域名数 10
+  NS: hetzner.com                       2  20.00%
+  NS: hucke.net                         1  10.00%
+  NS: yandex.net                        1  10.00%
+  NS: ipcom GmbH                        1  10.00%
+  NS: nadns1.com                        1  10.00%
+
+[ASN] Safenames Ltd. (AS60819)，域名数 10
+  NS: Safenames Ltd.                    6  60.00%
+  NS: safenames.com                     2  20.00%
+  NS: googledomains.com                 1  10.00%
+  NS: akashield.net                     1  10.00%
+
+[ASN] AMAZON-AES (AS14618)，域名数 10
+  NS: co.uk                             3  30.00%
+  NS: awsdns-07.net                     1  10.00%
+  NS: awsdns-02.com                     1  10.00%
+  NS: netim.net                         1  10.00%
+  NS: easydns.ca                        1  10.00%
+
+[ASN] Team Internet AG (AS206834)，域名数 10
+  NS: AMAZON-02                        10 100.00%

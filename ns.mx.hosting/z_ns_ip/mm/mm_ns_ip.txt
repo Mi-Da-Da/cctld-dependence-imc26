@@ -1,0 +1,75 @@
+=== 数据来源: mm ===
+NS 域名数: 451
+ASN 域名数: 456
+NS+ASN 交集: 451
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] net.mm，域名数 252
+  ASN: Myanmar Technology Gateway Co., Ltd (AS135149)     70  27.78%
+  ASN: AMAZON-02 (AS16509)              22   8.73%
+  ASN: DIGITALOCEAN-ASN (AS14061)       14   5.56%
+  ASN: GOOGLE (AS15169)                 10   3.97%
+  ASN: Hetzner Online GmbH (AS24940)      8   3.17%
+
+[NS 提供商] CLOUDFLARENET，域名数 117
+  ASN: CLOUDFLARENET (AS13335)          92  78.63%
+  ASN: Hostinger International Limited (AS47583)      7   5.98%
+  ASN: AMAZON-02 (AS16509)               7   5.98%
+  ASN: GMO-Z com NetDesign Holdings Co., Ltd. (AS135161)      2   1.71%
+  ASN: A2HOSTING (AS55293)               2   1.71%
+
+=== 数据来源: mm ===
+NS 域名数: 451
+ASN 域名数: 456
+NS+ASN 交集: 451
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 95
+  NS: CLOUDFLARENET                    92  96.84%
+  NS: net.mm                            2   2.11%
+  NS: brandshelter.com                  1   1.05%
+
+[ASN] Myanmar Technology Gateway Co., Ltd (AS135149)，域名数 71
+  NS: net.mm                           70  98.59%
+  NS: hostmonster.com                   1   1.41%
+
+[ASN] AMAZON-02 (AS16509)，域名数 42
+  NS: net.mm                           22  52.38%
+  NS: CLOUDFLARENET                     7  16.67%
+  NS: markmonitor.com                   3   7.14%
+  NS: vercel-dns.com                    1   2.38%
+  NS: SECURITYSERVICES                  1   2.38%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 20
+  NS: net.mm                           14  70.00%
+  NS: digitalocean.com                  3  15.00%
+  NS: siteground.net                    1   5.00%
+  NS: CLOUDFLARENET                     1   5.00%
+  NS: 144.244                           1   5.00%
+
+[ASN] GOOGLE (AS15169)，域名数 16
+  NS: net.mm                           10  62.50%
+  NS: siteground.net                    3  18.75%
+  NS: NSONE                             2  12.50%
+  NS: 164.15                            1   6.25%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 11
+  NS: CLOUDFLARENET                     7  63.64%
+  NS: net.mm                            3  27.27%
+  NS: main-hosting.eu                   1   9.09%
+
+[ASN] GMO-Z com NetDesign Holdings Co., Ltd. (AS135161)，域名数 10
+  NS: net.mm                            5  50.00%
+  NS: CLOUDFLARENET                     2  20.00%
+  NS: org.mm                            1  10.00%
+  NS: z.com                             1  10.00%
+  NS: com.mm                            1  10.00%
+
+[ASN] NETWORK-SOLUTIONS-HOSTING (AS19871)，域名数 10
+  NS: net.mm                            5  50.00%
+  NS: hostgator.com                     2  20.00%
+  NS: myanmars.info                     1  10.00%
+  NS: yangonbay.com                     1  10.00%
+  NS: websitewelcome.com                1  10.00%

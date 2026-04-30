@@ -1,0 +1,38 @@
+=== 数据来源: mp ===
+NS 域名数: 87
+ASN 域名数: 96
+NS+ASN 交集: 87
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 33
+  ASN: CLOUDFLARENET (AS13335)          19  57.58%
+  ASN: AMAZON-02 (AS16509)               9  27.27%
+  ASN: AMAZON-AES (AS14618)              1   3.03%
+  ASN: FASTLY (AS54113)                  1   3.03%
+  ASN: Alibaba US Technology Co., Ltd. (AS45102)      1   3.03%
+
+[NS 提供商] nic.mp，域名数 10
+  ASN: AMAZON-02 (AS16509)               3  30.00%
+  ASN: FASTLY (AS54113)                  2  20.00%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1  10.00%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1  10.00%
+  ASN: Hostinger International Limited (AS47583)      1  10.00%
+
+=== 数据来源: mp ===
+NS 域名数: 87
+ASN 域名数: 96
+NS+ASN 交集: 87
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 28
+  NS: CLOUDFLARENET                     9  32.14%
+  NS: markmonitor.com                   7  25.00%
+  NS: nic.mp                            3  10.71%
+  NS: dan.com                           3  10.71%
+  NS: safenames.com                     1   3.57%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 20
+  NS: CLOUDFLARENET                    19  95.00%
+  NS: dnsvisa.com                       1   5.00%

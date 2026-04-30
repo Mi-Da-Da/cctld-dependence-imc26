@@ -1,0 +1,32 @@
+=== 数据来源: bn ===
+NS 域名数: 67
+ASN 域名数: 67
+NS+ASN 交集: 67
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 26
+  ASN: AMAZON-02 (AS16509)              10  38.46%
+  ASN: CLOUDFLARENET (AS13335)           8  30.77%
+  ASN: INCAPSULA (AS19551)               3  11.54%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   3.85%
+  ASN: Unified National Networks (AS10094)      1   3.85%
+
+=== 数据来源: bn ===
+NS 域名数: 67
+ASN 域名数: 67
+NS+ASN 交集: 67
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 14
+  NS: CLOUDFLARENET                    10  71.43%
+  NS: markmonitor.com                   1   7.14%
+  NS: Unified National Networks         1   7.14%
+  NS: domaincontrol.com                 1   7.14%
+  NS: dnspod.net                        1   7.14%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 10
+  NS: CLOUDFLARENET                     8  80.00%
+  NS: akam.net                          1  10.00%
+  NS: ORACLE-BMC-31898                  1  10.00%

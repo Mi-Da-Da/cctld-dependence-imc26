@@ -1,0 +1,60 @@
+=== 数据来源: gh ===
+NS 域名数: 227
+ASN 域名数: 229
+NS+ASN 交集: 227
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 73
+  ASN: CLOUDFLARENET (AS13335)          35  47.95%
+  ASN: AMAZON-02 (AS16509)              14  19.18%
+  ASN: Hostinger International Limited (AS47583)      7   9.59%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       5   6.85%
+  ASN: INCAPSULA (AS19551)               5   6.85%
+
+[NS 提供商] SECURITYSERVICES，域名数 26
+  ASN: CSC (AS19574)                    10  38.46%
+  ASN: NAMECHEAP-NET (AS22612)          10  38.46%
+  ASN: AS-VULTR (AS20473)                1   3.85%
+  ASN: PCCW IMS Ltd PCCW Business Internet Access (AS4515)      1   3.85%
+  ASN: INCAPSULA (AS19551)               1   3.85%
+
+[NS 提供商] UNIFIEDLAYER-AS-1，域名数 14
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      13  92.86%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1   7.14%
+
+[NS 提供商] GANDI SAS，域名数 10
+  ASN: GANDI SAS (AS29169)              10 100.00%
+
+=== 数据来源: gh ===
+NS 域名数: 227
+ASN 域名数: 229
+NS+ASN 交集: 227
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 36
+  NS: CLOUDFLARENET                    35  97.22%
+  NS: dnsvisa.com                       1   2.78%
+
+[ASN] AMAZON-02 (AS16509)，域名数 26
+  NS: CLOUDFLARENET                    14  53.85%
+  NS: markmonitor.com                   3  11.54%
+  NS: co.uk                             2   7.69%
+  NS: awsdns-02.net                     1   3.85%
+  NS: xc-ns.de                          1   3.85%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 19
+  NS: UNIFIEDLAYER-AS-1                13  68.42%
+  NS: CLOUDFLARENET                     5  26.32%
+  NS: microsoftonline.com               1   5.26%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 11
+  NS: SECURITYSERVICES                 10  90.91%
+  NS: connectcloud.solutions            1   9.09%
+
+[ASN] CSC (AS19574)，域名数 10
+  NS: SECURITYSERVICES                 10 100.00%
+
+[ASN] GANDI SAS (AS29169)，域名数 10
+  NS: GANDI SAS                        10 100.00%

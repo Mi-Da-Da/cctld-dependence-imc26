@@ -1,0 +1,117 @@
+=== 数据来源: kh ===
+NS 域名数: 431
+ASN 域名数: 432
+NS+ASN 交集: 431
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 95
+  ASN: CLOUDFLARENET (AS13335)          43  45.26%
+  ASN: AMAZON-02 (AS16509)              10  10.53%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       6   6.32%
+  ASN: DIGITALOCEAN-ASN (AS14061)        5   5.26%
+  ASN: OVH SAS (AS16276)                 5   5.26%
+
+[NS 提供商] SECURITYSERVICES，域名数 36
+  ASN: CSC (AS19574)                    18  50.00%
+  ASN: NAMECHEAP-NET (AS22612)           6  16.67%
+  ASN: SECURITYSERVICES (AS12008)        4  11.11%
+  ASN: BAYER-ARCH (AS23167)              1   2.78%
+  ASN: AMAZON-02 (AS16509)               1   2.78%
+
+[NS 提供商] com.kh，域名数 34
+  ASN: EZECOM CO., LTD. (AS38901)        7  20.59%
+  ASN: Cogetel Online, Cambodia, ISP (AS23673)      6  17.65%
+  ASN: ANGKOR DATA COMMUNICATION (AS38235)      3   8.82%
+  ASN: CLOUDFLARENET (AS13335)           2   5.88%
+  ASN: Cambodian Network Exchange Co., Ltd. (AS7712)      2   5.88%
+
+[NS 提供商] GANDI SAS，域名数 31
+  ASN: GANDI SAS (AS29169)              30  96.77%
+  ASN: EZECOM CO., LTD. (AS38901)        1   3.23%
+
+[NS 提供商] markmonitor.com，域名数 14
+  ASN: AMAZON-02 (AS16509)              12  85.71%
+  ASN: OVH SAS (AS16276)                 1   7.14%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   7.14%
+
+[NS 提供商] Host Europe GmbH，域名数 12
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)      5  41.67%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2  16.67%
+  ASN: AMAZON-02 (AS16509)               2  16.67%
+  ASN: Hetzner Online GmbH (AS24940)      1   8.33%
+  ASN: Alibaba US Technology Co., Ltd. (AS45102)      1   8.33%
+
+=== 数据来源: kh ===
+NS 域名数: 431
+ASN 域名数: 432
+NS+ASN 交集: 431
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 53
+  NS: markmonitor.com                  12  22.64%
+  NS: CLOUDFLARENET                    10  18.87%
+  NS: awsdns-25.net                     2   3.77%
+  NS: Host Europe GmbH                  2   3.77%
+  NS: NSONE                             2   3.77%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 48
+  NS: CLOUDFLARENET                    43  89.58%
+  NS: com.kh                            2   4.17%
+  NS: awsdns-30.net                     1   2.08%
+  NS: dnsvisa.com                       1   2.08%
+  NS: SECURITYSERVICES                  1   2.08%
+
+[ASN] GANDI SAS (AS29169)，域名数 30
+  NS: GANDI SAS                        30 100.00%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 21
+  NS: CLOUDFLARENET                     6  28.57%
+  NS: arvixeshared.com                  4  19.05%
+  NS: hostgator.com                     4  19.05%
+  NS: cloudns.net                       2   9.52%
+  NS: hostmonster.com                   1   4.76%
+
+[ASN] CSC (AS19574)，域名数 20
+  NS: SECURITYSERVICES                 18  90.00%
+  NS: domainnetwork.se                  2  10.00%
+
+[ASN] NETWORK-SOLUTIONS-HOSTING (AS19871)，域名数 16
+  NS: NETWORK-SOLUTIONS-HOSTING         6  37.50%
+  NS: hostgator.com                     3  18.75%
+  NS: UNIFIEDLAYER-AS-1                 2  12.50%
+  NS: sokhahotels.com                   1   6.25%
+  NS: com.kh                            1   6.25%
+
+[ASN] ANGKOR DATA COMMUNICATION (AS38235)，域名数 13
+  NS: norkornet.com                     4  30.77%
+  NS: ANGKOR DATA COMMUNICATION         4  30.77%
+  NS: com.kh                            3  23.08%
+  NS: gov.kh                            2  15.38%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 10
+  NS: CLOUDFLARENET                     5  50.00%
+  NS: hostasean.com                     1  10.00%
+  NS: cloudns.net                       1  10.00%
+  NS: registrar-servers.com             1  10.00%
+  NS: Akamai Connected Cloud            1  10.00%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 10
+  NS: SECURITYSERVICES                  6  60.00%
+  NS: UNIFIEDLAYER-AS-1                 1  10.00%
+  NS: spaceship.net                     1  10.00%
+  NS: khemaradev.com                    1  10.00%
+  NS: borribo.com                       1  10.00%
+
+[ASN] LIQUIDNETLTD1 (AS14555)，域名数 10
+  NS: supremedns.com                    4  40.00%
+  NS: supremepanel.com                  3  30.00%
+  NS: xynadoo.com                       2  20.00%
+  NS: CLOUDFLARENET                     1  10.00%
+
+[ASN] OVH SAS (AS16276)，域名数 10
+  NS: CLOUDFLARENET                     5  50.00%
+  NS: camdns.net                        3  30.00%
+  NS: markmonitor.com                   1  10.00%
+  NS: advisto.fr                        1  10.00%

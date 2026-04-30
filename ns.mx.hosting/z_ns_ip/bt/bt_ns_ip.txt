@@ -1,0 +1,83 @@
+=== 数据来源: bt ===
+NS 域名数: 681
+ASN 域名数: 684
+NS+ASN 交集: 681
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] Bhutan Telecom Ltd，域名数 408
+  ASN: Bhutan Telecom Ltd (AS18024)    344  84.31%
+  ASN: Bhutan Telecom Ltd (AS18025)     14   3.43%
+  ASN: Government Data Center DITTMoIC (AS135666)     10   2.45%
+  ASN: AMAZON-02 (AS16509)               8   1.96%
+  ASN: CLOUDFLARENET (AS13335)           6   1.47%
+
+[NS 提供商] CLOUDFLARENET，域名数 86
+  ASN: CLOUDFLARENET (AS13335)          34  39.53%
+  ASN: DIGITALOCEAN-ASN (AS14061)       10  11.63%
+  ASN: Hostinger International Limited (AS47583)     10  11.63%
+  ASN: AMAZON-02 (AS16509)               7   8.14%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       7   8.14%
+
+[NS 提供商] drukhost.com，域名数 39
+  ASN: DFW-DATACENTER (AS30277)         38  97.44%
+  ASN: Bhutan Telecom Ltd (AS18024)      1   2.56%
+
+[NS 提供商] gov.bt，域名数 15
+  ASN: Government Data Center DITTMoIC (AS135666)     12  80.00%
+  ASN: AMAZON-02 (AS16509)               3  20.00%
+
+=== 数据来源: bt ===
+NS 域名数: 681
+ASN 域名数: 684
+NS+ASN 交集: 681
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] Bhutan Telecom Ltd (AS18024)，域名数 346
+  NS: Bhutan Telecom Ltd              344  99.42%
+  NS: drukhost.com                      1   0.29%
+  NS: CLOUDFLARENET                     1   0.29%
+
+[ASN] AMAZON-02 (AS16509)，域名数 43
+  NS: Bhutan Telecom Ltd                8  18.60%
+  NS: CLOUDFLARENET                     7  16.28%
+  NS: markmonitor.com                   5  11.63%
+  NS: gov.bt                            3   6.98%
+  NS: awsdns-25.net                     3   6.98%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 41
+  NS: CLOUDFLARENET                    34  82.93%
+  NS: Bhutan Telecom Ltd                6  14.63%
+  NS: awsdns-08.com                     1   2.44%
+
+[ASN] DFW-DATACENTER (AS30277)，域名数 39
+  NS: drukhost.com                     38  97.44%
+  NS: CLOUDFLARENET                     1   2.56%
+
+[ASN] Government Data Center DITTMoIC (AS135666)，域名数 22
+  NS: gov.bt                           12  54.55%
+  NS: Bhutan Telecom Ltd               10  45.45%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 15
+  NS: CLOUDFLARENET                    10  66.67%
+  NS: Bhutan Telecom Ltd                4  26.67%
+  NS: Host Europe GmbH                  1   6.67%
+
+[ASN] LIQUIDNETLTD1 (AS14555)，域名数 14
+  NS: abithosting.com                   6  42.86%
+  NS: CLOUDFLARENET                     6  42.86%
+  NS: Bhutan Telecom Ltd                1   7.14%
+  NS: supremepanel.com                  1   7.14%
+
+[ASN] Bhutan Telecom Ltd (AS18025)，域名数 14
+  NS: Bhutan Telecom Ltd               14 100.00%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 13
+  NS: CLOUDFLARENET                    10  76.92%
+  NS: dns-parking.com                   3  23.08%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 10
+  NS: CLOUDFLARENET                     7  70.00%
+  NS: mybluehostin.me                   2  20.00%
+  NS: hostgator.com                     1  10.00%

@@ -1,0 +1,224 @@
+=== 数据来源: mv ===
+NS 域名数: 2300
+ASN 域名数: 2384
+NS+ASN 交集: 2300
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 1188
+  ASN: CLOUDFLARENET (AS13335)         670  56.40%
+  ASN: DIGITALOCEAN-ASN (AS14061)      102   8.59%
+  ASN: AMAZON-02 (AS16509)              92   7.74%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      89   7.49%
+  ASN: Hostinger International Limited (AS47583)     83   6.99%
+
+[NS 提供商] hostgator.com，域名数 60
+  ASN: NETWORK-SOLUTIONS-HOSTING (AS19871)     23  38.33%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      22  36.67%
+  ASN: CLOUDFLARENET (AS13335)           5   8.33%
+  ASN: INCAPSULA (AS19551)               4   6.67%
+  ASN: DIGITALOCEAN-ASN (AS14061)        3   5.00%
+
+[NS 提供商] SECURITYSERVICES，域名数 47
+  ASN: NAMECHEAP-NET (AS22612)          29  61.70%
+  ASN: CSC (AS19574)                    10  21.28%
+  ASN: AMAZON-02 (AS16509)               3   6.38%
+  ASN: CLOUDFLARENET (AS13335)           2   4.26%
+  ASN: Wix.com Ltd. (AS58182)            1   2.13%
+
+[NS 提供商] AMAZON-02，域名数 39
+  ASN: GOOGLE (AS15169)                 22  56.41%
+  ASN: A2HOSTING (AS55293)              10  25.64%
+  ASN: WHG Hosting Services Ltd (AS14670)      2   5.13%
+  ASN: WHG Hosting Services Ltd (AS199404)      2   5.13%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2   5.13%
+
+[NS 提供商] Host Europe GmbH，域名数 32
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)     13  40.62%
+  ASN: AMAZON-02 (AS16509)               7  21.88%
+  ASN: GO-DADDY-COM-LLC (AS400754)       6  18.75%
+  ASN: CLOUDFLARENET (AS13335)           2   6.25%
+  ASN: DHIVEHI RAAJJEYGE GULHUN PLC (AS7642)      2   6.25%
+
+[NS 提供商] GOOGLE，域名数 31
+  ASN: Wix.com Ltd. (AS58182)           29  93.55%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   3.23%
+  ASN: Hostinger International Limited (AS47583)      1   3.23%
+
+[NS 提供商] markmonitor.com，域名数 30
+  ASN: AMAZON-02 (AS16509)              22  73.33%
+  ASN: ANS-1699-AS (AS1699)              7  23.33%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   3.33%
+
+[NS 提供商] IS-AS-1，域名数 29
+  ASN: IS-AS-1 (AS19318)                28  96.55%
+  ASN: CLOUDFLARENET (AS13335)           1   3.45%
+
+[NS 提供商] Cloud DNS Ltd，域名数 17
+  ASN: NForce Entertainment B.V. (AS43350)     13  76.47%
+  ASN: CLOUDFLARENET (AS13335)           1   5.88%
+  ASN: AMAZON-02 (AS16509)               1   5.88%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1   5.88%
+  ASN: GOOGLE (AS15169)                  1   5.88%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 14
+  ASN: DHIVEHI RAAJJEYGE GULHUN PLC (AS7642)      5  35.71%
+  ASN: DIGITALOCEAN-ASN (AS14061)        3  21.43%
+  ASN: AMAZON-02 (AS16509)               3  21.43%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   7.14%
+  ASN: NAMECHEAP-NET (AS22612)           1   7.14%
+
+[NS 提供商] NSONE，域名数 13
+  ASN: AMAZON-02 (AS16509)              13 100.00%
+
+[NS 提供商] inmotionhosting.com，域名数 11
+  ASN: IMH-IAD (AS54641)                 6  54.55%
+  ASN: INMOTION (AS22611)                4  36.36%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1   9.09%
+
+[NS 提供商] GOOGLE-CLOUD-PLATFORM，域名数 10
+  ASN: 20i Limited (AS48254)            10 100.00%
+
+=== 数据来源: mv ===
+NS 域名数: 2300
+ASN 域名数: 2384
+NS+ASN 交集: 2300
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 729
+  NS: CLOUDFLARENET                   670  91.91%
+  NS: hostgator.com                     5   0.69%
+  NS: SECURITYSERVICES                  2   0.27%
+  NS: Host Europe GmbH                  2   0.27%
+  NS: srvdns.io                         1   0.14%
+
+[ASN] DHIVEHI RAAJJEYGE GULHUN PLC (AS7642)，域名数 447
+  NS: CLOUDFLARENET                     7   1.57%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       5   1.12%
+  NS: Host Europe GmbH                  2   0.45%
+  NS: net.mv                            2   0.45%
+  NS: finolhu.mv                        1   0.22%
+
+[ASN] AMAZON-02 (AS16509)，域名数 201
+  NS: CLOUDFLARENET                    92  45.77%
+  NS: markmonitor.com                  22  10.95%
+  NS: NSONE                            13   6.47%
+  NS: Host Europe GmbH                  7   3.48%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       3   1.49%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 150
+  NS: CLOUDFLARENET                   102  68.00%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       3   2.00%
+  NS: hostgator.com                     3   2.00%
+  NS: onmv.cloud                        3   2.00%
+  NS: soeasy.mv                         1   0.67%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 126
+  NS: CLOUDFLARENET                    89  70.63%
+  NS: hostgator.com                    22  17.46%
+  NS: UNIFIEDLAYER-AS-1                 6   4.76%
+  NS: bluehost.in                       3   2.38%
+  NS: lecuterush.com                    2   1.59%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 90
+  NS: CLOUDFLARENET                    83  92.22%
+  NS: awsdns-01.org                     1   1.11%
+  NS: sandplanet.mv                     1   1.11%
+  NS: bbqhut.mv                         1   1.11%
+  NS: amaeka.online                     1   1.11%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 57
+  NS: SECURITYSERVICES                 29  50.88%
+  NS: NAMECHEAP-NET                     9  15.79%
+  NS: registrar-servers.com             7  12.28%
+  NS: CLOUDFLARENET                     5   8.77%
+  NS: asi.ph                            2   3.51%
+
+[ASN] Wix.com Ltd. (AS58182)，域名数 38
+  NS: GOOGLE                           29  76.32%
+  NS: CLOUDFLARENET                     7  18.42%
+  NS: SECURITYSERVICES                  1   2.63%
+  NS: wix.com                           1   2.63%
+
+[ASN] NETWORK-SOLUTIONS-HOSTING (AS19871)，域名数 38
+  NS: hostgator.com                    23  60.53%
+  NS: CLOUDFLARENET                    11  28.95%
+  NS: websitewelcome.com                1   2.63%
+  NS: aaadezine.com                     1   2.63%
+  NS: nobleservices.mv                  1   2.63%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 33
+  NS: CLOUDFLARENET                    20  60.61%
+  NS: AMAZON-02                         2   6.06%
+  NS: nouvelle.mv                       1   3.03%
+  NS: onmv.cloud                        1   3.03%
+  NS: attollo.mv                        1   3.03%
+
+[ASN] GOOGLE (AS15169)，域名数 33
+  NS: AMAZON-02                        22  66.67%
+  NS: CLOUDFLARENET                     4  12.12%
+  NS: perfume.mv                        1   3.03%
+  NS: bodytech.mv                       1   3.03%
+  NS: ethere.mv                         1   3.03%
+
+[ASN] IS-AS-1 (AS19318)，域名数 29
+  NS: IS-AS-1                          28  96.55%
+  NS: umet.asia                         1   3.45%
+
+[ASN] AS-26496-GO-DADDY-COM-LLC (AS26496)，域名数 20
+  NS: Host Europe GmbH                 13  65.00%
+  NS: CLOUDFLARENET                     3  15.00%
+  NS: rcc.mv                            1   5.00%
+  NS: stokzpro.mv                       1   5.00%
+  NS: infinitemedia.mv                  1   5.00%
+
+[ASN] DREAMHOST-AS (AS26347)，域名数 15
+  NS: CLOUDFLARENET                    15 100.00%
+
+[ASN] INCAPSULA (AS19551)，域名数 15
+  NS: CLOUDFLARENET                    11  73.33%
+  NS: hostgator.com                     4  26.67%
+
+[ASN] NForce Entertainment B.V. (AS43350)，域名数 13
+  NS: Cloud DNS Ltd                    13 100.00%
+
+[ASN] SQUARESPACE (AS53831)，域名数 12
+  NS: CLOUDFLARENET                     3  25.00%
+  NS: chemsolve.mv                      1   8.33%
+  NS: walid.mv                          1   8.33%
+  NS: procleaners.mv                    1   8.33%
+  NS: hope.mv                           1   8.33%
+
+[ASN] Akamai Connected Cloud (AS63949)，域名数 11
+  NS: CLOUDFLARENET                     4  36.36%
+  NS: linode.com                        3  27.27%
+  NS: tele-matrix.com                   1   9.09%
+  NS: numaldives.mv                     1   9.09%
+  NS: awsdns-03.net                     1   9.09%
+
+[ASN] FASTLY (AS54113)，域名数 11
+  NS: CLOUDFLARENET                     5  45.45%
+  NS: ttam.mv                           1   9.09%
+  NS: portsdns.net                      1   9.09%
+  NS: hostgator.com                     1   9.09%
+  NS: islandluxury.mv                   1   9.09%
+
+[ASN] 20i Limited (AS48254)，域名数 11
+  NS: GOOGLE-CLOUD-PLATFORM            10  90.91%
+  NS: greentimber.mv                    1   9.09%
+
+[ASN] CSC (AS19574)，域名数 10
+  NS: SECURITYSERVICES                 10 100.00%
+
+[ASN] BIZLAND-SD (AS29873)，域名数 10
+  NS: BIZLAND-SD                        6  60.00%
+  NS: fatcow.com                        3  30.00%
+  NS: domain.com                        1  10.00%
+
+[ASN] ORACLE-BMC-31898 (AS31898)，域名数 10
+  NS: CLOUDFLARENET                     9  90.00%
+  NS: werescue.mv                       1  10.00%
+
+[ASN] A2HOSTING (AS55293)，域名数 10
+  NS: AMAZON-02                        10 100.00%

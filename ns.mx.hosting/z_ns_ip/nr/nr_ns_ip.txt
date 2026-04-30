@@ -1,0 +1,40 @@
+=== 数据来源: nr ===
+NS 域名数: 109
+ASN 域名数: 110
+NS+ASN 交集: 109
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] markmonitor.com，域名数 21
+  ASN: AMAZON-02 (AS16509)              18  85.71%
+  ASN: HILTON-E (AS26529)                3  14.29%
+
+[NS 提供商] CLOUDFLARENET，域名数 13
+  ASN: AMAZON-02 (AS16509)               9  69.23%
+  ASN: INCAPSULA (AS19551)               4  30.77%
+
+[NS 提供商] SECURITYSERVICES，域名数 11
+  ASN: CSC (AS19574)                     8  72.73%
+  ASN: UPS (AS12217)                     1   9.09%
+  ASN: SECURITYSERVICES (AS12008)        1   9.09%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   9.09%
+
+=== 数据来源: nr ===
+NS 域名数: 109
+ASN 域名数: 110
+NS+ASN 交集: 109
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 45
+  NS: markmonitor.com                  18  40.00%
+  NS: CLOUDFLARENET                     9  20.00%
+  NS: awsdns-25.net                     4   8.89%
+  NS: 3m.com                            2   4.44%
+  NS: awsdns-04.org                     2   4.44%
+
+[ASN] CSC (AS19574)，域名数 13
+  NS: SECURITYSERVICES                  8  61.54%
+  NS: domainnetwork.se                  2  15.38%
+  NS: netnames.net                      2  15.38%
+  NS: nsroot1.com                       1   7.69%

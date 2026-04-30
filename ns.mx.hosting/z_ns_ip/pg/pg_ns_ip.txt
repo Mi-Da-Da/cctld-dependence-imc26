@@ -1,0 +1,124 @@
+=== 数据来源: pg ===
+NS 域名数: 309
+ASN 域名数: 312
+NS+ASN 交集: 309
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] net.pg，域名数 75
+  ASN: Datec-PNG (AS55792)              31  41.33%
+  ASN: Global Technologies Limited (AS45924)     28  37.33%
+  ASN: AS-VULTR (AS20473)                3   4.00%
+  ASN: Digicel PNG Ltd (AS58460)         3   4.00%
+  ASN: SQUARESPACE (AS53831)             1   1.33%
+
+[NS 提供商] CLOUDFLARENET，域名数 37
+  ASN: CLOUDFLARENET (AS13335)          12  32.43%
+  ASN: Hostinger International Limited (AS47583)     11  29.73%
+  ASN: AMAZON-02 (AS16509)               4  10.81%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       4  10.81%
+  ASN: Wix.com Ltd. (AS58182)            1   2.70%
+
+[NS 提供商] com.pg，域名数 33
+  ASN: Telikom PNG Satellite Tier 1 AS Internet Service (AS38009)     24  72.73%
+  ASN: AMAZON-02 (AS16509)               3   9.09%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2   6.06%
+  ASN: GO-DADDY-COM-LLC (AS398101)       1   3.03%
+  ASN: Dreamscape Networks Limited (AS38719)      1   3.03%
+
+[NS 提供商] com.au，域名数 24
+  ASN: Hostopia Australia Web Pty Ltd (AS55803)     17  70.83%
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)      2   8.33%
+  ASN: Exabytes Network Singapore Pte. Ltd. (AS38532)      1   4.17%
+  ASN: Internet Information Group (AS9913)      1   4.17%
+  ASN: Dreamscape Networks Limited (AS38719)      1   4.17%
+
+[NS 提供商] Dreamscape Networks Limited，域名数 23
+  ASN: Dreamscape Networks Limited (AS38719)     17  73.91%
+  ASN: Hostopia Australia Web Pty Ltd (AS55803)      5  21.74%
+  ASN: SQUARESPACE (AS53831)             1   4.35%
+
+[NS 提供商] Host Europe GmbH，域名数 13
+  ASN: AMAZON-02 (AS16509)               5  38.46%
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)      3  23.08%
+  ASN: 5G NETWORK OPERATIONS PTY LTD (AS24446)      1   7.69%
+  ASN: GO-DADDY-COM-LLC (AS400754)       1   7.69%
+  ASN: Akamai Connected Cloud (AS63949)      1   7.69%
+
+[NS 提供商] AMAZON-02，域名数 11
+  ASN: GOOGLE (AS15169)                  8  72.73%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   9.09%
+  ASN: CLOUDFLARENET (AS13335)           1   9.09%
+  ASN: NETWORK-SOLUTIONS-HOSTING (AS19871)      1   9.09%
+
+[NS 提供商] hostgator.com，域名数 10
+  ASN: NETWORK-SOLUTIONS-HOSTING (AS19871)      4  40.00%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       3  30.00%
+  ASN: ORACLE-BMC-31898 (AS31898)        2  20.00%
+  ASN: CLOUDFLARENET (AS13335)           1  10.00%
+
+=== 数据来源: pg ===
+NS 域名数: 309
+ASN 域名数: 312
+NS+ASN 交集: 309
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] Datec-PNG (AS55792)，域名数 31
+  NS: net.pg                           31 100.00%
+
+[ASN] Global Technologies Limited (AS45924)，域名数 29
+  NS: net.pg                           28  96.55%
+  NS: com.au                            1   3.45%
+
+[ASN] Telikom PNG Satellite Tier 1 AS Internet Service (AS38009)，域名数 25
+  NS: com.pg                           24  96.00%
+  NS: microsoftonline.com               1   4.00%
+
+[ASN] Hostopia Australia Web Pty Ltd (AS55803)，域名数 23
+  NS: com.au                           17  73.91%
+  NS: Dreamscape Networks Limited       5  21.74%
+  NS: net.pg                            1   4.35%
+
+[ASN] Dreamscape Networks Limited (AS38719)，域名数 23
+  NS: Dreamscape Networks Limited      17  73.91%
+  NS: quadrahosting.com                 1   4.35%
+  NS: awsdns-29.com                     1   4.35%
+  NS: com.pg                            1   4.35%
+  NS: com.au                            1   4.35%
+
+[ASN] AMAZON-02 (AS16509)，域名数 23
+  NS: Host Europe GmbH                  5  21.74%
+  NS: CLOUDFLARENET                     4  17.39%
+  NS: com.pg                            3  13.04%
+  NS: skelhost.com                      2   8.70%
+  NS: cloudns.net                       1   4.35%
+
+[ASN] NETWORK-SOLUTIONS-HOSTING (AS19871)，域名数 15
+  NS: NETWORK-SOLUTIONS-HOSTING         5  33.33%
+  NS: hostgator.com                     4  26.67%
+  NS: websitewelcome.com                2  13.33%
+  NS: pngits.com                        1   6.67%
+  NS: AMAZON-02                         1   6.67%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 15
+  NS: CLOUDFLARENET                    12  80.00%
+  NS: totalenergies.biz                 1   6.67%
+  NS: AMAZON-02                         1   6.67%
+  NS: hostgator.com                     1   6.67%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 12
+  NS: CLOUDFLARENET                    11  91.67%
+  NS: a2hosting.com                     1   8.33%
+
+[ASN] GOOGLE (AS15169)，域名数 10
+  NS: AMAZON-02                         8  80.00%
+  NS: google.com                        1  10.00%
+  NS: Digitec PNG Limited               1  10.00%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 10
+  NS: CLOUDFLARENET                     4  40.00%
+  NS: hostgator.com                     3  30.00%
+  NS: arvixeshared.com                  1  10.00%
+  NS: justhost.com                      1  10.00%
+  NS: com.pg                            1  10.00%

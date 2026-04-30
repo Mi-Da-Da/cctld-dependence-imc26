@@ -1,0 +1,85 @@
+=== 数据来源: dm ===
+NS 域名数: 437
+ASN 域名数: 440
+NS+ASN 交集: 437
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] SECURITYSERVICES，域名数 84
+  ASN: CSC (AS19574)                    52  61.90%
+  ASN: AMAZON-02 (AS16509)               5   5.95%
+  ASN: UPMC-AS122 (AS122)                4   4.76%
+  ASN: SECURITYSERVICES (AS12008)        3   3.57%
+  ASN: Metaways Infosystems GmbH (AS44225)      2   2.38%
+
+[NS 提供商] markmonitor.com，域名数 64
+  ASN: AMAZON-02 (AS16509)              61  95.31%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   1.56%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   1.56%
+  ASN: Deutsche Telekom AG (AS3320)      1   1.56%
+
+[NS 提供商] CLOUDFLARENET，域名数 51
+  ASN: CLOUDFLARENET (AS13335)          22  43.14%
+  ASN: AMAZON-02 (AS16509)              12  23.53%
+  ASN: INCAPSULA (AS19551)               6  11.76%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      3   5.88%
+  ASN: uvensys GmbH (AS58010)            2   3.92%
+
+[NS 提供商] AMAZON-02，域名数 18
+  ASN: GOOGLE (AS15169)                  8  44.44%
+  ASN: OVH SAS (AS16276)                 4  22.22%
+  ASN: AMAZON-02 (AS16509)               3  16.67%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   5.56%
+  ASN: KAMATERA (AS36007)                1   5.56%
+
+[NS 提供商] co.uk，域名数 10
+  ASN: AMAZON-AES (AS14618)              5  50.00%
+  ASN: MGMRI-AS (AS16667)                4  40.00%
+  ASN: CustodianDC Limited (AS50300)      1  10.00%
+
+=== 数据来源: dm ===
+NS 域名数: 437
+ASN 域名数: 440
+NS+ASN 交集: 437
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 124
+  NS: markmonitor.com                  61  49.19%
+  NS: CLOUDFLARENET                    12   9.68%
+  NS: ipcom GmbH                        5   4.03%
+  NS: SECURITYSERVICES                  5   4.03%
+  NS: awsdns-25.net                     4   3.23%
+
+[ASN] CSC (AS19574)，域名数 58
+  NS: SECURITYSERVICES                 52  89.66%
+  NS: domainnetwork.se                  3   5.17%
+  NS: cscudns.com                       1   1.72%
+  NS: Akamai International B.V.         1   1.72%
+  NS: nsroot1.com                       1   1.72%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 25
+  NS: CLOUDFLARENET                    22  88.00%
+  NS: dnsvisa.com                       2   8.00%
+  NS: NSONE                             1   4.00%
+
+[ASN] GOOGLE (AS15169)，域名数 15
+  NS: AMAZON-02                         8  53.33%
+  NS: NSONE                             3  20.00%
+  NS: danix.dm                          2  13.33%
+  NS: GOOGLE                            1   6.67%
+  NS: CLOUDFLARENET                     1   6.67%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 14
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       7  50.00%
+  NS: SECURITYSERVICES                  2  14.29%
+  NS: bearingpoint.com                  1   7.14%
+  NS: markmonitor.com                   1   7.14%
+  NS: rightsdns.com                     1   7.14%
+
+[ASN] AMAZON-AES (AS14618)，域名数 10
+  NS: co.uk                             5  50.00%
+  NS: wwe.com                           1  10.00%
+  NS: wixdns.net                        1  10.00%
+  NS: awsdns-03.net                     1  10.00%
+  NS: awsdns-01.net                     1  10.00%

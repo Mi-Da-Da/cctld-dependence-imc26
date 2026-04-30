@@ -1,0 +1,72 @@
+=== 数据来源: nf ===
+NS 域名数: 298
+ASN 域名数: 300
+NS+ASN 交集: 298
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] Host Europe GmbH，域名数 58
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      21  36.21%
+  ASN: GO-DADDY-COM-LLC (AS398101)      11  18.97%
+  ASN: CiFi Pty Ltd (AS140065)           7  12.07%
+  ASN: CLOUDFLARENET (AS13335)           3   5.17%
+  ASN: AMAZON-02 (AS16509)               2   3.45%
+
+[NS 提供商] CLOUDFLARENET，域名数 49
+  ASN: CLOUDFLARENET (AS13335)          24  48.98%
+  ASN: AMAZON-02 (AS16509)              15  30.61%
+  ASN: SYNERGY WHOLESALE PTY LTD (AS45638)      3   6.12%
+  ASN: INCAPSULA (AS19551)               3   6.12%
+  ASN: Datacamp Limited (AS60068)        1   2.04%
+
+[NS 提供商] SECURITYSERVICES，域名数 25
+  ASN: CSC (AS19574)                    14  56.00%
+  ASN: CENTURYLINK-LEGACY-SAVVIS (AS3561)      3  12.00%
+  ASN: SECURITYSERVICES (AS12008)        2   8.00%
+  ASN: AMAZON-AES (AS14618)              2   8.00%
+  ASN: UPS (AS12217)                     1   4.00%
+
+[NS 提供商] markmonitor.com，域名数 22
+  ASN: AMAZON-02 (AS16509)              17  77.27%
+  ASN: HILTON-E (AS26529)                3  13.64%
+  ASN: NTT-DATA-2914 (AS2914)            1   4.55%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   4.55%
+
+[NS 提供商] IONOS SE，域名数 19
+  ASN: united-domains GmbH (AS202108)     16  84.21%
+  ASN: Contabo GmbH (AS51167)            1   5.26%
+  ASN: IONOS SE (AS8560)                 1   5.26%
+  ASN: Hotel Reservation Service Robert Ragge GmbH (AS28801)      1   5.26%
+
+=== 数据来源: nf ===
+NS 域名数: 298
+ASN 域名数: 300
+NS+ASN 交集: 298
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 58
+  NS: markmonitor.com                  17  29.31%
+  NS: CLOUDFLARENET                    15  25.86%
+  NS: awsdns-25.net                     4   6.90%
+  NS: Host Europe GmbH                  2   3.45%
+  NS: rightsdns.com                     2   3.45%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 28
+  NS: CLOUDFLARENET                    24  85.71%
+  NS: Host Europe GmbH                  3  10.71%
+  NS: dnsvisa.com                       1   3.57%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 22
+  NS: Host Europe GmbH                 21  95.45%
+  NS: wixdns.net                        1   4.55%
+
+[ASN] united-domains GmbH (AS202108)，域名数 16
+  NS: IONOS SE                         16 100.00%
+
+[ASN] CSC (AS19574)，域名数 15
+  NS: SECURITYSERVICES                 14  93.33%
+  NS: Akamai International B.V.         1   6.67%
+
+[ASN] GO-DADDY-COM-LLC (AS398101)，域名数 11
+  NS: Host Europe GmbH                 11 100.00%

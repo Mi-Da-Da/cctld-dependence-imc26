@@ -1,0 +1,113 @@
+=== 数据来源: pr ===
+NS 域名数: 460
+ASN 域名数: 466
+NS+ASN 交集: 460
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 94
+  ASN: AMAZON-02 (AS16509)              48  51.06%
+  ASN: CLOUDFLARENET (AS13335)          23  24.47%
+  ASN: INCAPSULA (AS19551)              19  20.21%
+  ASN: ATT-INTERNET4 (AS7018)            1   1.06%
+  ASN: INMOTION (AS22611)                1   1.06%
+
+[NS 提供商] SECURITYSERVICES，域名数 74
+  ASN: CSC (AS19574)                    44  59.46%
+  ASN: SECURITYSERVICES (AS12008)       11  14.86%
+  ASN: COGECO-PEER1 (AS13768)            4   5.41%
+  ASN: AMAZON-AES (AS14618)              3   4.05%
+  ASN: FLOWERS (AS54986)                 2   2.70%
+
+[NS 提供商] markmonitor.com，域名数 35
+  ASN: AMAZON-02 (AS16509)              30  85.71%
+  ASN: GOOGLE (AS15169)                  2   5.71%
+  ASN: AVAYA (AS18676)                   1   2.86%
+  ASN: MACST-ATL (AS395336)              1   2.86%
+  ASN: CISCOSYSTEMS (AS109)              1   2.86%
+
+[NS 提供商] Akamai International B.V.，域名数 14
+  ASN: LENOVO-NET (AS20111)              4  28.57%
+  ASN: Akamai International B.V. (AS20940)      3  21.43%
+  ASN: MASTER-7-AS (AS26380)             3  21.43%
+  ASN: MSTRARIN-1 (AS13410)              1   7.14%
+  ASN: TDC Holding A/S (AS3292)          1   7.14%
+
+[NS 提供商] Host Europe GmbH，域名数 11
+  ASN: AMAZON-02 (AS16509)               6  54.55%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2  18.18%
+  ASN: INMOTION (AS22611)                1   9.09%
+  ASN: QTS-MIA (AS11767)                 1   9.09%
+  ASN: AMAZON-AES (AS14618)              1   9.09%
+
+[NS 提供商] Safenames Ltd.，域名数 11
+  ASN: Safenames Ltd. (AS60819)         11 100.00%
+
+[NS 提供商] AMAZON-02，域名数 11
+  ASN: OVH SAS (AS16276)                11 100.00%
+
+[NS 提供商] NSONE，域名数 10
+  ASN: AMAZON-02 (AS16509)               3  30.00%
+  ASN: AMAZON-AES (AS14618)              2  20.00%
+  ASN: Mercedes-Benz Group AG (AS31399)      1  10.00%
+  ASN: Akamai International B.V. (AS213120)      1  10.00%
+  ASN: Safenames Ltd. (AS60819)          1  10.00%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 10
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      8  80.00%
+  ASN: KYN-GTS (AS14904)                 1  10.00%
+  ASN: COLT Technology Services Group Limited (AS8220)      1  10.00%
+
+=== 数据来源: pr ===
+NS 域名数: 460
+ASN 域名数: 466
+NS+ASN 交集: 460
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 126
+  NS: CLOUDFLARENET                    48  38.10%
+  NS: markmonitor.com                  30  23.81%
+  NS: Host Europe GmbH                  6   4.76%
+  NS: ipcom GmbH                        5   3.97%
+  NS: dig.com                           4   3.17%
+
+[ASN] CSC (AS19574)，域名数 49
+  NS: SECURITYSERVICES                 44  89.80%
+  NS: domainnetwork.se                  3   6.12%
+  NS: cscudns.com                       1   2.04%
+  NS: awsdns-00.com                     1   2.04%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 24
+  NS: CLOUDFLARENET                    23  95.83%
+  NS: totalenergies.biz                 1   4.17%
+
+[ASN] AMAZON-AES (AS14618)，域名数 21
+  NS: co.uk                             6  28.57%
+  NS: SECURITYSERVICES                  3  14.29%
+  NS: NSONE                             2   9.52%
+  NS: awsdns-45.net                     1   4.76%
+  NS: awsdns-01.org                     1   4.76%
+
+[ASN] Safenames Ltd. (AS60819)，域名数 20
+  NS: Safenames Ltd.                   11  55.00%
+  NS: safenames.com                     8  40.00%
+  NS: NSONE                             1   5.00%
+
+[ASN] INCAPSULA (AS19551)，域名数 19
+  NS: CLOUDFLARENET                    19 100.00%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 13
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       8  61.54%
+  NS: perf1.com                         1   7.69%
+  NS: awsdns-13.net                     1   7.69%
+  NS: SECURITYSERVICES                  1   7.69%
+  NS: shell.com                         1   7.69%
+
+[ASN] OVH SAS (AS16276)，域名数 13
+  NS: AMAZON-02                        11  84.62%
+  NS: gandi.net                         1   7.69%
+  NS: onlydomains.com                   1   7.69%
+
+[ASN] SECURITYSERVICES (AS12008)，域名数 11
+  NS: SECURITYSERVICES                 11 100.00%

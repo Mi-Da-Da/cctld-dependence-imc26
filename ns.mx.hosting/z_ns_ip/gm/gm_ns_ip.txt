@@ -1,0 +1,154 @@
+=== 数据来源: gm ===
+NS 域名数: 677
+ASN 域名数: 683
+NS+ASN 交集: 677
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 171
+  ASN: CLOUDFLARENET (AS13335)          75  43.86%
+  ASN: AMAZON-02 (AS16509)              29  16.96%
+  ASN: Hostinger International Limited (AS47583)     23  13.45%
+  ASN: DIGITALOCEAN-ASN (AS14061)       16   9.36%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       9   5.26%
+
+[NS 提供商] AMAZON-02，域名数 60
+  ASN: PCT-AS01 (AS14058)               21  35.00%
+  ASN: AMAZON-02 (AS16509)              14  23.33%
+  ASN: A2HOSTING (AS55293)               6  10.00%
+  ASN: GOOGLE (AS15169)                  5   8.33%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4   6.67%
+
+[NS 提供商] SECURITYSERVICES，域名数 57
+  ASN: CSC (AS19574)                    29  50.88%
+  ASN: NAMECHEAP-NET (AS22612)          12  21.05%
+  ASN: AMAZON-02 (AS16509)               3   5.26%
+  ASN: SECURITYSERVICES (AS12008)        3   5.26%
+  ASN: AMAZON-AES (AS14618)              2   3.51%
+
+[NS 提供商] markmonitor.com，域名数 38
+  ASN: AMAZON-02 (AS16509)              37  97.37%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   2.63%
+
+[NS 提供商] GOOGLE-CLOUD-PLATFORM，域名数 36
+  ASN: 20i Limited (AS48254)            35  97.22%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   2.78%
+
+[NS 提供商] DIGICERT，域名数 16
+  ASN: Hetzner Online GmbH (AS24940)     12  75.00%
+  ASN: DIGITALOCEAN-ASN (AS14061)        4  25.00%
+
+[NS 提供商] Cloud DNS Ltd，域名数 14
+  ASN: The Infrastructure Group B.V. (AS60404)      8  57.14%
+  ASN: 1984 ehf (AS44925)                4  28.57%
+  ASN: CLOUDFLARENET (AS13335)           1   7.14%
+  ASN: AMAZON-02 (AS16509)               1   7.14%
+
+[NS 提供商] Strato GmbH，域名数 12
+  ASN: Strato GmbH (AS6724)             10  83.33%
+  ASN: IONOS SE (AS8560)                 2  16.67%
+
+[NS 提供商] QCell，域名数 12
+  ASN: QCell (AS37309)                  12 100.00%
+
+[NS 提供商] BIZLAND-SD，域名数 12
+  ASN: BIZLAND-SD (AS29873)              9  75.00%
+  ASN: DIGITALOCEAN-ASN (AS14061)        2  16.67%
+  ASN: AMAZON-02 (AS16509)               1   8.33%
+
+[NS 提供商] co.uk，域名数 11
+  ASN: AMAZON-02 (AS16509)               6  54.55%
+  ASN: Iomart Cloud Services Limited (AS20860)      5  45.45%
+
+=== 数据来源: gm ===
+NS 域名数: 677
+ASN 域名数: 683
+NS+ASN 交集: 677
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 134
+  NS: markmonitor.com                  37  27.61%
+  NS: CLOUDFLARENET                    29  21.64%
+  NS: AMAZON-02                        14  10.45%
+  NS: co.uk                             6   4.48%
+  NS: awsdns-25.net                     5   3.73%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 77
+  NS: CLOUDFLARENET                    75  97.40%
+  NS: Cloud DNS Ltd                     1   1.30%
+  NS: dnsvisa.com                       1   1.30%
+
+[ASN] 20i Limited (AS48254)，域名数 35
+  NS: GOOGLE-CLOUD-PLATFORM            35 100.00%
+
+[ASN] CSC (AS19574)，域名数 32
+  NS: SECURITYSERVICES                 29  90.62%
+  NS: Akamai International B.V.         2   6.25%
+  NS: netnames.net                      1   3.12%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 30
+  NS: CLOUDFLARENET                    16  53.33%
+  NS: DIGICERT                          4  13.33%
+  NS: faalentech.com                    3  10.00%
+  NS: supremecenter.com                 3  10.00%
+  NS: BIZLAND-SD                        2   6.67%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 24
+  NS: CLOUDFLARENET                    23  95.83%
+  NS: localhost.com                     1   4.17%
+
+[ASN] PCT-AS01 (AS14058)，域名数 23
+  NS: AMAZON-02                        21  91.30%
+  NS: awsdns-08.net                     1   4.35%
+  NS: gamtel.gm                         1   4.35%
+
+[ASN] AMAZON-AES (AS14618)，域名数 22
+  NS: AMAZON-AES                        9  40.91%
+  NS: AMAZON-02                         3  13.64%
+  NS: CLOUDFLARENET                     3  13.64%
+  NS: SECURITYSERVICES                  2   9.09%
+  NS: awsdns-53.org                     1   4.55%
+
+[ASN] BIZLAND-SD (AS29873)，域名数 17
+  NS: BIZLAND-SD                        9  52.94%
+  NS: readyhosting.com                  3  17.65%
+  NS: ipower.com                        3  17.65%
+  NS: yourwebhosting.com                2  11.76%
+
+[ASN] Hetzner Online GmbH (AS24940)，域名数 17
+  NS: DIGICERT                         12  70.59%
+  NS: linode.com                        2  11.76%
+  NS: regery.net                        1   5.88%
+  NS: inmotionhosting.com               1   5.88%
+  NS: CLOUDFLARENET                     1   5.88%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 16
+  NS: CLOUDFLARENET                     9  56.25%
+  NS: hostgator.com                     3  18.75%
+  NS: mybluehost.me                     2  12.50%
+  NS: AMAZON-02                         2  12.50%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 14
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       3  21.43%
+  NS: ultradns.biz                      2  14.29%
+  NS: AMAZON-02                         2  14.29%
+  NS: turbify.com                       1   7.14%
+  NS: ericsson.se                       1   7.14%
+
+[ASN] QCell (AS37309)，域名数 12
+  NS: QCell                            12 100.00%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 12
+  NS: SECURITYSERVICES                 12 100.00%
+
+[ASN] Strato GmbH (AS6724)，域名数 11
+  NS: Strato GmbH                      10  90.91%
+  NS: radio.gm                          1   9.09%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 11
+  NS: AMAZON-02                         4  36.36%
+  NS: CLOUDFLARENET                     1   9.09%
+  NS: GOOGLE-CLOUD-PLATFORM             1   9.09%
+  NS: awsdns-20.net                     1   9.09%
+  NS: safenames.net                     1   9.09%

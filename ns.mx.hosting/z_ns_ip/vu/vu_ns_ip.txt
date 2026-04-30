@@ -1,0 +1,164 @@
+=== 数据来源: vu ===
+NS 域名数: 1265
+ASN 域名数: 1270
+NS+ASN 交集: 1265
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 393
+  ASN: CLOUDFLARENET (AS13335)         283  72.01%
+  ASN: AMAZON-02 (AS16509)              39   9.92%
+  ASN: Hostinger International Limited (AS47583)     11   2.80%
+  ASN: DREAMHOST-AS (AS26347)           11   2.80%
+  ASN: INCAPSULA (AS19551)               5   1.27%
+
+[NS 提供商] Host Europe GmbH，域名数 372
+  ASN: AMAZON-02 (AS16509)             337  90.59%
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)      4   1.08%
+  ASN: CLOUDFLARENET (AS13335)           3   0.81%
+  ASN: Host Europe GmbH (AS21499)        3   0.81%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2   0.54%
+
+[NS 提供商] SECURITYSERVICES，域名数 55
+  ASN: CSC (AS19574)                    33  60.00%
+  ASN: INCAPSULA (AS19551)               4   7.27%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      3   5.45%
+  ASN: SECURITYSERVICES (AS12008)        3   5.45%
+  ASN: AUTOMATTIC (AS2635)               2   3.64%
+
+[NS 提供商] markmonitor.com，域名数 37
+  ASN: AMAZON-02 (AS16509)              35  94.59%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   2.70%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   2.70%
+
+[NS 提供商] AMAZON-02，域名数 34
+  ASN: OVH SAS (AS16276)                 9  26.47%
+  ASN: WHG Hosting Services Ltd (AS216180)      6  17.65%
+  ASN: GOOGLE (AS15169)                  6  17.65%
+  ASN: A2HOSTING (AS55293)               5  14.71%
+  ASN: AMAZON-02 (AS16509)               3   8.82%
+
+[NS 提供商] sedoparking.com，域名数 31
+  ASN: SEDO GmbH (AS47846)              31 100.00%
+
+[NS 提供商] netim.net，域名数 22
+  ASN: Eurofiber France SAS (AS24935)     15  68.18%
+  ASN: OVH SAS (AS16276)                 2   9.09%
+  ASN: CORESPACE-DAL (AS54489)           1   4.55%
+  ASN: IONOS SE (AS8560)                 1   4.55%
+  ASN: WEEBLY (AS27647)                  1   4.55%
+
+[NS 提供商] Telecom Vanuatu Limited，域名数 19
+  ASN: Telecom Vanuatu Limited (AS9249)     16  84.21%
+  ASN: SQUARESPACE (AS53831)             1   5.26%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   5.26%
+  ASN: Wix.com Ltd. (AS58182)            1   5.26%
+
+[NS 提供商] Dreamscape Networks Limited，域名数 18
+  ASN: Dreamscape Networks Limited (AS38719)     17  94.44%
+  ASN: Cloudflare London, LLC (AS209242)      1   5.56%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 14
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      5  35.71%
+  ASN: CENTURYLINK-LEGACY-SAVVIS (AS3561)      3  21.43%
+  ASN: AMAZON-02 (AS16509)               2  14.29%
+  ASN: KYN-GTS (AS14904)                 2  14.29%
+  ASN: VERISIGN-ILG1 (AS30060)           1   7.14%
+
+[NS 提供商] ipcom GmbH，域名数 11
+  ASN: InterNetworX Management GmbH (AS48596)      9  81.82%
+  ASN: Hetzner Online GmbH (AS24940)      1   9.09%
+  ASN: netcup GmbH (AS197540)            1   9.09%
+
+=== 数据来源: vu ===
+NS 域名数: 1265
+ASN 域名数: 1270
+NS+ASN 交集: 1265
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 464
+  NS: Host Europe GmbH                337  72.63%
+  NS: CLOUDFLARENET                    39   8.41%
+  NS: markmonitor.com                  35   7.54%
+  NS: co.uk                             4   0.86%
+  NS: awsdns-25.net                     3   0.65%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 294
+  NS: CLOUDFLARENET                   283  96.26%
+  NS: Host Europe GmbH                  3   1.02%
+  NS: bluehost.com                      2   0.68%
+  NS: awsdns-15.com                     1   0.34%
+  NS: syrahost.com                      1   0.34%
+
+[ASN] CSC (AS19574)，域名数 35
+  NS: SECURITYSERVICES                 33  94.29%
+  NS: domainnetwork.se                  1   2.86%
+  NS: nsroot1.com                       1   2.86%
+
+[ASN] SEDO GmbH (AS47846)，域名数 31
+  NS: sedoparking.com                  31 100.00%
+
+[ASN] Telecom Vanuatu Limited (AS9249)，域名数 24
+  NS: Telecom Vanuatu Limited          16  66.67%
+  NS: CLOUDFLARENET                     5  20.83%
+  NS: Host Europe GmbH                  2   8.33%
+  NS: DIGICERT                          1   4.17%
+
+[ASN] Dreamscape Networks Limited (AS38719)，域名数 20
+  NS: Dreamscape Networks Limited      17  85.00%
+  NS: syrahost.com                      2  10.00%
+  NS: co.nz                             1   5.00%
+
+[ASN] OVH SAS (AS16276)，域名数 17
+  NS: AMAZON-02                         9  52.94%
+  NS: halcyondigitalhost.com            2  11.76%
+  NS: netim.net                         2  11.76%
+  NS: registrar-servers.com             1   5.88%
+  NS: instradns.com                     1   5.88%
+
+[ASN] Eurofiber France SAS (AS24935)，域名数 15
+  NS: netim.net                        15 100.00%
+
+[ASN] GOOGLE (AS15169)，域名数 14
+  NS: AMAZON-02                         6  42.86%
+  NS: NSONE                             3  21.43%
+  NS: DIGICERT                          3  21.43%
+  NS: GOOGLE                            1   7.14%
+  NS: CLOUDFLARENET                     1   7.14%
+
+[ASN] AMAZON-AES (AS14618)，域名数 13
+  NS: co.uk                             2  15.38%
+  NS: atom.com                          2  15.38%
+  NS: CLOUDFLARENET                     2  15.38%
+  NS: wwe.com                           1   7.69%
+  NS: Host Europe GmbH                  1   7.69%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 12
+  NS: CLOUDFLARENET                    11  91.67%
+  NS: Host Europe GmbH                  1   8.33%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 11
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       5  45.45%
+  NS: SECURITYSERVICES                  3  27.27%
+  NS: Host Europe GmbH                  1   9.09%
+  NS: CLOUDFLARENET                     1   9.09%
+  NS: markmonitor.com                   1   9.09%
+
+[ASN] DREAMHOST-AS (AS26347)，域名数 11
+  NS: CLOUDFLARENET                    11 100.00%
+
+[ASN] Safenames Ltd. (AS60819)，域名数 10
+  NS: Safenames Ltd.                    7  70.00%
+  NS: safenames.com                     3  30.00%
+
+[ASN] Wix.com Ltd. (AS58182)，域名数 10
+  NS: GOOGLE                            7  70.00%
+  NS: registry-server.com               1  10.00%
+  NS: Telecom Vanuatu Limited           1  10.00%
+  NS: CLOUDFLARENET                     1  10.00%
+
+[ASN] INCAPSULA (AS19551)，域名数 10
+  NS: CLOUDFLARENET                     5  50.00%
+  NS: SECURITYSERVICES                  4  40.00%
+  NS: awsdns-34.org                     1  10.00%

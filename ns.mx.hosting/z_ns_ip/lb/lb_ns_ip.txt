@@ -1,0 +1,115 @@
+=== 数据来源: lb ===
+NS 域名数: 503
+ASN 域名数: 503
+NS+ASN 交集: 503
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 130
+  ASN: CLOUDFLARENET (AS13335)          69  53.08%
+  ASN: AMAZON-02 (AS16509)              10   7.69%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      10   7.69%
+  ASN: Hostinger International Limited (AS47583)      8   6.15%
+  ASN: Contabo GmbH (AS51167)            5   3.85%
+
+[NS 提供商] net.lb，域名数 127
+  ASN: IncoNet Data Management sal (AS9051)     57  44.88%
+  ASN: TerraNet sal (AS39010)           20  15.75%
+  ASN: LeaseWeb Netherlands B.V. (AS60781)      6   4.72%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       4   3.15%
+  ASN: CLOUDFLARENET (AS13335)           3   2.36%
+
+[NS 提供商] Host Europe GmbH，域名数 16
+  ASN: Host Europe GmbH (AS21499)        2  12.50%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2  12.50%
+  ASN: GO-DADDY-COM-LLC (AS400754)       2  12.50%
+  ASN: Hostinger International Limited (AS47583)      1   6.25%
+  ASN: AS-26496-GO-DADDY-COM-LLC (AS26496)      1   6.25%
+
+[NS 提供商] AMAZON-02，域名数 16
+  ASN: GOOGLE (AS15169)                 11  68.75%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4  25.00%
+  ASN: WHG Hosting Services Ltd (AS209341)      1   6.25%
+
+[NS 提供商] SECURITYSERVICES，域名数 14
+  ASN: CSC (AS19574)                    12  85.71%
+  ASN: CLOUDFLARENET (AS13335)           1   7.14%
+  ASN: Akamai International B.V. (AS20940)      1   7.14%
+
+=== 数据来源: lb ===
+NS 域名数: 503
+ASN 域名数: 503
+NS+ASN 交集: 503
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 79
+  NS: CLOUDFLARENET                    69  87.34%
+  NS: net.lb                            3   3.80%
+  NS: SkyExchange Internet Access       1   1.27%
+  NS: totalenergies.biz                 1   1.27%
+  NS: markmonitor.com                   1   1.27%
+
+[ASN] IncoNet Data Management sal (AS9051)，域名数 58
+  NS: net.lb                           57  98.28%
+  NS: org.lb                            1   1.72%
+
+[ASN] AMAZON-02 (AS16509)，域名数 42
+  NS: CLOUDFLARENET                    10  23.81%
+  NS: markmonitor.com                   8  19.05%
+  NS: com.lb                            3   7.14%
+  NS: safebrands.com                    2   4.76%
+  NS: net.lb                            2   4.76%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 22
+  NS: CLOUDFLARENET                    10  45.45%
+  NS: net.lb                            4  18.18%
+  NS: justhost.com                      2   9.09%
+  NS: hostgator.com                     2   9.09%
+  NS: org.lb                            1   4.55%
+
+[ASN] TerraNet sal (AS39010)，域名数 20
+  NS: net.lb                           20 100.00%
+
+[ASN] Hetzner Online GmbH (AS24940)，域名数 19
+  NS: CLOUDFLARENET                     3  15.79%
+  NS: DIGICERT                          2  10.53%
+  NS: net.lb                            2  10.53%
+  NS: second-ns.com                     2  10.53%
+  NS: stabletransit.com                 2  10.53%
+
+[ASN] LeaseWeb Netherlands B.V. (AS60781)，域名数 17
+  NS: net.lb                            6  35.29%
+  NS: CLOUDFLARENET                     4  23.53%
+  NS: eurovps.com                       2  11.76%
+  NS: hibridmena.com                    1   5.88%
+  NS: itw-hosting.net                   1   5.88%
+
+[ASN] CSC (AS19574)，域名数 14
+  NS: SECURITYSERVICES                 12  85.71%
+  NS: netnames.net                      2  14.29%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 13
+  NS: CLOUDFLARENET                     8  61.54%
+  NS: net.lb                            2  15.38%
+  NS: main-hosting.eu                   1   7.69%
+  NS: Host Europe GmbH                  1   7.69%
+  NS: stabletransit.com                 1   7.69%
+
+[ASN] GOOGLE (AS15169)，域名数 12
+  NS: AMAZON-02                        11  91.67%
+  NS: google.com                        1   8.33%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 11
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       3  27.27%
+  NS: net.lb                            2  18.18%
+  NS: azure-dns.com                     1   9.09%
+  NS: CLOUDFLARENET                     1   9.09%
+  NS: kpmg.com                          1   9.09%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 10
+  NS: AMAZON-02                         4  40.00%
+  NS: net.lb                            2  20.00%
+  NS: Host Europe GmbH                  1  10.00%
+  NS: krustallos-cloud.com              1  10.00%
+  NS: CLOUDFLARENET                     1  10.00%

@@ -1,0 +1,74 @@
+=== 数据来源: aw ===
+NS 域名数: 455
+ASN 域名数: 455
+NS+ASN 交集: 455
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.，域名数 168
+  ASN: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V. (AS11816)    133  79.17%
+  ASN: AMAZON-02 (AS16509)              10   5.95%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       4   2.38%
+  ASN: SUCURI-SEC (AS30148)              3   1.79%
+  ASN: NAMECHEAP-NET (AS22612)           2   1.19%
+
+[NS 提供商] CLOUDFLARENET，域名数 129
+  ASN: CLOUDFLARENET (AS13335)          91  70.54%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      10   7.75%
+  ASN: AMAZON-02 (AS16509)               9   6.98%
+  ASN: INCAPSULA (AS19551)               7   5.43%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      3   2.33%
+
+[NS 提供商] SECURITYSERVICES，域名数 17
+  ASN: CSC (AS19574)                    16  94.12%
+  ASN: Optimizely AB (AS30811)           1   5.88%
+
+=== 数据来源: aw ===
+NS 域名数: 455
+ASN 域名数: 455
+NS+ASN 交集: 455
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V. (AS11816)，域名数 137
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.    133  97.08%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       2   1.46%
+  NS: CLOUDFLARENET                     1   0.73%
+  NS: awsdns-26.com                     1   0.73%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 94
+  NS: CLOUDFLARENET                    91  96.81%
+  NS: awsdns-26.com                     1   1.06%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.      1   1.06%
+  NS: digitalocean.com                  1   1.06%
+
+[ASN] AMAZON-02 (AS16509)，域名数 37
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.     10  27.03%
+  NS: CLOUDFLARENET                     9  24.32%
+  NS: markmonitor.com                   6  16.22%
+  NS: registrar-servers.com             4  10.81%
+  NS: DIMENOC                           1   2.70%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 18
+  NS: CLOUDFLARENET                    10  55.56%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.      4  22.22%
+  NS: hostmonster.com                   1   5.56%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       1   5.56%
+  NS: hostgator.com                     1   5.56%
+
+[ASN] CSC (AS19574)，域名数 17
+  NS: SECURITYSERVICES                 16  94.12%
+  NS: domainnetwork.se                  1   5.88%
+
+[ASN] AMAZON-AES (AS14618)，域名数 15
+  NS: co.uk                             9  60.00%
+  NS: vultr.com                         1   6.67%
+  NS: awsdns-21.org                     1   6.67%
+  NS: registrar-servers.com             1   6.67%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.      1   6.67%
+
+[ASN] DIMENOC (AS33182)，域名数 10
+  NS: DIMENOC                           7  70.00%
+  NS: sureserver.com                    1  10.00%
+  NS: CLOUDFLARENET                     1  10.00%
+  NS: wendys.com                        1  10.00%

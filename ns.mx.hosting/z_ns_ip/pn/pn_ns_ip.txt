@@ -1,0 +1,78 @@
+=== 数据来源: pn ===
+NS 域名数: 271
+ASN 域名数: 272
+NS+ASN 交集: 271
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 51
+  ASN: CLOUDFLARENET (AS13335)          21  41.18%
+  ASN: AMAZON-02 (AS16509)              16  31.37%
+  ASN: INCAPSULA (AS19551)               7  13.73%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      2   3.92%
+  ASN: Hostinger International Limited (AS47583)      1   1.96%
+
+[NS 提供商] markmonitor.com，域名数 29
+  ASN: AMAZON-02 (AS16509)              24  82.76%
+  ASN: HILTON-E (AS26529)                3  10.34%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   3.45%
+  ASN: AMAZON-AES (AS14618)              1   3.45%
+
+[NS 提供商] SECURITYSERVICES，域名数 22
+  ASN: CSC (AS19574)                    15  68.18%
+  ASN: SECURITYSERVICES (AS12008)        3  13.64%
+  ASN: CENTURYLINK-LEGACY-SAVVIS (AS3561)      1   4.55%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   4.55%
+  ASN: DXC-AS3360 (AS3360)               1   4.55%
+
+[NS 提供商] linode.com，域名数 15
+  ASN: Akamai Connected Cloud (AS63949)     15 100.00%
+
+[NS 提供商] co.nz，域名数 13
+  ASN: Akamai Connected Cloud (AS63949)     10  76.92%
+  ASN: AMAZON-02 (AS16509)               3  23.08%
+
+=== 数据来源: pn ===
+NS 域名数: 271
+ASN 域名数: 272
+NS+ASN 交集: 271
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] AMAZON-02 (AS16509)，域名数 71
+  NS: markmonitor.com                  24  33.80%
+  NS: CLOUDFLARENET                    16  22.54%
+  NS: awsdns-25.net                     4   5.63%
+  NS: co.nz                             3   4.23%
+  NS: Akamai International B.V.         2   2.82%
+
+[ASN] Akamai Connected Cloud (AS63949)，域名数 30
+  NS: linode.com                       15  50.00%
+  NS: co.nz                            10  33.33%
+  NS: HURRICANE                         2   6.67%
+  NS: GANDI SAS                         1   3.33%
+  NS: registrar-servers.com             1   3.33%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 23
+  NS: CLOUDFLARENET                    21  91.30%
+  NS: dnsvisa.com                       1   4.35%
+  NS: nic.pn                            1   4.35%
+
+[ASN] CSC (AS19574)，域名数 17
+  NS: SECURITYSERVICES                 15  88.24%
+  NS: Akamai International B.V.         1   5.88%
+  NS: domainnetwork.se                  1   5.88%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 12
+  NS: awsdns-15.org                     2  16.67%
+  NS: CLOUDFLARENET                     2  16.67%
+  NS: anlremote.com                     1   8.33%
+  NS: dnsmadeeasy.com                   1   8.33%
+  NS: SECURITYSERVICES                  1   8.33%
+
+[ASN] MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)，域名数 10
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       4  40.00%
+  NS: ultradns.biz                      3  30.00%
+  NS: CLOUDFLARENET                     1  10.00%
+  NS: ericsson.se                       1  10.00%
+  NS: rightsdns.com                     1  10.00%

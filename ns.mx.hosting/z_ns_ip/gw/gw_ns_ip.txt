@@ -1,0 +1,63 @@
+=== 数据来源: gw ===
+NS 域名数: 289
+ASN 域名数: 293
+NS+ASN 交集: 289
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 111
+  ASN: Hostinger International Limited (AS47583)     60  54.05%
+  ASN: AMAZON-02 (AS16509)              17  15.32%
+  ASN: CLOUDFLARENET (AS13335)          12  10.81%
+  ASN: INCAPSULA (AS19551)              12  10.81%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4   3.60%
+
+[NS 提供商] mydnspt.net，域名数 14
+  ASN: Almouroltec Servicos De Informatica E Internet Lda (AS24768)     13  92.86%
+  ASN: AMAZON-02 (AS16509)               1   7.14%
+
+[NS 提供商] markmonitor.com，域名数 14
+  ASN: AMAZON-02 (AS16509)              12  85.71%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      1   7.14%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   7.14%
+
+[NS 提供商] SECURITYSERVICES，域名数 12
+  ASN: CSC (AS19574)                    11  91.67%
+  ASN: MICROSOFT-CORP-MSN-AS-BLOCK (AS8075)      1   8.33%
+
+=== 数据来源: gw ===
+NS 域名数: 289
+ASN 域名数: 293
+NS+ASN 交集: 289
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] Hostinger International Limited (AS47583)，域名数 60
+  NS: CLOUDFLARENET                    60 100.00%
+
+[ASN] AMAZON-02 (AS16509)，域名数 43
+  NS: CLOUDFLARENET                    17  39.53%
+  NS: markmonitor.com                  12  27.91%
+  NS: awsdns-25.net                     2   4.65%
+  NS: safebrands.com                    2   4.65%
+  NS: markmonitor.zone                  1   2.33%
+
+[ASN] Almouroltec Servicos De Informatica E Internet Lda (AS24768)，域名数 16
+  NS: mydnspt.net                      13  81.25%
+  NS: nuvem-dns.biz                     2  12.50%
+  NS: servidados.net                    1   6.25%
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 13
+  NS: CLOUDFLARENET                    12  92.31%
+  NS: azure-dns.com                     1   7.69%
+
+[ASN] CSC (AS19574)，域名数 13
+  NS: SECURITYSERVICES                 11  84.62%
+  NS: zaccodigitaltrustlabs.se          2  15.38%
+
+[ASN] Nameshield SAS (AS20756)，域名数 12
+  NS: perf1.com                         8  66.67%
+  NS: nameshield.net                    4  33.33%
+
+[ASN] INCAPSULA (AS19551)，域名数 12
+  NS: CLOUDFLARENET                    12 100.00%

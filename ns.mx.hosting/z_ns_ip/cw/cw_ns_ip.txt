@@ -1,0 +1,159 @@
+=== 数据来源: cw ===
+NS 域名数: 518
+ASN 域名数: 522
+NS+ASN 交集: 518
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 140
+  ASN: CLOUDFLARENET (AS13335)          72  51.43%
+  ASN: AUTOMATTIC (AS2635)              14  10.00%
+  ASN: Hostinger International Limited (AS47583)     10   7.14%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)       9   6.43%
+  ASN: DIGITALOCEAN-ASN (AS14061)        5   3.57%
+
+[NS 提供商] Host Europe GmbH，域名数 26
+  ASN: AMAZON-02 (AS16509)               6  23.08%
+  ASN: GO-DADDY-COM-LLC (AS398101)       3  11.54%
+  ASN: AUTOMATTIC (AS2635)               2   7.69%
+  ASN: GO-DADDY-COM-LLC (AS400754)       2   7.69%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1   3.85%
+
+[NS 提供商] DIGICERT，域名数 25
+  ASN: AMAZON-02 (AS16509)               6  24.00%
+  ASN: AUTOMATTIC (AS2635)               4  16.00%
+  ASN: GO-DADDY-COM-LLC (AS398101)       2   8.00%
+  ASN: Hetzner Online GmbH (AS24940)      2   8.00%
+  ASN: Liquid Web B.V. (AS202521)        1   4.00%
+
+[NS 提供商] Hetzner Online GmbH，域名数 20
+  ASN: Hetzner Online GmbH (AS24940)     17  85.00%
+  ASN: AMAZON-02 (AS16509)               2  10.00%
+  ASN: AUTOMATTIC (AS2635)               1   5.00%
+
+[NS 提供商] GOOGLE，域名数 15
+  ASN: Wix.com Ltd. (AS58182)           15 100.00%
+
+[NS 提供商] AMAZON-02，域名数 14
+  ASN: GOOGLE (AS15169)                  9  64.29%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)      4  28.57%
+  ASN: AMAZON-02 (AS16509)               1   7.14%
+
+[NS 提供商] Curacao Technology Exchange N.V CTEX，域名数 12
+  ASN: United Telecommunication Services UTS (AS11081)     10  83.33%
+  ASN: AUTOMATTIC (AS2635)               2  16.67%
+
+[NS 提供商] CLDIN B.V.，域名数 10
+  ASN: CLDIN B.V. (AS48635)              8  80.00%
+  ASN: Stichting DIGI NL (AS206281)      1  10.00%
+  ASN: AMAZON-AES (AS14618)              1  10.00%
+
+[NS 提供商] LIQUIDWEB，域名数 10
+  ASN: LIQUIDWEB (AS32244)              10 100.00%
+
+[NS 提供商] cloud86.nl，域名数 10
+  ASN: Duocast B.V. (AS31477)           10 100.00%
+
+[NS 提供商] IS-AS-1，域名数 10
+  ASN: IS-AS-1 (AS19318)                 6  60.00%
+  ASN: DIGITALOCEAN-ASN (AS14061)        1  10.00%
+  ASN: AMAZON-02 (AS16509)               1  10.00%
+  ASN: CLOUDFLARENET (AS13335)           1  10.00%
+  ASN: United Telecommunication Services UTS (AS11081)      1  10.00%
+
+=== 数据来源: cw ===
+NS 域名数: 518
+ASN 域名数: 522
+NS+ASN 交集: 518
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 77
+  NS: CLOUDFLARENET                    72  93.51%
+  NS: hostingb2b.com                    1   1.30%
+  NS: nexcess.net                       1   1.30%
+  NS: Host Europe GmbH                  1   1.30%
+  NS: namecheaphosting.com              1   1.30%
+
+[ASN] AMAZON-02 (AS16509)，域名数 33
+  NS: DIGICERT                          6  18.18%
+  NS: Host Europe GmbH                  6  18.18%
+  NS: CLOUDFLARENET                     3   9.09%
+  NS: Hetzner Online GmbH               2   6.06%
+  NS: 101domain.com                     2   6.06%
+
+[ASN] AUTOMATTIC (AS2635)，域名数 30
+  NS: CLOUDFLARENET                    14  46.67%
+  NS: DIGICERT                          4  13.33%
+  NS: United Telecommunication Services UTS      3  10.00%
+  NS: dotster.com                       3  10.00%
+  NS: Host Europe GmbH                  2   6.67%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 23
+  NS: CLOUDFLARENET                     9  39.13%
+  NS: justhost.com                      4  17.39%
+  NS: hostgator.com                     3  13.04%
+  NS: hostmonster.com                   3  13.04%
+  NS: mybluehost.me                     1   4.35%
+
+[ASN] United Telecommunication Services UTS (AS11081)，域名数 21
+  NS: Curacao Technology Exchange N.V CTEX     10  47.62%
+  NS: United Telecommunication Services UTS      4  19.05%
+  NS: CLOUDFLARENET                     2   9.52%
+  NS: onenet.an                         1   4.76%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       1   4.76%
+
+[ASN] Wix.com Ltd. (AS58182)，域名数 21
+  NS: GOOGLE                           15  71.43%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       1   4.76%
+  NS: CLOUDFLARENET                     1   4.76%
+  NS: DIGICERT                          1   4.76%
+  NS: United Telecommunication Services UTS      1   4.76%
+
+[ASN] Hetzner Online GmbH (AS24940)，域名数 20
+  NS: Hetzner Online GmbH              17  85.00%
+  NS: DIGICERT                          2  10.00%
+  NS: first-ns.de                       1   5.00%
+
+[ASN] CLDIN B.V. (AS48635)，域名数 17
+  NS: CLDIN B.V.                        8  47.06%
+  NS: auroradns.eu                      3  17.65%
+  NS: axc.nl                            2  11.76%
+  NS: vevida.net                        2  11.76%
+  NS: centraalwerken.nl                 1   5.88%
+
+[ASN] LIQUIDWEB (AS32244)，域名数 16
+  NS: LIQUIDWEB                        10  62.50%
+  NS: jolleycuracao.com                 2  12.50%
+  NS: CLOUDFLARENET                     1   6.25%
+  NS: azure-dns.com                     1   6.25%
+  NS: liquidweb.com                     1   6.25%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 14
+  NS: CLOUDFLARENET                    10  71.43%
+  NS: dreamhost.com                     1   7.14%
+  NS: main-hosting.eu                   1   7.14%
+  NS: hostgator.com                     1   7.14%
+  NS: DIGICERT                          1   7.14%
+
+[ASN] DIGITALOCEAN-ASN (AS14061)，域名数 12
+  NS: CLOUDFLARENET                     5  41.67%
+  NS: discountasp.net                   3  25.00%
+  NS: Host Europe GmbH                  1   8.33%
+  NS: IS-AS-1                           1   8.33%
+  NS: bunny.net                         1   8.33%
+
+[ASN] Duocast B.V. (AS31477)，域名数 12
+  NS: cloud86.nl                       10  83.33%
+  NS: exsilia.net                       2  16.67%
+
+[ASN] SINCERE NETWORKS B.V. (AS272996)，域名数 12
+  NS: sincere.cloud                     6  50.00%
+  NS: CLOUDFLARENET                     2  16.67%
+  NS: HURRICANE                         2  16.67%
+  NS: curacao.io                        1   8.33%
+  NS: verona.cw                         1   8.33%
+
+[ASN] GOOGLE (AS15169)，域名数 11
+  NS: AMAZON-02                         9  81.82%
+  NS: VITAL-DNS                         2  18.18%

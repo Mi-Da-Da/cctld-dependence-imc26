@@ -1,0 +1,72 @@
+=== 数据来源: iq ===
+NS 域名数: 235
+ASN 域名数: 239
+NS+ASN 交集: 235
+
+=== NS -> ASN 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 109
+  ASN: CLOUDFLARENET (AS13335)          27  24.77%
+  ASN: Hostinger International Limited (AS47583)     25  22.94%
+  ASN: Contabo GmbH (AS51167)           18  16.51%
+  ASN: UNIFIEDLAYER-AS-1 (AS46606)      12  11.01%
+  ASN: GOOGLE-CLOUD-PLATFORM (AS396982)     10   9.17%
+
+[NS 提供商] AMAZON-02，域名数 18
+  ASN: AMAZON-02 (AS16509)              13  72.22%
+  ASN: WHG Hosting Services Ltd (AS209341)      4  22.22%
+  ASN: WHG Hosting Services Ltd (AS36454)      1   5.56%
+
+[NS 提供商] SECURITYSERVICES，域名数 15
+  ASN: NAMECHEAP-NET (AS22612)          15 100.00%
+
+=== 数据来源: iq ===
+NS 域名数: 235
+ASN 域名数: 239
+NS+ASN 交集: 235
+
+=== ASN -> NS 条件分布 ===
+
+[ASN] CLOUDFLARENET (AS13335)，域名数 28
+  NS: CLOUDFLARENET                    27  96.43%
+  NS: dijlh.com                         1   3.57%
+
+[ASN] Contabo GmbH (AS51167)，域名数 26
+  NS: CLOUDFLARENET                    18  69.23%
+  NS: contabo.net                       6  23.08%
+  NS: wdaoneserver.com                  1   3.85%
+  NS: privatesystems.net                1   3.85%
+
+[ASN] Hostinger International Limited (AS47583)，域名数 25
+  NS: CLOUDFLARENET                    25 100.00%
+
+[ASN] AMAZON-02 (AS16509)，域名数 23
+  NS: AMAZON-02                        13  56.52%
+  NS: 101domain.com                     3  13.04%
+  NS: dijlh.com                         2   8.70%
+  NS: googledomains.com                 1   4.35%
+  NS: domaincontrol.com                 1   4.35%
+
+[ASN] NAMECHEAP-NET (AS22612)，域名数 19
+  NS: SECURITYSERVICES                 15  78.95%
+  NS: CLOUDFLARENET                     2  10.53%
+  NS: drvps.xyz                         2  10.53%
+
+[ASN] UNIFIEDLAYER-AS-1 (AS46606)，域名数 13
+  NS: CLOUDFLARENET                    12  92.31%
+  NS: cleome-isp.com                    1   7.69%
+
+[ASN] GOOGLE-CLOUD-PLATFORM (AS396982)，域名数 12
+  NS: CLOUDFLARENET                    10  83.33%
+  NS: siteground.net                    1   8.33%
+  NS: emirates.com                      1   8.33%
+
+[ASN] LIQUIDWEB (AS32244)，域名数 10
+  NS: CLOUDFLARENET                     4  40.00%
+  NS: hostorr.net                       4  40.00%
+  NS: hostorr.com                       1  10.00%
+  NS: introit.info                      1  10.00%
+
+[ASN] AS-VULTR (AS20473)，域名数 10
+  NS: AS-VULTR                          9  90.00%
+  NS: CLOUDFLARENET                     1  10.00%
