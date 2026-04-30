@@ -1,0 +1,65 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 151,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "96985956cn.com",
+    "total_count": 11,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "6f8a9674.96985956cn.com",
+      "9f429a3f.96985956cn.com",
+      "5b092ca9.96985956cn.com",
+      "53e0818f.96985956cn.com",
+      "698e9e95.96985956cn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)96985956cn\\.com(?:\\.|$)",
+      "(?:^|\\.)96985956cn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gs-cdn.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "exp.gs-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gs\\-cdn\\.com(?:\\.|$)"
+    ]
+  }
+]
