@@ -1,0 +1,82 @@
+[
+  {
+    "sld": "nic.va",
+    "total_count": 339,
+    "provider_hint": "Holy See - Vatican City State",
+    "top_asn": {
+      "asn": 8978,
+      "org": "Holy See - Vatican City State"
+    },
+    "pct": 1.0,
+    "countries": [
+      "VA"
+    ],
+    "example_targets": [
+      "c.nic.va",
+      "a.nic.va",
+      "b.nic.va"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nic.va(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namex.it",
+    "total_count": 222,
+    "provider_hint": "Namex Consorzio",
+    "top_asn": {
+      "asn": 24796,
+      "org": "Namex Consorzio"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IT"
+    ],
+    "example_targets": [
+      "osiris.namex.it",
+      "seth.namex.it"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namex.it(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "spc.va",
+    "total_count": 42,
+    "provider_hint": "Dicastero per la Comunicazione",
+    "top_asn": {
+      "asn": 202865,
+      "org": "Dicastero per la Comunicazione"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IT"
+    ],
+    "example_targets": [
+      "ns-ext-01.spc.va",
+      "ns-ext-02.spc.va"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)spc.va(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "glauco.it",
+    "total_count": 17,
+    "provider_hint": "Ids & Unitelm Srl",
+    "top_asn": {
+      "asn": 203612,
+      "org": "Ids & Unitelm Srl"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IT"
+    ],
+    "example_targets": [
+      "spc03.glauco.it"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)glauco.it(?:\\.|$)"
+    ]
+  }
+]
