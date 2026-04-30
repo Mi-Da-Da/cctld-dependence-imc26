@@ -1,0 +1,29 @@
+{
+  "ns_provider": {
+    "top3_coverage": 89.71,
+    "HHI": 0.3681,
+    "top3_providers": [
+      "Host Europe GmbH",
+      "CLOUDFLARENET",
+      "SECURITYSERVICES"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 0.8524,
+    "top3_providers": [
+      "AMAZON-AES",
+      "RAILWAY",
+      "GOOGLE-CLOUD-PLATFORM"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 77.17,
+    "HHI": 0.3521,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "NAMECHEAP-NET"
+    ]
+  }
+}
