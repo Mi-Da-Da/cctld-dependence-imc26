@@ -1,0 +1,245 @@
+[
+  {
+    "sld": "akam.net",
+    "total_count": 34,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 21342,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL",
+      "US"
+    ],
+    "example_targets": [
+      "a28-64.akam.net",
+      "a11-66.akam.net",
+      "a1-166.akam.net",
+      "a1-160.akam.net",
+      "a1-139.akam.net",
+      "a6-64.akam.net",
+      "asia3.akam.net",
+      "a7-64.akam.net",
+      "a3-66.akam.net",
+      "a1-226.akam.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)akam.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "trademarkarea.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns02.trademarkarea.com",
+      "ns03.trademarkarea.com",
+      "ns01.trademarkarea.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)trademarkarea.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "101domain.com",
+    "total_count": 27,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.101domain.com",
+      "ns5.101domain.com",
+      "ns2.101domain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)101domain.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cenpac.net.nr",
+    "total_count": 26,
+    "provider_hint": "Cenpac Net Inc",
+    "top_asn": {
+      "asn": 55722,
+      "org": "Cenpac Net Inc"
+    },
+    "pct": 0.769,
+    "countries": [
+      "NR",
+      "BT"
+    ],
+    "example_targets": [
+      "ns1.cenpac.net.nr",
+      "ns2.cenpac.net.nr",
+      "ns0.cenpac.net.nr"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cenpac.net.nr(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cscdns.net",
+    "total_count": 25,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.cscdns.net",
+      "udns1.cscdns.net",
+      "dns2.cscdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cscdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nsone.net",
+    "total_count": 20,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns2.p01.nsone.net",
+      "dns4.p01.nsone.net",
+      "dns3.p02.nsone.net",
+      "dns2.p03.nsone.net",
+      "dns4.p03.nsone.net",
+      "dns2.p02.nsone.net",
+      "dns1.p03.nsone.net",
+      "dns3.p03.nsone.net",
+      "dns1.p01.nsone.net",
+      "dns3.p01.nsone.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nsone.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.net",
+    "total_count": 15,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pdns2.ultradns.net",
+      "edns109.ultradns.net",
+      "pdns91.ultradns.net",
+      "edns2.ultradns.net",
+      "edns1.ultradns.net",
+      "pdns1.ultradns.net",
+      "udns2.ultradns.net",
+      "udns1.ultradns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.org",
+    "total_count": 13,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pdns4.ultradns.org",
+      "edns1.ultradns.org",
+      "edns2.ultradns.org",
+      "edns109.ultradns.org",
+      "pdns91.ultradns.org",
+      "pdns3.ultradns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 12,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4.google.com",
+      "ns2.google.com",
+      "ns1.google.com",
+      "ns3.google.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gandi.net",
+    "total_count": 12,
+    "provider_hint": "GANDI SAS",
+    "top_asn": {
+      "asn": 209453,
+      "org": "GANDI SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "example_targets": [
+      "ns-211-b.gandi.net",
+      "ns-83-a.gandi.net",
+      "ns-110-b.gandi.net",
+      "ns-36-c.gandi.net",
+      "ns-58-b.gandi.net",
+      "ns-163-c.gandi.net",
+      "ns-177-c.gandi.net",
+      "ns-119-c.gandi.net",
+      "ns-227-a.gandi.net",
+      "ns-124-a.gandi.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gandi.net(?:\\.|$)"
+    ]
+  }
+]
