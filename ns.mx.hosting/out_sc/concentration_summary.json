@@ -1,0 +1,28 @@
+{
+  "ns_provider": {
+    "top3_coverage": 53.68,
+    "HHI": 0.1646,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "NSONE",
+      "AMAZON-02"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 0.5983,
+    "top3_providers": [
+      "Ava Host Srl",
+      "AMAZON-AES"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 28.17,
+    "HHI": 0.0403,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "OVH SAS"
+    ]
+  }
+}
