@@ -1,0 +1,111 @@
+[
+  {
+    "sld": "ddge.ru",
+    "total_count": 52,
+    "provider_hint": "Cloudie Limited",
+    "top_asn": {
+      "asn": 55933,
+      "org": "Cloudie Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ffvip.ddge.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ddge\\.ru(?:\\.|$)",
+      "(?:^|\\.)ddge[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fq5uyfsb384w.com",
+    "total_count": 40,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dafa5188.fq5uyfsb384w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fq5uyfsb384w\\.com(?:\\.|$)",
+      "(?:^|\\.)fq5uyfsb384w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "rh2lqcbqssfb.com",
+    "total_count": 32,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "huhu666.rh2lqcbqssfb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)rh2lqcbqssfb\\.com(?:\\.|$)",
+      "(?:^|\\.)rh2lqcbqssfb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "o00o.eu",
+    "total_count": 29,
+    "provider_hint": "HOSTHATCH",
+    "top_asn": {
+      "asn": 63473,
+      "org": "HOSTHATCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "sms.o00o.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)o00o\\.eu(?:\\.|$)",
+      "(?:^|\\.)o00o[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdnzhukong.com",
+    "total_count": 26,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 0.865,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "n7vmauy5.cdnzhukong.com",
+      "92zg7t5w.cdnzhukong.com",
+      "dmrjszhp.cdnzhukong.com",
+      "79c8gnw3.cdnzhukong.com",
+      "jfs72we9.cdnzhukong.com",
+      "bmv8z5we.cdnzhukong.com",
+      "wryzjx4f.cdnzhukong.com",
+      "3v587suw.cdnzhukong.com",
+      "4cs62thf.cdnzhukong.com",
+      "b4kny7a9.cdnzhukong.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdnzhukong\\.com(?:\\.|$)",
+      "(?:^|\\.)cdnzhukong[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
