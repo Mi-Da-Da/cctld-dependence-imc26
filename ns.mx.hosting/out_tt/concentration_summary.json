@@ -1,0 +1,27 @@
+{
+  "ns_provider": {
+    "top3_coverage": 75.8,
+    "HHI": 0.2818,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "SECURITYSERVICES",
+      "NSONE"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 1.0,
+    "top3_providers": [
+      "Cloudflare London, LLC"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 42.38,
+    "HHI": 0.0711,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "CSC"
+    ]
+  }
+}
