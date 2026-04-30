@@ -1,0 +1,25 @@
+{
+  "ns_provider": {
+    "top3_coverage": 62.56,
+    "HHI": 0.2235,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "SECURITYSERVICES",
+      "AMAZON-02"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 0,
+    "HHI": 0,
+    "top3_providers": []
+  },
+  "ip_asns": {
+    "top3_coverage": 30.29,
+    "HHI": 0.046,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "Hetzner Online GmbH"
+    ]
+  }
+}
