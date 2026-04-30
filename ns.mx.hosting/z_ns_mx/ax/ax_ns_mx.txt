@@ -1,0 +1,129 @@
+=== 数据来源: ax ===
+NS 域名数: 708
+MX 域名数: 710
+NS+MX 交集: 708
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 187
+  MX: CLOUDFLARENET                    53  28.34%
+  MX: GOOGLE                           37  19.79%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       9   4.81%
+  MX: APPLE-ENGINEERING                 7   3.74%
+  MX: Proton AG                         6   3.21%
+
+[NS 提供商] Alands Telekommunikation Ab，域名数 87
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      37  42.53%
+  MX: Alands Telekommunikation Ab      32  36.78%
+  MX: GOOGLE                            4   4.60%
+  MX: justit.ax                         3   3.45%
+  MX: aland.fi                          3   3.45%
+
+[NS 提供商] netim.net，域名数 86
+  MX: Eurofiber France SAS             72  83.72%
+  MX: GOOGLE                            5   5.81%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   2.33%
+  MX: APPLE-ENGINEERING                 2   2.33%
+  MX: spamora.net                       1   1.16%
+
+[NS 提供商] istanco.com，域名数 34
+  MX: GOOGLE                            3   8.82%
+  MX: ck.ax                             1   2.94%
+  MX: jmp.ax                            1   2.94%
+  MX: si.ax                             1   2.94%
+  MX: ferm.ax                           1   2.94%
+
+[NS 提供商] Jakobstadsnejdens Telefon Ab，域名数 23
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       7  30.43%
+  MX: GOOGLE                            2   8.70%
+  MX: marin.ax                          1   4.35%
+  MX: hager.ax                          1   4.35%
+  MX: orcas.ax                          1   4.35%
+
+[NS 提供商] omc-dns.com，域名数 12
+  MX: omc-mail.com                     12 100.00%
+
+[NS 提供商] ipcom GmbH，域名数 12
+  MX: Proton AG                         2  16.67%
+  MX: APPLE-ENGINEERING                 2  16.67%
+  MX: webspace.bz                       2  16.67%
+  MX: GOOGLE                            2  16.67%
+  MX: 145.41                            1   8.33%
+
+[NS 提供商] ipconnect.fi，域名数 11
+  MX: ipconnect.fi                      6  54.55%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4  36.36%
+  MX: GOOGLE                            1   9.09%
+
+[NS 提供商] IONOS SE，域名数 10
+  MX: NorthC Deutschland GmbH           9  90.00%
+  MX: APPLE-ENGINEERING                 1  10.00%
+
+[NS 提供商] Hetzner Online GmbH，域名数 10
+  MX: GOOGLE                            2  20.00%
+  MX: forwardemail.net                  1  10.00%
+  MX: APPLE-ENGINEERING                 1  10.00%
+  MX: steamcommunity.ax                 1  10.00%
+  MX: sag.ax                            1  10.00%
+
+=== 数据来源: ax ===
+NS 域名数: 708
+MX 域名数: 710
+NS+MX 交集: 708
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 86
+  NS: Alands Telekommunikation Ab      37  43.02%
+  NS: CLOUDFLARENET                     9  10.47%
+  NS: Jakobstadsnejdens Telefon Ab      7   8.14%
+  NS: aland.fi                          5   5.81%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       4   4.65%
+
+[MX 提供商] Eurofiber France SAS，域名数 76
+  NS: netim.net                        72  94.74%
+  NS: CLOUDFLARENET                     2   2.63%
+  NS: dnsmadeeasy.com                   1   1.32%
+  NS: dnsimple.com                      1   1.32%
+
+[MX 提供商] GOOGLE，域名数 73
+  NS: CLOUDFLARENET                    37  50.68%
+  NS: netim.net                         5   6.85%
+  NS: GOOGLE                            4   5.48%
+  NS: Alands Telekommunikation Ab       4   5.48%
+  NS: istanco.com                       3   4.11%
+
+[MX 提供商] CLOUDFLARENET，域名数 54
+  NS: CLOUDFLARENET                    53  98.15%
+  NS: hostinger.com                     1   1.85%
+
+[MX 提供商] Alands Telekommunikation Ab，域名数 38
+  NS: Alands Telekommunikation Ab      32  84.21%
+  NS: CLOUDFLARENET                     3   7.89%
+  NS: GOOGLE                            1   2.63%
+  NS: Jakobstadsnejdens Telefon Ab      1   2.63%
+  NS: wordpress.com                     1   2.63%
+
+[MX 提供商] APPLE-ENGINEERING，域名数 17
+  NS: CLOUDFLARENET                     7  41.18%
+  NS: ipcom GmbH                        2  11.76%
+  NS: netim.net                         2  11.76%
+  NS: world4you.at                      1   5.88%
+  NS: istanco.com                       1   5.88%
+
+[MX 提供商] Proton AG，域名数 16
+  NS: CLOUDFLARENET                     6  37.50%
+  NS: ipcom GmbH                        2  12.50%
+  NS: netim.net                         1   6.25%
+  NS: NUCDN                             1   6.25%
+  NS: Alands Telekommunikation Ab       1   6.25%
+
+[MX 提供商] omc-mail.com，域名数 12
+  NS: omc-dns.com                      12 100.00%
+
+[MX 提供商] Fastmail Pty Ltd，域名数 12
+  NS: CLOUDFLARENET                     5  41.67%
+  NS: messagingengine.com               4  33.33%
+  NS: mythic-beasts.com                 1   8.33%
+  NS: awsdns-04.org                     1   8.33%
+  NS: 2038.host                         1   8.33%

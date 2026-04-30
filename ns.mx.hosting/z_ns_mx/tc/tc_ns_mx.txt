@@ -1,0 +1,178 @@
+=== 数据来源: tc ===
+NS 域名数: 1275
+MX 域名数: 1286
+NS+MX 交集: 1275
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 224
+  MX: GOOGLE                           50  22.32%
+  MX: CLOUDFLARENET                    42  18.75%
+  MX: x-ion GmbH                       16   7.14%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      15   6.70%
+  MX: YANDEX LLC                       12   5.36%
+
+[NS 提供商] mdnsservice.com，域名数 159
+  MX: hostedemail.com                 159 100.00%
+
+[NS 提供商] Host Europe GmbH，域名数 94
+  MX: GO-DADDY-COM-LLC                 52  55.32%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      23  24.47%
+  MX: GOOGLE                            9   9.57%
+  MX: roofing.tc                        1   1.06%
+  MX: akustik.tc                        1   1.06%
+
+[NS 提供商] nic.tc，域名数 81
+  MX: GOOGLE                           11  13.58%
+  MX: Netinternet Bilisim Teknolojileri AS     10  12.35%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5   6.17%
+  MX: YANDEX LLC                        4   4.94%
+  MX: intercity.tc                      1   1.23%
+
+[NS 提供商] SECURITYSERVICES，域名数 49
+  MX: SECURITYSERVICES                 41  83.67%
+  MX: electrolux.se                     2   4.08%
+  MX: speednames.com                    1   2.04%
+  MX: symantec.com                      1   2.04%
+  MX: volvo.se                          1   2.04%
+
+[NS 提供商] GANDI SAS，域名数 33
+  MX: GANDI SAS                        20  60.61%
+  MX: GOOGLE                            7  21.21%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3   9.09%
+  MX: christophe.tc                     1   3.03%
+  MX: Fastmail Pty Ltd                  1   3.03%
+
+[NS 提供商] IONOS SE，域名数 30
+  MX: NorthC Deutschland GmbH          25  83.33%
+  MX: GOOGLE                            3  10.00%
+  MX: Proton AG                         1   3.33%
+  MX: sprit.org                         1   3.33%
+
+[NS 提供商] natrohost.com，域名数 28
+  MX: Cizgi Telekomunikasyon Anonim Sirketi     18  64.29%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5  17.86%
+  MX: GOOGLE                            2   7.14%
+  MX: YANDEX LLC                        1   3.57%
+  MX: APPLE-ENGINEERING                 1   3.57%
+
+[NS 提供商] AMAZON-02，域名数 17
+  MX: GOOGLE                            3  17.65%
+  MX: titan.email                       2  11.76%
+  MX: emps.tc                           1   5.88%
+  MX: dmv.tc                            1   5.88%
+  MX: smarthome.tc                      1   5.88%
+
+[NS 提供商] guzelhosting.com，域名数 16
+  MX: YANDEX LLC                        2  12.50%
+  MX: ekstruzyon.tc                     1   6.25%
+  MX: GOOGLE                            1   6.25%
+  MX: localcoffee.tc                    1   6.25%
+  MX: murat.tc                          1   6.25%
+
+[NS 提供商] sedoparking.com，域名数 15
+  MX: localhost                        15 100.00%
+
+[NS 提供商] netim.net，域名数 14
+  MX: Eurofiber France SAS             12  85.71%
+  MX: privateemail.com                  1   7.14%
+  MX: proton.me                         1   7.14%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 14
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      10  71.43%
+  MX: ko.com                            3  21.43%
+  MX: GOOGLE                            1   7.14%
+
+[NS 提供商] dnsenable.com，域名数 11
+  MX: GOOGLE                            2  18.18%
+  MX: s-t.tc                            1   9.09%
+  MX: trk.tc                            1   9.09%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   9.09%
+  MX: altunlojistik.tc                  1   9.09%
+
+[NS 提供商] turkticaret.net，域名数 10
+  MX: TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.      9  90.00%
+  MX: YANDEX LLC                        1  10.00%
+
+=== 数据来源: tc ===
+NS 域名数: 1275
+MX 域名数: 1286
+NS+MX 交集: 1275
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] hostedemail.com，域名数 160
+  NS: mdnsservice.com                 159  99.38%
+  NS: hostpapa.com                      1   0.62%
+
+[MX 提供商] GOOGLE，域名数 131
+  NS: CLOUDFLARENET                    50  38.17%
+  NS: nic.tc                           11   8.40%
+  NS: Host Europe GmbH                  9   6.87%
+  NS: GANDI SAS                         7   5.34%
+  NS: GOOGLE                            4   3.05%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 94
+  NS: Host Europe GmbH                 23  24.47%
+  NS: CLOUDFLARENET                    15  15.96%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK      10  10.64%
+  NS: natrohost.com                     5   5.32%
+  NS: nic.tc                            5   5.32%
+
+[MX 提供商] GO-DADDY-COM-LLC，域名数 53
+  NS: Host Europe GmbH                 52  98.11%
+  NS: CLOUDFLARENET                     1   1.89%
+
+[MX 提供商] SECURITYSERVICES，域名数 43
+  NS: SECURITYSERVICES                 41  95.35%
+  NS: lexsynergy.info                   1   2.33%
+  NS: cscudns.com                       1   2.33%
+
+[MX 提供商] CLOUDFLARENET，域名数 42
+  NS: CLOUDFLARENET                    42 100.00%
+
+[MX 提供商] YANDEX LLC，域名数 33
+  NS: CLOUDFLARENET                    12  36.36%
+  NS: nic.tc                            4  12.12%
+  NS: destechinternet.com               2   6.06%
+  NS: guzelhosting.com                  2   6.06%
+  NS: yandex.net                        2   6.06%
+
+[MX 提供商] GANDI SAS，域名数 25
+  NS: GANDI SAS                        20  80.00%
+  NS: CLOUDFLARENET                     3  12.00%
+  NS: nearlyfreespeech.net              1   4.00%
+  NS: awsdns-38.net                     1   4.00%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 25
+  NS: IONOS SE                         25 100.00%
+
+[MX 提供商] Cizgi Telekomunikasyon Anonim Sirketi，域名数 20
+  NS: natrohost.com                    18  90.00%
+  NS: nic.tc                            1   5.00%
+  NS: CLOUDFLARENET                     1   5.00%
+
+[MX 提供商] x-ion GmbH，域名数 18
+  NS: CLOUDFLARENET                    16  88.89%
+  NS: register.com                      1   5.56%
+  NS: rebel.com                         1   5.56%
+
+[MX 提供商] localhost，域名数 15
+  NS: sedoparking.com                  15 100.00%
+
+[MX 提供商] com.tr，域名数 13
+  NS: com.tr                            4  30.77%
+  NS: ihsdnsx58.com                     2  15.38%
+  NS: CLOUDFLARENET                     2  15.38%
+  NS: ihsdnsx26.com                     1   7.69%
+  NS: ihsdnsx53.com                     1   7.69%
+
+[MX 提供商] Eurofiber France SAS，域名数 12
+  NS: netim.net                        12 100.00%
+
+[MX 提供商] Safenames Ltd.，域名数 11
+  NS: Safenames Ltd.                    9  81.82%
+  NS: safenames.com                     2  18.18%
+
+[MX 提供商] Netinternet Bilisim Teknolojileri AS，域名数 10
+  NS: nic.tc                           10 100.00%

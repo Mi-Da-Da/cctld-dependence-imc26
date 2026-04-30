@@ -1,0 +1,50 @@
+=== 数据来源: iq ===
+NS 域名数: 217
+MX 域名数: 217
+NS+MX 交集: 217
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 105
+  MX: com.iq                           49  46.67%
+  MX: CLOUDFLARENET                    32  30.48%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       9   8.57%
+  MX: GOOGLE                            3   2.86%
+  MX: mailchannels.net                  2   1.90%
+
+[NS 提供商] AMAZON-02，域名数 19
+  MX: com.iq                           15  78.95%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3  15.79%
+  MX: GOOGLE                            1   5.26%
+
+[NS 提供商] SECURITYSERVICES，域名数 15
+  MX: NAMECHEAP-NET                    13  86.67%
+  MX: com.iq                            1   6.67%
+  MX: GOOGLE                            1   6.67%
+
+=== 数据来源: iq ===
+NS 域名数: 217
+MX 域名数: 217
+NS+MX 交集: 217
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.iq，域名数 116
+  NS: CLOUDFLARENET                    49  42.24%
+  NS: AMAZON-02                        15  12.93%
+  NS: INMOTION                          6   5.17%
+  NS: contabo.net                       5   4.31%
+  NS: hostorr.net                       4   3.45%
+
+[MX 提供商] CLOUDFLARENET，域名数 32
+  NS: CLOUDFLARENET                    32 100.00%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 17
+  NS: CLOUDFLARENET                     9  52.94%
+  NS: AMAZON-02                         3  17.65%
+  NS: microsoftonline.com               2  11.76%
+  NS: second-ns.com                     1   5.88%
+  NS: ultradns.net                      1   5.88%
+
+[MX 提供商] NAMECHEAP-NET，域名数 13
+  NS: SECURITYSERVICES                 13 100.00%

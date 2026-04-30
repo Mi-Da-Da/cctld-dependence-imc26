@@ -1,0 +1,45 @@
+=== 数据来源: ki ===
+NS 域名数: 123
+MX 域名数: 124
+NS+MX 交集: 123
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] IONOS SE，域名数 31
+  MX: NorthC Deutschland GmbH          24  77.42%
+  MX: GOOGLE                            6  19.35%
+  MX: outlook.com                       1   3.23%
+
+[NS 提供商] CLOUDFLARENET，域名数 14
+  MX: GOOGLE                            4  28.57%
+  MX: icloud.com                        1   7.14%
+  MX: cloudflare.net                    1   7.14%
+  MX: u.ki                              1   7.14%
+  MX: 101domain.com                     1   7.14%
+
+[NS 提供商] SECURITYSERVICES，域名数 14
+  MX: SECURITYSERVICES                 14 100.00%
+
+=== 数据来源: ki ===
+NS 域名数: 123
+MX 域名数: 124
+NS+MX 交集: 123
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 25
+  NS: IONOS SE                         24  96.00%
+  NS: CLOUDFLARENET                     1   4.00%
+
+[MX 提供商] SECURITYSERVICES，域名数 18
+  NS: SECURITYSERVICES                 14  77.78%
+  NS: portsdns.net                      2  11.11%
+  NS: Akamai International B.V.         1   5.56%
+  NS: mmc.com                           1   5.56%
+
+[MX 提供商] GOOGLE，域名数 18
+  NS: IONOS SE                          6  33.33%
+  NS: CLOUDFLARENET                     4  22.22%
+  NS: awsdns-25.org                     1   5.56%
+  NS: a2dns.com                         1   5.56%
+  NS: siteground.net                    1   5.56%

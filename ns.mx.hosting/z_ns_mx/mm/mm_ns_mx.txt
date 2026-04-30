@@ -1,0 +1,61 @@
+=== 数据来源: mm ===
+NS 域名数: 446
+MX 域名数: 452
+NS+MX 交集: 446
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] net.mm，域名数 274
+  MX: net.mm                          100  36.50%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      57  20.80%
+  MX: GOOGLE                           47  17.15%
+  MX: com.mm                           37  13.50%
+  MX: ZOHO-AS                          10   3.65%
+
+[NS 提供商] CLOUDFLARENET，域名数 102
+  MX: com.mm                           30  29.41%
+  MX: GOOGLE                           16  15.69%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      16  15.69%
+  MX: ZOHO-AS                          13  12.75%
+  MX: net.mm                           11  10.78%
+
+=== 数据来源: mm ===
+NS 域名数: 446
+MX 域名数: 452
+NS+MX 交集: 446
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] net.mm，域名数 114
+  NS: net.mm                          100  87.72%
+  NS: CLOUDFLARENET                    11   9.65%
+  NS: cldy.com                          1   0.88%
+  NS: NSONE                             1   0.88%
+  NS: cscdns.net                        1   0.88%
+
+[MX 提供商] com.mm，域名数 89
+  NS: net.mm                           37  41.57%
+  NS: CLOUDFLARENET                    30  33.71%
+  NS: com.mm                            3   3.37%
+  NS: hostgator.com                     1   1.12%
+  NS: org.mm                            1   1.12%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 86
+  NS: net.mm                           57  66.28%
+  NS: CLOUDFLARENET                    16  18.60%
+  NS: org.mm                            5   5.81%
+  NS: com.mm                            2   2.33%
+  NS: awsdns-05.net                     1   1.16%
+
+[MX 提供商] GOOGLE，域名数 66
+  NS: net.mm                           47  71.21%
+  NS: CLOUDFLARENET                    16  24.24%
+  NS: myanmars.info                     1   1.52%
+  NS: yangonhost.net                    1   1.52%
+  NS: SECURITYSERVICES                  1   1.52%
+
+[MX 提供商] ZOHO-AS，域名数 25
+  NS: CLOUDFLARENET                    13  52.00%
+  NS: net.mm                           10  40.00%
+  NS: SECURITYSERVICES                  1   4.00%
+  NS: awsdns-12.org                     1   4.00%

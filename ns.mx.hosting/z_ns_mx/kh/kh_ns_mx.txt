@@ -1,0 +1,78 @@
+=== 数据来源: kh ===
+NS 域名数: 363
+MX 域名数: 364
+NS+MX 交集: 363
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 80
+  MX: com.kh                           27  33.75%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      13  16.25%
+  MX: GOOGLE                           10  12.50%
+  MX: hostinger.com                     4   5.00%
+  MX: ZOHO-AS                           4   5.00%
+
+[NS 提供商] com.kh，域名数 37
+  MX: com.kh                           22  59.46%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11  29.73%
+  MX: barracudanetworks.com             1   2.70%
+  MX: co.th                             1   2.70%
+  MX: com.vn                            1   2.70%
+
+[NS 提供商] GANDI SAS，域名数 31
+  MX: GANDI SAS                        30  96.77%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   3.23%
+
+[NS 提供商] SECURITYSERVICES，域名数 30
+  MX: SECURITYSERVICES                 13  43.33%
+  MX: NAMECHEAP-NET                     6  20.00%
+  MX: domainnetwork.se                  3  10.00%
+  MX: speednames.com                    3  10.00%
+  MX: com.kh                            2   6.67%
+
+[NS 提供商] Host Europe GmbH，域名数 10
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       7  70.00%
+  MX: GOOGLE                            2  20.00%
+  MX: secureserver.net                  1  10.00%
+
+=== 数据来源: kh ===
+NS 域名数: 363
+MX 域名数: 364
+NS+MX 交集: 363
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.kh，域名数 119
+  NS: CLOUDFLARENET                    27  22.69%
+  NS: com.kh                           22  18.49%
+  NS: hostgator.com                     7   5.88%
+  NS: AMAZON-02                         5   4.20%
+  NS: norkornet.com                     4   3.36%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 62
+  NS: CLOUDFLARENET                    13  20.97%
+  NS: com.kh                           11  17.74%
+  NS: Host Europe GmbH                  7  11.29%
+  NS: ANGKOR DATA COMMUNICATION         3   4.84%
+  NS: DIGICERT                          2   3.23%
+
+[MX 提供商] GANDI SAS，域名数 30
+  NS: GANDI SAS                        30 100.00%
+
+[MX 提供商] GOOGLE，域名数 28
+  NS: CLOUDFLARENET                    10  35.71%
+  NS: cloudns.net                       2   7.14%
+  NS: Host Europe GmbH                  2   7.14%
+  NS: ANGKOR DATA COMMUNICATION         1   3.57%
+  NS: supremedns.com                    1   3.57%
+
+[MX 提供商] org.kh，域名数 14
+  NS: AMAZON-02                         3  21.43%
+  NS: gov.kh                            2  14.29%
+  NS: ANGKOR DATA COMMUNICATION         1   7.14%
+  NS: CLOUDFLARENET                     1   7.14%
+  NS: urlnameserver.com                 1   7.14%
+
+[MX 提供商] SECURITYSERVICES，域名数 14
+  NS: SECURITYSERVICES                 13  92.86%
+  NS: Akamai International B.V.         1   7.14%

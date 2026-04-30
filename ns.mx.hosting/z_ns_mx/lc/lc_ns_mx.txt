@@ -1,0 +1,227 @@
+=== 数据来源: lc ===
+NS 域名数: 1247
+MX 域名数: 1255
+NS+MX 交集: 1247
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] cloudflare.com，域名数 185
+  MX: CLOUDFLARENET                    48  25.95%
+  MX: GOOGLE                           27  14.59%
+  MX: Fastmail Pty Ltd                 12   6.49%
+  MX: Proton AG                         8   4.32%
+  MX: QUICKPACKET                       7   3.78%
+
+[NS 提供商] xundns.com，域名数 165
+  MX: aisdun-cname.com                 70  42.42%
+  MX: cjahjqve.com                     19  11.52%
+  MX: 92kun.com                        18  10.91%
+  MX: 123jscdn.com                      7   4.24%
+  MX: xg-6-cdn.com                      7   4.24%
+
+[NS 提供商] CLOUDFLARENET，域名数 128
+  MX: CLOUDFLARENET                    27  21.09%
+  MX: paike567.top                     13  10.16%
+  MX: GOOGLE                           12   9.38%
+  MX: zx770.com                        10   7.81%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       7   5.47%
+
+[NS 提供商] AMAZON-02，域名数 86
+  MX: GOOGLE                           39  45.35%
+  MX: GOOGLE-CLOUD-PLATFORM            10  11.63%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4   4.65%
+  MX: h-email.net                       4   4.65%
+  MX: 87.lc                             1   1.16%
+
+[NS 提供商] GANDI SAS，域名数 77
+  MX: GANDI SAS                        54  70.13%
+  MX: GOOGLE                            7   9.09%
+  MX: Proton AG                         3   3.90%
+  MX: Heinlein-Support GmbH             2   2.60%
+  MX: Fastmail Pty Ltd                  2   2.60%
+
+[NS 提供商] OVH SAS，域名数 58
+  MX: OVH SAS                          41  70.69%
+  MX: Proton AG                         4   6.90%
+  MX: APPLE-ENGINEERING                 2   3.45%
+  MX: cyberchaos.dev                    1   1.72%
+  MX: mailo.com                         1   1.72%
+
+[NS 提供商] SECURITYSERVICES，域名数 36
+  MX: SECURITYSERVICES                 32  88.89%
+  MX: hostedemail.com                   2   5.56%
+  MX: pphosted.com                      1   2.78%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   2.78%
+
+[NS 提供商] netim.net，域名数 21
+  MX: Eurofiber France SAS             21 100.00%
+
+[NS 提供商] 1233dns.com，域名数 19
+  MX: Alsycon B.V.                     17  89.47%
+  MX: gocname.com                       1   5.26%
+  MX: npud450c.com                      1   5.26%
+
+[NS 提供商] iwantmyname.net，域名数 16
+  MX: GOOGLE                            4  25.00%
+  MX: Fastmail Pty Ltd                  3  18.75%
+  MX: Proton AG                         3  18.75%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3  18.75%
+  MX: APPLE-ENGINEERING                 1   6.25%
+
+[NS 提供商] dnsip.com，域名数 14
+  MX: gocname.com                       9  64.29%
+  MX: vnscdn2.com                       2  14.29%
+  MX: 3bcncdn.com                       2  14.29%
+  MX: CLOUDFLARENET                     1   7.14%
+
+[NS 提供商] Trellian Pty. Limited，域名数 14
+  MX: Trellian Pty. Limited            13  92.86%
+  MX: alltheemails.com                  1   7.14%
+
+[NS 提供商] CONFLUENCE-NETWORK-INC，域名数 13
+  MX: ~                                13 100.00%
+
+[NS 提供商] IONOS SE，域名数 11
+  MX: NorthC Deutschland GmbH          10  90.91%
+  MX: GOOGLE                            1   9.09%
+
+[NS 提供商] nic.ru，域名数 10
+  MX: YANDEX LLC                        3  30.00%
+  MX: Jsc ru-center                     2  20.00%
+  MX: bbk.lc                            1  10.00%
+  MX: vald.lc                           1  10.00%
+  MX: yandex.ru                         1  10.00%
+
+[NS 提供商] NUCDN，域名数 10
+  MX: x-ion GmbH                        3  30.00%
+  MX: ebrandservices.com                2  20.00%
+  MX: eurodns.com                       1  10.00%
+  MX: GOOGLE                            1  10.00%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1  10.00%
+
+=== 数据来源: lc ===
+NS 域名数: 1247
+MX 域名数: 1255
+NS+MX 交集: 1247
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 131
+  NS: AMAZON-02                        39  29.77%
+  NS: cloudflare.com                   27  20.61%
+  NS: CLOUDFLARENET                    12   9.16%
+  NS: GANDI SAS                         7   5.34%
+  NS: iwantmyname.net                   4   3.05%
+
+[MX 提供商] CLOUDFLARENET，域名数 77
+  NS: cloudflare.com                   48  62.34%
+  NS: CLOUDFLARENET                    27  35.06%
+  NS: dnspod.net                        1   1.30%
+  NS: dnsip.com                         1   1.30%
+
+[MX 提供商] aisdun-cname.com，域名数 70
+  NS: xundns.com                       70 100.00%
+
+[MX 提供商] GANDI SAS，域名数 60
+  NS: GANDI SAS                        54  90.00%
+  NS: cloudflare.com                    4   6.67%
+  NS: activeplus.net                    1   1.67%
+  NS: awsdns-38.net                     1   1.67%
+
+[MX 提供商] OVH SAS，域名数 50
+  NS: OVH SAS                          41  82.00%
+  NS: anycast.me                        3   6.00%
+  NS: cloudflare.com                    3   6.00%
+  NS: noahwagner.net                    1   2.00%
+  NS: wixdns.net                        1   2.00%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 42
+  NS: CLOUDFLARENET                     7  16.67%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       6  14.29%
+  NS: cloudflare.com                    4   9.52%
+  NS: AMAZON-02                         4   9.52%
+  NS: iwantmyname.net                   3   7.14%
+
+[MX 提供商] SECURITYSERVICES，域名数 35
+  NS: SECURITYSERVICES                 32  91.43%
+  NS: Akamai International B.V.         1   2.86%
+  NS: awsdns-29.org                     1   2.86%
+  NS: cscudns.com                       1   2.86%
+
+[MX 提供商] Proton AG，域名数 26
+  NS: cloudflare.com                    8  30.77%
+  NS: CLOUDFLARENET                     5  19.23%
+  NS: OVH SAS                           4  15.38%
+  NS: GANDI SAS                         3  11.54%
+  NS: iwantmyname.net                   3  11.54%
+
+[MX 提供商] Fastmail Pty Ltd，域名数 25
+  NS: cloudflare.com                   12  48.00%
+  NS: CLOUDFLARENET                     6  24.00%
+  NS: iwantmyname.net                   3  12.00%
+  NS: GANDI SAS                         2   8.00%
+  NS: DIGICERT                          1   4.00%
+
+[MX 提供商] Eurofiber France SAS，域名数 21
+  NS: netim.net                        21 100.00%
+
+[MX 提供商] cjahjqve.com，域名数 19
+  NS: xundns.com                       19 100.00%
+
+[MX 提供商] 92kun.com，域名数 18
+  NS: xundns.com                       18 100.00%
+
+[MX 提供商] Alsycon B.V.，域名数 18
+  NS: 1233dns.com                      17  94.44%
+  NS: xundns.com                        1   5.56%
+
+[MX 提供商] ZOHO-AS，域名数 17
+  NS: cloudflare.com                    7  41.18%
+  NS: CLOUDFLARENET                     3  17.65%
+  NS: inmotionhosting.com               2  11.76%
+  NS: NSONE                             1   5.88%
+  NS: dodns.net                         1   5.88%
+
+[MX 提供商] GOOGLE-CLOUD-PLATFORM，域名数 15
+  NS: AMAZON-02                        10  66.67%
+  NS: cloudflare.com                    4  26.67%
+  NS: iwantmyname.net                   1   6.67%
+
+[MX 提供商] APPLE-ENGINEERING，域名数 14
+  NS: cloudflare.com                    6  42.86%
+  NS: OVH SAS                           2  14.29%
+  NS: itroom.eu                         1   7.14%
+  NS: aspone.cz                         1   7.14%
+  NS: dodns.net                         1   7.14%
+
+[MX 提供商] paike567.top，域名数 13
+  NS: CLOUDFLARENET                    13 100.00%
+
+[MX 提供商] Trellian Pty. Limited，域名数 13
+  NS: Trellian Pty. Limited            13 100.00%
+
+[MX 提供商] ~，域名数 13
+  NS: CONFLUENCE-NETWORK-INC           13 100.00%
+
+[MX 提供商] localhost，域名数 12
+  NS: sedoparking.com                   9  75.00%
+  NS: mydomainprovider.com              1   8.33%
+  NS: sedo.com                          1   8.33%
+  NS: Host Europe GmbH                  1   8.33%
+
+[MX 提供商] YANDEX LLC，域名数 11
+  NS: nic.ru                            3  27.27%
+  NS: cloudflare.com                    2  18.18%
+  NS: yandex.net                        2  18.18%
+  NS: monikerdns.net                    1   9.09%
+  NS: timeweb.org                       1   9.09%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 10
+  NS: IONOS SE                         10 100.00%
+
+[MX 提供商] zx770.com，域名数 10
+  NS: CLOUDFLARENET                    10 100.00%
+
+[MX 提供商] gocname.com，域名数 10
+  NS: dnsip.com                         9  90.00%
+  NS: 1233dns.com                       1  10.00%

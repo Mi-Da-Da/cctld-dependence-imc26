@@ -1,0 +1,140 @@
+=== 数据来源: gi ===
+NS 域名数: 1246
+MX 域名数: 1249
+NS+MX 交集: 1246
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 432
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK     162  37.50%
+  MX: GOOGLE                          107  24.77%
+  MX: CLOUDFLARENET                    56  12.96%
+  MX: SQUIXA PTY LIMITED                7   1.62%
+  MX: ZOHO Corporation B.V              6   1.39%
+
+[NS 提供商] Gibtelecom Ltd.，域名数 159
+  MX: gibtelecom.net                  106  66.67%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      16  10.06%
+  MX: GOOGLE                            4   2.52%
+  MX: gibtel.gi                         2   1.26%
+  MX: messagelabs.com                   2   1.26%
+
+[NS 提供商] AMAZON-02，域名数 117
+  MX: GOOGLE-CLOUD-PLATFORM            71  60.68%
+  MX: GOOGLE                           17  14.53%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5   4.27%
+  MX: stableserver.net                  2   1.71%
+  MX: papaya.gi                         1   0.85%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 70
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      69  98.57%
+  MX: GOOGLE                            1   1.43%
+
+[NS 提供商] Host Europe GmbH，域名数 67
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      44  65.67%
+  MX: SQUIXA PTY LIMITED                7  10.45%
+  MX: GOOGLE                            3   4.48%
+  MX: secureserver.net                  2   2.99%
+  MX: ZOHO-AS                           2   2.99%
+
+[NS 提供商] co.uk，域名数 32
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      12  37.50%
+  MX: GOOGLE                            3   9.38%
+  MX: co.uk                             2   6.25%
+  MX: mimecast-offshore.com             1   3.12%
+  MX: reserve.gi                        1   3.12%
+
+[NS 提供商] GOOGLE，域名数 29
+  MX: GOOGLE                           19  65.52%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       8  27.59%
+  MX: dolphinsafari.gi                  1   3.45%
+  MX: ZOHO-AS                           1   3.45%
+
+[NS 提供商] DIGICERT，域名数 26
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11  42.31%
+  MX: SQUIXA PTY LIMITED                7  26.92%
+  MX: GOOGLE                            2   7.69%
+  MX: wheeltug.gi                       1   3.85%
+  MX: borealis.com                      1   3.85%
+
+[NS 提供商] SECURITYSERVICES，域名数 25
+  MX: Entain Services Austria GmbH     10  40.00%
+  MX: cscdns.net                        8  32.00%
+  MX: gibnet.gi                         2   8.00%
+  MX: SQUIXA PTY LIMITED                2   8.00%
+  MX: iphmx.com                         1   4.00%
+
+[NS 提供商] EDNS，域名数 18
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      13  72.22%
+  MX: GOOGLE                            3  16.67%
+  MX: pphosted.com                      2  11.11%
+
+[NS 提供商] Heart Internet limited，域名数 13
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2  15.38%
+  MX: drugz.gi                          1   7.69%
+  MX: bentleyestates.gi                 1   7.69%
+  MX: gibyacht.gi                       1   7.69%
+  MX: nw1.gi                            1   7.69%
+
+[NS 提供商] Iomart Managed Services Limited，域名数 12
+  MX: Iomart Managed Services Limited     10  83.33%
+  MX: techtrolec.gi                     1   8.33%
+  MX: GOOGLE                            1   8.33%
+
+[NS 提供商] inmotionhosting.com，域名数 11
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       9  81.82%
+  MX: GOOGLE                            2  18.18%
+
+=== 数据来源: gi ===
+NS 域名数: 1246
+MX 域名数: 1249
+NS+MX 交集: 1246
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 397
+  NS: CLOUDFLARENET                   162  40.81%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK      69  17.38%
+  NS: Host Europe GmbH                 44  11.08%
+  NS: Gibtelecom Ltd.                  16   4.03%
+  NS: EDNS                             13   3.27%
+
+[MX 提供商] GOOGLE，域名数 204
+  NS: CLOUDFLARENET                   107  52.45%
+  NS: GOOGLE                           19   9.31%
+  NS: AMAZON-02                        17   8.33%
+  NS: clook.net                         8   3.92%
+  NS: HURRICANE                         6   2.94%
+
+[MX 提供商] gibtelecom.net，域名数 106
+  NS: Gibtelecom Ltd.                 106 100.00%
+
+[MX 提供商] GOOGLE-CLOUD-PLATFORM，域名数 74
+  NS: AMAZON-02                        71  95.95%
+  NS: CLOUDFLARENET                     2   2.70%
+  NS: Host Europe GmbH                  1   1.35%
+
+[MX 提供商] CLOUDFLARENET，域名数 57
+  NS: CLOUDFLARENET                    56  98.25%
+  NS: GOOGLE-CLOUD-PLATFORM             1   1.75%
+
+[MX 提供商] SQUIXA PTY LIMITED，域名数 27
+  NS: DIGICERT                          7  25.93%
+  NS: CLOUDFLARENET                     7  25.93%
+  NS: Host Europe GmbH                  7  25.93%
+  NS: SECURITYSERVICES                  2   7.41%
+  NS: Gibtelecom Ltd.                   1   3.70%
+
+[MX 提供商] Iomart Managed Services Limited，域名数 11
+  NS: Iomart Managed Services Limited     10  90.91%
+  NS: no-ip.com                         1   9.09%
+
+[MX 提供商] co.uk，域名数 11
+  NS: phase8.net                        3  27.27%
+  NS: ui-dns.biz                        2  18.18%
+  NS: co.uk                             2  18.18%
+  NS: safenames.com                     1   9.09%
+  NS: CLOUDFLARENET                     1   9.09%
+
+[MX 提供商] Entain Services Austria GmbH，域名数 10
+  NS: SECURITYSERVICES                 10 100.00%

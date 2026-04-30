@@ -1,0 +1,143 @@
+=== 数据来源: eg ===
+NS 域名数: 862
+MX 域名数: 873
+NS+MX 交集: 862
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 162
+  MX: com.eg                           54  33.33%
+  MX: GOOGLE                           25  15.43%
+  MX: CLOUDFLARENET                    24  14.81%
+  MX: ZOHO-AS                          16   9.88%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      14   8.64%
+
+[NS 提供商] linkdatacenter.net，域名数 88
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      45  51.14%
+  MX: LINKdotNET                       20  22.73%
+  MX: com.eg                            9  10.23%
+  MX: resellerhosting.site              5   5.68%
+  MX: ZOHO-AS                           3   3.41%
+
+[NS 提供商] Hetzner Online GmbH，域名数 58
+  MX: com.eg                           52  89.66%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3   5.17%
+  MX: ZOHO-AS                           2   3.45%
+  MX: trendmicro.eu                     1   1.72%
+
+[NS 提供商] TE Data，域名数 56
+  MX: com.eg                           33  58.93%
+  MX: GOOGLE                            7  12.50%
+  MX: te.eg                             5   8.93%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5   8.93%
+  MX: ZOHO-AS                           2   3.57%
+
+[NS 提供商] link.net，域名数 49
+  MX: LINKdotNET                       22  44.90%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11  22.45%
+  MX: com.eg                            7  14.29%
+  MX: GOOGLE                            7  14.29%
+  MX: ZOHO-AS                           1   2.04%
+
+[NS 提供商] SECURITYSERVICES，域名数 42
+  MX: SECURITYSERVICES                 24  57.14%
+  MX: NAMECHEAP-NET                     7  16.67%
+  MX: com.eg                            4   9.52%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4   9.52%
+  MX: GOOGLE                            3   7.14%
+
+[NS 提供商] Host Europe GmbH，域名数 29
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11  37.93%
+  MX: com.eg                            8  27.59%
+  MX: GOOGLE                            6  20.69%
+  MX: hostgator.com                     2   6.90%
+  MX: ZOHO-AS                           1   3.45%
+
+[NS 提供商] IS-AS-1，域名数 22
+  MX: com.eg                           21  95.45%
+  MX: GOOGLE                            1   4.55%
+
+[NS 提供商] noorhosting.com，域名数 21
+  MX: com.eg                            8  38.10%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5  23.81%
+  MX: AMAZON-02                         1   4.76%
+  MX: spamhero.net                      1   4.76%
+  MX: barracudanetworks.com             1   4.76%
+
+[NS 提供商] AMAZON-02，域名数 17
+  MX: com.eg                           10  58.82%
+  MX: GOOGLE-CLOUD-PLATFORM             4  23.53%
+  MX: LINKdotNET                        1   5.88%
+  MX: ZOHO-AS                           1   5.88%
+  MX: GOOGLE                            1   5.88%
+
+[NS 提供商] GANDI SAS，域名数 14
+  MX: GANDI SAS                        14 100.00%
+
+[NS 提供商] com.eg，域名数 11
+  MX: com.eg                            7  63.64%
+  MX: ccc.net                           1   9.09%
+  MX: secureserver.net                  1   9.09%
+  MX: dreamhost.com                     1   9.09%
+  MX: msv1.invalid                      1   9.09%
+
+[NS 提供商] LEVEL3，域名数 11
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5  45.45%
+  MX: com.eg                            4  36.36%
+  MX: cloudsmartly.com                  1   9.09%
+  MX: GOOGLE                            1   9.09%
+
+=== 数据来源: eg ===
+NS 域名数: 862
+MX 域名数: 873
+NS+MX 交集: 862
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.eg，域名数 367
+  NS: CLOUDFLARENET                    54  14.71%
+  NS: Hetzner Online GmbH              52  14.17%
+  NS: TE Data                          33   8.99%
+  NS: IS-AS-1                          21   5.72%
+  NS: AMAZON-02                        10   2.72%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 130
+  NS: linkdatacenter.net               45  34.62%
+  NS: CLOUDFLARENET                    14  10.77%
+  NS: Host Europe GmbH                 11   8.46%
+  NS: link.net                         11   8.46%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       7   5.38%
+
+[MX 提供商] GOOGLE，域名数 79
+  NS: CLOUDFLARENET                    25  31.65%
+  NS: TE Data                           7   8.86%
+  NS: link.net                          7   8.86%
+  NS: Host Europe GmbH                  6   7.59%
+  NS: mh-sites.com                      3   3.80%
+
+[MX 提供商] LINKdotNET，域名数 47
+  NS: link.net                         22  46.81%
+  NS: linkdatacenter.net               20  42.55%
+  NS: site4now.net                      2   4.26%
+  NS: AMAZON-02                         1   2.13%
+  NS: shomandns.com                     1   2.13%
+
+[MX 提供商] ZOHO-AS，域名数 31
+  NS: CLOUDFLARENET                    16  51.61%
+  NS: linkdatacenter.net                3   9.68%
+  NS: Hetzner Online GmbH               2   6.45%
+  NS: TE Data                           2   6.45%
+  NS: Host Europe GmbH                  1   3.23%
+
+[MX 提供商] CLOUDFLARENET，域名数 27
+  NS: CLOUDFLARENET                    24  88.89%
+  NS: linkdatacenter.net                1   3.70%
+  NS: GOOGLE                            1   3.70%
+  NS: TE Data                           1   3.70%
+
+[MX 提供商] SECURITYSERVICES，域名数 25
+  NS: SECURITYSERVICES                 24  96.00%
+  NS: perf1.com                         1   4.00%
+
+[MX 提供商] GANDI SAS，域名数 14
+  NS: GANDI SAS                        14 100.00%

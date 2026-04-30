@@ -1,0 +1,78 @@
+=== 数据来源: hm ===
+NS 域名数: 383
+MX 域名数: 388
+NS+MX 交集: 383
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 95
+  MX: CLOUDFLARENET                    67  70.53%
+  MX: GOOGLE                            8   8.42%
+  MX: rwgusa.net                        2   2.11%
+  MX: forwardemail.net                  2   2.11%
+  MX: your-server.de                    2   2.11%
+
+[NS 提供商] vche.net，域名数 30
+  MX: AMAZON-AES                       30 100.00%
+
+[NS 提供商] sedoparking.com，域名数 23
+  MX: localhost                        22  95.65%
+  MX: store.hm                          1   4.35%
+
+[NS 提供商] SECURITYSERVICES，域名数 22
+  MX: SECURITYSERVICES                 15  68.18%
+  MX: volvo.se                          3  13.64%
+  MX: dnsassurance.com                  2   9.09%
+  MX: symantec.com                      1   4.55%
+  MX: gronaverket.se                    1   4.55%
+
+[NS 提供商] BIZLAND-SD，域名数 20
+  MX: news.hm                           1   5.00%
+  MX: about.hm                          1   5.00%
+  MX: treasury.hm                       1   5.00%
+  MX: compliance.hm                     1   5.00%
+  MX: sry.hm                            1   5.00%
+
+[NS 提供商] IONOS SE，域名数 17
+  MX: NorthC Deutschland GmbH          15  88.24%
+  MX: GOOGLE                            1   5.88%
+  MX: die.hm                            1   5.88%
+
+[NS 提供商] AMAZON-02，域名数 10
+  MX: h-email.net                      10 100.00%
+
+=== 数据来源: hm ===
+NS 域名数: 383
+MX 域名数: 388
+NS+MX 交集: 383
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] CLOUDFLARENET，域名数 67
+  NS: CLOUDFLARENET                    67 100.00%
+
+[MX 提供商] AMAZON-AES，域名数 31
+  NS: vche.net                         30  96.77%
+  NS: 8.et                              1   3.23%
+
+[MX 提供商] GOOGLE，域名数 23
+  NS: CLOUDFLARENET                     8  34.78%
+  NS: AS-VULTR                          6  26.09%
+  NS: registrar-servers.com             2   8.70%
+  NS: IONOS SE                          1   4.35%
+  NS: vercel-dns.com                    1   4.35%
+
+[MX 提供商] localhost，域名数 22
+  NS: sedoparking.com                  22 100.00%
+
+[MX 提供商] SECURITYSERVICES，域名数 18
+  NS: SECURITYSERVICES                 15  83.33%
+  NS: nsroot1.com                       1   5.56%
+  NS: brandshelter.com                  1   5.56%
+  NS: Akamai International B.V.         1   5.56%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 15
+  NS: IONOS SE                         15 100.00%
+
+[MX 提供商] h-email.net，域名数 10
+  NS: AMAZON-02                        10 100.00%

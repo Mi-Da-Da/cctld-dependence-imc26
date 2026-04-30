@@ -1,0 +1,52 @@
+=== 数据来源: kn ===
+NS 域名数: 178
+MX 域名数: 180
+NS+MX 交集: 178
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SECURITYSERVICES，域名数 36
+  MX: SECURITYSERVICES                 24  66.67%
+  MX: netnames.net                      4  11.11%
+  MX: register.com                      3   8.33%
+  MX: electrolux.se                     2   5.56%
+  MX: volvo.se                          1   2.78%
+
+[NS 提供商] AMAZON-02，域名数 30
+  MX: GOOGLE-CLOUD-PLATFORM             3  10.00%
+  MX: GOOGLE                            2   6.67%
+  MX: clai.kn                           1   3.33%
+  MX: wal.kn                            1   3.33%
+  MX: mammoth.kn                        1   3.33%
+
+[NS 提供商] CLOUDFLARENET，域名数 26
+  MX: 101domain.com                     8  30.77%
+  MX: GOOGLE                            5  19.23%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   7.69%
+  MX: icloud.com                        2   7.69%
+  MX: protonmail.ch                     2   7.69%
+
+=== 数据来源: kn ===
+NS 域名数: 178
+MX 域名数: 180
+NS+MX 交集: 178
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] SECURITYSERVICES，域名数 25
+  NS: SECURITYSERVICES                 24  96.00%
+  NS: cscudns.com                       1   4.00%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 15
+  NS: CLOUDFLARENET                     2  13.33%
+  NS: awsdns-57.org                     1   6.67%
+  NS: awsdns-17.net                     1   6.67%
+  NS: DIGICERT                          1   6.67%
+  NS: awsdns-00.net                     1   6.67%
+
+[MX 提供商] GOOGLE，域名数 12
+  NS: CLOUDFLARENET                     5  41.67%
+  NS: AMAZON-02                         2  16.67%
+  NS: awsdns-17.org                     1   8.33%
+  NS: dreamhost.com                     1   8.33%
+  NS: DIGICERT                          1   8.33%

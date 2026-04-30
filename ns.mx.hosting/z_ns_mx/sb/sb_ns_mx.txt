@@ -1,0 +1,85 @@
+=== 数据来源: sb ===
+NS 域名数: 281
+MX 域名数: 283
+NS+MX 交集: 281
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 83
+  MX: CLOUDFLARENET                    19  22.89%
+  MX: Eurofiber France SAS              8   9.64%
+  MX: GOOGLE                            7   8.43%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6   7.23%
+  MX: Proton AG                         5   6.02%
+
+[NS 提供商] SECURITYSERVICES，域名数 40
+  MX: SECURITYSERVICES                 34  85.00%
+  MX: INCAPSULA                         6  15.00%
+
+[NS 提供商] netim.net，域名数 33
+  MX: Eurofiber France SAS             29  87.88%
+  MX: simplelogin.co                    2   6.06%
+  MX: Tianjij,300000                    1   3.03%
+  MX: Proton AG                         1   3.03%
+
+[NS 提供商] GANDI SAS，域名数 12
+  MX: GANDI SAS                         7  58.33%
+  MX: GOOGLE                            3  25.00%
+  MX: nima.sb                           1   8.33%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   8.33%
+
+[NS 提供商] xundns.com，域名数 12
+  MX: xenodns.com                       9  75.00%
+  MX: thewaydomain.com                  2  16.67%
+  MX: olns.vip                          1   8.33%
+
+[NS 提供商] dnspod.net，域名数 10
+  MX: Tianjij,300000                    5  50.00%
+  MX: feishu.cn                         1  10.00%
+  MX: global-mail.cn                    1  10.00%
+  MX: mxrouting.net                     1  10.00%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1  10.00%
+
+=== 数据来源: sb ===
+NS 域名数: 281
+MX 域名数: 283
+NS+MX 交集: 281
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] SECURITYSERVICES，域名数 37
+  NS: SECURITYSERVICES                 34  91.89%
+  NS: rightsdns.com                     1   2.70%
+  NS: Akamai International B.V.         1   2.70%
+  NS: morganstanley.net                 1   2.70%
+
+[MX 提供商] Eurofiber France SAS，域名数 37
+  NS: netim.net                        29  78.38%
+  NS: CLOUDFLARENET                     8  21.62%
+
+[MX 提供商] CLOUDFLARENET，域名数 19
+  NS: CLOUDFLARENET                    19 100.00%
+
+[MX 提供商] GOOGLE，域名数 14
+  NS: CLOUDFLARENET                     7  50.00%
+  NS: GANDI SAS                         3  21.43%
+  NS: supercp.com                       1   7.14%
+  NS: NSONE                             1   7.14%
+  NS: dnsmadeeasy.com                   1   7.14%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 11
+  NS: CLOUDFLARENET                     6  54.55%
+  NS: alidns.com                        1   9.09%
+  NS: dnspod.net                        1   9.09%
+  NS: zilean.net                        1   9.09%
+  NS: yourhosting.eu                    1   9.09%
+
+[MX 提供商] Tianjij,300000，域名数 10
+  NS: dnspod.net                        5  50.00%
+  NS: CLOUDFLARENET                     4  40.00%
+  NS: netim.net                         1  10.00%
+
+[MX 提供商] GANDI SAS，域名数 10
+  NS: GANDI SAS                         7  70.00%
+  NS: CLOUDFLARENET                     2  20.00%
+  NS: HURRICANE                         1  10.00%

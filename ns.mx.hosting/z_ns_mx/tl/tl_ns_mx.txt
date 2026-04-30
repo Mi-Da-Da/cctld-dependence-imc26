@@ -1,0 +1,106 @@
+=== 数据来源: tl ===
+NS 域名数: 614
+MX 域名数: 614
+NS+MX 交集: 614
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 133
+  MX: CLOUDFLARENET                    53  39.85%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11   8.27%
+  MX: GOOGLE                           10   7.52%
+  MX: 101domain.com                     8   6.02%
+  MX: ZOHO-AS                           3   2.26%
+
+[NS 提供商] GANDI SAS，域名数 63
+  MX: GANDI SAS                        46  73.02%
+  MX: GOOGLE                            4   6.35%
+  MX: Proton AG                         2   3.17%
+  MX: devesc.fr                         2   3.17%
+  MX: mythic-beasts.com                 1   1.59%
+
+[NS 提供商] AMAZON-02，域名数 53
+  MX: GOOGLE                            5   9.43%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5   9.43%
+  MX: AUTOMATTIC                        3   5.66%
+  MX: RACKSPACE                         2   3.77%
+  MX: experts.tl                        1   1.89%
+
+[NS 提供商] SECURITYSERVICES，域名数 36
+  MX: SECURITYSERVICES                 23  63.89%
+  MX: OVH SAS                          10  27.78%
+  MX: 101domain.com                     1   2.78%
+  MX: amazonaws.com                     1   2.78%
+  MX: register.com                      1   2.78%
+
+[NS 提供商] NSONE，域名数 28
+  MX: GOOGLE                            7  25.00%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3  10.71%
+  MX: digitechsystems.com               3  10.71%
+  MX: AUTOMATTIC                        2   7.14%
+  MX: CLOUDFLARENET                     2   7.14%
+
+[NS 提供商] IONOS SE，域名数 25
+  MX: NorthC Deutschland GmbH          23  92.00%
+  MX: GOOGLE                            1   4.00%
+  MX: fers.tl                           1   4.00%
+
+[NS 提供商] OVH SAS，域名数 24
+  MX: OVH SAS                          19  79.17%
+  MX: GOOGLE                            2   8.33%
+  MX: websynthesis.org                  1   4.17%
+  MX: simplelogin.co                    1   4.17%
+  MX: cbsolt.net                        1   4.17%
+
+[NS 提供商] gov.tl，域名数 11
+  MX: hngv.tl                           1   9.09%
+  MX: idn.tl                            1   9.09%
+  MX: estrada.tl                        1   9.09%
+  MX: edtl-ep.tl                        1   9.09%
+  MX: bnf.tl                            1   9.09%
+
+=== 数据来源: tl ===
+NS 域名数: 614
+MX 域名数: 614
+NS+MX 交集: 614
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 57
+  NS: CLOUDFLARENET                    10  17.54%
+  NS: NSONE                             7  12.28%
+  NS: AMAZON-02                         5   8.77%
+  NS: GANDI SAS                         4   7.02%
+  NS: NUCDN                             3   5.26%
+
+[MX 提供商] CLOUDFLARENET，域名数 55
+  NS: CLOUDFLARENET                    53  96.36%
+  NS: NSONE                             2   3.64%
+
+[MX 提供商] GANDI SAS，域名数 51
+  NS: GANDI SAS                        46  90.20%
+  NS: CLOUDFLARENET                     2   3.92%
+  NS: GOOGLE                            1   1.96%
+  NS: awsdns-01.org                     1   1.96%
+  NS: awsdns-24.net                     1   1.96%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 36
+  NS: CLOUDFLARENET                    11  30.56%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       5  13.89%
+  NS: AMAZON-02                         5  13.89%
+  NS: NSONE                             3   8.33%
+  NS: axit.nl                           2   5.56%
+
+[MX 提供商] OVH SAS，域名数 31
+  NS: OVH SAS                          19  61.29%
+  NS: SECURITYSERVICES                 10  32.26%
+  NS: anycast.me                        1   3.23%
+  NS: NSONE                             1   3.23%
+
+[MX 提供商] SECURITYSERVICES，域名数 24
+  NS: SECURITYSERVICES                 23  95.83%
+  NS: domainnetwork.se                  1   4.17%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 24
+  NS: IONOS SE                         23  95.83%
+  NS: CLOUDFLARENET                     1   4.17%

@@ -1,0 +1,27 @@
+=== 数据来源: ls ===
+NS 域名数: 102
+MX 域名数: 104
+NS+MX 交集: 102
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] cloudflare.com，域名数 44
+  MX: GOOGLE                           11  25.00%
+  MX: CLOUDFLARENET                     5  11.36%
+  MX: Proton AG                         4   9.09%
+  MX: icloud.com                        3   6.82%
+  MX: outlook.com                       2   4.55%
+
+=== 数据来源: ls ===
+NS 域名数: 102
+MX 域名数: 104
+NS+MX 交集: 102
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 17
+  NS: cloudflare.com                   11  64.71%
+  NS: hostgator.com                     1   5.88%
+  NS: ovh.net                           1   5.88%
+  NS: Hetzner Online GmbH               1   5.88%
+  NS: awsdns-09.org                     1   5.88%

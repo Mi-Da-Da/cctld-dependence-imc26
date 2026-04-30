@@ -1,0 +1,58 @@
+=== 数据来源: nf ===
+NS 域名数: 258
+MX 域名数: 258
+NS+MX 交集: 258
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] Host Europe GmbH，域名数 148
+  MX: CiFi Pty Ltd                     91  61.49%
+  MX: ninet.nf                         15  10.14%
+  MX: GOOGLE                            6   4.05%
+  MX: outlook.com                       4   2.70%
+  MX: shopping.nf                       2   1.35%
+
+[NS 提供商] CLOUDFLARENET，域名数 19
+  MX: 101domain.com                     6  31.58%
+  MX: GOOGLE                            4  21.05%
+  MX: cloudflare.net                    2  10.53%
+  MX: bitdefender.com                   1   5.26%
+  MX: outlook.com                       1   5.26%
+
+[NS 提供商] IONOS SE，域名数 18
+  MX: NorthC Deutschland GmbH          13  72.22%
+  MX: hrs.de                            2  11.11%
+  MX: li.nf                             1   5.56%
+  MX: outlook.com                       1   5.56%
+  MX: utermark.nf                       1   5.56%
+
+[NS 提供商] SECURITYSERVICES，域名数 15
+  MX: cscdns.net                        7  46.67%
+  MX: SECURITYSERVICES                  5  33.33%
+  MX: domainnetwork.se                  2  13.33%
+  MX: electrolux.se                     1   6.67%
+
+=== 数据来源: nf ===
+NS 域名数: 258
+MX 域名数: 258
+NS+MX 交集: 258
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] CiFi Pty Ltd，域名数 91
+  NS: Host Europe GmbH                 91 100.00%
+
+[MX 提供商] ninet.nf，域名数 20
+  NS: Host Europe GmbH                 15  75.00%
+  NS: net.nz                            3  15.00%
+  NS: wixdns.net                        2  10.00%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 14
+  NS: IONOS SE                         13  92.86%
+  NS: CLOUDFLARENET                     1   7.14%
+
+[MX 提供商] GOOGLE，域名数 12
+  NS: Host Europe GmbH                  6  50.00%
+  NS: CLOUDFLARENET                     4  33.33%
+  NS: verisigndns.com                   1   8.33%
+  NS: weelya.com                        1   8.33%

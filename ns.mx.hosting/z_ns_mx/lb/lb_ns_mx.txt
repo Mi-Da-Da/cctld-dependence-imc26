@@ -1,0 +1,100 @@
+=== 数据来源: lb ===
+NS 域名数: 503
+MX 域名数: 506
+NS+MX 交集: 503
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] net.lb，域名数 165
+  MX: net.lb                           56  33.94%
+  MX: com.lb                           48  29.09%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      28  16.97%
+  MX: AMAZON-02                         9   5.45%
+  MX: GOOGLE                            6   3.64%
+
+[NS 提供商] CLOUDFLARENET，域名数 117
+  MX: com.lb                           39  33.33%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      20  17.09%
+  MX: GOOGLE                           15  12.82%
+  MX: RACKSPACE                         6   5.13%
+  MX: ZOHO-AS                           5   4.27%
+
+[NS 提供商] AMAZON-02，域名数 18
+  MX: GOOGLE-CLOUD-PLATFORM            12  66.67%
+  MX: com.lb                            3  16.67%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   5.56%
+  MX: iphmx.com                         1   5.56%
+  MX: AMAZON-02                         1   5.56%
+
+[NS 提供商] Host Europe GmbH，域名数 17
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       8  47.06%
+  MX: com.lb                            4  23.53%
+  MX: GOOGLE                            3  17.65%
+  MX: easycgi.com                       2  11.76%
+
+[NS 提供商] SECURITYSERVICES，域名数 12
+  MX: SECURITYSERVICES                 10  83.33%
+  MX: com.lb                            1   8.33%
+  MX: net.lb                            1   8.33%
+
+=== 数据来源: lb ===
+NS 域名数: 503
+MX 域名数: 506
+NS+MX 交集: 503
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.lb，域名数 140
+  NS: net.lb                           48  34.29%
+  NS: CLOUDFLARENET                    39  27.86%
+  NS: com.lb                            5   3.57%
+  NS: Host Europe GmbH                  4   2.86%
+  NS: AMAZON-02                         3   2.14%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 101
+  NS: net.lb                           28  27.72%
+  NS: CLOUDFLARENET                    20  19.80%
+  NS: Host Europe GmbH                  8   7.92%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       7   6.93%
+  NS: DIGICERT                          5   4.95%
+
+[MX 提供商] net.lb，域名数 61
+  NS: net.lb                           56  91.80%
+  NS: CLOUDFLARENET                     3   4.92%
+  NS: stabletransit.com                 1   1.64%
+  NS: SECURITYSERVICES                  1   1.64%
+
+[MX 提供商] GOOGLE，域名数 36
+  NS: CLOUDFLARENET                    15  41.67%
+  NS: net.lb                            6  16.67%
+  NS: Host Europe GmbH                  3   8.33%
+  NS: name-services.com                 1   2.78%
+  NS: awsdns-13.com                     1   2.78%
+
+[MX 提供商] GOOGLE-CLOUD-PLATFORM，域名数 17
+  NS: AMAZON-02                        12  70.59%
+  NS: CLOUDFLARENET                     4  23.53%
+  NS: krustallos-cloud.com              1   5.88%
+
+[MX 提供商] org.lb，域名数 15
+  NS: CLOUDFLARENET                     3  20.00%
+  NS: hostgator.com                     2  13.33%
+  NS: eurovps.com                       2  13.33%
+  NS: DIGICERT                          1   6.67%
+  NS: peer1.net                         1   6.67%
+
+[MX 提供商] AMAZON-02，域名数 13
+  NS: net.lb                            9  69.23%
+  NS: CLOUDFLARENET                     2  15.38%
+  NS: nsone.net                         1   7.69%
+  NS: AMAZON-02                         1   7.69%
+
+[MX 提供商] SECURITYSERVICES，域名数 11
+  NS: SECURITYSERVICES                 10  90.91%
+  NS: eurodns.com                       1   9.09%
+
+[MX 提供商] RACKSPACE，域名数 11
+  NS: CLOUDFLARENET                     6  54.55%
+  NS: stabletransit.com                 3  27.27%
+  NS: net.lb                            1   9.09%
+  NS: realestatelebanon.net             1   9.09%

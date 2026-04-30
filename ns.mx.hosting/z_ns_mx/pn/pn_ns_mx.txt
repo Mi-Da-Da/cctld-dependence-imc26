@@ -1,0 +1,42 @@
+=== 数据来源: pn ===
+NS 域名数: 124
+MX 域名数: 124
+NS+MX 交集: 124
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 16
+  MX: 101domain.com                     3  18.75%
+  MX: cloudflare.net                    2  12.50%
+  MX: hostinger.com                     1   6.25%
+  MX: googlemail.com                    1   6.25%
+  MX: e.pn                              1   6.25%
+
+[NS 提供商] co.nz，域名数 15
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      15 100.00%
+
+[NS 提供商] linode.com，域名数 15
+  MX: w.pn                              1   6.67%
+  MX: b.pn                              1   6.67%
+  MX: m.pn                              1   6.67%
+  MX: a.pn                              1   6.67%
+  MX: s.pn                              1   6.67%
+
+[NS 提供商] SECURITYSERVICES，域名数 12
+  MX: cscdns.net                        8  66.67%
+  MX: netnames.net                      2  16.67%
+  MX: domainnetwork.net                 2  16.67%
+
+=== 数据来源: pn ===
+NS 域名数: 124
+MX 域名数: 124
+NS+MX 交集: 124
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 20
+  NS: co.nz                            15  75.00%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       2  10.00%
+  NS: HURRICANE                         1   5.00%
+  NS: awsdns-06.com                     1   5.00%
+  NS: CLOUDFLARENET                     1   5.00%

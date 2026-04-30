@@ -1,0 +1,157 @@
+=== 数据来源: gp ===
+NS 域名数: 804
+MX 域名数: 818
+NS+MX 交集: 804
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] OVH SAS，域名数 133
+  MX: OVH SAS                          72  54.14%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      41  30.83%
+  MX: GOOGLE                            6   4.51%
+  MX: global-sp.net                     3   2.26%
+  MX: ecb.gp                            1   0.75%
+
+[NS 提供商] SECURITYSERVICES，域名数 103
+  MX: SECURITYSERVICES                 93  90.29%
+  MX: register.com                      2   1.94%
+  MX: GOOGLE                            2   1.94%
+  MX: speednames.com                    2   1.94%
+  MX: hostedemail.com                   1   0.97%
+
+[NS 提供商] GANDI SAS，域名数 56
+  MX: GANDI SAS                        43  76.79%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6  10.71%
+  MX: GOOGLE                            3   5.36%
+  MX: xefi.fr                           1   1.79%
+  MX: puressentiel.com                  1   1.79%
+
+[NS 提供商] CLOUDFLARENET，域名数 54
+  MX: GOOGLE                           14  25.93%
+  MX: CLOUDFLARENET                    11  20.37%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      11  20.37%
+  MX: 101domain.com                     5   9.26%
+  MX: OVH SAS                           3   5.56%
+
+[NS 提供商] sedoparking.com，域名数 38
+  MX: localhost                        38 100.00%
+
+[NS 提供商] netim.net，域名数 38
+  MX: Eurofiber France SAS             31  81.58%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4  10.53%
+  MX: vadesecure.com                    1   2.63%
+  MX: GOOGLE                            1   2.63%
+  MX: icloud.com                        1   2.63%
+
+[NS 提供商] francedns.com，域名数 30
+  MX: Eurofiber France SAS             22  73.33%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5  16.67%
+  MX: GOOGLE                            2   6.67%
+  MX: alwaysdata.com                    1   3.33%
+
+[NS 提供商] cloudns.net，域名数 25
+  MX: HURRICANE                        18  72.00%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   8.00%
+  MX: kaspar.gp                         1   4.00%
+  MX: GOOGLE                            1   4.00%
+  MX: OVH SAS                           1   4.00%
+
+[NS 提供商] ipcom GmbH，域名数 25
+  MX: 01net.gp                          1   4.00%
+  MX: cosylife.gp                       1   4.00%
+  MX: valberg.gp                        1   4.00%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   4.00%
+  MX: texto.gp                          1   4.00%
+
+[NS 提供商] nameshield.net，域名数 22
+  MX: Nameshield SAS                   21  95.45%
+  MX: oscaro.gp                         1   4.55%
+
+[NS 提供商] SCAAM0001，域名数 13
+  MX: ngninfra.net                     13 100.00%
+
+[NS 提供商] Ikoula Net SAS，域名数 12
+  MX: zouknewz.gp                       1   8.33%
+  MX: yinyang.gp                        1   8.33%
+  MX: wow.gp                            1   8.33%
+  MX: mib.gp                            1   8.33%
+  MX: bambou.gp                         1   8.33%
+
+[NS 提供商] mediaserv.net，域名数 12
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       8  66.67%
+  MX: canalantilles.gp                  2  16.67%
+  MX: mailinblack.com                   2  16.67%
+
+[NS 提供商] perf1.com，域名数 11
+  MX: Nameshield SAS                    8  72.73%
+  MX: canal-plus.gp                     1   9.09%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   9.09%
+  MX: resot.net                         1   9.09%
+
+[NS 提供商] IONOS SE，域名数 11
+  MX: IONOS SE                          6  54.55%
+  MX: ionos.fr                          3  27.27%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2  18.18%
+
+[NS 提供商] iptwins.com，域名数 11
+  MX: iptwins.com                       8  72.73%
+  MX: te-dns.net                        1   9.09%
+  MX: GOOGLE                            1   9.09%
+  MX: melvita.gp                        1   9.09%
+
+=== 数据来源: gp ===
+NS 域名数: 804
+MX 域名数: 818
+NS+MX 交集: 804
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 107
+  NS: OVH SAS                          41  38.32%
+  NS: CLOUDFLARENET                    11  10.28%
+  NS: mediaserv.net                     8   7.48%
+  NS: GANDI SAS                         6   5.61%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK       6   5.61%
+
+[MX 提供商] SECURITYSERVICES，域名数 96
+  NS: SECURITYSERVICES                 93  96.88%
+  NS: indomco.com                       2   2.08%
+  NS: cscudns.com                       1   1.04%
+
+[MX 提供商] OVH SAS，域名数 76
+  NS: OVH SAS                          72  94.74%
+  NS: CLOUDFLARENET                     3   3.95%
+  NS: cloudns.net                       1   1.32%
+
+[MX 提供商] Eurofiber France SAS，域名数 56
+  NS: netim.net                        31  55.36%
+  NS: francedns.com                    22  39.29%
+  NS: routing.net                       2   3.57%
+  NS: NSONE                             1   1.79%
+
+[MX 提供商] GOOGLE，域名数 49
+  NS: CLOUDFLARENET                    14  28.57%
+  NS: OVH SAS                           6  12.24%
+  NS: GANDI SAS                         3   6.12%
+  NS: GOOGLE                            3   6.12%
+  NS: ORACLE-BMC-31898                  3   6.12%
+
+[MX 提供商] GANDI SAS，域名数 43
+  NS: GANDI SAS                        43 100.00%
+
+[MX 提供商] localhost，域名数 39
+  NS: sedoparking.com                  38  97.44%
+  NS: shell.com                         1   2.56%
+
+[MX 提供商] Nameshield SAS，域名数 29
+  NS: nameshield.net                   21  72.41%
+  NS: perf1.com                         8  27.59%
+
+[MX 提供商] HURRICANE，域名数 18
+  NS: cloudns.net                      18 100.00%
+
+[MX 提供商] ngninfra.net，域名数 13
+  NS: SCAAM0001                        13 100.00%
+
+[MX 提供商] CLOUDFLARENET，域名数 11
+  NS: CLOUDFLARENET                    11 100.00%

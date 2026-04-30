@@ -1,0 +1,127 @@
+=== 数据来源: ht ===
+NS 域名数: 738
+MX 域名数: 744
+NS+MX 交集: 738
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] cloudflare.com，域名数 94
+  MX: GOOGLE                           25  26.60%
+  MX: CLOUDFLARENET                    19  20.21%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       5   5.32%
+  MX: Fastmail Pty Ltd                  4   4.26%
+  MX: ZOHO-AS                           4   4.26%
+
+[NS 提供商] SECURITYSERVICES，域名数 73
+  MX: SECURITYSERVICES                 61  83.56%
+  MX: NAMECHEAP-NET                     4   5.48%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   1.37%
+  MX: GOOGLE                            1   1.37%
+  MX: symantec.com                      1   1.37%
+
+[NS 提供商] GANDI SAS，域名数 69
+  MX: GANDI SAS                        44  63.77%
+  MX: GOOGLE                           14  20.29%
+  MX: iphmx.com                         1   1.45%
+  MX: uberspace.de                      1   1.45%
+  MX: migadu.com                        1   1.45%
+
+[NS 提供商] CLOUDFLARENET，域名数 64
+  MX: CLOUDFLARENET                    19  29.69%
+  MX: GOOGLE                           15  23.44%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6   9.38%
+  MX: hostingpanel1.com                 2   3.12%
+  MX: titan.email                       2   3.12%
+
+[NS 提供商] AMAZON-02，域名数 63
+  MX: GOOGLE                           10  15.87%
+  MX: GOOGLE-CLOUD-PLATFORM             9  14.29%
+  MX: h-email.net                       4   6.35%
+  MX: alltheemails.com                  2   3.17%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   3.17%
+
+[NS 提供商] OVH SAS，域名数 22
+  MX: OVH SAS                          16  72.73%
+  MX: local.cool                        1   4.55%
+  MX: naug.ht                           1   4.55%
+  MX: Proton AG                         1   4.55%
+  MX: cecomconsultants.ht               1   4.55%
+
+[NS 提供商] netim.net，域名数 22
+  MX: Eurofiber France SAS             19  86.36%
+  MX: Proton AG                         2   9.09%
+  MX: GOOGLE                            1   4.55%
+
+[NS 提供商] IONOS SE，域名数 19
+  MX: NorthC Deutschland GmbH          17  89.47%
+  MX: sd.ht                             1   5.26%
+  MX: Proton AG                         1   5.26%
+
+[NS 提供商] LIQUIDNETLTD1，域名数 16
+  MX: vectra.ht                         1   6.25%
+  MX: ccah.ht                           1   6.25%
+  MX: ugp.ht                            1   6.25%
+  MX: isteah.ht                         1   6.25%
+  MX: natpay.ht                         1   6.25%
+
+[NS 提供商] Host Europe GmbH，域名数 13
+  MX: GOOGLE                            7  53.85%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4  30.77%
+  MX: protecta.ht                       1   7.69%
+  MX: secureserver.net                  1   7.69%
+
+[NS 提供商] NUCDN，域名数 11
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4  36.36%
+  MX: bingo.ht                          1   9.09%
+  MX: a24a.ht                           1   9.09%
+  MX: GOOGLE                            1   9.09%
+  MX: psmtp.com                         1   9.09%
+
+=== 数据来源: ht ===
+NS 域名数: 738
+MX 域名数: 744
+NS+MX 交集: 738
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 123
+  NS: cloudflare.com                   25  20.33%
+  NS: CLOUDFLARENET                    15  12.20%
+  NS: GANDI SAS                        14  11.38%
+  NS: AMAZON-02                        10   8.13%
+  NS: Host Europe GmbH                  7   5.69%
+
+[MX 提供商] SECURITYSERVICES，域名数 64
+  NS: SECURITYSERVICES                 61  95.31%
+  NS: cscudns.com                       1   1.56%
+  NS: NUCDN                             1   1.56%
+  NS: Akamai International B.V.         1   1.56%
+
+[MX 提供商] GANDI SAS，域名数 49
+  NS: GANDI SAS                        44  89.80%
+  NS: cloudflare.com                    2   4.08%
+  NS: nameshield.net                    1   2.04%
+  NS: awsdns-15.com                     1   2.04%
+  NS: hetzner.com                       1   2.04%
+
+[MX 提供商] CLOUDFLARENET，域名数 38
+  NS: CLOUDFLARENET                    19  50.00%
+  NS: cloudflare.com                   19  50.00%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 31
+  NS: CLOUDFLARENET                     6  19.35%
+  NS: cloudflare.com                    5  16.13%
+  NS: Host Europe GmbH                  4  12.90%
+  NS: NUCDN                             4  12.90%
+  NS: transversal.ht                    2   6.45%
+
+[MX 提供商] Eurofiber France SAS，域名数 20
+  NS: netim.net                        19  95.00%
+  NS: cloudflare.com                    1   5.00%
+
+[MX 提供商] OVH SAS，域名数 18
+  NS: OVH SAS                          16  88.89%
+  NS: cloudflare.com                    2  11.11%
+
+[MX 提供商] NorthC Deutschland GmbH，域名数 17
+  NS: IONOS SE                         17 100.00%

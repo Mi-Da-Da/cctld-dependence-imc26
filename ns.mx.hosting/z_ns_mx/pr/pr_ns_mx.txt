@@ -1,0 +1,51 @@
+=== 数据来源: pr ===
+NS 域名数: 191
+MX 域名数: 192
+NS+MX 交集: 191
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SECURITYSERVICES，域名数 52
+  MX: SECURITYSERVICES                 45  86.54%
+  MX: 800-flowers.net                   2   3.85%
+  MX: register.com                      1   1.92%
+  MX: domainnetwork.se                  1   1.92%
+  MX: hanesbi.net                       1   1.92%
+
+[NS 提供商] CLOUDFLARENET，域名数 20
+  MX: 101domain.com                     7  35.00%
+  MX: com.pr                            3  15.00%
+  MX: SECURITYSERVICES                  2  10.00%
+  MX: GOOGLE                            2  10.00%
+  MX: baxter.com                        1   5.00%
+
+[NS 提供商] AMAZON-02，域名数 10
+  MX: com.pr                           10 100.00%
+
+=== 数据来源: pr ===
+NS 域名数: 191
+MX 域名数: 192
+NS+MX 交集: 191
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] SECURITYSERVICES，域名数 51
+  NS: SECURITYSERVICES                 45  88.24%
+  NS: CLOUDFLARENET                     2   3.92%
+  NS: ultradns.biz                      1   1.96%
+  NS: pearson.com                       1   1.96%
+  NS: awsdns-29.org                     1   1.96%
+
+[MX 提供商] com.pr，域名数 23
+  NS: AMAZON-02                        10  43.48%
+  NS: tu.pr                             4  17.39%
+  NS: CLOUDFLARENET                     3  13.04%
+  NS: Host Europe GmbH                  1   4.35%
+  NS: NSONE                             1   4.35%
+
+[MX 提供商] GOOGLE，域名数 11
+  NS: CLOUDFLARENET                     2  18.18%
+  NS: c6p.net                           1   9.09%
+  NS: awsdns-13.net                     1   9.09%
+  NS: awsdns-30.org                     1   9.09%
+  NS: awsdns-04.org                     1   9.09%

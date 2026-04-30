@@ -1,0 +1,52 @@
+=== 数据来源: vi ===
+NS 域名数: 227
+MX 域名数: 228
+NS+MX 交集: 227
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 39
+  MX: GOOGLE                           14  35.90%
+  MX: mailchannels.net                  7  17.95%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6  15.38%
+  MX: icloud.com                        2   5.13%
+  MX: cloudflare.net                    2   5.13%
+
+[NS 提供商] Host Europe GmbH，域名数 39
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      21  53.85%
+  MX: GOOGLE                            7  17.95%
+  MX: secureserver.net                  3   7.69%
+  MX: protonmail.ch                     1   2.56%
+  MX: emailservice.cc                   1   2.56%
+
+[NS 提供商] SECURITYSERVICES，域名数 22
+  MX: SECURITYSERVICES                 19  86.36%
+  MX: netnames.net                      3  13.64%
+
+[NS 提供商] SINGLEHOP-LLC，域名数 20
+  MX: GOOGLE                           19  95.00%
+  MX: weddings.vi                       1   5.00%
+
+=== 数据来源: vi ===
+NS 域名数: 227
+MX 域名数: 228
+NS+MX 交集: 227
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 77
+  NS: SINGLEHOP-LLC                    19  24.68%
+  NS: CLOUDFLARENET                    14  18.18%
+  NS: Host Europe GmbH                  7   9.09%
+  NS: NETSONIC                          6   7.79%
+  NS: cloudns.net                       4   5.19%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 47
+  NS: Host Europe GmbH                 21  44.68%
+  NS: CLOUDFLARENET                     6  12.77%
+  NS: DIGICERT                          3   6.38%
+  NS: k12.vi                            2   4.26%
+  NS: registrar-servers.com             2   4.26%
+
+[MX 提供商] SECURITYSERVICES，域名数 19
+  NS: SECURITYSERVICES                 19 100.00%

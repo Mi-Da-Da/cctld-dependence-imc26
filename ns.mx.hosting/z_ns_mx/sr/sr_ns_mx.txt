@@ -1,0 +1,48 @@
+=== 数据来源: sr ===
+NS 域名数: 249
+MX 域名数: 250
+NS+MX 交集: 249
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 56
+  MX: GOOGLE                           10  17.86%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6  10.71%
+  MX: hostinger.com                     3   5.36%
+  MX: 101domain.com                     2   3.57%
+  MX: mxrouting.net                     2   3.57%
+
+[NS 提供商] CARIBBEAN COMMUNICATION SERVICES，域名数 56
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6  10.71%
+  MX: yard.sr                           1   1.79%
+  MX: vg.sr                             1   1.79%
+  MX: sfs.sr                            1   1.79%
+  MX: burke.sr                          1   1.79%
+
+[NS 提供商] AMAZON-02，域名数 18
+  MX: GOOGLE-CLOUD-PLATFORM             5  27.78%
+  MX: GOOGLE                            3  16.67%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   5.56%
+  MX: event.sr                          1   5.56%
+  MX: kno.sr                            1   5.56%
+
+=== 数据来源: sr ===
+NS 域名数: 249
+MX 域名数: 250
+NS+MX 交集: 249
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 28
+  NS: CLOUDFLARENET                     6  21.43%
+  NS: CARIBBEAN COMMUNICATION SERVICES      6  21.43%
+  NS: DIGICERT                          2   7.14%
+  NS: microsoftonline.com               2   7.14%
+  NS: domaincontrol.com                 2   7.14%
+
+[MX 提供商] GOOGLE，域名数 26
+  NS: CLOUDFLARENET                    10  38.46%
+  NS: AMAZON-02                         3  11.54%
+  NS: hostgator.com                     3  11.54%
+  NS: arvixeshared.com                  2   7.69%
+  NS: or.jp                             1   3.85%

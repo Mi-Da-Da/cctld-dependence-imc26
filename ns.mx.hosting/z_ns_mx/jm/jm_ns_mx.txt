@@ -1,0 +1,55 @@
+=== 数据来源: jm ===
+NS 域名数: 210
+MX 域名数: 210
+NS+MX 交集: 210
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SECURITYSERVICES，域名数 52
+  MX: SECURITYSERVICES                 27  51.92%
+  MX: com.jm                            7  13.46%
+  MX: net.jm                            5   9.62%
+  MX: org.jm                            4   7.69%
+  MX: jellyfish.systems                 3   5.77%
+
+[NS 提供商] CLOUDFLARENET，域名数 32
+  MX: CLOUDFLARENET                    10  31.25%
+  MX: stackmail.com                     4  12.50%
+  MX: cloudflare.net                    3   9.38%
+  MX: com.jm                            3   9.38%
+  MX: GOOGLE                            2   6.25%
+
+=== 数据来源: jm ===
+NS 域名数: 210
+MX 域名数: 210
+NS+MX 交集: 210
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.jm，域名数 42
+  NS: AMAZON-02                         9  21.43%
+  NS: SECURITYSERVICES                  7  16.67%
+  NS: blitzwebdesign.com                4   9.52%
+  NS: CLOUDFLARENET                     3   7.14%
+  NS: hostgator.com                     2   4.76%
+
+[MX 提供商] SECURITYSERVICES，域名数 28
+  NS: SECURITYSERVICES                 27  96.43%
+  NS: awsdns-03.net                     1   3.57%
+
+[MX 提供商] GOOGLE，域名数 21
+  NS: linode.com                        5  23.81%
+  NS: CLOUDFLARENET                     2   9.52%
+  NS: peer1.net                         1   4.76%
+  NS: inmotionhosting.com               1   4.76%
+  NS: registrar-servers.com             1   4.76%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 14
+  NS: CLOUDFLARENET                     2  14.29%
+  NS: azure-dns.com                     2  14.29%
+  NS: domaincontrol.com                 2  14.29%
+  NS: infochange.com                    2  14.29%
+  NS: yourwebhosting.com                1   7.14%
+
+[MX 提供商] CLOUDFLARENET，域名数 10
+  NS: CLOUDFLARENET                    10 100.00%

@@ -1,0 +1,43 @@
+=== 数据来源: gw ===
+NS 域名数: 196
+MX 域名数: 197
+NS+MX 交集: 196
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 74
+  MX: CLOUDFLARENET                    60  81.08%
+  MX: outlook.com                       3   4.05%
+  MX: cloudflare.net                    2   2.70%
+  MX: timelapse.gw                      1   1.35%
+  MX: uberspace.de                      1   1.35%
+
+[NS 提供商] mydnspt.net，域名数 14
+  MX: Almouroltec Servicos De Informatica E Internet Lda     12  85.71%
+  MX: GOOGLE                            1   7.14%
+  MX: ptisp.gw                          1   7.14%
+
+[NS 提供商] l4dns.com，域名数 11
+  MX: INFOLINK-MIA                     10  90.91%
+  MX: adgcomercial.gw                   1   9.09%
+
+=== 数据来源: gw ===
+NS 域名数: 196
+MX 域名数: 197
+NS+MX 交集: 196
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] CLOUDFLARENET，域名数 61
+  NS: CLOUDFLARENET                    60  98.36%
+  NS: wixdns.net                        1   1.64%
+
+[MX 提供商] Almouroltec Servicos De Informatica E Internet Lda，域名数 12
+  NS: mydnspt.net                      12 100.00%
+
+[MX 提供商] SECURITYSERVICES，域名数 11
+  NS: SECURITYSERVICES                  9  81.82%
+  NS: zaccodigitaltrustlabs.se          2  18.18%
+
+[MX 提供商] INFOLINK-MIA，域名数 10
+  NS: l4dns.com                        10 100.00%

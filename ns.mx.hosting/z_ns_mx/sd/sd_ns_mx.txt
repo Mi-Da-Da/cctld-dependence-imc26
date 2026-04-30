@@ -1,0 +1,136 @@
+=== 数据来源: sd ===
+NS 域名数: 1091
+MX 域名数: 1102
+NS+MX 交集: 1091
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 242
+  MX: CLOUDFLARENET                    98  40.50%
+  MX: ZOHO-AS                           9   3.72%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       6   2.48%
+  MX: AUTOMATTIC                        5   2.07%
+  MX: yandex.net                        4   1.65%
+
+[NS 提供商] Hetzner Online GmbH，域名数 185
+  MX: mae.sd                            1   0.54%
+  MX: datagrid.sd                       1   0.54%
+  MX: bareeq.sd                         1   0.54%
+  MX: macfood.sd                        1   0.54%
+  MX: 29content.sd                      1   0.54%
+
+[NS 提供商] Hydra Communications Ltd，域名数 67
+  MX: cprapid.com                       4   5.97%
+  MX: hayat.sd                          1   1.49%
+  MX: nittero.sd                        1   1.49%
+  MX: masiholding.sd                    1   1.49%
+  MX: jalca.sd                          1   1.49%
+
+[NS 提供商] SECURITYSERVICES，域名数 55
+  MX: NAMECHEAP-NET                    32  58.18%
+  MX: SECURITYSERVICES                 14  25.45%
+  MX: enginelib.sd                      1   1.82%
+  MX: lights.sd                         1   1.82%
+  MX: yrc.sd                            1   1.82%
+
+[NS 提供商] supremepanel.com，域名数 51
+  MX: atco.sd                           1   1.96%
+  MX: training.sd                       1   1.96%
+  MX: consulsat.sd                      1   1.96%
+  MX: cta.sd                            1   1.96%
+  MX: valiosa.sd                        1   1.96%
+
+[NS 提供商] AMAZON-02，域名数 43
+  MX: nabulsi.sd                        1   2.33%
+  MX: haris.sd                          1   2.33%
+  MX: generalgroup.sd                   1   2.33%
+  MX: dar-ict.sd                        1   2.33%
+  MX: software.sd                       1   2.33%
+
+[NS 提供商] Contabo GmbH，域名数 42
+  MX: iucl.sd                           1   2.38%
+  MX: rukain.sd                         1   2.38%
+  MX: online.sd                         1   2.38%
+  MX: metc.sd                           1   2.38%
+  MX: kips.sd                           1   2.38%
+
+[NS 提供商] IS-AS-1，域名数 25
+  MX: alashraf.sd                       1   4.00%
+  MX: shantui.sd                        1   4.00%
+  MX: weichai.sd                        1   4.00%
+  MX: mrc.sd                            1   4.00%
+  MX: viva.sd                           1   4.00%
+
+[NS 提供商] LIQUIDWEB，域名数 20
+  MX: dhb.sd                            1   5.00%
+  MX: msc.sd                            1   5.00%
+  MX: request.sd                        1   5.00%
+  MX: paykam.sd                         1   5.00%
+  MX: aic.sd                            1   5.00%
+
+[NS 提供商] linode.com，域名数 15
+  MX: eptikar.com                       6  40.00%
+  MX: barid.online                      3  20.00%
+  MX: QUICKPACKET                       2  13.33%
+  MX: saga.sd                           1   6.67%
+  MX: tarcoaviation.com                 1   6.67%
+
+[NS 提供商] supremedns.com，域名数 14
+  MX: LIQUIDNETLTD1                    14 100.00%
+
+[NS 提供商] thundercloud.uk，域名数 14
+  MX: sati.sd                           1   7.14%
+  MX: westminster.sd                    1   7.14%
+  MX: kadra.sd                          1   7.14%
+  MX: aitiman.sd                        1   7.14%
+  MX: alzein.sd                         1   7.14%
+
+[NS 提供商] GOOGLE-CLOUD-PLATFORM，域名数 11
+  MX: 20i Limited                      11 100.00%
+
+[NS 提供商] sedoparking.com，域名数 10
+  MX: localhost                        10 100.00%
+
+=== 数据来源: sd ===
+NS 域名数: 1091
+MX 域名数: 1102
+NS+MX 交集: 1091
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] CLOUDFLARENET，域名数 99
+  NS: CLOUDFLARENET                    98  98.99%
+  NS: awsdns-05.org                     1   1.01%
+
+[MX 提供商] NAMECHEAP-NET，域名数 39
+  NS: SECURITYSERVICES                 32  82.05%
+  NS: CLOUDFLARENET                     4  10.26%
+  NS: NAMECHEAP-NET                     2   5.13%
+  NS: legendtechn.com                   1   2.56%
+
+[MX 提供商] ZOHO-AS，域名数 17
+  NS: CLOUDFLARENET                     9  52.94%
+  NS: NSONE                             3  17.65%
+  NS: afraid.org                        1   5.88%
+  NS: contabo.net                       1   5.88%
+  NS: AUTOMATTIC                        1   5.88%
+
+[MX 提供商] LIQUIDNETLTD1，域名数 15
+  NS: supremedns.com                   14  93.33%
+  NS: CLOUDFLARENET                     1   6.67%
+
+[MX 提供商] SECURITYSERVICES，域名数 14
+  NS: SECURITYSERVICES                 14 100.00%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 12
+  NS: CLOUDFLARENET                     6  50.00%
+  NS: name-services.com                 1   8.33%
+  NS: canar.sd                          1   8.33%
+  NS: azure-dns.com                     1   8.33%
+  NS: hostneel.sd                       1   8.33%
+
+[MX 提供商] 20i Limited，域名数 11
+  NS: GOOGLE-CLOUD-PLATFORM            11 100.00%
+
+[MX 提供商] localhost，域名数 10
+  NS: sedoparking.com                  10 100.00%

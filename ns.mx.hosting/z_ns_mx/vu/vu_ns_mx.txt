@@ -1,0 +1,91 @@
+=== 数据来源: vu ===
+NS 域名数: 526
+MX 域名数: 541
+NS+MX 交集: 526
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 142
+  MX: GOOGLE                           46  32.39%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      26  18.31%
+  MX: CLOUDFLARENET                    15  10.56%
+  MX: mailchannels.net                  9   6.34%
+  MX: Eurofiber France SAS              4   2.82%
+
+[NS 提供商] Host Europe GmbH，域名数 45
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      27  60.00%
+  MX: GOOGLE                            7  15.56%
+  MX: secureserver.net                  4   8.89%
+  MX: Proton AG                         2   4.44%
+  MX: tfc.vu                            1   2.22%
+
+[NS 提供商] SECURITYSERVICES，域名数 36
+  MX: SECURITYSERVICES                 21  58.33%
+  MX: netnames.net                      4  11.11%
+  MX: pphosted.com                      3   8.33%
+  MX: dnsassurance.com                  3   8.33%
+  MX: symantec.com                      1   2.78%
+
+[NS 提供商] AMAZON-02，域名数 34
+  MX: GOOGLE-CLOUD-PLATFORM             4  11.76%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4  11.76%
+  MX: GOOGLE                            2   5.88%
+  MX: mysecurecloudhost.com             2   5.88%
+  MX: CLOUDFLARENET                     2   5.88%
+
+[NS 提供商] sedoparking.com，域名数 31
+  MX: localhost                        31 100.00%
+
+[NS 提供商] netim.net，域名数 23
+  MX: Eurofiber France SAS             21  91.30%
+  MX: Proton AG                         1   4.35%
+  MX: spamora.net                       1   4.35%
+
+[NS 提供商] Telecom Vanuatu Limited，域名数 19
+  MX: Proton AG                         3  15.79%
+  MX: GOOGLE                            3  15.79%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3  15.79%
+  MX: h-world.vu                        1   5.26%
+  MX: luxuryrealestate.vu               1   5.26%
+
+=== 数据来源: vu ===
+NS 域名数: 526
+MX 域名数: 541
+NS+MX 交集: 526
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 91
+  NS: Host Europe GmbH                 27  29.67%
+  NS: CLOUDFLARENET                    26  28.57%
+  NS: DIGICERT                          6   6.59%
+  NS: AMAZON-02                         4   4.40%
+  NS: Telecom Vanuatu Limited           3   3.30%
+
+[MX 提供商] GOOGLE，域名数 84
+  NS: CLOUDFLARENET                    46  54.76%
+  NS: Host Europe GmbH                  7   8.33%
+  NS: Dreamscape Networks Limited       3   3.57%
+  NS: skazy.nc                          3   3.57%
+  NS: GOOGLE                            3   3.57%
+
+[MX 提供商] localhost，域名数 31
+  NS: sedoparking.com                  31 100.00%
+
+[MX 提供商] Eurofiber France SAS，域名数 25
+  NS: netim.net                        21  84.00%
+  NS: CLOUDFLARENET                     4  16.00%
+
+[MX 提供商] SECURITYSERVICES，域名数 21
+  NS: SECURITYSERVICES                 21 100.00%
+
+[MX 提供商] CLOUDFLARENET，域名数 17
+  NS: CLOUDFLARENET                    15  88.24%
+  NS: AMAZON-02                         2  11.76%
+
+[MX 提供商] Proton AG，域名数 11
+  NS: Telecom Vanuatu Limited           3  27.27%
+  NS: CLOUDFLARENET                     3  27.27%
+  NS: Host Europe GmbH                  2  18.18%
+  NS: Dreamscape Networks Limited       1   9.09%
+  NS: netim.net                         1   9.09%

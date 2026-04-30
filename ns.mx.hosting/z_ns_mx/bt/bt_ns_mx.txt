@@ -1,0 +1,71 @@
+=== 数据来源: bt ===
+NS 域名数: 571
+MX 域名数: 572
+NS+MX 交集: 571
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] Bhutan Telecom Ltd，域名数 352
+  MX: Bhutan Telecom Ltd              258  73.30%
+  MX: GOOGLE                           45  12.78%
+  MX: AMAZON-02                        19   5.40%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      14   3.98%
+  MX: Tashi InfoComm Limited            3   0.85%
+
+[NS 提供商] CLOUDFLARENET，域名数 61
+  MX: GOOGLE                           23  37.70%
+  MX: ZOHO-AS                           7  11.48%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3   4.92%
+  MX: privateemail.com                  3   4.92%
+  MX: cloudflare.net                    2   3.28%
+
+[NS 提供商] drukhost.com，域名数 39
+  MX: GOOGLE                            9  23.08%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   5.13%
+  MX: bisht.bt                          1   2.56%
+  MX: slowsteps.bt                      1   2.56%
+  MX: AMAZON-02                         1   2.56%
+
+[NS 提供商] gov.bt，域名数 14
+  MX: GOOGLE                           14 100.00%
+
+=== 数据来源: bt ===
+NS 域名数: 571
+MX 域名数: 572
+NS+MX 交集: 571
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] Bhutan Telecom Ltd，域名数 259
+  NS: Bhutan Telecom Ltd              258  99.61%
+  NS: CLOUDFLARENET                     1   0.39%
+
+[MX 提供商] GOOGLE，域名数 121
+  NS: Bhutan Telecom Ltd               45  37.19%
+  NS: CLOUDFLARENET                    23  19.01%
+  NS: gov.bt                           14  11.57%
+  NS: drukhost.com                      9   7.44%
+  NS: atsarahost.com                    4   3.31%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 23
+  NS: Bhutan Telecom Ltd               14  60.87%
+  NS: CLOUDFLARENET                     3  13.04%
+  NS: drukhost.com                      2   8.70%
+  NS: awsdns-16.org                     1   4.35%
+  NS: Akamai International B.V.         1   4.35%
+
+[MX 提供商] AMAZON-02，域名数 22
+  NS: Bhutan Telecom Ltd               19  86.36%
+  NS: drukhost.com                      1   4.55%
+  NS: CLOUDFLARENET                     1   4.55%
+  NS: awsdns-02.net                     1   4.55%
+
+[MX 提供商] ZOHO-AS，域名数 10
+  NS: CLOUDFLARENET                     7  70.00%
+  NS: Bhutan Telecom Ltd                2  20.00%
+  NS: Host Europe GmbH                  1  10.00%
+
+[MX 提供商] Tashi InfoComm Limited，域名数 10
+  NS: Tashi InfoComm Limited            6  60.00%
+  NS: Bhutan Telecom Ltd                3  30.00%
+  NS: CLOUDFLARENET                     1  10.00%

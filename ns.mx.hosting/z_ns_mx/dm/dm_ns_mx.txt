@@ -1,0 +1,57 @@
+=== 数据来源: dm ===
+NS 域名数: 213
+MX 域名数: 214
+NS+MX 交集: 213
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SECURITYSERVICES，域名数 47
+  MX: SECURITYSERVICES                 42  89.36%
+  MX: register.com                      3   6.38%
+  MX: electrolux.se                     2   4.26%
+
+[NS 提供商] CLOUDFLARENET，域名数 33
+  MX: GOOGLE                           10  30.30%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       8  24.24%
+  MX: 101domain.com                     4  12.12%
+  MX: GOOGLE-CLOUD-PLATFORM             1   3.03%
+  MX: hatch.dm                          1   3.03%
+
+[NS 提供商] AMAZON-02，域名数 15
+  MX: GOOGLE-CLOUD-PLATFORM             7  46.67%
+  MX: GOOGLE                            1   6.67%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   6.67%
+  MX: americaregistry.dm                1   6.67%
+  MX: mini.dm                           1   6.67%
+
+=== 数据来源: dm ===
+NS 域名数: 213
+MX 域名数: 214
+NS+MX 交集: 213
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] SECURITYSERVICES，域名数 45
+  NS: SECURITYSERVICES                 42  93.33%
+  NS: cscudns.com                       1   2.22%
+  NS: awsdns-27.org                     1   2.22%
+  NS: Akamai International B.V.         1   2.22%
+
+[MX 提供商] GOOGLE，域名数 19
+  NS: CLOUDFLARENET                    10  52.63%
+  NS: wixdns.net                        2  10.53%
+  NS: awsdns-28.org                     1   5.26%
+  NS: easydns.com                       1   5.26%
+  NS: wix.com                           1   5.26%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 14
+  NS: CLOUDFLARENET                     8  57.14%
+  NS: easydns.com                       2  14.29%
+  NS: netim.net                         1   7.14%
+  NS: hostmonster.com                   1   7.14%
+  NS: AMAZON-02                         1   7.14%
+
+[MX 提供商] GOOGLE-CLOUD-PLATFORM，域名数 10
+  NS: AMAZON-02                         7  70.00%
+  NS: d9hosting.com                     2  20.00%
+  NS: CLOUDFLARENET                     1  10.00%

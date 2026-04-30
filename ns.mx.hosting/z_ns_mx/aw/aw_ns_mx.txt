@@ -1,0 +1,59 @@
+=== 数据来源: aw ===
+NS 域名数: 402
+MX 域名数: 403
+NS+MX 交集: 402
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.，域名数 175
+  MX: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.    113  64.57%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      26  14.86%
+  MX: metacorp.aw                       5   2.86%
+  MX: GOOGLE                            4   2.29%
+  MX: iphmx.com                         4   2.29%
+
+[NS 提供商] CLOUDFLARENET，域名数 100
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      40  40.00%
+  MX: GOOGLE                           20  20.00%
+  MX: iphmx.com                         6   6.00%
+  MX: CLOUDFLARENET                     5   5.00%
+  MX: yandex.net                        4   4.00%
+
+[NS 提供商] SECURITYSERVICES，域名数 15
+  MX: SECURITYSERVICES                 15 100.00%
+
+[NS 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 10
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK      10 100.00%
+
+=== 数据来源: aw ===
+NS 域名数: 402
+MX 域名数: 403
+NS+MX 交集: 402
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.，域名数 114
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.    113  99.12%
+  NS: CLOUDFLARENET                     1   0.88%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 109
+  NS: CLOUDFLARENET                    40  36.70%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.     26  23.85%
+  NS: MICROSOFT-CORP-MSN-AS-BLOCK      10   9.17%
+  NS: Cloud DNS Ltd                     6   5.50%
+  NS: AMAZON-02                         3   2.75%
+
+[MX 提供商] GOOGLE，域名数 38
+  NS: CLOUDFLARENET                    20  52.63%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.      4  10.53%
+  NS: wixdns.net                        3   7.89%
+  NS: DIMENOC                           2   5.26%
+  NS: registrar-servers.com             2   5.26%
+
+[MX 提供商] SECURITYSERVICES，域名数 15
+  NS: SECURITYSERVICES                 15 100.00%
+
+[MX 提供商] iphmx.com，域名数 12
+  NS: CLOUDFLARENET                     6  50.00%
+  NS: SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.      4  33.33%
+  NS: Akamai International B.V.         2  16.67%

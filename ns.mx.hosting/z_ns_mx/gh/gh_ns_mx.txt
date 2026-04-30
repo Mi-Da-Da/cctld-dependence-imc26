@@ -1,0 +1,58 @@
+=== 数据来源: gh ===
+NS 域名数: 181
+MX 域名数: 183
+NS+MX 交集: 181
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] CLOUDFLARENET，域名数 47
+  MX: com.gh                           12  25.53%
+  MX: GOOGLE                           10  21.28%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       4   8.51%
+  MX: CLOUDFLARENET                     4   8.51%
+  MX: hostinger.com                     4   8.51%
+
+[NS 提供商] SECURITYSERVICES，域名数 24
+  MX: SECURITYSERVICES                 10  41.67%
+  MX: NAMECHEAP-NET                     8  33.33%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       3  12.50%
+  MX: prodomaines.com                   1   4.17%
+  MX: GOOGLE                            1   4.17%
+
+[NS 提供商] UNIFIEDLAYER-AS-1，域名数 14
+  MX: com.gh                            9  64.29%
+  MX: org.gh                            2  14.29%
+  MX: mailgun.org                       1   7.14%
+  MX: mailhostbox.com                   1   7.14%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       1   7.14%
+
+=== 数据来源: gh ===
+NS 域名数: 181
+MX 域名数: 183
+NS+MX 交集: 181
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] com.gh，域名数 55
+  NS: CLOUDFLARENET                    12  21.82%
+  NS: UNIFIEDLAYER-AS-1                 9  16.36%
+  NS: RELIABLESITE                      5   9.09%
+  NS: inmotionhosting.com               3   5.45%
+  NS: com.gh                            3   5.45%
+
+[MX 提供商] GOOGLE，域名数 24
+  NS: CLOUDFLARENET                    10  41.67%
+  NS: GOOGLE                            2   8.33%
+  NS: orderbox-dns.com                  1   4.17%
+  NS: wordpress.com                     1   4.17%
+  NS: connectcloud.solutions            1   4.17%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 24
+  NS: CLOUDFLARENET                     4  16.67%
+  NS: SECURITYSERVICES                  3  12.50%
+  NS: azure-dns.com                     2   8.33%
+  NS: microsoftonline.com               1   4.17%
+  NS: awsdns-09.net                     1   4.17%
+
+[MX 提供商] SECURITYSERVICES，域名数 10
+  NS: SECURITYSERVICES                 10 100.00%

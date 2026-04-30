@@ -1,0 +1,59 @@
+=== 数据来源: ne ===
+NS 域名数: 271
+MX 域名数: 282
+NS+MX 交集: 271
+
+=== NS -> MX 条件分布 ===
+
+[NS 提供商] SONITEL，域名数 60
+  MX: gouv.ne                          12  20.00%
+  MX: sahelcom.ne                       8  13.33%
+  MX: altospam.com                      2   3.33%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   3.33%
+  MX: ZOHO-AS                           1   1.67%
+
+[NS 提供商] CLOUDFLARENET，域名数 49
+  MX: CLOUDFLARENET                     9  18.37%
+  MX: GOOGLE                            9  18.37%
+  MX: 101domain.com                     4   8.16%
+  MX: Proton AG                         2   4.08%
+  MX: MICROSOFT-CORP-MSN-AS-BLOCK       2   4.08%
+
+[NS 提供商] SECURITYSERVICES，域名数 13
+  MX: SECURITYSERVICES                 13 100.00%
+
+[NS 提供商] perf1.com，域名数 12
+  MX: Nameshield SAS                   12 100.00%
+
+=== 数据来源: ne ===
+NS 域名数: 271
+MX 域名数: 282
+NS+MX 交集: 271
+
+=== MX -> NS 条件分布 ===
+
+[MX 提供商] GOOGLE，域名数 20
+  NS: CLOUDFLARENET                     9  45.00%
+  NS: GOOGLE                            2  10.00%
+  NS: NSONE                             2  10.00%
+  NS: GANDI SAS                         1   5.00%
+  NS: awsdns-25.net                     1   5.00%
+
+[MX 提供商] Nameshield SAS，域名数 16
+  NS: perf1.com                        12  75.00%
+  NS: nameshield.net                    4  25.00%
+
+[MX 提供商] SECURITYSERVICES，域名数 15
+  NS: SECURITYSERVICES                 13  86.67%
+  NS: awsdns-02.org                     2  13.33%
+
+[MX 提供商] MICROSOFT-CORP-MSN-AS-BLOCK，域名数 15
+  NS: CLOUDFLARENET                     2  13.33%
+  NS: microsoftonline.com               2  13.33%
+  NS: AMAZON-02                         2  13.33%
+  NS: SONITEL                           2  13.33%
+  NS: totalenergies.biz                 1   6.67%
+
+[MX 提供商] gouv.ne，域名数 13
+  NS: SONITEL                          12  92.31%
+  NS: ansi.ne                           1   7.69%
