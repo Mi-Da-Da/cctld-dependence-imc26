@@ -1,0 +1,27 @@
+{
+  "ns_provider": {
+    "top3_coverage": 50.41,
+    "HHI": 0.1157,
+    "top3_providers": [
+      "SOFTLAYER",
+      "CLOUDFLARENET",
+      "DIGITALOCEAN-ASN"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 1.0,
+    "top3_providers": [
+      "Alsycon B.V."
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 40.63,
+    "HHI": 0.0793,
+    "top3_providers": [
+      "SOFTLAYER",
+      "CLOUDFLARENET",
+      "Hetzner Online GmbH"
+    ]
+  }
+}
