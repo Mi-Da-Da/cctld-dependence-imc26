@@ -1,0 +1,630 @@
+[
+  {
+    "sld": "wbvsa.cc",
+    "total_count": 1257,
+    "provider_hint": "TERAEXCH",
+    "top_asn": {
+      "asn": 399077,
+      "org": "TERAEXCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "fh.wbvsa.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wbvsa\\.cc(?:\\.|$)",
+      "(?:^|\\.)wbvsa[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hichina.com",
+    "total_count": 231,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "expired.hichina.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hichina\\.com(?:\\.|$)",
+      "(?:^|\\.)hichina[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyun.com",
+    "total_count": 107,
+    "provider_hint": "Alibaba Cloud Singapore Private Limited",
+    "top_asn": {
+      "asn": 134963,
+      "org": "Alibaba Cloud Singapore Private Limited"
+    },
+    "pct": 0.991,
+    "countries": [
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "smtp.qiye.aliyun.com",
+      "overdue.aliyun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyun\\.com(?:\\.|$)",
+      "(?:^|\\.)aliyun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "3i5p.com",
+    "total_count": 100,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "26.3i5p.com",
+      "27.3i5p.com",
+      "23.3i5p.com",
+      "28.3i5p.com",
+      "24.3i5p.com",
+      "25.3i5p.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3i5p\\.com(?:\\.|$)",
+      "(?:^|\\.)3i5p[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cd778.com",
+    "total_count": 60,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dwz3.cd778.com",
+      "dwz1.cd778.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cd778\\.com(?:\\.|$)",
+      "(?:^|\\.)cd778[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "99d88e.com",
+    "total_count": 44,
+    "provider_hint": "GO-DADDY-COM-LLC",
+    "top_asn": {
+      "asn": 398101,
+      "org": "GO-DADDY-COM-LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "a.99d88e.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)99d88e\\.com(?:\\.|$)",
+      "(?:^|\\.)99d88e[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "julydns.com",
+    "total_count": 40,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "t.julydns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)julydns\\.com(?:\\.|$)",
+      "(?:^|\\.)julydns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gname.net",
+    "total_count": 38,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "sp.gname.net",
+      "url.gname.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gname\\.net(?:\\.|$)",
+      "(?:^|\\.)gname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vhostgo.com",
+    "total_count": 35,
+    "provider_hint": "West263 International Limited",
+    "top_asn": {
+      "asn": 139021,
+      "org": "West263 International Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "freeurl.vhostgo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vhostgo\\.com(?:\\.|$)",
+      "(?:^|\\.)vhostgo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zhanghonghong.com",
+    "total_count": 33,
+    "provider_hint": "DXTL Tseung Kwan O Service",
+    "top_asn": {
+      "asn": 134548,
+      "org": "DXTL Tseung Kwan O Service"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "2xin1.zhanghonghong.com",
+      "xin3.zhanghonghong.com",
+      "2xin4.zhanghonghong.com",
+      "2xin3.zhanghonghong.com",
+      "xin1.zhanghonghong.com",
+      "2xin2.zhanghonghong.com",
+      "2xin5.zhanghonghong.com",
+      "xin5.zhanghonghong.com",
+      "xin4.zhanghonghong.com",
+      "xin2.zhanghonghong.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zhanghonghong\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gs-cdn.com",
+    "total_count": 32,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "exp.gs-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gs\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 30,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xptq5u47.zx770.com",
+      "ce9sur58.zx770.com",
+      "szbe5uva.zx770.com",
+      "yp8aczf7.zx770.com",
+      "9ykten2a.zx770.com",
+      "uy69fn32.zx770.com",
+      "uxrgj9ke.zx770.com",
+      "7mre4b82.zx770.com",
+      "d8w7xqv2.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "keilao.com",
+    "total_count": 28,
+    "provider_hint": "IT7NET",
+    "top_asn": {
+      "asn": 25820,
+      "org": "IT7NET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "cdn-http-ok.ns.keilao.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)keilao\\.com(?:\\.|$)",
+      "(?:^|\\.)keilao[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ename.net",
+    "total_count": 28,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "cs1.ename.net",
+      "cs.ename.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ename\\.net(?:\\.|$)",
+      "(?:^|\\.)ename[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "26oop.com",
+    "total_count": 22,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "3.26oop.com",
+      "31.26oop.com",
+      "18.26oop.com",
+      "11.26oop.com",
+      "27.26oop.com",
+      "21.26oop.com",
+      "32.26oop.com",
+      "13.26oop.com",
+      "14.26oop.com",
+      "16.26oop.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)26oop\\.com(?:\\.|$)",
+      "(?:^|\\.)26oop[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsforwardingservice.com",
+    "total_count": 20,
+    "provider_hint": "ZEN-ECN",
+    "top_asn": {
+      "asn": 21859,
+      "org": "ZEN-ECN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "fw.dnsforwardingservice.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsforwardingservice\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dym-fd.cn",
+    "total_count": 20,
+    "provider_hint": "High Family Technology Co., Limited",
+    "top_asn": {
+      "asn": 142032,
+      "org": "High Family Technology Co., Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "dym-fd.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dym\\-fd\\.cn(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "948m.cc",
+    "total_count": 19,
+    "provider_hint": "I LAYER LIMITED",
+    "top_asn": {
+      "asn": 137899,
+      "org": "I LAYER LIMITED"
+    },
+    "pct": 1.0,
+    "countries": [
+      "ZA"
+    ],
+    "example_targets": [
+      "948m.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)948m\\.cc(?:\\.|$)",
+      "(?:^|\\.)948m[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "92kun.com",
+    "total_count": 17,
+    "provider_hint": "Eons Data Communications Limited",
+    "top_asn": {
+      "asn": 138997,
+      "org": "Eons Data Communications Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "zonghe168.92kun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)92kun\\.com(?:\\.|$)",
+      "(?:^|\\.)92kun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "4rcjuebm8kh8.com",
+    "total_count": 14,
+    "provider_hint": "Yancy Limited",
+    "top_asn": {
+      "asn": 138415,
+      "org": "Yancy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "123.4rcjuebm8kh8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)4rcjuebm8kh8\\.com(?:\\.|$)",
+      "(?:^|\\.)4rcjuebm8kh8[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wcdnga.com",
+    "total_count": 14,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA",
+      "KR"
+    ],
+    "example_targets": [
+      "pg03.pw.wcdnga.com",
+      "a1881.pw.wcdnga.com",
+      "xpj3.pw.wcdnga.com",
+      "xpj2.pw.wcdnga.com",
+      "a1818.pw.wcdnga.com",
+      "3386.pw.wcdnga.com",
+      "ag7.pw.wcdnga.com",
+      "a1882.pw.wcdnga.com",
+      "tw7.pw.wcdnga.com",
+      "32360.pw.wcdnga.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wcdnga\\.com(?:\\.|$)",
+      "(?:^|\\.)wcdnga[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ymxk12.com",
+    "total_count": 13,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 0.923,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ym1723.ymxk12.com",
+      "ym1854.ymxk12.com",
+      "ym1987.ymxk12.com",
+      "ym2004.ymxk12.com",
+      "ym1663.ymxk12.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ymxk12\\.com(?:\\.|$)",
+      "(?:^|\\.)ymxk12[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "iupqx.com",
+    "total_count": 12,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "c3409552.iupqx.com",
+      "4b2999d0.iupqx.com",
+      "8a4772ab.iupqx.com",
+      "1499be10.iupqx.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)iupqx\\.com(?:\\.|$)",
+      "(?:^|\\.)iupqx[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yumi.cc",
+    "total_count": 11,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "cs.yumi.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yumi\\.cc(?:\\.|$)",
+      "(?:^|\\.)yumi[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "huacen.com",
+    "total_count": 11,
+    "provider_hint": "China Telecom Group",
+    "top_asn": {
+      "asn": 4816,
+      "org": "China Telecom Group"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "huacen.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)huacen\\.com(?:\\.|$)",
+      "(?:^|\\.)huacen[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bck-bet.com",
+    "total_count": 10,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "hk.bck-bet.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bck\\-bet\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyuncs.com",
+    "total_count": 10,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 0.8,
+    "countries": [
+      "KR",
+      "SG",
+      "US",
+      "CN",
+      "HK"
+    ],
+    "example_targets": [
+      "yelupw.oss-cn-chengdu.aliyuncs.com",
+      "woniiuyunxun.oss-cn-hongkong.aliyuncs.com",
+      "0xai.oss-us-west-1.aliyuncs.com",
+      "natural-flow-website-slot666pw.oss-ap-southeast-1.aliyuncs.com",
+      "qiantang-img.oss-cn-guangzhou.aliyuncs.com",
+      "ag-ganggang-hanguo.oss-ap-northeast-2.aliyuncs.com",
+      "zhaocaicq.oss-cn-hongkong.aliyuncs.com",
+      "ag-sensen-hanguo.oss-ap-northeast-2.aliyuncs.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyuncs\\.com(?:\\.|$)",
+      "(?:^|\\.)aliyuncs[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsyy.com",
+    "total_count": 10,
+    "provider_hint": "High Family Technology Co., Limited",
+    "top_asn": {
+      "asn": 142032,
+      "org": "High Family Technology Co., Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "999w.pw.cdn.dnsyy.com",
+      "88z.pw.cdn.dnsyy.com",
+      "82p.pw.cdn.dnsyy.com",
+      "888c.pw.cdn.dnsyy.com",
+      "555w.pw.cdn.dnsyy.com",
+      "98p.pw.cdn.dnsyy.com",
+      "666m.pw.cdn.dnsyy.com",
+      "33f.pw.cdn.dnsyy.com",
+      "888w.pw.cdn.dnsyy.com",
+      "666w.pw.cdn.dnsyy.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsyy\\.com(?:\\.|$)",
+      "(?:^|\\.)dnsyy[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
