@@ -1,0 +1,63 @@
+[
+  {
+    "sld": "fq5uyfsb384w.com",
+    "total_count": 16,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dafa5188.fq5uyfsb384w.com",
+      "abc25.fq5uyfsb384w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fq5uyfsb384w\\.com(?:\\.|$)",
+      "(?:^|\\.)fq5uyfsb384w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "92kun.com",
+    "total_count": 10,
+    "provider_hint": "Ava Host Srl",
+    "top_asn": {
+      "asn": 48753,
+      "org": "Ava Host Srl"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MD"
+    ],
+    "example_targets": [
+      "zonghe168.92kun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)92kun\\.com(?:\\.|$)",
+      "(?:^|\\.)92kun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "luyicdn369.com",
+    "total_count": 10,
+    "provider_hint": "LUCIDACLOUD LIMITED",
+    "top_asn": {
+      "asn": 139659,
+      "org": "LUCIDACLOUD LIMITED"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "sfjt111.luyicdn369.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)luyicdn369\\.com(?:\\.|$)",
+      "(?:^|\\.)luyicdn369[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
