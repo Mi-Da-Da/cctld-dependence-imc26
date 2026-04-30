@@ -1,0 +1,98 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 271,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "railway.app",
+    "total_count": 13,
+    "provider_hint": "RAILWAY",
+    "top_asn": {
+      "asn": 400940,
+      "org": "RAILWAY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "w2cw8238.up.railway.app",
+      "91wrzoqg.up.railway.app",
+      "boln3oty.up.railway.app",
+      "v3t4zluo.up.railway.app",
+      "ws0z1ysy.up.railway.app",
+      "pj51ijtc.up.railway.app",
+      "6nj8400e.up.railway.app",
+      "yzmbpiyh.up.railway.app",
+      "l70hrugy.up.railway.app",
+      "s0cfjn5o.up.railway.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)railway\\.app(?:\\.|$)",
+      "(?:^|\\.)railway[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "picsee.ltd",
+    "total_count": 12,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "bsd18.picsee.ltd",
+      "bsd16.picsee.ltd",
+      "bsd10.picsee.ltd",
+      "bsd19.picsee.ltd",
+      "bsd2.picsee.ltd",
+      "bsd13.picsee.ltd",
+      "bsd6.picsee.ltd",
+      "bsd20.picsee.ltd"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)picsee\\.ltd(?:\\.|$)",
+      "(?:^|\\.)picsee[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "switchy.io",
+    "total_count": 11,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BE"
+    ],
+    "example_targets": [
+      "links.switchy.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)switchy\\.io(?:\\.|$)",
+      "(?:^|\\.)switchy[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
