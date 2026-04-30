@@ -1,0 +1,30 @@
+[
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 17,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "xqg6r8we.aisdun-cname.com",
+      "zyg3f52a.aisdun-cname.com",
+      "ryzutna3.aisdun-cname.com",
+      "83s24ejv.aisdun-cname.com",
+      "yqs2h7jx.aisdun-cname.com",
+      "d6mjgrvf.aisdun-cname.com",
+      "4jctp7zy.aisdun-cname.com",
+      "k4hu9seb.aisdun-cname.com",
+      "zxawery2.aisdun-cname.com",
+      "7utmefny.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  }
+]
