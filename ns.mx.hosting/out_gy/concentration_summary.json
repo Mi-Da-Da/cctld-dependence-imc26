@@ -1,0 +1,27 @@
+{
+  "ns_provider": {
+    "top3_coverage": 66.2,
+    "HHI": 0.2299,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "GANDI SAS",
+      "NSONE"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 1.0,
+    "top3_providers": [
+      "Netsec Limited"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 35.89,
+    "HHI": 0.0608,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "GANDI SAS"
+    ]
+  }
+}
