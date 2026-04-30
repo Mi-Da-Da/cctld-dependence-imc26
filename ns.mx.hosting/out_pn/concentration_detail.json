@@ -1,0 +1,434 @@
+{
+  "ns_provider": {
+    "total": 160,
+    "HHI": 0.2384,
+    "providers": [
+      {
+        "name": "CLOUDFLARENET",
+        "count": 54,
+        "percentage": 33.75
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 46,
+        "percentage": 28.75
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 29,
+        "percentage": 18.12
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 10,
+        "percentage": 6.25
+      },
+      {
+        "name": "HURRICANE",
+        "count": 9,
+        "percentage": 5.62
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 4,
+        "percentage": 2.5
+      },
+      {
+        "name": "IONOS SE",
+        "count": 4,
+        "percentage": 2.5
+      },
+      {
+        "name": "NSONE",
+        "count": 4,
+        "percentage": 2.5
+      }
+    ]
+  },
+  "cname_provider": {
+    "total": 0,
+    "HHI": 0.0,
+    "providers": []
+  },
+  "ip_asns": {
+    "total": 295,
+    "HHI": 0.0887,
+    "providers": [
+      {
+        "name": "AMAZON-02",
+        "count": 71,
+        "percentage": 24.07
+      },
+      {
+        "name": "Akamai Connected Cloud",
+        "count": 30,
+        "percentage": 10.17
+      },
+      {
+        "name": "CLOUDFLARENET",
+        "count": 23,
+        "percentage": 7.8
+      },
+      {
+        "name": "unknown",
+        "count": 20,
+        "percentage": 6.78
+      },
+      {
+        "name": "CSC",
+        "count": 17,
+        "percentage": 5.76
+      },
+      {
+        "name": "GOOGLE-CLOUD-PLATFORM",
+        "count": 12,
+        "percentage": 4.07
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 10,
+        "percentage": 3.39
+      },
+      {
+        "name": "StrataNet",
+        "count": 8,
+        "percentage": 2.71
+      },
+      {
+        "name": "INCAPSULA",
+        "count": 7,
+        "percentage": 2.37
+      },
+      {
+        "name": "AMAZON-AES",
+        "count": 5,
+        "percentage": 1.69
+      },
+      {
+        "name": "GOOGLE",
+        "count": 5,
+        "percentage": 1.69
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 4,
+        "percentage": 1.36
+      },
+      {
+        "name": "HILTON-E",
+        "count": 3,
+        "percentage": 1.02
+      },
+      {
+        "name": "FACEBOOK",
+        "count": 3,
+        "percentage": 1.02
+      },
+      {
+        "name": "Register S.p.A.",
+        "count": 3,
+        "percentage": 1.02
+      },
+      {
+        "name": "Safenames Ltd.",
+        "count": 3,
+        "percentage": 1.02
+      },
+      {
+        "name": "Sony Network Communications Inc.",
+        "count": 3,
+        "percentage": 1.02
+      },
+      {
+        "name": "FASTLY",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "Nameshield SAS",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "Tele Asia Limited",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "Volkswagen AG",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "CDLAN SpA",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "WorldStream B.V.",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "Keyweb AG",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "KYN-GTS",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "OVH SAS",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 2,
+        "percentage": 0.68
+      },
+      {
+        "name": "MOTOROLA-SOLUTIONS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "DREAMHOST-AS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "DXC-AS3360",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "GIONA",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "AS-VULTR",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Hetzner Online GmbH",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "GSL Networks Pty LTD",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "CENTURYLINK-LEGACY-SAVVIS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "LUMOS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "EDNS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Hotel Reservation Service Robert Ragge GmbH",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "DIGICERT",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Hostpoint AG",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "ATT-INTERNET4",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Hostinger International Limited",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "MASTER-7-AS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "SERVERCENTRAL",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Alibaba US Technology Co., Ltd.",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "LeaseWeb Netherlands B.V.",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "AS17378",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "GO-DADDY-COM-LLC",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "DF-TUKWILA01",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "OWGELS INTERNATIONAL CO., LIMITED",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "DIGITALOCEAN-ASN",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Yahoo Japan",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Yahoo Japan Corporation",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "SiteHost New Zealand",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Plusnet GmbH",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Dr. Ing. h.c. F. Porsche AG",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "ALLST-15290",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "ROGERS-COMMUNICATIONS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "WBD-AS40703",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "MULTA-ASN1",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Scaleway S.a.s.",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "CENTURYLINK-US-LEGACY-QWEST",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Aruba S.p.A.",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "UPS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Sunrise GmbH",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Deutsche Telekom AG",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Audi AG",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "NCUBE-OREGON-AS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "SQUARESPACE",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "INTEL-SC-AS",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "IONOS SE",
+        "count": 1,
+        "percentage": 0.34
+      },
+      {
+        "name": "Team Internet AG",
+        "count": 1,
+        "percentage": 0.34
+      }
+    ]
+  }
+}
