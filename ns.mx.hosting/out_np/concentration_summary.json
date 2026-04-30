@@ -1,0 +1,27 @@
+{
+  "ns_provider": {
+    "top3_coverage": 76.0,
+    "HHI": 0.3394,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "NSONE"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 100.0,
+    "HHI": 1.0,
+    "top3_providers": [
+      "AMAZON-02"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 44.94,
+    "HHI": 0.1,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "WHG Hosting Services Ltd",
+      "AMAZON-02"
+    ]
+  }
+}
