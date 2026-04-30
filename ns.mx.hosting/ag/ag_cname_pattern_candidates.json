@@ -1,0 +1,244 @@
+[
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 54,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "aqjf8spu.aisdun-cname.com",
+      "ucpj8xtm.aisdun-cname.com",
+      "2qwvkac4.aisdun-cname.com",
+      "bcmewz76.aisdun-cname.com",
+      "q2fvsnu9.aisdun-cname.com",
+      "sh5qc7ex.aisdun-cname.com",
+      "843mur6e.aisdun-cname.com",
+      "qu7rv364.aisdun-cname.com",
+      "2m6sd5wq.aisdun-cname.com",
+      "q3kr9ndf.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "park.io",
+    "total_count": 40,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 23,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "haiyan2-cdn.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fgbl-s12yf.com",
+    "total_count": 23,
+    "provider_hint": "PEG-HK",
+    "top_asn": {
+      "asn": 398478,
+      "org": "PEG-HK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "25a01b92.fgbl-s12yf.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fgbl\\-s12yf\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn-ng.net",
+    "total_count": 21,
+    "provider_hint": "Skycloud Computing co., Ltd.",
+    "top_asn": {
+      "asn": 7483,
+      "org": "Skycloud Computing co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "TW"
+    ],
+    "example_targets": [
+      "cr28-site-02.cdn-ng.net",
+      "cr28-site-01.cdn-ng.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn\\-ng\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "npud450c.com",
+    "total_count": 17,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "PL"
+    ],
+    "example_targets": [
+      "http-301_0.npud450c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)npud450c\\.com(?:\\.|$)",
+      "(?:^|\\.)npud450c[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bck-bet.com",
+    "total_count": 15,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "hk.bck-bet.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bck\\-bet\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdnfree.org",
+    "total_count": 15,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "baresegu.cdnfree.org",
+      "firisoqo.cdnfree.org",
+      "hitezike.cdnfree.org",
+      "wotiroha.cdnfree.org",
+      "wuretugi.cdnfree.org",
+      "xugijuhi.cdnfree.org",
+      "suhezosa.cdnfree.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdnfree\\.org(?:\\.|$)",
+      "(?:^|\\.)cdnfree[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jsha318zbo348.com",
+    "total_count": 12,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "gfxzl.jsha318zbo348.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jsha318zbo348\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gname.net",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "url.gname.net",
+      "sp.gname.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gname\\.net(?:\\.|$)",
+      "(?:^|\\.)gname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wcdnga.com",
+    "total_count": 11,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "KR",
+      "CA"
+    ],
+    "example_targets": [
+      "49u.ag.wcdnga.com",
+      "f8.ag.wcdnga.com",
+      "usdt03.ag.wcdnga.com",
+      "usdt09.ag.wcdnga.com",
+      "usdt8.ag.wcdnga.com",
+      "49uw.ag.wcdnga.com",
+      "r8.ag.wcdnga.com",
+      "usdt04.ag.wcdnga.com",
+      "usdt05.ag.wcdnga.com",
+      "usdt07.ag.wcdnga.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wcdnga\\.com(?:\\.|$)",
+      "(?:^|\\.)wcdnga[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
