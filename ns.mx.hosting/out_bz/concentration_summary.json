@@ -1,0 +1,29 @@
+{
+  "ns_provider": {
+    "top3_coverage": 72.63,
+    "HHI": 0.221,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "Host Europe GmbH",
+      "SECURITYSERVICES"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 74.21,
+    "HHI": 0.203,
+    "top3_providers": [
+      "AMAZON-AES",
+      "Dimension Network & Communication Limited",
+      "Cloudflare London, LLC"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 39.34,
+    "HHI": 0.0706,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "CONFLUENCE-NETWORK-INC"
+    ]
+  }
+}
