@@ -1,0 +1,42 @@
+[
+  {
+    "sld": "92kun.com",
+    "total_count": 70,
+    "provider_hint": "Ava Host Srl",
+    "top_asn": {
+      "asn": 48753,
+      "org": "Ava Host Srl"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MD"
+    ],
+    "example_targets": [
+      "zonghe168.92kun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)92kun\\.com(?:\\.|$)",
+      "(?:^|\\.)92kun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "park.io",
+    "total_count": 27,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
