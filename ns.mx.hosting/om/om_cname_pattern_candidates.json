@@ -1,0 +1,230 @@
+[
+  {
+    "sld": "trafficmanager.net",
+    "total_count": 124,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 0.798,
+    "countries": [
+      "IN",
+      "US",
+      "JP",
+      "IE",
+      "SG"
+    ],
+    "example_targets": [
+      "p-th.bing.com.trafficmanager.net",
+      "arc.trafficmanager.net",
+      "atm-settingsfe-prod-geo2.trafficmanager.net",
+      "win-global-asimov-leafs-events-data.trafficmanager.net",
+      "ecs.office.trafficmanager.net",
+      "assets-msn-com-world-atm-default.trafficmanager.net",
+      "www-msn-com-world-atm-default.trafficmanager.net",
+      "config.teams.trafficmanager.net",
+      "win-msn-com-world-atm-default.trafficmanager.net",
+      "augloop-prod.trafficmanager.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)trafficmanager\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 39,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "mobile-gtalk.l.google.com",
+      "lh2.l.google.com",
+      "clients.l.google.com",
+      "history.l.google.com",
+      "www3.l.google.com",
+      "youtube-ui.l.google.com",
+      "sb.l.google.com",
+      "android.l.google.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google\\.com(?:\\.|$)",
+      "(?:^|\\.)google[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gvt2.com",
+    "total_count": 32,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "beacons-handoff.gcp.gvt2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gvt2\\.com(?:\\.|$)",
+      "(?:^|\\.)gvt2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ax-msedge.net",
+    "total_count": 21,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "bat-bing-com.ax-0001.ax-msedge.net",
+      "edge-microsoft-com.ax-0002.ax-msedge.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ax\\-msedge\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "msidentity.com",
+    "total_count": 16,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "a.privatelink.msidentity.com",
+      "ags.privatelink.msidentity.com",
+      "login.msa.msidentity.com",
+      "login.mso.msidentity.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)msidentity\\.com(?:\\.|$)",
+      "(?:^|\\.)msidentity[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "instagram.com",
+    "total_count": 15,
+    "provider_hint": "FACEBOOK",
+    "top_asn": {
+      "asn": 32934,
+      "org": "FACEBOOK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "z-p42-instagram.c10r.instagram.com",
+      "instagram.c10r.instagram.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)instagram\\.com(?:\\.|$)",
+      "(?:^|\\.)instagram[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "apple-dns.net",
+    "total_count": 14,
+    "provider_hint": "APPLE-ENGINEERING",
+    "top_asn": {
+      "asn": 714,
+      "org": "APPLE-ENGINEERING"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "news-edge.fe2.apple-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)apple\\-dns\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kgns1.com",
+    "total_count": 13,
+    "provider_hint": "Kakao Corp",
+    "top_asn": {
+      "asn": 18160,
+      "org": "Kakao Corp"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "brewery-talk-external-azp9mem5.kgns1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kgns1\\.com(?:\\.|$)",
+      "(?:^|\\.)kgns1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nheos.com",
+    "total_count": 13,
+    "provider_hint": "AKAMAI-AS",
+    "top_asn": {
+      "asn": 16625,
+      "org": "AKAMAI-AS"
+    },
+    "pct": 0.769,
+    "countries": [
+      "JP",
+      "KR"
+    ],
+    "example_targets": [
+      "search.naver.com.nheos.com",
+      "siape.veta.naver.com.nheos.com",
+      "news.naver.com.nheos.com",
+      "mail.naver.com.nheos.com",
+      "static.nid.naver.com.nheos.com",
+      "www.naver.com.nheos.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nheos\\.com(?:\\.|$)",
+      "(?:^|\\.)nheos[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ahnlab.com",
+    "total_count": 12,
+    "provider_hint": "LG DACOM Corporation",
+    "top_asn": {
+      "asn": 3786,
+      "org": "LG DACOM Corporation"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "gms.wip.ahnlab.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ahnlab\\.com(?:\\.|$)",
+      "(?:^|\\.)ahnlab[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
