@@ -1,0 +1,26 @@
+[
+  {
+    "sld": "zx770.com",
+    "total_count": 16,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "g6cumpf9.zx770.com",
+      "rxs53qyw.zx770.com",
+      "8euwm25c.zx770.com",
+      "q8m235s4.zx770.com",
+      "vdpshgrx.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
