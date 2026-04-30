@@ -1,0 +1,4724 @@
+[
+  {
+    "sld": "hichina.com",
+    "total_count": 1104,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "expired.hichina.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hichina\\.com(?:\\.|$)",
+      "(?:^|\\.)hichina[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bsgslb.com",
+    "total_count": 241,
+    "provider_hint": "CHINA UNICOM China169 Backbone",
+    "top_asn": {
+      "asn": 4837,
+      "org": "CHINA UNICOM China169 Backbone"
+    },
+    "pct": 0.996,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "pvpher.cn.bsgslb.com",
+      "uffhvn.cn.bsgslb.com",
+      "wyqwis.cn.bsgslb.com",
+      "grwzu.cn.bsgslb.com",
+      "amkny.cn.bsgslb.com",
+      "stgqps.cn.bsgslb.com",
+      "vxazwx.cn.bsgslb.com",
+      "xakth.cn.bsgslb.com",
+      "dcdxep.cn.bsgslb.com",
+      "kemwp.cn.bsgslb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bsgslb\\.com(?:\\.|$)",
+      "(?:^|\\.)bsgslb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "globalso.com",
+    "total_count": 148,
+    "provider_hint": "EGIHOSTING",
+    "top_asn": {
+      "asn": 18779,
+      "org": "EGIHOSTING"
+    },
+    "pct": 0.811,
+    "countries": [
+      "US",
+      "IT"
+    ],
+    "example_targets": [
+      "mssg4a.globalso.com",
+      "edtuhd.globalso.com",
+      "qt9rza.globalso.com",
+      "rc3icm.globalso.com",
+      "tkcnsc.globalso.com",
+      "gw5kf8.globalso.com",
+      "hup3vr.globalso.com",
+      "4thq4g.globalso.com",
+      "nr8kkw.globalso.com",
+      "uhki5r.globalso.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)globalso\\.com(?:\\.|$)",
+      "(?:^|\\.)globalso[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudflare.net",
+    "total_count": 121,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 0.967,
+    "countries": [
+      null,
+      "CN",
+      "HK"
+    ],
+    "example_targets": [
+      "passfab.com.cdn.cloudflare.net",
+      "seetaapp.com.cdn.cloudflare.net",
+      "flickreels.net.cdn.cloudflare.net",
+      "carmatch3.com.cdn.cloudflare.net",
+      "cdniwlive.com.cdn.cloudflare.net",
+      "ston.fi.cdn.cloudflare.net",
+      "blipcut.com.cdn.cloudflare.net",
+      "halamate.com.cdn.cloudflare.net",
+      "acuvue.com.cdn.cloudflare.net",
+      "passfab.jp.cdn.cloudflare.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare\\.net(?:\\.|$)",
+      "(?:^|\\.)cloudflare[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "s3waas.gov.in",
+    "total_count": 92,
+    "provider_hint": "National Informatics Centre",
+    "top_asn": {
+      "asn": 4758,
+      "org": "National Informatics Centre"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IN"
+    ],
+    "example_targets": [
+      "S3FF4D5FBBAFDF976CFDC032E3BDE78DE5.S3WAAS.GOV.in",
+      "S3F85454E8279BE180185CAC7D243C5EB3.S3WAAS.GOV.in",
+      "S368CE199EC2C5517597CE0A4D89620F55.S3WAAS.GOV.in",
+      "s342a0e188f5033bc65bf8d78622277c4e.s3waas.gov.in",
+      "s3d2a27e83d429f0dcae6b937cf440aeb1.s3waas.gov.in",
+      "s301386bd6d8e091c2ab4c7c7de644d37b.s3waas.gov.in",
+      "s3aff1621254f7c1be92f64550478c56e6.s3waas.gov.in",
+      "s3814a9c18f5abff398787c9cfcbf3d80c.s3waas.gov.in",
+      "s365658fde58ab3c2b6e5132a39fae7cb9.s3waas.gov.in",
+      "s3ed265bc903a5a097f61d3ec064d96d2e.s3waas.gov.in"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)s3waas\\.gov\\.in(?:\\.|$)",
+      "(?:^|\\.)s3waas[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gs-cdn.com",
+    "total_count": 90,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "exp.gs-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gs\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunluncan.com",
+    "total_count": 74,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.973,
+    "countries": [
+      "CN",
+      "Unknown"
+    ],
+    "example_targets": [
+      "ecshop.com.w.kunluncan.com",
+      "oilchem.net.w.kunluncan.com",
+      "ningtui.com.w.kunluncan.com",
+      "foshannews.net.w.kunluncan.com",
+      "ctdsb.net.w.kunluncan.com",
+      "bslyun.com.w.kunluncan.com",
+      "7m.cn.w.kunluncan.com",
+      "xpdf.net.w.kunluncan.com",
+      "3673.com.w.kunluncan.com",
+      "weilekuiming.com.w.kunluncan.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunluncan\\.com(?:\\.|$)",
+      "(?:^|\\.)kunluncan[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gname.net",
+    "total_count": 70,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "sp.gname.net",
+      "url.gname.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gname\\.net(?:\\.|$)",
+      "(?:^|\\.)gname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ffcdn.xyz",
+    "total_count": 67,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 0.836,
+    "countries": [
+      "CA",
+      "KR",
+      "ID"
+    ],
+    "example_targets": [
+      "FFCLOUD_642_7_1766223538.ffcdn.xyz",
+      "FFCLOUD_27316_ONE_7_1756045666.ffcdn.xyz",
+      "FFCLOUD_368_31_1759485186.ffcdn.xyz",
+      "FFCLOUD_608_7_1765621999.ffcdn.xyz",
+      "FFCLOUD_282_7_1755784395.ffcdn.xyz",
+      "FFCLOUD_213_7_1752847253.ffcdn.xyz",
+      "FFCLOUD_27315_ONE_7_1756045649.ffcdn.xyz",
+      "FFCLOUD_245_7_1753688306.ffcdn.xyz",
+      "FFCLOUD_221_7_1752936366.ffcdn.xyz",
+      "FFCLOUD_341_7_1758355322.ffcdn.xyz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ffcdn\\.xyz(?:\\.|$)",
+      "(?:^|\\.)ffcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dmctr.cn",
+    "total_count": 66,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "expire.dmctr.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dmctr\\.cn(?:\\.|$)",
+      "(?:^|\\.)dmctr[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fc2.com",
+    "total_count": 64,
+    "provider_hint": "FC2-INC-2",
+    "top_asn": {
+      "asn": 63210,
+      "org": "FC2-INC-2"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "uumoecsvldk3.blog.fc2.com",
+      "dvdrev.blog.fc2.com",
+      "cd4c7240tiwp.blog.fc2.com",
+      "wmad.blog.fc2.com",
+      "lovelivematocha.blog.fc2.com",
+      "nitosokusinn.blog.fc2.com",
+      "xxchoroxx.blog.fc2.com",
+      "subaristd.blog.fc2.com",
+      "romiohan.blog.fc2.com",
+      "soroblog.blog.fc2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fc2\\.com(?:\\.|$)",
+      "(?:^|\\.)fc2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunlunaq.com",
+    "total_count": 63,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.952,
+    "countries": [
+      "CN",
+      "Unknown"
+    ],
+    "example_targets": [
+      "www.trjcn.com.w.kunlunaq.com",
+      "jstv.com.w.kunlunaq.com",
+      "vecentek.com.w.kunlunaq.com",
+      "showguide.cn.w.kunlunaq.com",
+      "deerma.com.w.kunlunaq.com",
+      "qm120.com.w.kunlunaq.com",
+      "techweb.com.cn.w.kunlunaq.com",
+      "www.gotohui.com.w.kunlunaq.com",
+      "jz5u.com.w.kunlunaq.com",
+      "fxbaogao.com.w.kunlunaq.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunlunaq\\.com(?:\\.|$)",
+      "(?:^|\\.)kunlunaq[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pages.dev",
+    "total_count": 58,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "lol-7tb.pages.dev",
+      "star-app-prod.pages.dev",
+      "star-app-prod-new-skin.pages.dev"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pages\\.dev(?:\\.|$)",
+      "(?:^|\\.)pages[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wcdnga.com",
+    "total_count": 58,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 0.983,
+    "countries": [
+      "SG",
+      "CA",
+      "JP",
+      "IN",
+      "HK"
+    ],
+    "example_targets": [
+      "44x666.com.wcdnga.com",
+      "z777.ltd.wcdnga.com",
+      "hxty9.com.wcdnga.com",
+      "cic.org.vn.wcdnga.com",
+      "mahyongways2.com.wcdnga.com",
+      "www.betso88.asia.wcdnga.com",
+      "1ee.xyz.wcdnga.com",
+      "44f999.com.wcdnga.com",
+      "rokubet299.com.wcdnga.com",
+      "weex168.ru.wcdnga.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wcdnga\\.com(?:\\.|$)",
+      "(?:^|\\.)wcdnga[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bdydns.com",
+    "total_count": 57,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.842,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "ys168.com.a.bdydns.com",
+      "eduease.com.a.bdydns.com",
+      "7192.com.a.bdydns.com",
+      "henyumen8.com.a.bdydns.com",
+      "chinaweiyu.com.a.bdydns.com",
+      "zhizhizhi.com.a.bdydns.com",
+      "renren.com.a.bdydns.com",
+      "ugtv8.com.a.bdydns.com",
+      "qdxin.cn.a.bdydns.com",
+      "phb123.com.a.bdydns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bdydns\\.com(?:\\.|$)",
+      "(?:^|\\.)bdydns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn-dysxb.com",
+    "total_count": 47,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "kum.mb.cdn-dysxb.com",
+      "wyw.mb.cdn-dysxb.com",
+      "obv.pt.cdn-dysxb.com",
+      "qlf.mb.cdn-dysxb.com",
+      "qpg.pt.cdn-dysxb.com",
+      "rvi.mb.cdn-dysxb.com",
+      "bfb.mb.cdn-dysxb.com",
+      "flm.mb.cdn-dysxb.com",
+      "crb.mb.cdn-dysxb.com",
+      "bdo.pt.cdn-dysxb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn\\-dysxb\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsv1.com.cn",
+    "total_count": 44,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.955,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "mudu.tv.cdn.dnsv1.com.cn",
+      "tuozhe8.com.cdn.dnsv1.com.cn",
+      "cuiqiu.com.cdn.dnsv1.com.cn",
+      "jrj.com.cdn.dnsv1.com.cn",
+      "ipw.cn.cdn.dnsv1.com.cn",
+      "www.xxcb.cn.cdn.dnsv1.com.cn",
+      "myjiedian.com.cdn.dnsv1.com.cn",
+      "tiptime-private.com.dsa.dnsv1.com.cn",
+      "ceobecanteen.top.cdn.dnsv1.com.cn",
+      "zblogcn.com.cdn.dnsv1.com.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsv1\\.com\\.cn(?:\\.|$)",
+      "(?:^|\\.)dnsv1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyuncsslbintl.com",
+    "total_count": 43,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE",
+      "SG",
+      "US",
+      "HK",
+      "SA"
+    ],
+    "example_targets": [
+      "nlb-wdy4lwqz4i0f1p38u7.eu-central-1.nlb.aliyuncsslbintl.com",
+      "alb-ag98zmng8iiw3gd1ly.cn-hongkong.alb.aliyuncsslbintl.com",
+      "alb-4g04tmtsunnannwsja.ap-southeast-1.alb.aliyuncsslbintl.com",
+      "alb-gmvtccr5zohirrkpyk.ap-southeast-1.alb.aliyuncsslbintl.com",
+      "alb-2s2d3pqqjy14arkiz4.eu-central-1.alb.aliyuncsslbintl.com",
+      "alb-a5jrt0faw4mx9lq0vz.us-east-1.alb.aliyuncsslbintl.com",
+      "alb-6wxa58kg5k6lnn1l4f.me-central-1.alb.aliyuncsslbintl.com",
+      "alb-ald16a4xq2xxbc4krn.ap-southeast-1.alb.aliyuncsslbintl.com",
+      "alb-nbrbum0tao9qvk7mou.ap-southeast-1.alb.aliyuncsslbintl.com",
+      "alb-lx77ee3slq9r96kxhh.us-east-1.alb.aliyuncsslbintl.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyuncsslbintl\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1-k-g-s.com",
+    "total_count": 42,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9603352.1-k-g-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1\\-k\\-g\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunlunpi.com",
+    "total_count": 42,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "newbeebox.com.w.kunlunpi.com",
+      "gameggg.com.w.kunlunpi.com",
+      "xiaoxitech.com.w.kunlunpi.com",
+      "www.hitoor.com.w.kunlunpi.com",
+      "scimall.org.cn.w.kunlunpi.com",
+      "ruidan.com.w.kunlunpi.com",
+      "superads.cn.w.kunlunpi.com",
+      "binjie.fun.w.kunlunpi.com",
+      "gaomon.cn.w.kunlunpi.com",
+      "bsq.cc.w.kunlunpi.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunlunpi\\.com(?:\\.|$)",
+      "(?:^|\\.)kunlunpi[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "i-c-d-9.com",
+    "total_count": 41,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4323243.i-c-d-9.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)i\\-c\\-d\\-9\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "4-g-c-v.com",
+    "total_count": 40,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3022708.4-g-c-v.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)4\\-g\\-c\\-v\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wswebpic.com",
+    "total_count": 40,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.775,
+    "countries": [
+      "CN",
+      "CA"
+    ],
+    "example_targets": [
+      "ip.cn.wswebpic.com",
+      "ddjiayou.cn.wswebpic.com",
+      "ddooo.com.wswebpic.com",
+      "soogif.com.wswebpic.com",
+      "huilv5.cn.wswebpic.com",
+      "cdndm5.com.wswebpic.com",
+      "pedaily.cn.wswebpic.com",
+      "msdmanuals.cn.wswebpic.com",
+      "diyifanwen.com.wswebpic.com",
+      "bcty365.com.wswebpic.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wswebpic\\.com(?:\\.|$)",
+      "(?:^|\\.)wswebpic[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "myshopify.com",
+    "total_count": 37,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "hexgaming-com.myshopify.com",
+      "thn-by-triathlon.myshopify.com",
+      "merach-fitness-store.myshopify.com",
+      "shops.myshopify.com",
+      "mecool-official.myshopify.com",
+      "tokullectibles.myshopify.com",
+      "autoglam-1.myshopify.com",
+      "vlandshops.myshopify.com",
+      "monticello-store.myshopify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)myshopify\\.com(?:\\.|$)",
+      "(?:^|\\.)myshopify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "x-s-r-6.com",
+    "total_count": 36,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1380863.x-s-r-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)x\\-s\\-r\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-o-r-6.com",
+    "total_count": 34,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1860922.n-o-r-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-o\\-r\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "u-3-v-8.com",
+    "total_count": 34,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3530078.u-3-v-8.com",
+      "zhu-7513246.u-3-v-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)u\\-3\\-v\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn-bebo.com",
+    "total_count": 33,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "akc.mb.cdn-bebo.com",
+      "gaz.pt.cdn-bebo.com",
+      "cmy.mb.cdn-bebo.com",
+      "ycr.mb.cdn-bebo.com",
+      "sdd.mb.cdn-bebo.com",
+      "ppp.mb.cdn-bebo.com",
+      "gaz.mb.cdn-bebo.com",
+      "igk.mb.cdn-bebo.com",
+      "tai.pt.cdn-bebo.com",
+      "cma.mb.cdn-bebo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn\\-bebo\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "0i0i0i0.com",
+    "total_count": 32,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "u50.0i0i0i0.com",
+      "0i0i0i0.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)0i0i0i0\\.com(?:\\.|$)",
+      "(?:^|\\.)0i0i0i0[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic7.com",
+    "total_count": 31,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic7\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic7[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "huaweicloudwaf.com",
+    "total_count": 31,
+    "provider_hint": "Huawei Cloud Service data center",
+    "top_asn": {
+      "asn": 55990,
+      "org": "Huawei Cloud Service data center"
+    },
+    "pct": 0.968,
+    "countries": [
+      "CN",
+      "MX"
+    ],
+    "example_targets": [
+      "5ff6224277a449ed937a3880fdfc174c.vip1.huaweicloudwaf.com",
+      "b3735160039a400690860f728a5ab56b.vip1.huaweicloudwaf.com",
+      "f956ee39ce404a518fab879a3af532f3.vip1.huaweicloudwaf.com",
+      "4f49ba6ec46f4ae6932717313e9235c5.vip1.huaweicloudwaf.com",
+      "13605fcec1664ae89150ebfdf0f4a65c.vip1.huaweicloudwaf.com",
+      "48c69510d8b747538d1f4d6809f08761.vip1.huaweicloudwaf.com",
+      "a8912add0e11405dbadffa8896c3dc0f.vip1.huaweicloudwaf.com",
+      "c300578a653f4a50ae4ef806d5cb3630.vip1.huaweicloudwaf.com",
+      "2bbffc7aa85a4aadb2500caa46d2c2fb.vip1.huaweicloudwaf.com",
+      "7ca28e3b9cb94ac6b43c1024cb86f83d.vip1.huaweicloudwaf.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)huaweicloudwaf\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "o-5-t-i.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2957675.o-5-t-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)o\\-5\\-t\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "r-r-b-9.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1348342.r-r-b-9.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)r\\-r\\-b\\-9\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-j-5-f.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9127134.b-j-5-f.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-j\\-5\\-f\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "edgecdn.ru",
+    "total_count": 30,
+    "provider_hint": "EdgeCenter LLC",
+    "top_asn": {
+      "asn": 210756,
+      "org": "EdgeCenter LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "RU"
+    ],
+    "example_targets": [
+      "cl-ms26efd34d.edgecdn.ru",
+      "cl-ms4cfa9655.edgecdn.ru",
+      "cl-msb35a6bbc.edgecdn.ru",
+      "cl-ms92735ff2.edgecdn.ru",
+      "cl-mscdc45cf5.edgecdn.ru",
+      "cl-a589a1fd.edgecdn.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)edgecdn\\.ru(?:\\.|$)",
+      "(?:^|\\.)edgecdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bodis.com",
+    "total_count": 30,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "78599.bodis.com",
+      "14862.bodis.com",
+      "62971.bodis.com",
+      "74202.bodis.com",
+      "78626.bodis.com",
+      "76899.bodis.com",
+      "80649.bodis.com",
+      "95910.BODIS.COM",
+      "66555.bodis.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "edgesuite.net",
+    "total_count": 30,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 20940,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "HK"
+    ],
+    "example_targets": [
+      "ldplayer.net.edgesuite.net",
+      "www.pulsecare.xyz.edgesuite.net",
+      "www.gov.gr.edgesuite.net",
+      "loklok.tv.edgesuite.net",
+      "www.frgam.xyz.edgesuite.net",
+      "wikifx.com-v1.edgesuite.net",
+      "jlc3dp.com.edgesuite.net",
+      "hopegoo.com.edgesuite.net",
+      "www.actfeeds123.com.edgesuite.net",
+      "vivaia.com.edgesuite.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)edgesuite\\.net(?:\\.|$)",
+      "(?:^|\\.)edgesuite[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-cdn.net",
+    "total_count": 30,
+    "provider_hint": "Datacamp Limited",
+    "top_asn": {
+      "asn": 60068,
+      "org": "Datacamp Limited"
+    },
+    "pct": 0.867,
+    "countries": [
+      "US",
+      "Unknown",
+      "BR",
+      "BO"
+    ],
+    "example_targets": [
+      "my-search-page-com.b-cdn.net",
+      "altcha-web.b-cdn.net",
+      "homesearcherplace.b-cdn.net",
+      "search-thrill-com.b-cdn.net",
+      "botstarspro.b-cdn.net",
+      "ctop.b-cdn.net",
+      "starsbotpro.b-cdn.net",
+      "proxy-dt.b-cdn.net",
+      "searchingswift-com.b-cdn.net",
+      "quick-hp-com.b-cdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-cdn\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yunjiasu360.com",
+    "total_count": 29,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ddorg.cdn.yunjiasu360.com",
+      "daoad.cdn.yunjiasu360.com",
+      "sywco.cdn.yunjiasu360.com",
+      "bszcc.cdn.yunjiasu360.com",
+      "xddn.cdn.yunjiasu360.com",
+      "uxs.cdn.yunjiasu360.com",
+      "skj520.cdn.yunjiasu360.com",
+      "ddlxt.cdn.yunjiasu360.com",
+      "geu.cdn.yunjiasu360.com",
+      "daonet.cdn.yunjiasu360.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yunjiasu360\\.com(?:\\.|$)",
+      "(?:^|\\.)yunjiasu360[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mydnspod.net",
+    "total_count": 28,
+    "provider_hint": "China Unicom Shanghai FuTe IDC network",
+    "top_asn": {
+      "asn": 140979,
+      "org": "China Unicom Shanghai FuTe IDC network"
+    },
+    "pct": 0.839,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "dnspod-vip4.beian.mydnspod.net",
+      "dnspod-vip5.beian.mydnspod.net",
+      "dnspod-vip2.beian.mydnspod.net",
+      "dnspod-free.mydnspod.net",
+      "dnspod-free.beian.mydnspod.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mydnspod\\.net(?:\\.|$)",
+      "(?:^|\\.)mydnspod[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-g-8-i.com",
+    "total_count": 27,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2248649.k-g-8-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-g\\-8\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "f-1-t-6.com",
+    "total_count": 27,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7778396.f-1-t-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)f\\-1\\-t\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "z-7-d-y.com",
+    "total_count": 27,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2261629.z-7-d-y.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)z\\-7\\-d\\-y\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "7-m-j-f.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6692806.7-m-j-f.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)7\\-m\\-j\\-f\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "9-b-g-k.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5540932.9-b-g-k.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)9\\-b\\-g\\-k\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "i-k-t-5.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3996795.i-k-t-5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)i\\-k\\-t\\-5\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "w-0-5-g.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6291624.w-0-5-g.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)w\\-0\\-5\\-g\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vwooxy.com",
+    "total_count": 26,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "qewq23nk.vwooxy.com",
+      "x8d4t9g2.vwooxy.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vwooxy\\.com(?:\\.|$)",
+      "(?:^|\\.)vwooxy[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "l-w-q-j.com",
+    "total_count": 25,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9766803.l-w-q-j.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)l\\-w\\-q\\-j\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "live11exch.com",
+    "total_count": 25,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.live11exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)live11exch\\.com(?:\\.|$)",
+      "(?:^|\\.)live11exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-a-0-b.com",
+    "total_count": 25,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "tiaozhuan-2752749.e-a-0-b.com",
+      "zhu-2752749.e-a-0-b.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-a\\-0\\-b\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "x-3-f-c.com",
+    "total_count": 24,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3731546.x-3-f-c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)x\\-3\\-f\\-c\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-i-5-b.com",
+    "total_count": 24,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8529815.b-i-5-b.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-i\\-5\\-b\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "testcfsites.com",
+    "total_count": 24,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.testcfsites.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)testcfsites\\.com(?:\\.|$)",
+      "(?:^|\\.)testcfsites[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-4-z-x.com",
+    "total_count": 24,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7211342.e-4-z-x.com",
+      "tiaozhuan-7211342.e-4-z-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-4\\-z\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yundunwaf5.com",
+    "total_count": 24,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "readpaper.com.c.yundunwaf5.com",
+      "finebi.com.c.yundunwaf5.com",
+      "9b85tyuu5gtbslkfngxudilbcoksezr1.yundunwaf5.com",
+      "7724.com.c.yundunwaf5.com",
+      "lhjogywrjlghk4uijgbnaxt2r4ji2ekm.yundunwaf5.com",
+      "medchemexpress.cn.c.yundunwaf5.com",
+      "jbvmjoywfb7d7mjlwstwmzo38ydaqm4d.yundunwaf5.com",
+      "bzmz8zd8ancgrqpisgf779nblzgvegtk.yundunwaf5.com",
+      "kczg.org.cn.c.yundunwaf5.com",
+      "pkre29mwipxwitdlouinta6woljgqiwk.yundunwaf5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yundunwaf5\\.com(?:\\.|$)",
+      "(?:^|\\.)yundunwaf5[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ads2.bid",
+    "total_count": 23,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "eu.lb.rtb.ads2.bid"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ads2\\.bid(?:\\.|$)",
+      "(?:^|\\.)ads2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "w-a-0-g.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1837782.w-a-0-g.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)w\\-a\\-0\\-g\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "v-6-g-n.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5431951.v-6-g-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)v\\-6\\-g\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "a-i-3-v.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7784606.a-i-3-v.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)a\\-i\\-3\\-v\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "h-t-p-7.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6053096.h-t-p-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)h\\-t\\-p\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-7-c-3.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5221551.k-7-c-3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-7\\-c\\-3\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdnxxx.com",
+    "total_count": 23,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "c2e6e136.cdnxxx.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdnxxx\\.com(?:\\.|$)",
+      "(?:^|\\.)cdnxxx[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "l-v-5-v.com",
+    "total_count": 22,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6507866.l-v-5-v.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)l\\-v\\-5\\-v\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2-j-e-m.com",
+    "total_count": 22,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8768390.2-j-e-m.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2\\-j\\-e\\-m\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "m-3-y-x.com",
+    "total_count": 22,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6879138.m-3-y-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)m\\-3\\-y\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-0-m-x.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4047388.e-0-m-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-0\\-m\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "4-n-c-d.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2959602.4-n-c-d.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)4\\-n\\-c\\-d\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "c-h-y-7.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9075941.c-h-y-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)c\\-h\\-y\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "4-l-i-s.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9270102.4-l-i-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)4\\-l\\-i\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic35.com",
+    "total_count": 21,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic35.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic35\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic35[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "alikunlun.com",
+    "total_count": 21,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.952,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "mark-10.net.cn.w.alikunlun.com",
+      "yuanshen.com.m.alikunlun.com",
+      "m.geetest.com.w.alikunlun.com",
+      "youxiniao.com.w.alikunlun.com",
+      "atscapital.ltd.w.alikunlun.com",
+      "dlightek.com.w.alikunlun.com",
+      "nodejs.cn.w.alikunlun.com",
+      "yfbzb.com.w.alikunlun.com",
+      "cdn.zcycdn.com.m.alikunlun.com",
+      "shouji.com.cn.w.alikunlun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)alikunlun\\.com(?:\\.|$)",
+      "(?:^|\\.)alikunlun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "usw-tencentclb.com",
+    "total_count": 21,
+    "provider_hint": "Tencent Building, Kejizhongyi Avenue",
+    "top_asn": {
+      "asn": 132203,
+      "org": "Tencent Building, Kejizhongyi Avenue"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "lb-5b7hx9va-9wne4b0ts76dokl5.clb.usw-tencentclb.com",
+      "lb-7xeo5b0y-d70bxf2uyl9gt1cn.clb.usw-tencentclb.com",
+      "lb-gs9yukjg-2fdqibhzes8a4nc3.clb.usw-tencentclb.com",
+      "lb-e5kbcf80-1mlaoxsrcfhui524.clb.usw-tencentclb.com",
+      "lb-oxcnxyws-gykx81enrva7ldu5.clb.usw-tencentclb.com",
+      "lb-oslaa1fa-1pfdtc7nu6mo9xij.clb.usw-tencentclb.com",
+      "lb-qki623ec-7fualcwri6zvdt43.clb.usw-tencentclb.com",
+      "lb-ep4oyahm-cwivu80dxalm6pt4.clb.usw-tencentclb.com",
+      "lb-6qa0ffsg-ygm9e2rn7iw34l0h.clb.usw-tencentclb.com",
+      "lb-9s1o78ky-gm3doqn4l6hpru90.clb.usw-tencentclb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)usw\\-tencentclb\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "t-7-k-3.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1477243.t-7-k-3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)t\\-7\\-k\\-3\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2-b-u-d.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9041310.2-b-u-d.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2\\-b\\-u\\-d\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "3-7-1-c.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6155813.3-7-1-c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3\\-7\\-1\\-c\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-h-i-6.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3601922.n-h-i-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-h\\-i\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "a-e-9-4.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9169293.a-e-9-4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)a\\-e\\-9\\-4\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "g-n-h-3.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3908283.g-n-h-3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)g\\-n\\-h\\-3\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-c-k-4.com",
+    "total_count": 20,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8001791.b-c-k-4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-c\\-k\\-4\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yundunwaf3.com",
+    "total_count": 20,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "anker-in.com.c.yundunwaf3.com",
+      "bilibilihelper.com.c.yundunwaf3.com",
+      "xjtvs.com.cn.c.yundunwaf3.com",
+      "qinxue365.com.c.yundunwaf3.com",
+      "okii.com.c.yundunwaf3.com",
+      "xio4ws38w1qrgnpzvfl7rsunj6yxvjii.yundunwaf3.com",
+      "xckcas8jqgsfxzfamjoyllpfutnwxkuc.yundunwaf3.com",
+      "dorx3d8k2n1agjesc0it7m4jdbid3o6r.yundunwaf3.com",
+      "bjtlutwgexbbgdlx3rdvqrvecgdzerh1.yundunwaf3.com",
+      "bmw-emall.cn.c.yundunwaf3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yundunwaf3\\.com(?:\\.|$)",
+      "(?:^|\\.)yundunwaf3[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "impervadns.net",
+    "total_count": 20,
+    "provider_hint": "INCAPSULA",
+    "top_asn": {
+      "asn": 19551,
+      "org": "INCAPSULA"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "zjdof96.ng.impervadns.net",
+      "b8amzo8.impervadns.net",
+      "42eowuy.ng.impervadns.net",
+      "sz2oyog.ng.impervadns.net",
+      "dhiw7tb.impervadns.net",
+      "co5hxcz.impervadns.net",
+      "e6vskmv.ng.impervadns.net",
+      "ldbi3db.ng.impervadns.net",
+      "jexyrok.impervadns.net",
+      "y83g9pr.ng.impervadns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)impervadns\\.net(?:\\.|$)",
+      "(?:^|\\.)impervadns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "c-2-g-8.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1059786.c-2-g-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)c\\-2\\-g\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white11exch.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white11exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white11exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white11exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "w-x-2-b.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8345321.w-x-2-b.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)w\\-x\\-2\\-b\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "p-r-4-i.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4211752.p-r-4-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)p\\-r\\-4\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white55exch.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white55exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white55exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white55exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-c-4-y.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1434897.n-c-4-y.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-c\\-4\\-y\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "y-6-d-i.com",
+    "total_count": 19,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3880857.y-6-d-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)y\\-6\\-d\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wpenginepowered.com",
+    "total_count": 18,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "wp.wpenginepowered.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wpenginepowered\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1-z-r-o.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2781382.1-z-r-o.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1\\-z\\-r\\-o\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "q-u-k-8.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5308718.q-u-k-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)q\\-u\\-k\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "i-4-t-n.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8053380.i-4-t-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)i\\-4\\-t\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "abcexch.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.abcexch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)abcexch\\.com(?:\\.|$)",
+      "(?:^|\\.)abcexch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wwhitegroup1.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.wwhitegroup1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wwhitegroup1\\.com(?:\\.|$)",
+      "(?:^|\\.)wwhitegroup1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sodomains.com",
+    "total_count": 18,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "domain-sale-on.sodomains.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sodomains\\.com(?:\\.|$)",
+      "(?:^|\\.)sodomains[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "g-1-y-w.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4647954.g-1-y-w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)g\\-1\\-y\\-w\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "8-1-s-4.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5214999.8-1-s-4.com",
+      "tiaozhuan-5214999.8-1-s-4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)8\\-1\\-s\\-4\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tencent-cloud.net",
+    "total_count": 18,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.889,
+    "countries": [
+      "CN",
+      "SG"
+    ],
+    "example_targets": [
+      "ins-j4q57sng.ias.tencent-cloud.net",
+      "ins-c1q0q7h9.ias.tencent-cloud.net",
+      "ins-kefppz0s.ias.tencent-cloud.net",
+      "ins-hewub8c0.ias.tencent-cloud.net",
+      "ins-r0n0ko06.ias.tencent-cloud.net",
+      "ins-k8d3bys9.ias.tencent-cloud.net",
+      "ins-ue8mnbfs.ias.tencent-cloud.net",
+      "ins-ozpu6d6d.ias.tencent-cloud.net",
+      "ins-14fgg0ei.ias.tencent-cloud.net",
+      "ins-1k6kgyiw.ias.tencent-cloud.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tencent\\-cloud\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yundunwaf1.com",
+    "total_count": 18,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "ctbpsp.com.c.yundunwaf1.com",
+      "kjf3sjd95yhuffmwzu32tgqpnc3doqrk.yundunwaf1.com",
+      "cd44ty3on54dggp2p5prag8cqngvnuvl.yundunwaf1.com",
+      "ehnmsmne4thdsyt9ul9ibbtzyvsudug4.yundunwaf1.com",
+      "8yx.com.c.yundunwaf1.com",
+      "uib7i4bcon8iy8c9kmfaentxajsjqvg8.yundunwaf1.com",
+      "wecieatomepmhcm01ypyk1bckuttxc0p.yundunwaf1.com",
+      "lb5dm6rjfmddlqy7yloin8nuxtbscabt.yundunwaf1.com",
+      "hnrg0bjdnsvmxegd9feb8mzxgn2krcgl.yundunwaf1.com",
+      "ub7ahq4odjiowyzl60cakpygjwwhlekg.yundunwaf1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yundunwaf1\\.com(?:\\.|$)",
+      "(?:^|\\.)yundunwaf1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "a-m-8-j.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2431520.a-m-8-j.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)a\\-m\\-8\\-j\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudways.cloud",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "secure.cloudways.cloud"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudways\\.cloud(?:\\.|$)",
+      "(?:^|\\.)cloudways[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-p-y-8.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6189382.b-p-y-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-p\\-y\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "g-1-b-6.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6620836.g-1-b-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)g\\-1\\-b\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-u-x-7.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7454436.k-u-x-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-u\\-x\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "z-f-x-5.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9993763.z-f-x-5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)z\\-f\\-x\\-5\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-7-g-r.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7917133.n-7-g-r.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-7\\-g\\-r\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "f-8-f-n.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4023464.f-8-f-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)f\\-8\\-f\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "r-x-t-6.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2678933.r-x-t-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)r\\-x\\-t\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yundunwaf4.com",
+    "total_count": 17,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "wp2sjxnqaghiineu6iqpvpfbpdktkj4f.yundunwaf4.com",
+      "fuwlgqhpgjcoq1patcclroqcoogowm3e.yundunwaf4.com",
+      "wk9cz76p7byzpvdewjgrbuijhtlbt4qo.yundunwaf4.com",
+      "xxspezv9yaixefggiwwuzmczxwcfb4uq.yundunwaf4.com",
+      "ovejqgdqz4npdqhsjpi5wl2sxgoen6t4.yundunwaf4.com",
+      "vfoadxbk3ge4blbtlbnny6crwbgup60h.yundunwaf4.com",
+      "cegiamigokjb9iyfnsr7jdkivnhm6xy8.yundunwaf4.com",
+      "5kyxne22f8vap0vw6qbnuxzxfandvoev.yundunwaf4.com",
+      "ypabxpyfhviurkx2tef58sibmnwurbrz.yundunwaf4.com",
+      "qzlkikxtftwkvabdt3glaquok5lmtrav.yundunwaf4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yundunwaf4\\.com(?:\\.|$)",
+      "(?:^|\\.)yundunwaf4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "f-t-b-m.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7668774.f-t-b-m.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)f\\-t\\-b\\-m\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "newexch.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.newexch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)newexch\\.com(?:\\.|$)",
+      "(?:^|\\.)newexch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "p-d-6-s.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9569090.p-d-6-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)p\\-d\\-6\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dwhitegroup3.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.dwhitegroup3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dwhitegroup3\\.com(?:\\.|$)",
+      "(?:^|\\.)dwhitegroup3[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "h-1-b-n.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1135491.h-1-b-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)h\\-1\\-b\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "y-n-e-c.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2324544.y-n-e-c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)y\\-n\\-e\\-c\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "9-9-u-s.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3580888.9-9-u-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)9\\-9\\-u\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "p-s-n-b.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu.p-s-n-b.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)p\\-s\\-n\\-b\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white77exch.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white77exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white77exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white77exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-q-d-6.com",
+    "total_count": 16,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5047695.n-q-d-6.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-q\\-d\\-6\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "parkingcrew.net",
+    "total_count": 16,
+    "provider_hint": "Team Internet AG",
+    "top_asn": {
+      "asn": 61969,
+      "org": "Team Internet AG"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "591565.parkingcrew.net",
+      "548260.parkingcrew.net",
+      "804171.parkingcrew.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)parkingcrew\\.net(?:\\.|$)",
+      "(?:^|\\.)parkingcrew[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyuncsslb.com",
+    "total_count": 16,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "alb-x3d67kqtbs6fsoz1g1.cn-hangzhou.alb.aliyuncsslb.com",
+      "nlb-9o9t186qgxplmmdjl0.cn-beijing.nlb.aliyuncsslb.com",
+      "alb-rcfier8o0o3z1ol44i.cn-qingdao.alb.aliyuncsslb.com",
+      "alb-ihc0sdynk3witpxxak.cn-hangzhou.alb.aliyuncsslb.com",
+      "alb-skbzh8hluypswouhni.cn-shanghai.alb.aliyuncsslb.com",
+      "alb-iveyxdw4xepiud3i8z.cn-beijing.alb.aliyuncsslb.com",
+      "alb-8gzb0wsph442620xbd.cn-beijing.alb.aliyuncsslb.com",
+      "alb-mmv39fmaut6dnl3k43.cn-beijing.alb.aliyuncsslb.com",
+      "alb-nrgtq0zt7x4o6uxzaf.cn-shenzhen.alb.aliyuncsslb.com",
+      "nlb-mm00vk71ltsmilrcnj.cn-shanghai.nlb.aliyuncsslb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyuncsslb\\.com(?:\\.|$)",
+      "(?:^|\\.)aliyuncsslb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yundunwaf2.com",
+    "total_count": 16,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "ucuxmwptp3vwj8ahz8wbprtxjaebjt4g.yundunwaf2.com",
+      "voxsucc06oradbtxpwtagxxusobuycog.yundunwaf2.com",
+      "gssdfit.com.30qo58oy8pa8.c.yundunwaf2.com",
+      "jvbrqvpbbevfjugyd4p4uedj7z7lmdep.yundunwaf2.com",
+      "6pln6ev3u26sv2qqmrmsbdyg9ni2ltde.yundunwaf2.com",
+      "all.bigmodel.cn.c.yundunwaf2.com",
+      "wannar.com.c.yundunwaf2.com",
+      "csee.org.cn.c.yundunwaf2.com",
+      "oinrwn75ml39n3bvx157mipvojdvk7lb.yundunwaf2.com",
+      "corp3g.cn.c.yundunwaf2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yundunwaf2\\.com(?:\\.|$)",
+      "(?:^|\\.)yundunwaf2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gotoip55.com",
+    "total_count": 16,
+    "provider_hint": "CHINANET SiChuan Telecom Internet Data Center",
+    "top_asn": {
+      "asn": 38283,
+      "org": "CHINANET SiChuan Telecom Internet Data Center"
+    },
+    "pct": 0.75,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "feianya.gotoip55.com",
+      "suzhouqiangucom.gotoip55.com",
+      "qycscx.gotoip55.com",
+      "cqcdrq.gotoip55.com",
+      "pipilu.gotoip55.com",
+      "dffg2342.gotoip55.com",
+      "szaimer.gotoip55.com",
+      "wxmdcg.gotoip55.com",
+      "guoaanzhan.gotoip55.com",
+      "yzmshmjj.gotoip55.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gotoip55\\.com(?:\\.|$)",
+      "(?:^|\\.)gotoip55[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "amaerodactylon.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "amaerodactylon.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)amaerodactylon\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "8-r-m-n.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9295350.8-r-m-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)8\\-r\\-m\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-2-a-8.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3985132.b-2-a-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-2\\-a\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "i-z-6-7.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3190645.i-z-6-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)i\\-z\\-6\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "9-p-a-x.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7889963.9-p-a-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)9\\-p\\-a\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yourtrap.com",
+    "total_count": 15,
+    "provider_hint": "NTT Communications Corporation",
+    "top_asn": {
+      "asn": 4713,
+      "org": "NTT Communications Corporation"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "a.sinkhole.yourtrap.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yourtrap\\.com(?:\\.|$)",
+      "(?:^|\\.)yourtrap[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "0-w-5-7.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7310802.0-w-5-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)0\\-w\\-5\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-u-5-a.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7344185.e-u-5-a.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-u\\-5\\-a\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "z-6-a-e.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9032338.z-6-a-e.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)z\\-6\\-a\\-e\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "t-0-z-m.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1183873.t-0-z-m.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)t\\-0\\-z\\-m\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "q-w-9-k.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4769642.q-w-9-k.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)q\\-w\\-9\\-k\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-v-o-l.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4349137.6-v-o-l.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-v\\-o\\-l\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "volcgslb-mlt.com",
+    "total_count": 15,
+    "provider_hint": "China Mobile Communications Group Co., Ltd.",
+    "top_asn": {
+      "asn": 9808,
+      "org": "China Mobile Communications Group Co., Ltd."
+    },
+    "pct": 0.933,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "108qi.com.volcgslb-mlt.com",
+      "t-d.tv.volcgslb-mlt.com",
+      "jjsx.com.cn.volcgslb-mlt.com",
+      "cnzjfc.com.volcgslb-mlt.com",
+      "cooboys.com.volcgslb-mlt.com",
+      "snsqw.com.volcgslb-mlt.com",
+      "jinxun.cc.volcgslb-mlt.com",
+      "t0001.com.volcgslb-mlt.com",
+      "xwcm.net.volcgslb-mlt.com",
+      "gyscw.com.volcgslb-mlt.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)volcgslb\\-mlt\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "livedoor.jp",
+    "total_count": 14,
+    "provider_hint": "LINE Corporation",
+    "top_asn": {
+      "asn": 38631,
+      "org": "LINE Corporation"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "blog-01.livedoor.jp"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)livedoor\\.jp(?:\\.|$)",
+      "(?:^|\\.)livedoor[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "j-5-w-c.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2884654.j-5-w-c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)j\\-5\\-w\\-c\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "8-f-d-k.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8047379.8-f-d-k.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)8\\-f\\-d\\-k\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dwhitegroup4.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.dwhitegroup4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dwhitegroup4\\.com(?:\\.|$)",
+      "(?:^|\\.)dwhitegroup4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "r-a-9-w.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4433026.r-a-9-w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)r\\-a\\-9\\-w\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-3-6-w.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6220872.6-3-6-w.com",
+      "tiaozhuan-6220872.6-3-6-w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-3\\-6\\-w\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "haigui.mobi",
+    "total_count": 14,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.857,
+    "countries": [
+      "CN",
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "www.any.haigui.mobi",
+      "www.beian.haigui.mobi"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)haigui\\.mobi(?:\\.|$)",
+      "(?:^|\\.)haigui[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qcloudcjgj.com",
+    "total_count": 14,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.929,
+    "countries": [
+      "SG",
+      "CN"
+    ],
+    "example_targets": [
+      "d2ef1e97dcde783e713713def0579c33.qcloudcjgj.com",
+      "fb6d1c7e9c2713dcb21ee527e2ad3122.qcloudcjgj.com",
+      "07d7faa14c4fa9d4d2a91502fa31fa4d.qcloudcjgj.com",
+      "1ca8c78baa3179e5ab8868ad79164c70.qcloudcjgj.com",
+      "e6ab853d3f93723ea368ef1871fffe3d.qcloudcjgj.com",
+      "0f34065ed3ad5f8a744d4bde44439808.qcloudcjgj.com",
+      "e1e53f6fc5f316f2e68de61b5a84cad2.qcloudcjgj.com",
+      "ad6faf2a7555373e1a463de44004947a.qcloudcjgj.com",
+      "611ffc55e1ad33b8fce73ad0e4b87516.qcloudcjgj.com",
+      "8a8b4f4ec0ec765d2f46626a370e0b0e.qcloudcjgj.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qcloudcjgj\\.com(?:\\.|$)",
+      "(?:^|\\.)qcloudcjgj[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "p-4-m-9.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5199116.p-4-m-9.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)p\\-4\\-m\\-9\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-0-z-t.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6831865.e-0-z-t.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-0\\-z\\-t\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "l-f-2-m.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6148951.l-f-2-m.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)l\\-f\\-2\\-m\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "p-8-b-7.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7673876.p-8-b-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)p\\-8\\-b\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "g-k-0-h.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6791717.g-k-0-h.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)g\\-k\\-0\\-h\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "q-8-i-5.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7529276.q-8-i-5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)q\\-8\\-i\\-5\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-4-p-7.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7457478.b-4-p-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-4\\-p\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "d-e-f-5.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4220246.d-e-f-5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)d\\-e\\-f\\-5\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jixingcdn.com",
+    "total_count": 13,
+    "provider_hint": "SHARKTECH",
+    "top_asn": {
+      "asn": 46844,
+      "org": "SHARKTECH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "kegymmtv.jixingcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jixingcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)jixingcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "g-e-q-2.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5210475.g-e-q-2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)g\\-e\\-q\\-2\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyun.com",
+    "total_count": 13,
+    "provider_hint": "Alibaba Cloud Singapore Private Limited",
+    "top_asn": {
+      "asn": 134963,
+      "org": "Alibaba Cloud Singapore Private Limited"
+    },
+    "pct": 0.846,
+    "countries": [
+      "SG",
+      "CN"
+    ],
+    "example_targets": [
+      "pop.qiye.aliyun.com",
+      "overdue.aliyun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyun\\.com(?:\\.|$)",
+      "(?:^|\\.)aliyun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bmtrck.com",
+    "total_count": 13,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "c4kao.bmtrck.com",
+      "n4tp8.bmtrck.com",
+      "nvobl.bmtrck.com",
+      "n8nck.bmtrck.com",
+      "j6tgv.bmtrck.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bmtrck\\.com(?:\\.|$)",
+      "(?:^|\\.)bmtrck[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "whecloud.com",
+    "total_count": 13,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 0.923,
+    "countries": [
+      "JP",
+      "HK",
+      "CA",
+      "US",
+      "TW"
+    ],
+    "example_targets": [
+      "heesay.com.whecloud.com",
+      "hikid.tv.whecloud.com",
+      "addmotor.com.whecloud.com",
+      "coolita.com.whecloud.com",
+      "xshuma.com.whecloud.com",
+      "hdlxx.com.whecloud.com",
+      "thepoizon.ru.whecloud.com",
+      "magickid.tv.whecloud.com",
+      "walla-app.com.whecloud.com",
+      "buildin.ai.whecloud.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)whecloud\\.com(?:\\.|$)",
+      "(?:^|\\.)whecloud[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunlunca.com",
+    "total_count": 13,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "2qj.com.w.kunlunca.com",
+      "hebnews.cn.w.kunlunca.com",
+      "www.nkscdn.com.w.kunlunca.com",
+      "prts.wiki.w.kunlunca.com",
+      "zyjl.cn.w.kunlunca.com",
+      "yp001.net.w.kunlunca.com",
+      "om.cn.w.kunlunca.com",
+      "vjshi.com.w.kunlunca.com",
+      "zhaojiao.net.w.kunlunca.com",
+      "168hs.com.w.kunlunca.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunlunca\\.com(?:\\.|$)",
+      "(?:^|\\.)kunlunca[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-m-o-x.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9097505.6-m-o-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-m\\-o\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "r-w-s-s.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu.r-w-s-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)r\\-w\\-s\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-6-x-5.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8684493.k-6-x-5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-6\\-x\\-5\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-2-r-1.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5243630.e-2-r-1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-2\\-r\\-1\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-d-7-8.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9072421.k-d-7-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-d\\-7\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "7-b-p-z.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7176422.7-b-p-z.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)7\\-b\\-p\\-z\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "s-g-d-8.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7686135.s-g-d-8.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)s\\-g\\-d\\-8\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "w-c-o-4.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4377517.w-c-o-4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)w\\-c\\-o\\-4\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "u-e-3-i.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1650032.u-e-3-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)u\\-e\\-3\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "doraee.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "qazwsx.doraee.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)doraee\\.com(?:\\.|$)",
+      "(?:^|\\.)doraee[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "x-5-i-a.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4871881.x-5-i-a.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)x\\-5\\-i\\-a\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-7-l-m.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5374957.k-7-l-m.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-7\\-l\\-m\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "v-7-d-b.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6121877.v-7-d-b.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)v\\-7\\-d\\-b\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "i-2-j-i.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-6466582.i-2-j-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)i\\-2\\-j\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "scashwl.com",
+    "total_count": 12,
+    "provider_hint": "Intrahost Solutions Ltd",
+    "top_asn": {
+      "asn": 214124,
+      "org": "Intrahost Solutions Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CY",
+      "SK"
+    ],
+    "example_targets": [
+      "240f637775057db783be0adff1c6f895.scashwl.com",
+      "6ef6b811fa8381efa63eeddc88bdccee.scashwl.com",
+      "10632f4f9562bd93b5b6b54f11035d86.scashwl.com",
+      "scashwl.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)scashwl\\.com(?:\\.|$)",
+      "(?:^|\\.)scashwl[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wsglb0.com",
+    "total_count": 12,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.958,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "xmtv.cn.wsglb0.com",
+      "wn51.com.wsglb0.com",
+      "xunfeixxj.com.wsglb0.com",
+      "ipanda.com.wsglb0.com",
+      "12306.cn.wsglb0.com",
+      "37wan.cn.wsglb0.com",
+      "youth.cn.wsglb0.com",
+      "12371.cn.wsglb0.com",
+      "cntv.cn.wsglb0.com",
+      "dota2.com.cn.wsglb0.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wsglb0\\.com(?:\\.|$)",
+      "(?:^|\\.)wsglb0[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn20.com",
+    "total_count": 12,
+    "provider_hint": "China Education and Research Network Center",
+    "top_asn": {
+      "asn": 4538,
+      "org": "China Education and Research Network Center"
+    },
+    "pct": 0.833,
+    "countries": [
+      "CN",
+      "CA"
+    ],
+    "example_targets": [
+      "cnmqh.com.cdn20.com",
+      "zidianya.com.cdn20.com",
+      "autoeq.top.cdn20.com",
+      "globalchangan.com.cdn20.com",
+      "cditv.cn.cdn20.com",
+      "exportstart.com.cdn20.com",
+      "kq7.com.cdn20.com",
+      "wannianli8.com.cdn20.com",
+      "i4.cn.cdn20.com",
+      "weyescloud.com.cdn20.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn20\\.com(?:\\.|$)",
+      "(?:^|\\.)cdn20[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qcloudzygj.com",
+    "total_count": 12,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.917,
+    "countries": [
+      "CN",
+      "SG"
+    ],
+    "example_targets": [
+      "cb949fcbb6c4f4dbe043de7f5aa50941.qcloudzygj.com",
+      "e1956ea1a8b41ef9665509fdc95021e6.qcloudzygj.com",
+      "08464ae2cbcb65d478c719b6f8a78985.qcloudzygj.com",
+      "008d92cd9e58ac3c40bec7e6ea7920bc.qcloudzygj.com",
+      "fa9cechjia54590c-cl2.qcloudzygj.com",
+      "e1a3be5dd8fccd9dfc90de2fd6889af3.qcloudzygj.com",
+      "c06db9106d18283817fd32f4616ca99f.qcloudzygj.com",
+      "ec6e7801ef44792115f5b73860fd1906.qcloudzygj.com",
+      "155ef2cb43d86068df4511fd5cf5d59d.qcloudzygj.com",
+      "fd41bfd95d17f083cedef361dbbcb697.qcloudzygj.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qcloudzygj\\.com(?:\\.|$)",
+      "(?:^|\\.)qcloudzygj[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-6-p-v.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1757337.k-6-p-v.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-6\\-p\\-v\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-3-1-j.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9951229.e-3-1-j.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-3\\-1\\-j\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "c-9-r-s.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8306893.c-9-r-s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)c\\-9\\-r\\-s\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "0-p-z-e.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9412481.0-p-z-e.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)0\\-p\\-z\\-e\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-v-9-y.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8083012.n-v-9-y.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-v\\-9\\-y\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "n-4-k-2.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-4366543.n-4-k-2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)n\\-4\\-k\\-2\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "j-z-7-n.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-7848484.j-z-7-n.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)j\\-z\\-7\\-n\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-c-g-g.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9719159.6-c-g-g.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-c\\-g\\-g\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "whitepanels.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.whitepanels.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)whitepanels\\.com(?:\\.|$)",
+      "(?:^|\\.)whitepanels[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b2b-plog.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "43135158225.b2b-plog.com",
+      "43153108155.b2b-plog.com",
+      "43159138223.b2b-plog.com",
+      "431535921.b2b-plog.com",
+      "43159130241.b2b-plog.com",
+      "4315315210.b2b-plog.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b2b\\-plog\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bsgslb.cn",
+    "total_count": 11,
+    "provider_hint": "CHINANET SiChuan Telecom Internet Data Center",
+    "top_asn": {
+      "asn": 38283,
+      "org": "CHINANET SiChuan Telecom Internet Data Center"
+    },
+    "pct": 0.909,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "www.gov.cn.bsgslb.cn",
+      "chinamil.com.cn.bsgslb.cn",
+      "www.dangjian.com.bsgslb.cn",
+      "taiwan.cn.bsgslb.cn",
+      "dangjian.cn.bsgslb.cn",
+      "mod.gov.cn.bsgslb.cn",
+      "wenming.cn.bsgslb.cn",
+      "81.cn.bsgslb.cn",
+      "xinhuanet.com.bsgslb.cn",
+      "cup.com.cn.bsgslb.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bsgslb\\.cn(?:\\.|$)",
+      "(?:^|\\.)bsgslb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qcloudwzgj.com",
+    "total_count": 11,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.909,
+    "countries": [
+      "CN",
+      "SG"
+    ],
+    "example_targets": [
+      "6e646930a6f94b42700fe11a4465c77a.qcloudwzgj.com",
+      "0a3c2b2d3ed77bb86b80ae1774bf5bf8.qcloudwzgj.com",
+      "46ff2b124435f49aa385f48b11482ff7.qcloudwzgj.com",
+      "fb4cbfdaf6046747a1fe2cc09207427c.qcloudwzgj.com",
+      "b7f3826d160348ea104f6194b31fe404.qcloudwzgj.com",
+      "9e27f264b23524cac3d519d6f464357a.qcloudwzgj.com",
+      "446bbe0e649930ef29037a24aec22008.qcloudwzgj.com",
+      "6a1c46976feeb78656562f1cf0923fb4.qcloudwzgj.com",
+      "bdcea53d6c3455e6922bf12298dc0f36.qcloudwzgj.com",
+      "5a5ac8b37705f700c1e593449b562380.qcloudwzgj.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qcloudwzgj\\.com(?:\\.|$)",
+      "(?:^|\\.)qcloudwzgj[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jisu-cnd.com",
+    "total_count": 11,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 0.909,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ixiumei.com.jisu-cnd.com",
+      "gezila.com.jisu-cnd.com",
+      "show160.com.jisu-cnd.com",
+      "gerenjianli.com.jisu-cnd.com",
+      "zuowenku.net.jisu-cnd.com",
+      "16sucai.com.jisu-cnd.com",
+      "xixik.com.jisu-cnd.com",
+      "pingshu8.com.jisu-cnd.com",
+      "huochepiao.com.jisu-cnd.com",
+      "egouz.com.jisu-cnd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jisu\\-cnd\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kucingcina.net",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback-cuanunited.kucingcina.net",
+      "fallback-joker81.kucingcina.net",
+      "fallback-asik77.kucingcina.net",
+      "fallback-gemini99.kucingcina.net",
+      "fallback-pandaspin88.kucingcina.net",
+      "fallback-alfa77.kucingcina.net",
+      "fallback-pandaslot88.kucingcina.net",
+      "fallback-tokogacor.kucingcina.net",
+      "fallback-wild88.kucingcina.net",
+      "fallback-pandacuan.kucingcina.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kucingcina\\.net(?:\\.|$)",
+      "(?:^|\\.)kucingcina[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "my3w.com",
+    "total_count": 11,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 0.909,
+    "countries": [
+      "CN",
+      "HK"
+    ],
+    "example_targets": [
+      "qxu1608630019.my3w.com",
+      "qxu1606460236.my3w.com",
+      "wh-aqcwltbhik5tafpi8n8.my3w.com",
+      "wh-abhk7d5gap9nu3fq046.my3w.com",
+      "wh-ab3lnxuzun7hjpum0nw.my3w.com",
+      "wh-abcj3qfs4fn13z1itvm.my3w.com",
+      "wh-nbiodrw9qxjumolnk4q.my3w.com",
+      "qyw8326490001.my3w.com",
+      "wh-nxckzha3tlbulbsws6c.my3w.com",
+      "wh-ab97ivzzlz7u1i888g3.my3w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)my3w\\.com(?:\\.|$)",
+      "(?:^|\\.)my3w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "r-3-g-e.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3318645.r-3-g-e.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)r\\-3\\-g\\-e\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2-a-x-e.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5982738.2-a-x-e.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2\\-a\\-x\\-e\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "rwdblo.cn",
+    "total_count": 10,
+    "provider_hint": "FD-298-8796",
+    "top_asn": {
+      "asn": 8796,
+      "org": "FD-298-8796"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ys3pfb6r.dzjw.rwdblo.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)rwdblo\\.cn(?:\\.|$)",
+      "(?:^|\\.)rwdblo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "u-b-4-z.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2221403.u-b-4-z.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)u\\-b\\-4\\-z\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "t-9-q-x.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1285268.t-9-q-x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)t\\-9\\-q\\-x\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "k-b-e-3.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5110414.k-b-e-3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)k\\-b\\-e\\-3\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e-e-q-2.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-3612648.e-e-q-2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e\\-e\\-q\\-2\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "b-1-k-p.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5162617.b-1-k-p.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)b\\-1\\-k\\-p\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ss-linkme.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "cname.ss-linkme.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ss\\-linkme\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-g-h-i.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-8409140.6-g-h-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-g\\-h\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "m-4-f-7.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-1610468.m-4-f-7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)m\\-4\\-f\\-7\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6-w-x-l.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-2968341.6-w-x-l.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6\\-w\\-x\\-l\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "j-8-x-i.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-9358697.j-8-x-i.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)j\\-8\\-x\\-i\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "z-7-s-h.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "zhu-5405255.z-7-s-h.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)z\\-7\\-s\\-h\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "webflow.com",
+    "total_count": 10,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 0.8,
+    "countries": [
+      "US",
+      "JP"
+    ],
+    "example_targets": [
+      "proxy-ssl.webflow.com",
+      "cdn.webflow.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)webflow\\.com(?:\\.|$)",
+      "(?:^|\\.)webflow[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fuck-cdn888.cc",
+    "total_count": 10,
+    "provider_hint": "PONYNET",
+    "top_asn": {
+      "asn": 53667,
+      "org": "PONYNET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "LU"
+    ],
+    "example_targets": [
+      "cfdns.fuck-cdn888.cc",
+      "cdnqd.fuck-cdn888.cc",
+      "ffdns.fuck-cdn888.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fuck\\-cdn888\\.cc(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "meshsrv.com",
+    "total_count": 10,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 0.9,
+    "countries": [
+      "DE",
+      "FI",
+      "FR"
+    ],
+    "example_targets": [
+      "lp3.meshsrv.com",
+      "lp2.meshsrv.com",
+      "lp5.meshsrv.com",
+      "lp4.meshsrv.com",
+      "lp.meshsrv.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)meshsrv\\.com(?:\\.|$)",
+      "(?:^|\\.)meshsrv[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ondigitalocean.app",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "urchin-app-au9fc.ondigitalocean.app",
+      "topperon-frontend-aqwtu.ondigitalocean.app",
+      "kkapi-l9b5g.ondigitalocean.app",
+      "hitarget-landing-3onxy.ondigitalocean.app",
+      "firearms-next-axkxc.ondigitalocean.app",
+      "hammerhead-app-j88cv.ondigitalocean.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ondigitalocean\\.app(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sdfgxvbsedfrg.com",
+    "total_count": 10,
+    "provider_hint": "PEG-HK",
+    "top_asn": {
+      "asn": 398478,
+      "org": "PEG-HK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "101.sdfgxvbsedfrg.com",
+      "105.sdfgxvbsedfrg.com",
+      "106.sdfgxvbsedfrg.com",
+      "107.sdfgxvbsedfrg.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sdfgxvbsedfrg\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tranplanet.com",
+    "total_count": 10,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 0.9,
+    "countries": [
+      "US",
+      "HK"
+    ],
+    "example_targets": [
+      "4i6r9l6y.tranplanet.com",
+      "7l2p4m0m.c.tranplanet.com",
+      "1m2u9l7c.tranplanet.com",
+      "5s3x3j1o.tranplanet.com",
+      "4w7o8j6u.tranplanet.com",
+      "1o9c0y0x.tranplanet.com",
+      "5a2v9k5s.tranplanet.com",
+      "9j0x3c2e.tranplanet.com",
+      "1n5c1e9b.tranplanet.com",
+      "0n2g4h1c.tranplanet.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tranplanet\\.com(?:\\.|$)",
+      "(?:^|\\.)tranplanet[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tencentclb.com",
+    "total_count": 10,
+    "provider_hint": "Shenzhen Tencent Computer Systems Company Limited",
+    "top_asn": {
+      "asn": 45090,
+      "org": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    "pct": 0.9,
+    "countries": [
+      "CN",
+      "US"
+    ],
+    "example_targets": [
+      "lb-i7f9hy3x-pmvgaizq891o3ld5.clb.ap-shanghai.tencentclb.com",
+      "lb-kjie9l47-j1dy4lnzpk7t63rm.clb.ap-shanghai.tencentclb.com",
+      "lb-f5cd70qx-ko53zew17guh6yjf.clb.ap-beijing.tencentclb.com",
+      "lb-4jd5qm1z-g315iwqzky2encf6.clb.ap-shanghai.tencentclb.com",
+      "lb-iw0et1kl-eifn3kchtvo8bs90.clb.na-ashburn.tencentclb.com",
+      "lb-cz8nb5hf-y4bme90n2lofujr7.clb.ap-shanghai.tencentclb.com",
+      "lb-74jcqs4p-xgf2ven3ao4bjqp1.clb.ap-beijing.tencentclb.com",
+      "lb-ngzt624p-8hs0m7yrwkocb14q.clb.ap-shanghai.tencentclb.com",
+      "lb-i4p2h8qz-dtf6q5culj7ea42v.clb.ap-beijing.tencentclb.com",
+      "lb-ibs9ol7z-y9c4gutxhqai7mr5.clb.ap-beijing.tencentclb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tencentclb\\.com(?:\\.|$)",
+      "(?:^|\\.)tencentclb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "herokudns.com",
+    "total_count": 10,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "elliptical-rutabaga-hamhxvz5l0kd1qvb7yeshuan.herokudns.com",
+      "elementary-catshark-teryelh6zkeqob72wb5yeew8.herokudns.com",
+      "nflscorigami.com.herokudns.com",
+      "elliptical-crawdad-t8pa15wd54lnrcpw1plg398s.herokudns.com",
+      "convex-beetle-2aqk82h71cm2qygs24plqjm5.herokudns.com",
+      "cryptic-crow-w6ebk9yv1z3erwp7ny1jmhz8.herokudns.com",
+      "aqueous-egret-h35qxjp70uhaocj7euatq61w.herokudns.com",
+      "amorphous-platypus-koizqsdj1cspnamya95ibvu9.herokudns.com",
+      "quiet-sunflower-gnlqshxqar13xv11e41a8oqq.herokudns.com",
+      "convex-python-v5bt2ctfdd5981u1pbxp2xgq.herokudns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)herokudns\\.com(?:\\.|$)",
+      "(?:^|\\.)herokudns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "safestcdn.com",
+    "total_count": 10,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "HK"
+    ],
+    "example_targets": [
+      "qikor-com.yingshi43.safestcdn.com",
+      "www-douxx1-com.yingshi20.safestcdn.com",
+      "szguanhua-com.f465cb7497.safestcdn.com",
+      "hzjjwlw-com.401fc0132c.safestcdn.com",
+      "guosheji-com.8a8b3d4bb4.safestcdn.com",
+      "hcytjc-com.yingshi17.safestcdn.com",
+      "hnbnjs-com.f465cb7497.safestcdn.com",
+      "ycyiqu-com.yingshi28.safestcdn.com",
+      "www-shandongjiuyun-com.yingshi24.safestcdn.com",
+      "zhenjc-com.yingshi49.safestcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)safestcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)safestcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "lifisher.com",
+    "total_count": 10,
+    "provider_hint": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+    "top_asn": {
+      "asn": 135377,
+      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED"
+    },
+    "pct": 0.9,
+    "countries": [
+      "HK",
+      "SG"
+    ],
+    "example_targets": [
+      "aosite.com.cdn.lifisher.com",
+      "esgamingpc.com.cdn.lifisher.com",
+      "teyuchiller.com.cdn.lifisher.com",
+      "tallsen.com.cdn.lifisher.com",
+      "apmprinter.com.cdn.lifisher.com",
+      "meetion.com.cdn.lifisher.com",
+      "glamorled.com.cdn.lifisher.com",
+      "yumeyafurniture.com.cdn.lifisher.com",
+      "turquoisechina.com.cdn.lifisher.com",
+      "shinelongkitchen.com.cdn.lifisher.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)lifisher\\.com(?:\\.|$)",
+      "(?:^|\\.)lifisher[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
