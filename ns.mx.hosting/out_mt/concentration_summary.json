@@ -1,0 +1,25 @@
+{
+  "ns_provider": {
+    "top3_coverage": 65.13,
+    "HHI": 0.2512,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "MICROSOFT-CORP-MSN-AS-BLOCK"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 0,
+    "HHI": 0,
+    "top3_providers": []
+  },
+  "ip_asns": {
+    "top3_coverage": 37.61,
+    "HHI": 0.0721,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "OVH SAS"
+    ]
+  }
+}
