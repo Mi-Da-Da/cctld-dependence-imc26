@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "az9s.com",
+    "total_count": 13,
+    "provider_hint": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "top_asn": {
+      "asn": 135905,
+      "org": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP"
+    },
+    "pct": 1.0,
+    "countries": [
+      "VN"
+    ],
+    "example_targets": [
+      "az9s.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)az9s\\.com(?:\\.|$)",
+      "(?:^|\\.)az9s[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
