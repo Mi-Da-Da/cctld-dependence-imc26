@@ -1,0 +1,33 @@
+[
+  {
+    "sld": "buyusdt.me",
+    "total_count": 20,
+    "provider_hint": "HDTIDC LIMITED",
+    "top_asn": {
+      "asn": 136038,
+      "org": "HDTIDC LIMITED"
+    },
+    "pct": 0.95,
+    "countries": [
+      "HK",
+      "KR",
+      "US"
+    ],
+    "example_targets": [
+      "biip.st.zhandouji.buyusdt.me",
+      "925.st.zhandouji.buyusdt.me",
+      "zzjtv.st.zhandouji.buyusdt.me",
+      "302.st.zhandouji.buyusdt.me",
+      "911.st.zhandouji.buyusdt.me",
+      "596.st.zhandouji.buyusdt.me",
+      "307.st.zhandouji.buyusdt.me",
+      "64271.st.sejie.buyusdt.me",
+      "516.st.zhandouji.buyusdt.me",
+      "858.st.zhandouji.buyusdt.me"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)buyusdt\\.me(?:\\.|$)",
+      "(?:^|\\.)buyusdt[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
