@@ -1,0 +1,803 @@
+[
+  {
+    "sld": "alanqaa.com",
+    "total_count": 560,
+    "provider_hint": "IWEB-AS",
+    "top_asn": {
+      "asn": 32613,
+      "org": "IWEB-AS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "ns2.alanqaa.com",
+      "ns1.alanqaa.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)alanqaa.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudflare.com",
+    "total_count": 560,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "kolton.ns.cloudflare.com",
+      "kristin.ns.cloudflare.com",
+      "haley.ns.cloudflare.com",
+      "razvan.ns.cloudflare.com",
+      "gerald.ns.cloudflare.com",
+      "brenna.ns.cloudflare.com",
+      "lara.ns.cloudflare.com",
+      "veda.ns.cloudflare.com",
+      "abby.ns.cloudflare.com",
+      "nero.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tld.sy",
+    "total_count": 493,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 0.986,
+    "countries": [
+      "SY",
+      "US"
+    ],
+    "example_targets": [
+      "pch.anycast.tld.sy",
+      "ns3.tld.sy",
+      "ns4.tld.sy",
+      "ns1.tld.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tld.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aya.sy",
+    "total_count": 188,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns1.aya.sy",
+      "dns4.aya.sy",
+      "dns3.aya.sy",
+      "dns7.aya.sy",
+      "ns2.aya.sy",
+      "dns1.aya.sy",
+      "dns2.aya.sy",
+      "dns8.aya.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aya.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ucg.ltd",
+    "total_count": 104,
+    "provider_hint": "PERFECT-INTERNATIONAL",
+    "top_asn": {
+      "asn": 22439,
+      "org": "PERFECT-INTERNATIONAL"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2217.ucg.ltd",
+      "ns231.ucg.ltd",
+      "ns2231.ucg.ltd",
+      "ns237.ucg.ltd",
+      "ns2244.ucg.ltd",
+      "ns244.ucg.ltd",
+      "ns217.ucg.ltd"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ucg.ltd(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "scs-net.org",
+    "total_count": 98,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 0.99,
+    "countries": [
+      "SY",
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns2.scs-net.org",
+      "ns.uploadmail.scs-net.org",
+      "ns1.scs-net.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)scs-net.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "scs-net.sy",
+    "total_count": 96,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.scs-net.sy",
+      "ns1.scs-net.sy",
+      "ns6.scs-net.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)scs-net.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dns-parking.com",
+    "total_count": 70,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "athena.dns-parking.com",
+      "horizon.dns-parking.com",
+      "hermes.dns-parking.com",
+      "ns2.dns-parking.com",
+      "byte.dns-parking.com",
+      "orbit.dns-parking.com",
+      "ns1.dns-parking.com",
+      "pixel.dns-parking.com",
+      "artemis.dns-parking.com",
+      "apollo.dns-parking.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dns-parking.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "damashost.com",
+    "total_count": 60,
+    "provider_hint": "IWEB-AS",
+    "top_asn": {
+      "asn": 32613,
+      "org": "IWEB-AS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "ns2.damashost.com",
+      "ns1.damashost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)damashost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ucg-core.com",
+    "total_count": 60,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns5.ucg-core.com",
+      "ns16.ucg-core.com",
+      "ns1.ucg-core.com",
+      "ns11.ucg-core.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ucg-core.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qualiteyserver.com",
+    "total_count": 52,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns10.qualiteyserver.com",
+      "ns9.qualiteyserver.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qualiteyserver.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "goneo.de",
+    "total_count": 48,
+    "provider_hint": "MK Netzdienste GmbH & Co. KG",
+    "top_asn": {
+      "asn": 25394,
+      "org": "MK Netzdienste GmbH & Co. KG"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns-ed1.goneo.de",
+      "ns-ed2.goneo.de"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)goneo.de(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "syriatelisp.com.sy",
+    "total_count": 44,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "auth2.syriatelisp.com.sy",
+      "auth1.syriatelisp.com.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)syriatelisp.com.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "samamax.com",
+    "total_count": 40,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 0.85,
+    "countries": [
+      "SY",
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns16.samamax.com",
+      "ns13.samamax.com",
+      "ns15.samamax.com",
+      "ns12.samamax.com",
+      "ns14.samamax.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)samamax.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pronet.sy",
+    "total_count": 40,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns1.pronet.sy",
+      "ns2.pronet.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pronet.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mysecurecloudhost.com",
+    "total_count": 36,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4.mysecurecloudhost.com",
+      "ns1.mysecurecloudhost.com",
+      "ns2.mysecurecloudhost.com",
+      "ns3.mysecurecloudhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mysecurecloudhost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "syrianhost.sy",
+    "total_count": 30,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns1.syrianhost.sy",
+      "ns2.syrianhost.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)syrianhost.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "shamcenter.com",
+    "total_count": 30,
+    "provider_hint": "IWEB-AS",
+    "top_asn": {
+      "asn": 32613,
+      "org": "IWEB-AS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "ns1.shamcenter.com",
+      "ns2.shamcenter.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)shamcenter.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "example.com",
+    "total_count": 24,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns2.example.com",
+      "ns1.example.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)example.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "syriaserv.com",
+    "total_count": 24,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FI"
+    ],
+    "example_targets": [
+      "ns2.syriaserv.com",
+      "ns1.syriaserv.com",
+      "host.syriaserv.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)syriaserv.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "waveshost.sy",
+    "total_count": 22,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.waveshost.sy",
+      "ns1.waveshost.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)waveshost.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "entorno.com",
+    "total_count": 21,
+    "provider_hint": "NUCDN",
+    "top_asn": {
+      "asn": 23393,
+      "org": "NUCDN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.entorno.com",
+      "ns4.entorno.com",
+      "ns1-a.entorno.com",
+      "ns1.entorno.com",
+      "ns2.entorno.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)entorno.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "takamol.sy",
+    "total_count": 20,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.takamol.sy",
+      "ns6.takamol.sy",
+      "ns1.takamol.sy",
+      "ns5.takamol.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)takamol.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "clicknetco.com",
+    "total_count": 18,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FI"
+    ],
+    "example_targets": [
+      "ns2.clicknetco.com",
+      "ns1.clicknetco.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)clicknetco.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dubaimonster.com",
+    "total_count": 18,
+    "provider_hint": "IWEB-AS",
+    "top_asn": {
+      "asn": 32613,
+      "org": "IWEB-AS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "ns1.dubaimonster.com",
+      "ns2.dubaimonster.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dubaimonster.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "akam.net",
+    "total_count": 18,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 21342,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL",
+      "US"
+    ],
+    "example_targets": [
+      "a13-65.akam.net",
+      "a28-64.akam.net",
+      "a5-65.akam.net",
+      "a8-66.akam.net",
+      "a1-226.akam.net",
+      "a10-66.akam.net",
+      "a7-64.akam.net",
+      "a4-64.akam.net",
+      "a22-65.akam.net",
+      "a12-67.akam.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)akam.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ngninfra.net",
+    "total_count": 16,
+    "provider_hint": "SCAAM0001",
+    "top_asn": {
+      "asn": 25717,
+      "org": "SCAAM0001"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "SE"
+    ],
+    "example_targets": [
+      "tilion.ngninfra.net",
+      "melkor.ngninfra.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ngninfra.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsss.net",
+    "total_count": 16,
+    "provider_hint": "RICAWEBSERVICES",
+    "top_asn": {
+      "asn": 26832,
+      "org": "RICAWEBSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "ns4.dnsss.net",
+      "ns1.dnsss.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsss.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aldrtech.sy",
+    "total_count": 14,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.aldrtech.sy",
+      "ns1.aldrtech.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aldrtech.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ns2237ucg.ltd",
+    "total_count": 12,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns2237ucg.ltd"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ns2237ucg.ltd(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "spaceship.net",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "launch2.spaceship.net",
+      "launch1.spaceship.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)spaceship.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dr-site.sy",
+    "total_count": 12,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.dr-site.sy",
+      "ns1.dr-site.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dr-site.sy(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tagidomains.com",
+    "total_count": 12,
+    "provider_hint": "Abu-Ghazaleh Intellectual Property Ltd.",
+    "top_asn": {
+      "asn": 38968,
+      "org": "Abu-Ghazaleh Intellectual Property Ltd."
+    },
+    "pct": 0.75,
+    "countries": [
+      "JO",
+      "EG"
+    ],
+    "example_targets": [
+      "ns3.tagidomains.com",
+      "ns1.tagidomains.com",
+      "ns2.tagidomains.com",
+      "nsdr.tagidomains.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tagidomains.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namecheaphosting.com",
+    "total_count": 10,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.namecheaphosting.com",
+      "dns2.namecheaphosting.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namecheaphosting.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "websitewelcome.com",
+    "total_count": 10,
+    "provider_hint": "NETWORK-SOLUTIONS-HOSTING",
+    "top_asn": {
+      "asn": 19871,
+      "org": "NETWORK-SOLUTIONS-HOSTING"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns974.websitewelcome.com",
+      "ns973.websitewelcome.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)websitewelcome.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hostgator.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "hgns2.hostgator.com",
+      "hgns1.hostgator.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hostgator.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "inet.sy",
+    "total_count": 10,
+    "provider_hint": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "top_asn": {
+      "asn": 29256,
+      "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SY"
+    ],
+    "example_targets": [
+      "ns2.inet.sy",
+      "ns12.inet.sy",
+      "ns11.inet.sy",
+      "ns1.inet.sy"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)inet.sy(?:\\.|$)"
+    ]
+  }
+]
