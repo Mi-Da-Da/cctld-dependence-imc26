@@ -1,0 +1,6850 @@
+{
+  "ns_provider": {
+    "total": 64613,
+    "HHI": 0.1243,
+    "providers": [
+      {
+        "name": "AMAZON-02",
+        "count": 15825,
+        "percentage": 24.49
+      },
+      {
+        "name": "CLOUDFLARENET",
+        "count": 13382,
+        "percentage": 20.71
+      },
+      {
+        "name": "Host Europe GmbH",
+        "count": 6045,
+        "percentage": 9.36
+      },
+      {
+        "name": "LG DACOM Corporation",
+        "count": 4284,
+        "percentage": 6.63
+      },
+      {
+        "name": "Korea Telecom",
+        "count": 2747,
+        "percentage": 4.25
+      },
+      {
+        "name": "GOOGLE",
+        "count": 2688,
+        "percentage": 4.16
+      },
+      {
+        "name": "SK Broadband Co Ltd",
+        "count": 2316,
+        "percentage": 3.58
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 2091,
+        "percentage": 3.24
+      },
+      {
+        "name": "NSONE",
+        "count": 1449,
+        "percentage": 2.24
+      },
+      {
+        "name": "Hostway IDC",
+        "count": 1431,
+        "percentage": 2.21
+      },
+      {
+        "name": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+        "count": 1062,
+        "percentage": 1.64
+      },
+      {
+        "name": "DAOU TECHNOLOGY",
+        "count": 967,
+        "percentage": 1.5
+      },
+      {
+        "name": "GABIA Inc.",
+        "count": 857,
+        "percentage": 1.33
+      },
+      {
+        "name": "OVH SAS",
+        "count": 805,
+        "percentage": 1.25
+      },
+      {
+        "name": "ipcom GmbH",
+        "count": 706,
+        "percentage": 1.09
+      },
+      {
+        "name": "SMILESERV",
+        "count": 558,
+        "percentage": 0.86
+      },
+      {
+        "name": "SHINSEGAE I C Co., Ltd.",
+        "count": 541,
+        "percentage": 0.84
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 470,
+        "percentage": 0.73
+      },
+      {
+        "name": "KINX",
+        "count": 464,
+        "percentage": 0.72
+      },
+      {
+        "name": "unknown",
+        "count": 431,
+        "percentage": 0.67
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 385,
+        "percentage": 0.6
+      },
+      {
+        "name": "DREAMMARK1",
+        "count": 372,
+        "percentage": 0.58
+      },
+      {
+        "name": "NUCDN",
+        "count": 279,
+        "percentage": 0.43
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 255,
+        "percentage": 0.39
+      },
+      {
+        "name": "KOREA CABLE TELECOM",
+        "count": 240,
+        "percentage": 0.37
+      },
+      {
+        "name": "Akamai Connected Cloud",
+        "count": 225,
+        "percentage": 0.35
+      },
+      {
+        "name": "SkyExchange Internet Access",
+        "count": 216,
+        "percentage": 0.33
+      },
+      {
+        "name": "AS-VULTR",
+        "count": 215,
+        "percentage": 0.33
+      },
+      {
+        "name": "CONNECTWAVE",
+        "count": 192,
+        "percentage": 0.3
+      },
+      {
+        "name": "Safenames Ltd.",
+        "count": 181,
+        "percentage": 0.28
+      },
+      {
+        "name": "Inet Hosting, Inc.",
+        "count": 161,
+        "percentage": 0.25
+      },
+      {
+        "name": "NetActuate, Inc",
+        "count": 149,
+        "percentage": 0.23
+      },
+      {
+        "name": "Fasthosts Internet Limited",
+        "count": 135,
+        "percentage": 0.21
+      },
+      {
+        "name": "CDNetworks",
+        "count": 132,
+        "percentage": 0.2
+      },
+      {
+        "name": "Nameshield SAS",
+        "count": 120,
+        "percentage": 0.19
+      },
+      {
+        "name": "NAVER Cloud Corp.",
+        "count": 100,
+        "percentage": 0.15
+      },
+      {
+        "name": "ORACLE-BMC-31898",
+        "count": 99,
+        "percentage": 0.15
+      },
+      {
+        "name": "LG CNS",
+        "count": 90,
+        "percentage": 0.14
+      },
+      {
+        "name": "IONOS SE",
+        "count": 90,
+        "percentage": 0.14
+      },
+      {
+        "name": "DIGICERT",
+        "count": 86,
+        "percentage": 0.13
+      },
+      {
+        "name": "AUTOMATTIC",
+        "count": 85,
+        "percentage": 0.13
+      },
+      {
+        "name": "DLIVE",
+        "count": 71,
+        "percentage": 0.11
+      },
+      {
+        "name": "Shinbiro",
+        "count": 70,
+        "percentage": 0.11
+      },
+      {
+        "name": "ANEXIA Internetdienstleistungs GmbH",
+        "count": 66,
+        "percentage": 0.1
+      },
+      {
+        "name": "SEJONG NETWORKS",
+        "count": 65,
+        "percentage": 0.1
+      },
+      {
+        "name": "Signet B.V.",
+        "count": 56,
+        "percentage": 0.09
+      },
+      {
+        "name": "Netnod AB",
+        "count": 50,
+        "percentage": 0.08
+      },
+      {
+        "name": "SK Telecom",
+        "count": 48,
+        "percentage": 0.07
+      },
+      {
+        "name": "SamsungSDS Inc.",
+        "count": 41,
+        "percentage": 0.06
+      },
+      {
+        "name": "FAMOUS WORKER",
+        "count": 40,
+        "percentage": 0.06
+      },
+      {
+        "name": "team.blue Denmark A/S",
+        "count": 39,
+        "percentage": 0.06
+      },
+      {
+        "name": "NCOM ltd.",
+        "count": 38,
+        "percentage": 0.06
+      },
+      {
+        "name": "Hyundai Autoever Corp.",
+        "count": 33,
+        "percentage": 0.05
+      },
+      {
+        "name": "Hetzner Online GmbH",
+        "count": 32,
+        "percentage": 0.05
+      },
+      {
+        "name": "HANWHA Corp. Information Service div.",
+        "count": 31,
+        "percentage": 0.05
+      },
+      {
+        "name": "DOUZONEBIZON",
+        "count": 29,
+        "percentage": 0.04
+      },
+      {
+        "name": "Hostpoint AG",
+        "count": 29,
+        "percentage": 0.04
+      },
+      {
+        "name": "abcle",
+        "count": 28,
+        "percentage": 0.04
+      },
+      {
+        "name": "Rackspace Ltd.",
+        "count": 28,
+        "percentage": 0.04
+      },
+      {
+        "name": "LOTTE INNOVATE Co.,Ltd",
+        "count": 26,
+        "percentage": 0.04
+      },
+      {
+        "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+        "count": 26,
+        "percentage": 0.04
+      },
+      {
+        "name": "SEDO GmbH",
+        "count": 26,
+        "percentage": 0.04
+      },
+      {
+        "name": "genesys informatica srl",
+        "count": 25,
+        "percentage": 0.04
+      },
+      {
+        "name": "NHNCLOUD",
+        "count": 23,
+        "percentage": 0.04
+      },
+      {
+        "name": "Cloud DNS Ltd",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "GOOGLE-CLOUD-PLATFORM",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "SK Co.",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "CRETEC CHEGIM",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "UNIFIEDLAYER-AS-1",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "Hostcenter",
+        "count": 22,
+        "percentage": 0.03
+      },
+      {
+        "name": "InterNetworX Management GmbH",
+        "count": 21,
+        "percentage": 0.03
+      },
+      {
+        "name": "Register S.p.A.",
+        "count": 20,
+        "percentage": 0.03
+      },
+      {
+        "name": "SK Global co., Ltd",
+        "count": 18,
+        "percentage": 0.03
+      },
+      {
+        "name": "NATIONAL INFORMATION RESOURCES SERVICE",
+        "count": 17,
+        "percentage": 0.03
+      },
+      {
+        "name": "Xserver Inc.",
+        "count": 17,
+        "percentage": 0.03
+      },
+      {
+        "name": "EDIS GmbH",
+        "count": 17,
+        "percentage": 0.03
+      },
+      {
+        "name": "Knipp Medien und Kommunikation GmbH",
+        "count": 16,
+        "percentage": 0.02
+      },
+      {
+        "name": "KISTI",
+        "count": 16,
+        "percentage": 0.02
+      },
+      {
+        "name": "BMS-AS",
+        "count": 15,
+        "percentage": 0.02
+      },
+      {
+        "name": "CLDIN B.V.",
+        "count": 15,
+        "percentage": 0.02
+      },
+      {
+        "name": "KERIS",
+        "count": 14,
+        "percentage": 0.02
+      },
+      {
+        "name": "NDS Coporation",
+        "count": 14,
+        "percentage": 0.02
+      },
+      {
+        "name": "GMO Internet Group, Inc.",
+        "count": 13,
+        "percentage": 0.02
+      },
+      {
+        "name": "Bdl Systemes SAS",
+        "count": 13,
+        "percentage": 0.02
+      },
+      {
+        "name": "Korea Credit Bureau",
+        "count": 13,
+        "percentage": 0.02
+      },
+      {
+        "name": "Kakao Corp",
+        "count": 12,
+        "percentage": 0.02
+      },
+      {
+        "name": "Jeonbuk State office of Education Future Education Research Institute",
+        "count": 12,
+        "percentage": 0.02
+      },
+      {
+        "name": "LDSCHURCH1",
+        "count": 11,
+        "percentage": 0.02
+      },
+      {
+        "name": "INMOTION",
+        "count": 11,
+        "percentage": 0.02
+      },
+      {
+        "name": "Aruba S.p.A.",
+        "count": 11,
+        "percentage": 0.02
+      },
+      {
+        "name": "Deutsche Telekom AG",
+        "count": 11,
+        "percentage": 0.02
+      },
+      {
+        "name": "Global Village GmbH",
+        "count": 10,
+        "percentage": 0.02
+      },
+      {
+        "name": "WEDOS Internet, a.s.",
+        "count": 10,
+        "percentage": 0.02
+      },
+      {
+        "name": "LM-CORP",
+        "count": 10,
+        "percentage": 0.02
+      },
+      {
+        "name": "AMAZON-AES",
+        "count": 9,
+        "percentage": 0.01
+      },
+      {
+        "name": "SAREnet, S.A.",
+        "count": 9,
+        "percentage": 0.01
+      },
+      {
+        "name": "SCAAM0001",
+        "count": 9,
+        "percentage": 0.01
+      },
+      {
+        "name": "ASIANAIDT",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "BUNNYWAY, informacijske storitve d.o.o.",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "LEVEL3",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "Tele2 SWIPnet",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "ATT-INTERNET4",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "BB-Online UK Ltd",
+        "count": 8,
+        "percentage": 0.01
+      },
+      {
+        "name": "Anverino Software SRL",
+        "count": 7,
+        "percentage": 0.01
+      },
+      {
+        "name": "Equinor ASA",
+        "count": 7,
+        "percentage": 0.01
+      },
+      {
+        "name": "Alibaba US Technology Co., Ltd.",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "LIQUIDWEB",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "Gyeong Sang Buk-Do Office of Education",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "PEPSICO-NA",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "ELIMNET, INC.",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "Digital Edge Korea",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "MMC",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "ORANGE BUSINESS SERVICES U.S. Inc.",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "FACEBOOK",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "GENMILLS",
+        "count": 6,
+        "percentage": 0.01
+      },
+      {
+        "name": "Buy Limited",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "Trellian Pty. Limited",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "KX NexG Co., LTD",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "CENGAGE-OHCIN",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "KDDI KOREA",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "UK-2 Limited",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "COMCAST-7922",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "Health Insurance Review Assessment Service",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "Maeil Business Newspaper",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "Cyber_Folks S.A.",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "INet Technologies Co., Ltd.",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "DACOM-PUBNETPLUS",
+        "count": 5,
+        "percentage": 0.01
+      },
+      {
+        "name": "ZONER a.s.",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "LEASEWEB-USA-SFO",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "Ledl.net GmbH",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hanjin Information Systems Telecommunication Co., Ltd",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "Alpla Werke Alwin Lehner GmbH & Co KG",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "BCCARD",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "Inchon Metropolitan Office Of Education",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "InterNetX GmbH",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "SungKyunKwan University SKKU",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "K Media Tech Ltd.",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "CASABLANCA INT a.s.",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "SERVERSTACK-ASN",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "LF.net Netzwerksysteme GmbH",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "G-Core Labs S.A.",
+        "count": 4,
+        "percentage": 0.01
+      },
+      {
+        "name": "TimeWeb LLC",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Rakuten Group, Inc.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ERI-AS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "MCMNET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SYNOPSYS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "DIGITALOCEAN-ASN",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Volvo Information Technology AB",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Aruba SAS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "VITAL-DNS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "HURRICANE",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LG POWERCOMM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERNET AG Global Network",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PONYNET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Health Insurance Service",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CIRA-CLOUD2",
+        "count": 1,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "cname_provider": {
+    "total": 1538,
+    "HHI": 0.6335,
+    "providers": [
+      {
+        "name": "Kakao Corp",
+        "count": 1210,
+        "percentage": 78.67
+      },
+      {
+        "name": "AMAZON-02",
+        "count": 170,
+        "percentage": 11.05
+      },
+      {
+        "name": "SMILESERV",
+        "count": 49,
+        "percentage": 3.19
+      },
+      {
+        "name": "Korea Telecom",
+        "count": 41,
+        "percentage": 2.67
+      },
+      {
+        "name": "GOOGLE",
+        "count": 25,
+        "percentage": 1.63
+      },
+      {
+        "name": "GOOGLE-CLOUD-PLATFORM",
+        "count": 22,
+        "percentage": 1.43
+      },
+      {
+        "name": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+        "count": 11,
+        "percentage": 0.72
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 10,
+        "percentage": 0.65
+      }
+    ]
+  },
+  "ip_asns": {
+    "total": 195435,
+    "HHI": 0.1427,
+    "providers": [
+      {
+        "name": "Korea Telecom",
+        "count": 47787,
+        "percentage": 24.45
+      },
+      {
+        "name": "AMAZON-02",
+        "count": 46302,
+        "percentage": 23.69
+      },
+      {
+        "name": "LG DACOM Corporation",
+        "count": 22557,
+        "percentage": 11.54
+      },
+      {
+        "name": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+        "count": 16359,
+        "percentage": 8.37
+      },
+      {
+        "name": "SK Broadband Co Ltd",
+        "count": 12090,
+        "percentage": 6.19
+      },
+      {
+        "name": "CLOUDFLARENET",
+        "count": 5964,
+        "percentage": 3.05
+      },
+      {
+        "name": "SMILESERV",
+        "count": 3584,
+        "percentage": 1.83
+      },
+      {
+        "name": "Hostway IDC",
+        "count": 2841,
+        "percentage": 1.45
+      },
+      {
+        "name": "unknown",
+        "count": 2552,
+        "percentage": 1.31
+      },
+      {
+        "name": "NAVER Cloud Corp.",
+        "count": 2520,
+        "percentage": 1.29
+      },
+      {
+        "name": "AS-VULTR",
+        "count": 2168,
+        "percentage": 1.11
+      },
+      {
+        "name": "NHNCLOUD",
+        "count": 1749,
+        "percentage": 0.89
+      },
+      {
+        "name": "Team Internet AG",
+        "count": 1619,
+        "percentage": 0.83
+      },
+      {
+        "name": "Wix.com Ltd.",
+        "count": 1581,
+        "percentage": 0.81
+      },
+      {
+        "name": "KINX",
+        "count": 1562,
+        "percentage": 0.8
+      },
+      {
+        "name": "GABIA Inc.",
+        "count": 1526,
+        "percentage": 0.78
+      },
+      {
+        "name": "GOOGLE-CLOUD-PLATFORM",
+        "count": 1524,
+        "percentage": 0.78
+      },
+      {
+        "name": "SEDO GmbH",
+        "count": 1383,
+        "percentage": 0.71
+      },
+      {
+        "name": "CSC",
+        "count": 1192,
+        "percentage": 0.61
+      },
+      {
+        "name": "FASTLY",
+        "count": 979,
+        "percentage": 0.5
+      },
+      {
+        "name": "OVH SAS",
+        "count": 794,
+        "percentage": 0.41
+      },
+      {
+        "name": "Kakao Corp",
+        "count": 789,
+        "percentage": 0.4
+      },
+      {
+        "name": "GOOGLE",
+        "count": 682,
+        "percentage": 0.35
+      },
+      {
+        "name": "ORACLE-BMC-31898",
+        "count": 641,
+        "percentage": 0.33
+      },
+      {
+        "name": "Hostinger International Limited",
+        "count": 599,
+        "percentage": 0.31
+      },
+      {
+        "name": "DIGITALOCEAN-ASN",
+        "count": 525,
+        "percentage": 0.27
+      },
+      {
+        "name": "LG POWERCOMM",
+        "count": 500,
+        "percentage": 0.26
+      },
+      {
+        "name": "Akamai Connected Cloud",
+        "count": 489,
+        "percentage": 0.25
+      },
+      {
+        "name": "SHINSEGAE I C Co., Ltd.",
+        "count": 483,
+        "percentage": 0.25
+      },
+      {
+        "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+        "count": 473,
+        "percentage": 0.24
+      },
+      {
+        "name": "DLIVE",
+        "count": 457,
+        "percentage": 0.23
+      },
+      {
+        "name": "INCAPSULA",
+        "count": 451,
+        "percentage": 0.23
+      },
+      {
+        "name": "AMAZON-AES",
+        "count": 438,
+        "percentage": 0.22
+      },
+      {
+        "name": "DREAMMARK1",
+        "count": 409,
+        "percentage": 0.21
+      },
+      {
+        "name": "GANDI SAS",
+        "count": 338,
+        "percentage": 0.17
+      },
+      {
+        "name": "DAOU TECHNOLOGY",
+        "count": 329,
+        "percentage": 0.17
+      },
+      {
+        "name": "KOREA CABLE TELECOM",
+        "count": 322,
+        "percentage": 0.16
+      },
+      {
+        "name": "HyosungITX",
+        "count": 314,
+        "percentage": 0.16
+      },
+      {
+        "name": "Hetzner Online GmbH",
+        "count": 242,
+        "percentage": 0.12
+      },
+      {
+        "name": "Inet Hosting, Inc.",
+        "count": 232,
+        "percentage": 0.12
+      },
+      {
+        "name": "Register S.p.A.",
+        "count": 191,
+        "percentage": 0.1
+      },
+      {
+        "name": "Cloudflare London, LLC",
+        "count": 190,
+        "percentage": 0.1
+      },
+      {
+        "name": "Nameshield SAS",
+        "count": 183,
+        "percentage": 0.09
+      },
+      {
+        "name": "CONNECTWAVE",
+        "count": 183,
+        "percentage": 0.09
+      },
+      {
+        "name": "NCOM ltd.",
+        "count": 182,
+        "percentage": 0.09
+      },
+      {
+        "name": "Safenames Ltd.",
+        "count": 170,
+        "percentage": 0.09
+      },
+      {
+        "name": "united-domains GmbH",
+        "count": 170,
+        "percentage": 0.09
+      },
+      {
+        "name": "CDNetworks",
+        "count": 164,
+        "percentage": 0.08
+      },
+      {
+        "name": "Datacenter Luxembourg S.A.",
+        "count": 157,
+        "percentage": 0.08
+      },
+      {
+        "name": "DREAMLINE CO.",
+        "count": 130,
+        "percentage": 0.07
+      },
+      {
+        "name": "AUTOMATTIC",
+        "count": 122,
+        "percentage": 0.06
+      },
+      {
+        "name": "SEJONG NETWORKS",
+        "count": 117,
+        "percentage": 0.06
+      },
+      {
+        "name": "UNIFIEDLAYER-AS-1",
+        "count": 114,
+        "percentage": 0.06
+      },
+      {
+        "name": "SECURITYSERVICES",
+        "count": 107,
+        "percentage": 0.05
+      },
+      {
+        "name": "SQUARESPACE",
+        "count": 100,
+        "percentage": 0.05
+      },
+      {
+        "name": "Shinbiro",
+        "count": 98,
+        "percentage": 0.05
+      },
+      {
+        "name": "Tele2 SWIPnet",
+        "count": 94,
+        "percentage": 0.05
+      },
+      {
+        "name": "MYTEK TRADING PTY LTD",
+        "count": 92,
+        "percentage": 0.05
+      },
+      {
+        "name": "Eurofiber France SAS",
+        "count": 90,
+        "percentage": 0.05
+      },
+      {
+        "name": "abcle",
+        "count": 90,
+        "percentage": 0.05
+      },
+      {
+        "name": "FAMOUS WORKER",
+        "count": 83,
+        "percentage": 0.04
+      },
+      {
+        "name": "Hostcenter",
+        "count": 75,
+        "percentage": 0.04
+      },
+      {
+        "name": "NATIONAL INFORMATION RESOURCES SERVICE",
+        "count": 73,
+        "percentage": 0.04
+      },
+      {
+        "name": "A2HOSTING",
+        "count": 71,
+        "percentage": 0.04
+      },
+      {
+        "name": "Akamai International B.V.",
+        "count": 71,
+        "percentage": 0.04
+      },
+      {
+        "name": "Cheiljedang.Co.Inc.",
+        "count": 68,
+        "percentage": 0.03
+      },
+      {
+        "name": "SAMJUNG DATA SERVICE",
+        "count": 67,
+        "percentage": 0.03
+      },
+      {
+        "name": "Alibaba US Technology Co., Ltd.",
+        "count": 65,
+        "percentage": 0.03
+      },
+      {
+        "name": "InterNetX GmbH",
+        "count": 65,
+        "percentage": 0.03
+      },
+      {
+        "name": "Contabo GmbH",
+        "count": 62,
+        "percentage": 0.03
+      },
+      {
+        "name": "SamsungSDS Inc.",
+        "count": 58,
+        "percentage": 0.03
+      },
+      {
+        "name": "Planet Service SARL",
+        "count": 57,
+        "percentage": 0.03
+      },
+      {
+        "name": "Signet B.V.",
+        "count": 57,
+        "percentage": 0.03
+      },
+      {
+        "name": "SK Telecom",
+        "count": 54,
+        "percentage": 0.03
+      },
+      {
+        "name": "GMO Internet Group, Inc.",
+        "count": 53,
+        "percentage": 0.03
+      },
+      {
+        "name": "HYUNDAI COMMUNICATIONS NETWORK",
+        "count": 53,
+        "percentage": 0.03
+      },
+      {
+        "name": "InterNetworX Management GmbH",
+        "count": 52,
+        "percentage": 0.03
+      },
+      {
+        "name": "COGECO-PEER1",
+        "count": 49,
+        "percentage": 0.03
+      },
+      {
+        "name": "DACOM-PUBNETPLUS",
+        "count": 45,
+        "percentage": 0.02
+      },
+      {
+        "name": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
+        "count": 45,
+        "percentage": 0.02
+      },
+      {
+        "name": "flexnetworks",
+        "count": 43,
+        "percentage": 0.02
+      },
+      {
+        "name": "Tencent Building, Kejizhongyi Avenue",
+        "count": 43,
+        "percentage": 0.02
+      },
+      {
+        "name": "LG CNS",
+        "count": 43,
+        "percentage": 0.02
+      },
+      {
+        "name": "RENDER",
+        "count": 42,
+        "percentage": 0.02
+      },
+      {
+        "name": "Combell NV",
+        "count": 42,
+        "percentage": 0.02
+      },
+      {
+        "name": "DOUZONEBIZON",
+        "count": 36,
+        "percentage": 0.02
+      },
+      {
+        "name": "DIGICERT",
+        "count": 35,
+        "percentage": 0.02
+      },
+      {
+        "name": "FLY",
+        "count": 35,
+        "percentage": 0.02
+      },
+      {
+        "name": "Contabo Asia Private Limited",
+        "count": 35,
+        "percentage": 0.02
+      },
+      {
+        "name": "IONOS SE",
+        "count": 34,
+        "percentage": 0.02
+      },
+      {
+        "name": "LG HelloVision Corp.",
+        "count": 32,
+        "percentage": 0.02
+      },
+      {
+        "name": "GOOGLE-2",
+        "count": 31,
+        "percentage": 0.02
+      },
+      {
+        "name": "Korea Internet Security Agency",
+        "count": 30,
+        "percentage": 0.02
+      },
+      {
+        "name": "GO-DADDY-COM-LLC",
+        "count": 29,
+        "percentage": 0.01
+      },
+      {
+        "name": "VNTG",
+        "count": 28,
+        "percentage": 0.01
+      },
+      {
+        "name": "HCN CHUNGBUK CABLE TV SYSTEMS",
+        "count": 28,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hanarin Ltd",
+        "count": 28,
+        "percentage": 0.01
+      },
+      {
+        "name": "NAMECHEAP-NET",
+        "count": 28,
+        "percentage": 0.01
+      },
+      {
+        "name": "Deutsche Telekom AG",
+        "count": 27,
+        "percentage": 0.01
+      },
+      {
+        "name": "TelemaxX Telekommunikation GmbH",
+        "count": 27,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hostpoint AG",
+        "count": 27,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hyundai Autoever Corp.",
+        "count": 27,
+        "percentage": 0.01
+      },
+      {
+        "name": "KOSCOM",
+        "count": 26,
+        "percentage": 0.01
+      },
+      {
+        "name": "team.blue Denmark A/S",
+        "count": 26,
+        "percentage": 0.01
+      },
+      {
+        "name": "GleSYS AB",
+        "count": 25,
+        "percentage": 0.01
+      },
+      {
+        "name": "KISTI",
+        "count": 25,
+        "percentage": 0.01
+      },
+      {
+        "name": "RMH-14",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "Digital Edge Korea",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "RACKSPACE",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "Xserver Inc.",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "Host Europe GmbH",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "AS-26496-GO-DADDY-COM-LLC",
+        "count": 24,
+        "percentage": 0.01
+      },
+      {
+        "name": "SK Co.",
+        "count": 23,
+        "percentage": 0.01
+      },
+      {
+        "name": "CRETEC CHEGIM",
+        "count": 23,
+        "percentage": 0.01
+      },
+      {
+        "name": "Jsc ru-center",
+        "count": 23,
+        "percentage": 0.01
+      },
+      {
+        "name": "LIQUIDWEB",
+        "count": 23,
+        "percentage": 0.01
+      },
+      {
+        "name": "Entain Services Austria GmbH",
+        "count": 22,
+        "percentage": 0.01
+      },
+      {
+        "name": "KAKAO Enterprise",
+        "count": 22,
+        "percentage": 0.01
+      },
+      {
+        "name": "M247 Europe SRL",
+        "count": 21,
+        "percentage": 0.01
+      },
+      {
+        "name": "WHG Hosting Services Ltd",
+        "count": 21,
+        "percentage": 0.01
+      },
+      {
+        "name": "HI-NET-AS",
+        "count": 21,
+        "percentage": 0.01
+      },
+      {
+        "name": "Dataspace P.s.a.",
+        "count": 20,
+        "percentage": 0.01
+      },
+      {
+        "name": "Aruba S.p.A.",
+        "count": 20,
+        "percentage": 0.01
+      },
+      {
+        "name": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+        "count": 20,
+        "percentage": 0.01
+      },
+      {
+        "name": "AS-COLOCROSSING",
+        "count": 20,
+        "percentage": 0.01
+      },
+      {
+        "name": "INMOTION",
+        "count": 19,
+        "percentage": 0.01
+      },
+      {
+        "name": "Ordipat SAS",
+        "count": 19,
+        "percentage": 0.01
+      },
+      {
+        "name": "TimeWeb LLC",
+        "count": 19,
+        "percentage": 0.01
+      },
+      {
+        "name": "SOFTLAYER",
+        "count": 19,
+        "percentage": 0.01
+      },
+      {
+        "name": "KDDI KOREA",
+        "count": 19,
+        "percentage": 0.01
+      },
+      {
+        "name": "One.com A/S",
+        "count": 18,
+        "percentage": 0.01
+      },
+      {
+        "name": "DREAMHOST-AS",
+        "count": 18,
+        "percentage": 0.01
+      },
+      {
+        "name": "Piranha Systems",
+        "count": 18,
+        "percentage": 0.01
+      },
+      {
+        "name": "NICEINFOMATIONSERVICE",
+        "count": 18,
+        "percentage": 0.01
+      },
+      {
+        "name": "Neue Medien Muennich GmbH",
+        "count": 17,
+        "percentage": 0.01
+      },
+      {
+        "name": "KFTC",
+        "count": 17,
+        "percentage": 0.01
+      },
+      {
+        "name": "Gyeonggi Technopark",
+        "count": 17,
+        "percentage": 0.01
+      },
+      {
+        "name": "BROADBANDIDC",
+        "count": 17,
+        "percentage": 0.01
+      },
+      {
+        "name": "Korea Trade Network",
+        "count": 16,
+        "percentage": 0.01
+      },
+      {
+        "name": "NETWORK-SOLUTIONS-HOSTING",
+        "count": 16,
+        "percentage": 0.01
+      },
+      {
+        "name": "Mittwald CM Service GmbH & Co. KG",
+        "count": 16,
+        "percentage": 0.01
+      },
+      {
+        "name": "ELIMNET, INC.",
+        "count": 15,
+        "percentage": 0.01
+      },
+      {
+        "name": "Accenture B. V.",
+        "count": 15,
+        "percentage": 0.01
+      },
+      {
+        "name": "Korea Data Telecommunication Co., Ltd.",
+        "count": 15,
+        "percentage": 0.01
+      },
+      {
+        "name": "Xirra GmbH",
+        "count": 15,
+        "percentage": 0.01
+      },
+      {
+        "name": "RAILWAY",
+        "count": 15,
+        "percentage": 0.01
+      },
+      {
+        "name": "Enflow B.V.",
+        "count": 14,
+        "percentage": 0.01
+      },
+      {
+        "name": "Tilda Publishing Ltd.",
+        "count": 14,
+        "percentage": 0.01
+      },
+      {
+        "name": "LeaseWeb Netherlands B.V.",
+        "count": 14,
+        "percentage": 0.01
+      },
+      {
+        "name": "'ingenit GmbH & Co. KG'",
+        "count": 14,
+        "percentage": 0.01
+      },
+      {
+        "name": "K Media Tech Ltd.",
+        "count": 14,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hecto Innovation Co., Ltd",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "EPAG Domainservices GmbH",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "LATITUDE-SH",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "AKAMAI-AS",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "LOTTE INNOVATE Co.,Ltd",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "CSC Administrative Services Limited",
+        "count": 13,
+        "percentage": 0.01
+      },
+      {
+        "name": "Seoul National University",
+        "count": 12,
+        "percentage": 0.01
+      },
+      {
+        "name": "genesys informatica srl",
+        "count": 12,
+        "percentage": 0.01
+      },
+      {
+        "name": "KERIS",
+        "count": 12,
+        "percentage": 0.01
+      },
+      {
+        "name": "NINTENDO",
+        "count": 12,
+        "percentage": 0.01
+      },
+      {
+        "name": "SK Global co., Ltd",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Retelit Digital Services S.p.A.",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Datacamp Limited",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Korea Culture Information Service Agency",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "KYOBO BOOK CENTER",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Team Blue Internet Services Uk Limited",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "KYOBO Life Insurance Co., Ltd.",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Bluewin",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Jeonbuk State office of Education Future Education Research Institute",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Korea Credit Bureau",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Ddos-guard Ltd",
+        "count": 11,
+        "percentage": 0.01
+      },
+      {
+        "name": "Akenes SA",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "SAKURA Internet Inc.",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "Key-Systems GmbH",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "Seokyung Cable Television Co.. Ltd.",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "COMCAST-7922",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "Optimizely AB",
+        "count": 10,
+        "percentage": 0.01
+      },
+      {
+        "name": "COLT Technology Services Group Limited",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ip Core Corporation",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "dogado GmbH",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "UAB Interneto vizija",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "HVC-AS",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "3U TELECOM GmbH",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "Scaleway S.a.s.",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "DNIC-AS-00749",
+        "count": 9,
+        "percentage": 0.0
+      },
+      {
+        "name": "CLDIN B.V.",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "KTO",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bayerische Motoren Werke Aktiengesellschaft",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "NDS Coporation",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "CASABLANCA INT a.s.",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "ZONER a.s.",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "CommuniLink Internet Limited.",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "KX NexG Co., LTD",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "FD-298-8796",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "TOKAI Communications Corporation",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kyungpook National University",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "ScaleUp Technologies GmbH & Co. KG",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "HCN Dongjak",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bdl Systemes SAS",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "Public Cloud Ltd.",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "PlusServer GmbH",
+        "count": 8,
+        "percentage": 0.0
+      },
+      {
+        "name": "LDSCHURCH1",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "COGENT-174",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "Adacor Hosting GmbH",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "AZDIGI Corporation",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "World4You Internet Services GmbH",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "Orange",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "Rackspace Ltd.",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "HPINC",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "WBD-AS40703",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "METANET AG",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEVEL3",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "PacketStream Korea",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "KDDI CORPORATION",
+        "count": 7,
+        "percentage": 0.0
+      },
+      {
+        "name": "Trellian Pty. Limited",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Claranet Limited",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "WII",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "HANWHA Corp. Information Service div.",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Knipp Medien und Kommunikation GmbH",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "ML-1432-54994",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "ODERLAND Webbhotell AB",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kaopu Cloud HK Limited",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chongju University",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Layershift Limited",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Alter Way SAS",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea University of Technology and Education",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "KangNam CableTV",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "SungKyunKwan University SKKU",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "CENTURYLINK-LEGACY-SAVVIS",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Global Village GmbH",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "WEEBLY",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "NorthC Deutschland GmbH",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Health Insurance Review Assessment Service",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "HOSTHATCH",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "KCTV JEJU BROADCASTING",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Equinix (EMEA) Acquisition Enterprises B.V.",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cyber_Folks S.A.",
+        "count": 6,
+        "percentage": 0.0
+      },
+      {
+        "name": "SoftBank Corp.",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Institut Straumann AG",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "NMMN New Media Markets & Networks IT-Services GmbH",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cloudie Limited",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Data Communication Business Group",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "iM DS Co.,Ltd.",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul Metropolitan Government",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sunrise GmbH",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Cancer Center",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Nordisk Media Utveckling AB",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "CTG Server Limited",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Advanced Institute of Science and Technology",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEMARIT GmbH",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "ASIANAIDT",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "GORayNet",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "NAMEHERO-KCDC",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hyundai Department Store Co., Ltd.",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeong Sang Buk-Do Office of Education",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "The Hut.com Limited",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "SINGLEHOP-LLC",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "AFFILIATED",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "NOCIX",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "APPLE-ENGINEERING",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Volvo Information Technology AB",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "DONG-EUI UNIVERSITY",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Strato GmbH",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sentia Denmark A/S",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Webglobe, s.r.o.",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "GITHUB",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "ZEN-ECN",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "SWITCH-LTD",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "Netsec Limited",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "WEBHOSTINGHOLDINGS",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "netcup GmbH",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "20i Limited",
+        "count": 5,
+        "percentage": 0.0
+      },
+      {
+        "name": "PEG-LA",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Viettel Group",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "SEEWEB s.r.l.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Leica Geosystems AG",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "BCCARD",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "INet Technologies Co., Ltd.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "NICE",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "IMH-IAD",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMB Daejeon Broadcasting Co,.Ltd",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "asan medical center",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Datagroup Se",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Proact IT UK Limited",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bisping & Bisping GmbH & Co KG",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "ACE",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "GBC GmbH Internet Service Center Ingenieurgesellschaft fuer Systemsoftware und Kommunikation",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "HANVIT BANK",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeongsangbuk-do Education Research Institute",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hermes Europe GmbH",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "XEROX-WV",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "XEROX-WB",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea University",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "PRIMARYAS",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tietoevry Oyj",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "ICDSoft Ltd.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS17378",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Wildcard UK Limited",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "imobi inc",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dreamscape Networks Limited",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "IDC Frontier Inc.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hanyang University",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "JEJU NATIONAL UNIVERSITY",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "VSHosting s.r.o.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "INHA UNIVERSITY",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "froxlor GmbH",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "IS-AS-1",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "SEOCHO CABLE SYSTEMS CO., LTD.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "TeleData GmbH",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hana Bank Co.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fastmail Pty Ltd",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Rohde & Schwarz GmbH & Co. KG",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "JoongAng Ilbo",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "NTT Com Asia Limited",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "eww ag",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Adam EcoTech, S.A",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gameforge 4D GmbH",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "QTS-SUW1-ATL1",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOOKMIN UNIVERSITY",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "EDNS",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "IQ PL Sp. z o.o.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "China Unicom Beijing Province Network",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Redcentric Solutions Ltd",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Danfoss A/S",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "SERVERSTACK-ASN",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "SSASN2",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "firstcolo GmbH",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telia Company AB",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS40676",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "G-Core Labs S.A.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul National University of Education",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "MULTA-ASN1",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ulsan Jung-Ang Broadcasting Network",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "NForce Entertainment B.V.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "FACEBOOK",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "CROCWEB",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "TrueFullstaq B.V.",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "FPT Telecom Company",
+        "count": 4,
+        "percentage": 0.0
+      },
+      {
+        "name": "Guri Namyangju Office Of Education",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "MASTER-7-AS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Transportation Safety Authority",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dotname Korea Corp",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Agricultural Cooperative federation",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "EPIK-LLC",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Internet Names for Business Inc",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "cyon GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "UUNET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "OPENTEXT",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tosspayments",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Rural Community Corporation",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "MOACK.Co.LTD",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bezeq International Ltd.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Evonik Industries AG",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA LAND AND GEOSPATIAL INFORMATIX CORPORATION",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "TIM",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ULNetworks Co., Ltd.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEASEWEB SINGAPORE PTE. LTD.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Server Plan S.r.l.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Daelim Co.,Ltd.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Allianz Technology SE",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERNAP-BLK",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "velia.net Internetdienste GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SHARKTECH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gangwon State Office of Education",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telefonica De Espana S.a.u.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hostopia Australia Web Pty Ltd",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Lloyds Banking Group PLC",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Consultix GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SAREnet, S.A.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hosting.de GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "JSC Selectel",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "KICA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "TCPSHIELD",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "CHUNGBUK NATIONAL UNIVERSITY",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "noris network AG",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Internet Initiative Japan Inc.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "CNSERVERS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "IBH IT-Service GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "CENTURYLINK-US-LEGACY-QWEST",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "VPSDATACENTER",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "23M GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kunsan National University KNU",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "PEARSON-NA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "IT7NET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "TURNKEY-INTERNET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chonnam National University",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cyso Group B.V.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ASN-TEKTRONIX",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ODN OnlineDienst Nordbayern GmbH & Co. KG",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ATT-INTERNET4",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dinova Srl",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "CISCOSYSTEMS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Mandala Internet EDV Service GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SpaceNet AG",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "HL Holdings Corporation",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Beget LLC",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "LUCIDACLOUD LIMITED",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "MCMNET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "IT.Gate S.p.A.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "UPS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Beyond.pl sp. z o.o.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Blizzard Entertainment, Inc",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fresenius SE & Co. KGaA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SUPERDATA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEXIS-AS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "TWL-Kom GmbH",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Infomaniak Network SA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Mirae Asset Life Insurance Co., Ltd",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "BIZLAND-SD",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Industrial Bank of Korea",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "UNITAS",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "WebSupport s.r.o.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Atman Sp. z o.o.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Moviement srl",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SYNERGY WHOLESALE PTY LTD",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "GMO GlobalSign Holdings K.K.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "DXC-AS3360",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOCCA",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "NTT-DATA-2914",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "SERVERS-COM",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "UDomain Web Hosting Company Ltd",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "PT Cyberindo Aditama",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "POSCO DX",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Domain names registrar REG.RU, Ltd",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Axians AB",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Festo Management SE",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Alpilink Cloud S.A.S.",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Munhwa Broadcasting Corporation",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ecritel SASU",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "ABN",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "DHLNET",
+        "count": 3,
+        "percentage": 0.0
+      },
+      {
+        "name": "VPSOR-GLOBAL",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "NL-811-40021",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telecom Italia San Marino S.p.A",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "IT WEB LTD",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sunchon National University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dr. Ing. h.c. F. Porsche AG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "IP-Projects GmbH & Co. KG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Jeonbuk National University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Rackforest Zrt.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Delticom Ag",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ledl.net GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "NET253",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Opera Norway AS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bastiaan Mathijs Brink",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hankyong National Univercity",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "The Daegu Bank, Ltd",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CONFLUENCE-NETWORK-INC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Institute of Oriental Medicine",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Daewoo Information Systems",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul Information Service Inc.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ENZUINC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telekom Austria",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Krystal Hosting Ltd",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Eviden Netherlands B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SunnyVision Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "IPGOMA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Mokpo University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hanjin Information Systems Telecommunication Co., Ltd",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CELANESE",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KAMATERA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Xylem Water Solutions Global Services Ab",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-GLOBALTELEHOST",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Net-Build GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SUCURI-SEC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Elmec Informatica S.p.A.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Xtra Telecom S.A.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Orange Espagne SA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Vodafone Ono, S.A.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "NOTION",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tmoney co., ltd",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Aerospace University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kum oh National University of Technology KNUT",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Previder B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Wonkwang University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LVLT-3549",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LIQUIDNETLTD1",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Institute of Science and Technology",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KECA, Inc.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "TELX-LEGACY",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Buhler AG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Level 27 BVBA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "XIMBO Internet Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LENOVO-NET",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "MOTOROLA-MOBILITY",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Destiny N.V",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dongducheonyangju office of Education",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Greysom Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "GTT Communications Inc.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "MOTOROLA-SOLUTIONS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ALL42 s.r.l.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ans Academy Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Optitrust GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "POPIDC powered by CSLoxinfo",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Two Degrees Mobile Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "MARCANT AG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA POLYTECHNIC UNIVERSITY",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "JAXNET-BH-01",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Christian Ebsen ApS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CV. Rumahweb Indonesia",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "DIMENOC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Leaseweb Deutschland GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "HILTON-E",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CDK-GLOBAL",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "E-Mind Srl",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "UNINET",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "BT Italia S.p.A.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SuperHosting.BG Ltd.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "HOSTWINDS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Advania Island ehf",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sogang University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sony Network Taiwan Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "UK-2 Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "PRIVATESYSTEMS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korean National Railroad Administration",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTAC Services GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hosting eXperts Switzerland AG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "RS Gesellschaft fuer Informationstechnik mbH & Co.KG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Alibaba Cloud Singapore Private Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ALYRICA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Webfleet Solutions Development Germany GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "DAEGU UNIVERSITY",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Radware Ltd",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Free SAS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KISPricing",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "BUSAN EDUCATION RESEARCH & INFORMATION INSTITUTE",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KAGOYA JAPAN Inc.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Delta HighTech Ltd.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "UKDedicated LTD",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Totaalnet Internet Works B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Uniserver Internet B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LiveSport s.r.o.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Voxility LLP",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Pohang University of Science and Technology",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Shinhan Bank",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Net Innovation LLC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LF.net Netzwerksysteme GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-30083-US-VELIA-NET",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SPLUNK-WEST",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "AdminVPS OOO",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERNAP-BLOCK-4",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "TalkTalk",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seflow s.r.l.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dongseo University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "TDY-US1-DC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "MGMRI-AS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Doosan Corporation Digital Innovation",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Global Transit Communications - Malaysia",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Daehan Investment Trust Securities",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "OMNIS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "NEOCITIES",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "TDC Holding A/S",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "HKBN Enterprise Solutions Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LM-CORP",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dimension Network & Communication Limited",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Catholic University of Pusan",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Financial Security Institute",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hofmeir Media GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "O2switch SAS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Alpla Werke Alwin Lehner GmbH & Co KG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "M-net Telekommunikations GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dong-A Universirty",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Keumgang Cable Network",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Webhuset AS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SHINHAN DS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Konkuk University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Pixel X e.K.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ebm-papst Mulfingen GmbH & Co. KG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Nazwa.pl Sp.z.o.o.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ABBVIE",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chinanet",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bradler & Krantz GmbH & Co. KG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "AEGONUSA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Republican Unitary Telecommunication Enterprise Beltelecom",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Daejon Metropolitan Office of Education",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KRIBBKorea Research Institute of Bioscience Biotechnology",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Domainkeskus Oy",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "T-Mobile Austria GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "VNPT Corp",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Babiel GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CJ2 Hosting B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "CARNIVALCORP-ASN1",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "punkt.de GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "net.de AG",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "MSERWIS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hannam University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Saero Network Service LTD",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "PHIS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "KAIT",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cegeka NV",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "ASN-FLEXENTIAL",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTEL-SC-AS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Vancis IP B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cogetel Online, Cambodia, ISP",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "BrainStorm Network, Inc",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "IIAC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Inline Internet Online Dienste GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Loopia AB",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Itm8 A/S",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "K-JIST",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "gridscale GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SYCOR GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "BASF Digital Solutions GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fundaments B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sangmyung University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "InnoGames GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "SOPRADO GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "LS ITC",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Nessus GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fornex Hosting S.L.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Viet Storage Technology Joint Stock Company",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Beijing Shijihulian Yuntong Network Technology Co., Ltd.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Shinhan card",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Infomation Society Agency",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "YISU CLOUD LTD",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "nLighten France SAS",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "EVANZO e-commerce GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "VIRTELA-1",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Alwaysdata Sarl",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "weber.digital GmbH",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "TIER-NET",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kyung Hee University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ulsan National Institute of Science and Technology",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Eurofiber Cloud Infra B.V.",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "DONGGUK University",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Planetel SPA",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hyundai Heavy Industries",
+        "count": 2,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telia Cygate AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WEDOS Internet, a.s.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PT Suraloka Digital Kreatif",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ODS Joint Stock Company",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zone Media OU",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "B-F",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TicMate AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VECC911",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kamatera, Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MiroNet AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Advika Web Developments Hosting Pvt Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HANWHALIFE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Talsion Sasu",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TM TECHNOLOGY SERVICES SDN. BHD.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Laudert GmbH + Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Greentube GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Takeda GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MASSCOM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Heart Internet limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "H4Y-TECHNOLOGIES",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SQUIXA PTY LIMITED",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Amito Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Inclust System Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Goyang Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KWANGWOON UNIVERSITY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KDDI Web Communications Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Jisc Services Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "REHAU Industries SE & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KTE Information and Communications",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "avency GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HARAVAN TECHNOLOGY CORPORATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SC Web Software Development SRL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SunMoon University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Soluciones web on line s.l.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PONYNET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA RURAL ECONOMIC INSTITUTE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "T-Systems International GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Silla Univ",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IT Heinrich GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VLAN24-INC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Iomart Cloud Services Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KIC for Agriculture",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HASBRO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Boryung Pharmaceutical Co.,Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Wurth IT GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ZOHO-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Webglobe, a.s.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Maritime and Ocean University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CROWNCASTLE-AS46887",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Liebherr-IT Services GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "JPMORGAN-CPS-SALEM-NH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "JPMORGAN-CPS-TAMPA-FL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NetCom BW GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TaeguTec",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "netlogix GmbH & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kaspersky Lab Switzerland GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Incheon Free Economic Zone",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Plusnet GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VS-MEDIA-IPV4",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PE Fedinyak Sergey Vyacheslavovich",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bechtle AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CHEONGJU NATIONAL UNIVERSITY OF EDCATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "1999FISHERSYS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Internet Vikings International AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Audatex (Schweiz) GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Root Holding B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MAGNA STEYR Fahrzeugtechnik AG und Co KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Afrihost",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Reevo S.p.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Vodafone GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Exinity works (CY) LTD",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CSL Computer Service Langenbach GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PE Skurykhin Mukola Volodumurovuch",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "FMGLOBAL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "FNIS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telenet BV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SiteHost New Zealand",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "terralink networks GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EATON-CORPORATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chubu Telecommunications Company, Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WIIT AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GALAXYGATE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA BANKING INSTITUTE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Atak Domain Bilgi Teknolojileri A.S.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PEG-KR",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hostnet B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TERAEXCH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Oxya FRANCE SA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Applied International Informatics GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERNAP-BLK5",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Neten S.p.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hanbat National University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LGTELECOM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INFOTECHSYS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IPHH Internet Port Hamburg GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Axera SpA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERNET AG Global Network",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Xefi Lyon SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Keyloop Holdings (UK) Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telecom Liechtenstein AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SHINBUNDANG RAILROAD",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NSS S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Prolocation B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Host Universal Pty Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NHINFORMATIONSYSTEM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sabiedriba ar ierobezotu atbildibu DELSKA Latvia",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NEBULA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HOST4GEEKS-LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Intesa Sanpaolo S.p.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Garena Online Pte Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sixsigma Networks Mexico, S.A. de C.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Digital Realty Hellas Single Member S.A",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Liquid Web B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fastweb",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "The Bank of Korea",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Eurofiber Nederland BV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TIDADIGI COMPANY LIMITED",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEXIS2-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NCIDS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BAYER-ARCH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PEG-SV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "FORCETEC Co., LTD.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GMO-Z.com Runsystem Joint Stock Company",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TBC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SecurityNet.cz s.r.o.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GlobalConnect A/S",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggido Seongnam Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BIT BV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MACROVISION-CORPORATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BANCO BRADESCO SA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Wind Tre S.p.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Axarnet Comunicaciones, S.l.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Planet Bourgogne SARL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HOSTISERVER",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "fischerwerke GmbH & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HWSERVICES-32400",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GORILLASERVERS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DOW",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ecotel communication ag",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Xsolla (USA), Inc",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BMS-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "YeungNam College of Science Technology",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Health Industry Development Institute",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hotel Reservation Service Robert Ragge GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Enreach Netherlands B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LLC Baxet",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ZCOM.cz s.r.o",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NEXCESS-NET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DC-ASN-01",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA INVESTMENT VALUE ASSET MANAGEMENT Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Volkswagen Financial Services AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NHN Cloud Japan Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kumho Cable",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Meteorological Administration",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Yuan-Jhen Info., Co., Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UpCloud Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ntte Global Network Brand Name",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AFFINITY-INTER",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-WAVE-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "The Offices at Central World, 27th floor",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zoho Corporation Pvt. Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Exabytes Network Singapore Pte. Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Racing Association",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zomro B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DIGIKEY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Metaregistrar B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Aire Networks Del Mediterraneo Sl Unipersonal",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "arcos informationssysteme GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTERDIGI JOINT STOCK COMPANY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NetCologne Gesellschaft fur Telekommunikation mbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-NALCO-NA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WZ-US-40824",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UK Dedicated Servers Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Employment Information Management Agency",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "RAPID-FIBER-INTERNET-LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Agfa Gevaert NV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "High Energy Accelerator Research Organization, KEK",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VDC Powerbase Hong Kong Data Centers Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Comvive Servidores S.L.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Arelion Sweden AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KTCFV-USA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Leitwerk Ag",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GOLDKEY-CORPORATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-DYNASCALE-LAX",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CISCO-UMBRELLA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GHOSTnet GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "rainbow network limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Schokker IT B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Aerospace Research Institute",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Julian Achter",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Quang Trung Software City Development Company",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Serviceplan Group SE & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bottola Cyber Net",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zhejiang Taobao Network Co.,Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Springer Nature B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "One Hungary Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CDLAN SpA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LeaseWeb Network B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SBI SAVINGS BANK",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telekom Deutschland GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BLACKROCK-FINANCIAL-MANAGEMENT",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BLACKROCK-FINANCIAL-MANAGEMENT-2",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MachCloud B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Noraina Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hostup AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "YMC AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gigafy",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ASN-CXA-ALL-CCI-22773-RDC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ITP-Solutions GmbH & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Iguane Solutions SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Taiwan Fixed Network, Telco and Network Service Provider.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Digiweb ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GETRESPONSE-IMPLIX",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Access UK Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UPCLOUDUSA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Universiti Putra Malaysia AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA SOUTH EAST POWER",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "smcc.net GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "FASTNET SpA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Information Communicaions Co.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hana Insurance Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Franche Comte Net SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IPGarde SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "FORTRESSITX",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AMERICAN-EXPRESS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CS LOXINFO PUBLIC COMPANY LIMITED",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "JLL-AM-CHI",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DAEJIN UNIVERSITY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Neptune Internet Services SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EuroByte LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hk Cedoc Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Investment Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VERISIGN-ILG1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Datasource AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SCAAM0001",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dongwha Enterprise Co. Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "OKDATASYSTEM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Atos Information Technology GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Artefact SARL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Die Schweizerische Post AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HLL LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Yonhap News Agency",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IITP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AROSS-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Oktawave S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Taejon Institute of Education Science",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi-do Pyongtaek Office Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "So-net Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LUCENT-CIO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Keliweb S.R.L",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul Facilities Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi Provincial Bucheon Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tietoevry Norway As",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Amadeus Data Processing GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telstra Global",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi-Do Ansan Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Soluciones Corporativas IP, SL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IPTP LTD",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NDCHOST",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LIMESTONENETWORKS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Pocheon Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Blacknight Internet Solutions Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PATH-NETWORK-BYOIP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "managedhosting.de GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Internet Backbone",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TZULO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Nazarene University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PARADISE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TOCDOSOVN",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Water Resources Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WEB-HOST-MOST-ASN-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Servereasy Srl",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DTS Systeme GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "QUICKPACKET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Advania Sverige AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Development Bank",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ABCDE GROUP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Jeonju National University Of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bremen Briteline GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sprinthost.ru LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Grifols S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ACTIVE 24, s.r.o.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kyeonggi-Do Hwaseong Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BIPERFORMANCE-ASN",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "China Mobile Communications Group Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "First Ukrainian Internet Registrar LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PFALZKOM GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "OPTIMUM-WIFI2",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GREEN CABLE TELEVISION STATION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KL-Net Corp.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Santander Global Technology, S.L.U",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Keyweb AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CSL-ASN-AS17033",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEASEWEB-USA-LAX",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Technology Transfer Intercontinental S.R.L",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "POWER LINE DATACENTER",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Aysima Bilisim Teknolojileri",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KYNDR-RTP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TCIS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HL komm Telekommunikations GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Pq Hosting Plus S.r.l.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Pearson Shared Services Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Binero AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GENMILLS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LEW TelNet GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Magyar Telekom Plc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PRO-ZETA a.s.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KEPCO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMB TAEGU BROADCASTING",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Dongduk Womens University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ELECFORIMAG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telenor Norge AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AJU Internet Technology",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ABC Computer Systems Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NATE Communications Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Information Society Developement Institute",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BACOM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Megagroup.ru LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Webland AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INTMANAGEMENT Corp.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Elmos Semiconductor SE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ALL-IN-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Catholic University of DAEGU",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VNSO TECHNOLOGY COMPANY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cyber_Folks SRL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Squiz Pty Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Canonical Group Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi-Do Icheon office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sodexo SA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TEKSAVVY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Electronics and Telecommunications Research Institute",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bayer AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMC Telecom Infrastructure Company",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PATHLINE-CAMP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul Housing Communities Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SOLARWINDSAUSTIN",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MyRepublic Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS2-TRENDMICRO-COM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HancomWITH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "RackCorp",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tomattos Technologies Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Merck KGaA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UNIVERSITY OF INCHEON",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Exigo AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SpectraIP B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "uvensys GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chungnam National University Hospital",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Sony Network Communications Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NYINTERNET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SWAN, a.s.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "GOSSAMERTHREADS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "sprint S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Team Blue Carrier Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Unix Storm - Michal Gottlieb",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Storm Networks LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Fca Information Technology, Excellence And Methods S.p.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Rackspace IT Hosting AS IT Hosting Provider Hong Kong",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Maehdros S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ljosleidarinn ehf",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IACD Systemhaus GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Security Technology Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Clodo Cloud Service Co. L.L.C",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "RADIANT-TORONTO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOREA INSTITUTE OF FUSION ENERGY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DEERE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Domeneshop AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "euNetworks GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Aixit GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AboveNet Communications Taiwan",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Radore Veri Merkezi Hizmetleri A.S.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMCS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "tsis",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EDIS GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Salinen Austria AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INJE UNIVERSITY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Exa Bytes Network Sdn.Bhd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UBS Group AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gachon University Gil Hospital",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WorldStream B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PACKET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SUSE Software Solutions Germany GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CtrlS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "10dencehispahard, S.L.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Netversor GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "jeonju university",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Virgin Media",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "YYY Group, Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zhejiang Aiyun Network Technology Co Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Institute for Basic Science",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NETHINKS GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Al",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SIEL, d.o.o.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Admax AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Forss IT AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VNET a.s.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CENGAGE-OHCIN",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SH.cz s.r.o.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Isimtescil Bilisim A.S.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LUMOS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HURRICANE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "WVNET Information und Kommunikation GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DATAPIPE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ADISTA SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Superonline Iletisim Hizmetleri A.S.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CHOSUN UNIVERSITY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "VegaSystems GmbH & Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EHI-NA-AS-2",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EHI-NA-AS-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "adesso as a service GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NEORA-ASN-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SUDDENLINK-COMMUNICATIONS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Chungnam National University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CriticalCase s.r.l",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "BLESS Co.,Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NICE TCM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "National Health Insurance Service",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Continum Ag",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SG.GS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "iWelt GmbH + Co. KG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Institute of Information and Computing, EWHA WOMANS UNIV.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "JCOM-3",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DeepL SE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SpaceWeb Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Orange Business Digital Germany GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ADESTIS GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "offek h&o ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "UBIMET GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KART, KIDI",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LYCOS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gwang Myeong Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "1api GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MATHWORKS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Planeetta Internet Oy",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Metaways Infosystems GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Finovy Pte. Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "American International Assurance Company Korea",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Unit D,E,F,G 28th Floor",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Elisa Oyj",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Ficolo Oy",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DB Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Equinor ASA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "e-Style ISP LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "interneX GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "all-connect Data Communications GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EntServ Deutschland GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INFORMATICA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gwangju Education Research Information Service",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Netafraz Iranian Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Art of Automation B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "P.a.g.m. Ou",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "OWGELS INTERNATIONAL CO., LIMITED",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DigiRock, Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TIMEWARP IT Consulting GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Masan College",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PPCO",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "senseLAN GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "XMISSION",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gigacodes GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Seoul Metropolitan Government Computer Center",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Globalways GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Advin Services LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LABCORP-BLS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bahnhof AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CHT Compamy Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "TPG Telecom Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Internet Central Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SpeedPartner GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kering SA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KyungSan University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tata Teleservices Maharashtra Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi Yeoncheon Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SOLVIANS IT-Solutions GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Zettagrid Pty Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Namincheon Brodcasting Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AMETEK-CTC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Grundfos Holding A/s",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CYBERCON",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Roedl & Partner GmbH Wirtschaftspruefungsgesellschaft",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CMB Kwangju Broadcasting",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "LLC Wildberries",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INFB2-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Plus.line AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS-SONICTELECOM",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Jeju Special Self Governing Provincial office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi Provincial Suwon Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Google Asia Pacific Pte. Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Free Pro SAS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CLARA, Inc.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Long Van System Solution JSC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Teamnet GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DYNU",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Telekom Slovenije, d.d.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KEAD",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Viking Host B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Korea Technology Finance Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Liberty Global B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ESTRUXTURE-ON-19122",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Bilendi Technology SARL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Samil PwC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Limitis s.r.l.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Stichting DIGI NL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Servicios de Hosting en Internet S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "43F, AIA Tower, 183 Electric Road, North Point, Hong Kong",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "China Mobile communications corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Start LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "POONGSAN",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "NETACTUATE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "5G NETWORK OPERATIONS PTY LTD",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ArubaCloud Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Baring Investment Services Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "INFORENT GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Philippine Long Distance Telephone Company",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CARINET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kistler Instrumente AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Tilaa B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "IFOXNETODPD-ENSONO-DCCS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Kangwon National University",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KYOBO AXA INVESTMENT MANAGERS Co., Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SIMPLEHELIX",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DFW-DATACENTER",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AMERITECH-AS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Nestle Nespresso SA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Optibit LLC",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Layerstack Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "KOSAF",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Viewqwest Pte Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ENTEGA Medianet GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CCS",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ADES BV",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "DAOUDATA",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Shinjiru Technology Sdn Bhd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "InfoServe GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Naukowa I Akademicka Siec Komputerowa - Panstwowy Instytut Badawczy",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "PT. Colo Media Netindo",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "The Positive Internet Company Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CARLSONWAGONLITTRAVEL",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HYATT-CORP",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "home.pl S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Public Officials Benefit Association",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Scalaxy B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MasterDC s.r.o.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "rh-tec Business GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Supreme Court of Korea",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "EQUINIX-CORP-NETWORK",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ConnectingBytes GmbH",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cyber Internet Services Pvt Ltd.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HANSEO UNIVERSITY",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "COBASO-NET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "novomind AG",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Cegecom S.A.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CLICK-NETWORK",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Saab AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "init AG fuer digitale Kommunikation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Gyeonggi Provincial Anseong Office of Education",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "atKorea Argo-Fisheries Food Trade Corporation",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Des Capital B.V.",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "AS INFONET",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "HKT Limited",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "SCALAHOSTING",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Jobs.bg Ltd",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CNUE",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "JSC IOT",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "ELASTX AB",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "CONNECTRIA-ASN-1",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "MAJESTIC-HOSTING-01",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Hankuk University of Foreign Studies Computer Center",
+        "count": 1,
+        "percentage": 0.0
+      },
+      {
+        "name": "Infopact Netwerkdiensten B.V.",
+        "count": 1,
+        "percentage": 0.0
+      }
+    ]
+  }
+}
