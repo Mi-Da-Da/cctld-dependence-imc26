@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "3blecnd.com",
+    "total_count": 13,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "3btg1.3blecnd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3blecnd\\.com(?:\\.|$)",
+      "(?:^|\\.)3blecnd[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
