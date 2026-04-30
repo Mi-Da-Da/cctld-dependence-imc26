@@ -1,0 +1,29 @@
+{
+  "ns_provider": {
+    "top3_coverage": 68.23,
+    "HHI": 0.19,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "GOOGLE",
+      "SECURITYSERVICES"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 71.92,
+    "HHI": 0.3301,
+    "top3_providers": [
+      "TERAEXCH",
+      "Alibaba US Technology Co., Ltd.",
+      "CNSERVERS"
+    ]
+  },
+  "ip_asns": {
+    "top3_coverage": 44.61,
+    "HHI": 0.0895,
+    "top3_providers": [
+      "GOOGLE-CLOUD-PLATFORM",
+      "CLOUDFLARENET",
+      "HURRICANE"
+    ]
+  }
+}
