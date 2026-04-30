@@ -1,0 +1,21 @@
+[
+  {
+    "sld": "test-hf.ru",
+    "total_count": 46,
+    "provider_hint": "LLC Eximius",
+    "top_asn": {
+      "asn": 207027,
+      "org": "LLC Eximius"
+    },
+    "pct": 1.0,
+    "countries": [
+      "RU"
+    ],
+    "example_targets": [
+      "www.test-hf.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)test\\-hf\\.ru(?:\\.|$)"
+    ]
+  }
+]
