@@ -1,0 +1,25 @@
+{
+  "ns_provider": {
+    "top3_coverage": 54.49,
+    "HHI": 0.1528,
+    "top3_providers": [
+      "CLOUDFLARENET",
+      "AMAZON-02",
+      "Cloud DNS Ltd"
+    ]
+  },
+  "cname_provider": {
+    "top3_coverage": 0,
+    "HHI": 0,
+    "top3_providers": []
+  },
+  "ip_asns": {
+    "top3_coverage": 28.5,
+    "HHI": 0.0443,
+    "top3_providers": [
+      "AMAZON-02",
+      "CLOUDFLARENET",
+      "AMAZON-AES"
+    ]
+  }
+}
