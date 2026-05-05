@@ -1,0 +1,3221 @@
+[
+  {
+    "sld": "cloudflare.com",
+    "total_count": 1566,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "gina.ns.cloudflare.com",
+      "memphis.ns.cloudflare.com",
+      "eugene.ns.cloudflare.com",
+      "alexia.ns.cloudflare.com",
+      "conrad.ns.cloudflare.com",
+      "cora.ns.cloudflare.com",
+      "dara.ns.cloudflare.com",
+      "desi.ns.cloudflare.com",
+      "piper.ns.cloudflare.com",
+      "sullivan.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "microsoftonline.com",
+    "total_count": 640,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.bdm.microsoftonline.com",
+      "ns4.bdm.microsoftonline.com",
+      "ns2.bdm.microsoftonline.com",
+      "ns3.bdm.microsoftonline.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)microsoftonline.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "googledomains.com",
+    "total_count": 480,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns-cloud-c2.googledomains.com",
+      "ns-cloud-e1.googledomains.com",
+      "ns-cloud-c1.googledomains.com",
+      "ns1.googledomains.com",
+      "ns-cloud-d3.googledomains.com",
+      "ns-cloud-a4.googledomains.com",
+      "ns-cloud-e4.googledomains.com",
+      "ns-cloud-b2.googledomains.com",
+      "ns-cloud-c4.googledomains.com",
+      "ns-cloud-a1.googledomains.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)googledomains.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mtgsy.com",
+    "total_count": 400,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 0.965,
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "example_targets": [
+      "a.ns.mtgsy.com",
+      "dns3.mtgsy.com",
+      "dns0.mtgsy.com",
+      "b.ns.mtgsy.com",
+      "gsy1.ns.mtgsy.com",
+      "dns4.mtgsy.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mtgsy.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudns.net",
+    "total_count": 390,
+    "provider_hint": "Cloud DNS Ltd",
+    "top_asn": {
+      "asn": 203391,
+      "org": "Cloud DNS Ltd"
+    },
+    "pct": 0.892,
+    "countries": [
+      null,
+      "US",
+      "DE",
+      "FR",
+      "NL"
+    ],
+    "example_targets": [
+      "pns1.cloudns.net",
+      "pns43.cloudns.net",
+      "ns2.cloudns.net",
+      "dns32.cloudns.net",
+      "ns54.cloudns.net",
+      "dns6.cloudns.net",
+      "ns24.cloudns.net",
+      "ns42.cloudns.net",
+      "dns34.cloudns.net",
+      "ns34.cloudns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namerock.co.uk",
+    "total_count": 285,
+    "provider_hint": "Anverino Software SRL",
+    "top_asn": {
+      "asn": 41954,
+      "org": "Anverino Software SRL"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BZ"
+    ],
+    "example_targets": [
+      "ns4.namerock.co.uk",
+      "ns3.namerock.co.uk",
+      "ns5.namerock.co.uk",
+      "ns1.namerock.co.uk",
+      "ns2.namerock.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namerock.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cscdns.net",
+    "total_count": 264,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns2.cscdns.net",
+      "pdns1.cscdns.net",
+      "pdns2.cscdns.net",
+      "udns1.cscdns.net",
+      "dns1.cscdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cscdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "name-s.net",
+    "total_count": 252,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "example_targets": [
+      "dns2.name-s.net",
+      "dns1.name-s.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)name-s.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnsmadeeasy.com",
+    "total_count": 251,
+    "provider_hint": "DIGICERT",
+    "top_asn": {
+      "asn": 16552,
+      "org": "DIGICERT"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.dnsmadeeasy.com",
+      "ns12.dnsmadeeasy.com",
+      "ns4.dnsmadeeasy.com",
+      "ns1.dnsmadeeasy.com",
+      "ns14.dnsmadeeasy.com",
+      "ns2.dnsmadeeasy.com",
+      "ns0.dnsmadeeasy.com",
+      "ns11.dnsmadeeasy.com",
+      "ns10.dnsmadeeasy.com",
+      "ns15.dnsmadeeasy.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnsmadeeasy.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gandi.net",
+    "total_count": 216,
+    "provider_hint": "GANDI SAS",
+    "top_asn": {
+      "asn": 209453,
+      "org": "GANDI SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "example_targets": [
+      "ns-148-a.gandi.net",
+      "ns-70-c.gandi.net",
+      "ns-185-c.gandi.net",
+      "ns-176-c.gandi.net",
+      "ns-125-b.gandi.net",
+      "ns-110-c.gandi.net",
+      "ns-219-b.gandi.net",
+      "ns-168-b.gandi.net",
+      "ns-94-b.gandi.net",
+      "ns-208-b.gandi.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gandi.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "stackdns.com",
+    "total_count": 212,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "BE"
+    ],
+    "example_targets": [
+      "ns4.stackdns.com",
+      "ns3.stackdns.com",
+      "ns2.stackdns.com",
+      "ns1.stackdns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)stackdns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wixdns.net",
+    "total_count": 184,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns14.wixdns.net",
+      "ns5.wixdns.net",
+      "ns3.wixdns.net",
+      "ns7.wixdns.net",
+      "ns2.wixdns.net",
+      "ns0.wixdns.net",
+      "ns11.wixdns.net",
+      "ns1.wixdns.net",
+      "ns15.wixdns.net",
+      "ns8.wixdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wixdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "netnames.net",
+    "total_count": 183,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns6.netnames.net",
+      "ns1.netnames.net",
+      "ns2.netnames.net",
+      "ns5.netnames.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)netnames.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "porkbun.com",
+    "total_count": 168,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "salvador.ns.porkbun.com",
+      "maceio.ns.porkbun.com",
+      "curitiba.ns.porkbun.com",
+      "fortaleza.ns.porkbun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)porkbun.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "digitalocean.com",
+    "total_count": 147,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns3.digitalocean.com",
+      "ns2.digitalocean.com",
+      "ns1.digitalocean.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)digitalocean.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "siteground.net",
+    "total_count": 144,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.siteground.net",
+      "ns2.siteground.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)siteground.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "instradns.com",
+    "total_count": 114,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.instradns.com",
+      "ns3.instradns.com",
+      "ns2.instradns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)instradns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dyna-ns.net",
+    "total_count": 112,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.dyna-ns.net",
+      "ns2.dyna-ns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dyna-ns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "logicalisgg.net",
+    "total_count": 108,
+    "provider_hint": "Logicalis Guernsey Ltd",
+    "top_asn": {
+      "asn": 34497,
+      "org": "Logicalis Guernsey Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GG"
+    ],
+    "example_targets": [
+      "mercury.logicalisgg.net",
+      "venus.logicalisgg.net",
+      "ceres.logicalisgg.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)logicalisgg.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "azure-dns.info",
+    "total_count": 99,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4-01.azure-dns.info",
+      "ns4-08.azure-dns.info",
+      "ns4-04.azure-dns.info",
+      "ns4-09.azure-dns.info",
+      "ns4-05.azure-dns.info",
+      "ns4-34.azure-dns.info",
+      "ns4-35.azure-dns.info",
+      "ns4-02.azure-dns.info",
+      "ns4-33.azure-dns.info",
+      "ns4-38.azure-dns.info"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)azure-dns.info(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "azure-dns.com",
+    "total_count": 99,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1-34.azure-dns.com",
+      "ns1-37.azure-dns.com",
+      "ns1-04.azure-dns.com",
+      "ns1-38.azure-dns.com",
+      "ns1-32.azure-dns.com",
+      "ns1-35.azure-dns.com",
+      "ns1-08.azure-dns.com",
+      "ns1-36.azure-dns.com",
+      "ns1-07.azure-dns.com",
+      "ns1-02.azure-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)azure-dns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "azure-dns.net",
+    "total_count": 99,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2-36.azure-dns.net",
+      "ns2-04.azure-dns.net",
+      "ns2-38.azure-dns.net",
+      "ns2-01.azure-dns.net",
+      "ns2-34.azure-dns.net",
+      "ns2-37.azure-dns.net",
+      "ns2-02.azure-dns.net",
+      "ns2-32.azure-dns.net",
+      "ns2-33.azure-dns.net",
+      "ns2-03.azure-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)azure-dns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "azure-dns.org",
+    "total_count": 99,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3-34.azure-dns.org",
+      "ns3-35.azure-dns.org",
+      "ns3-04.azure-dns.org",
+      "ns3-05.azure-dns.org",
+      "ns3-07.azure-dns.org",
+      "ns3-36.azure-dns.org",
+      "ns3-03.azure-dns.org",
+      "ns3-09.azure-dns.org",
+      "ns3-02.azure-dns.org",
+      "ns3-06.azure-dns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)azure-dns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itconsult-dns.co.uk",
+    "total_count": 98,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AT"
+    ],
+    "example_targets": [
+      "d.itconsult-dns.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itconsult-dns.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itconsult-dns.org",
+    "total_count": 98,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AT"
+    ],
+    "example_targets": [
+      "b.itconsult-dns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itconsult-dns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itconsult-dns.biz",
+    "total_count": 98,
+    "provider_hint": "WOODYNET-1",
+    "top_asn": {
+      "asn": 42,
+      "org": "WOODYNET-1"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "e.itconsult-dns.biz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itconsult-dns.biz(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itconsult-dns.net",
+    "total_count": 97,
+    "provider_hint": "I.T. Consultancy Limited",
+    "top_asn": {
+      "asn": 25040,
+      "org": "I.T. Consultancy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JE"
+    ],
+    "example_targets": [
+      "a.itconsult-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itconsult-dns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ukfast.net",
+    "total_count": 94,
+    "provider_hint": "Ans Academy Limited",
+    "top_asn": {
+      "asn": 61323,
+      "org": "Ans Academy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns0.ukfast.net",
+      "ns1.ukfast.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ukfast.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "akam.net",
+    "total_count": 92,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 21342,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL",
+      "US"
+    ],
+    "example_targets": [
+      "a3-64.akam.net",
+      "a13-65.akam.net",
+      "ns1-177.akam.net",
+      "a1-226.akam.net",
+      "a16-66.akam.net",
+      "a7-66.akam.net",
+      "a7-64.akam.net",
+      "a4-67.akam.net",
+      "a22-65.akam.net",
+      "a1-234.akam.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)akam.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "101domain.com",
+    "total_count": 90,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.101domain.com",
+      "ns5.101domain.com",
+      "ns2.101domain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)101domain.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "domaincontrol.com",
+    "total_count": 88,
+    "provider_hint": "Host Europe GmbH",
+    "top_asn": {
+      "asn": 44273,
+      "org": "Host Europe GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns06.domaincontrol.com",
+      "ns18.domaincontrol.com",
+      "ns53.domaincontrol.com",
+      "ns01.domaincontrol.com",
+      "ns28.domaincontrol.com",
+      "ns54.domaincontrol.com",
+      "ns71.domaincontrol.com",
+      "ns26.domaincontrol.com",
+      "ns55.domaincontrol.com",
+      "ns30.domaincontrol.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domaincontrol.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "foreshore.net",
+    "total_count": 81,
+    "provider_hint": "Sure (Guernsey) Limited",
+    "top_asn": {
+      "asn": 8680,
+      "org": "Sure (Guernsey) Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JE",
+      "IM",
+      "GG"
+    ],
+    "example_targets": [
+      "ns2.foreshore.net",
+      "ns3.foreshore.net",
+      "ns1.foreshore.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)foreshore.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "eurodns.com",
+    "total_count": 81,
+    "provider_hint": "NUCDN",
+    "top_asn": {
+      "asn": 23393,
+      "org": "NUCDN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.eurodns.com",
+      "ns2.eurodns.com",
+      "ns3.eurodns.com",
+      "ns4.eurodns.com",
+      "ns-a.eurodns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)eurodns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "spaceship.net",
+    "total_count": 78,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "launch1.spaceship.net",
+      "launch2.spaceship.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)spaceship.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nsone.net",
+    "total_count": 76,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.p08.nsone.net",
+      "dns4.p05.nsone.net",
+      "dns2.p06.nsone.net",
+      "dns2.p02.nsone.net",
+      "dns2.p07.nsone.net",
+      "dns4.p01.nsone.net",
+      "dns1.p06.nsone.net",
+      "dns2.p08.nsone.net",
+      "dns1.p01.nsone.net",
+      "dns3.p05.nsone.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nsone.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "digicertdns.com",
+    "total_count": 69,
+    "provider_hint": "DIGICERT",
+    "top_asn": {
+      "asn": 16552,
+      "org": "DIGICERT"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns10.digicertdns.com",
+      "ns20.digicertdns.com",
+      "ns11.digicertdns.com",
+      "ns21.digicertdns.com",
+      "ns22.digicertdns.com",
+      "ns12.digicertdns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)digicertdns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "digicertdns.net",
+    "total_count": 69,
+    "provider_hint": "DIGICERT",
+    "top_asn": {
+      "asn": 16552,
+      "org": "DIGICERT"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns13.digicertdns.net",
+      "ns24.digicertdns.net",
+      "ns25.digicertdns.net",
+      "ns23.digicertdns.net",
+      "ns14.digicertdns.net",
+      "ns15.digicertdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)digicertdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ovh.net",
+    "total_count": 58,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "dns11.ovh.net",
+      "ns14.ovh.net",
+      "dns10.ovh.net",
+      "dns113.ovh.net",
+      "dns12.ovh.net",
+      "dns14.ovh.net",
+      "dns20.ovh.net",
+      "dns112.ovh.net",
+      "ns12.ovh.net",
+      "ns20.ovh.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ovh.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "trademarkarea.com",
+    "total_count": 57,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns01.trademarkarea.com",
+      "ns02.trademarkarea.com",
+      "ns03.trademarkarea.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)trademarkarea.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude.ch",
+    "total_count": 54,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "nssui.comlaude.ch"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude.ch(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude.co.uk",
+    "total_count": 54,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "nsgbr.comlaude.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "onlydomains.com",
+    "total_count": 54,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.onlydomains.com",
+      "ns2.onlydomains.com",
+      "ns1.onlydomains.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)onlydomains.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude.net",
+    "total_count": 53,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "nsusa.comlaude.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cscdns.uk",
+    "total_count": 50,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "udns2.cscdns.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cscdns.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dreamhost.com",
+    "total_count": 48,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.dreamhost.com",
+      "ns3.dreamhost.com",
+      "ns2.dreamhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dreamhost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "asl.gg",
+    "total_count": 45,
+    "provider_hint": "DIGICERT",
+    "top_asn": {
+      "asn": 16552,
+      "org": "DIGICERT"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.asl.gg",
+      "ns4.asl.gg",
+      "ns2.asl.gg",
+      "ns1.asl.gg",
+      "ns0.asl.gg"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)asl.gg(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dns-parking.com",
+    "total_count": 44,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "orbit.dns-parking.com",
+      "ns2.dns-parking.com",
+      "horizon.dns-parking.com",
+      "ns1.dns-parking.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dns-parking.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wordpress.com",
+    "total_count": 42,
+    "provider_hint": "AUTOMATTIC",
+    "top_asn": {
+      "asn": 2635,
+      "org": "AUTOMATTIC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.wordpress.com",
+      "ns1.wordpress.com",
+      "ns2.wordpress.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wordpress.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dan.com",
+    "total_count": 40,
+    "provider_hint": "Host Europe GmbH",
+    "top_asn": {
+      "asn": 44273,
+      "org": "Host Europe GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.dan.com",
+      "ns1.dan.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dan.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "idp365.net",
+    "total_count": 39,
+    "provider_hint": "Safenames Ltd.",
+    "top_asn": {
+      "asn": 60819,
+      "org": "Safenames Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "dns2.idp365.net",
+      "dns1.idp365.net",
+      "dns3.idp365.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)idp365.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "afternic.com",
+    "total_count": 36,
+    "provider_hint": "Host Europe GmbH",
+    "top_asn": {
+      "asn": 44273,
+      "org": "Host Europe GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.afternic.com",
+      "ns3.afternic.com",
+      "ns1.afternic.com",
+      "ns4.afternic.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)afternic.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "monikerdns.net",
+    "total_count": 36,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns4.monikerdns.net",
+      "ns2.monikerdns.net",
+      "ns3.monikerdns.net",
+      "ns1.monikerdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)monikerdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "awsdns-20.net",
+    "total_count": 33,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns-675.awsdns-20.net",
+      "ns-674.awsdns-20.net",
+      "ns-677.awsdns-20.net",
+      "ns-672.awsdns-20.net",
+      "ns-678.awsdns-20.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)awsdns-20.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.net",
+    "total_count": 33,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "edns1.ultradns.net",
+      "edns7.ultradns.net",
+      "pdns2.ultradns.net",
+      "pdns1.ultradns.net",
+      "pdns109.ultradns.net",
+      "udns1.ultradns.net",
+      "edns2.ultradns.net",
+      "pdns99.ultradns.net",
+      "sdns3.ultradns.net",
+      "pdns77.ultradns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "awsdns-11.co.uk",
+    "total_count": 31,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns-1624.awsdns-11.co.uk",
+      "ns-1628.awsdns-11.co.uk",
+      "ns-1626.awsdns-11.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)awsdns-11.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.org",
+    "total_count": 31,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pdns4.ultradns.org",
+      "sdns3.ultradns.org",
+      "edns7.ultradns.org",
+      "edns2.ultradns.org",
+      "pdns91.ultradns.org",
+      "pdns77.ultradns.org",
+      "pdns99.ultradns.org",
+      "edns1.ultradns.org",
+      "pdns109.ultradns.org",
+      "pdns111.ultradns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "he.net",
+    "total_count": 31,
+    "provider_hint": "HURRICANE",
+    "top_asn": {
+      "asn": 6939,
+      "org": "HURRICANE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.he.net",
+      "ns5.he.net",
+      "ns4.he.net",
+      "ns3.he.net",
+      "ns1.he.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)he.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "awsdns-40.org",
+    "total_count": 30,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns-1348.awsdns-40.org",
+      "ns-1350.awsdns-40.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)awsdns-40.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "awsdns-55.com",
+    "total_count": 30,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns-441.awsdns-55.com",
+      "ns-445.awsdns-55.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)awsdns-55.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "easydns.net",
+    "total_count": 30,
+    "provider_hint": "EDNS",
+    "top_asn": {
+      "asn": 16686,
+      "org": "EDNS"
+    },
+    "pct": 0.933,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "dns2.easydns.net",
+      "nirvana.easydns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)easydns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "easydns.com",
+    "total_count": 30,
+    "provider_hint": "EDNS",
+    "top_asn": {
+      "asn": 16686,
+      "org": "EDNS"
+    },
+    "pct": 0.933,
+    "countries": [
+      "CA",
+      "NL"
+    ],
+    "example_targets": [
+      "dns1.easydns.com",
+      "rush.easydns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)easydns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bluehost.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.bluehost.com",
+      "ns1.bluehost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bluehost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "simplicity.je",
+    "total_count": 30,
+    "provider_hint": "Awareness Software Limited",
+    "top_asn": {
+      "asn": 34931,
+      "org": "Awareness Software Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns2.simplicity.je",
+      "ns1.simplicity.je"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)simplicity.je(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itsfogo.com",
+    "total_count": 30,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns6.itsfogo.com",
+      "dns5.itsfogo.com",
+      "dns3.itsfogo.com",
+      "dns4.itsfogo.com",
+      "dns2.itsfogo.com",
+      "dns1.itsfogo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itsfogo.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ui-dns.de",
+    "total_count": 28,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 0.982,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns1045.ui-dns.de",
+      "ns-mam.ui-dns.de",
+      "ns1031.ui-dns.de"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ui-dns.de(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ui-dns.org",
+    "total_count": 28,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 0.982,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns1045.ui-dns.org",
+      "ns-mam.ui-dns.org",
+      "ns1057.ui-dns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ui-dns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ui-dns.biz",
+    "total_count": 28,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 0.982,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns-mam.ui-dns.biz",
+      "ns1123.ui-dns.biz",
+      "ns1045.ui-dns.biz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ui-dns.biz(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ui-dns.com",
+    "total_count": 28,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 0.982,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns1085.ui-dns.com",
+      "ns1045.ui-dns.com",
+      "ns-mam.ui-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ui-dns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cctld.com",
+    "total_count": 28,
+    "provider_hint": "Misaka Network, Inc.",
+    "top_asn": {
+      "asn": 50069,
+      "org": "Misaka Network, Inc."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.cctld.com",
+      "ns2.cctld.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cctld.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "serverstack.com",
+    "total_count": 28,
+    "provider_hint": "SERVERSTACK-ASN",
+    "top_asn": {
+      "asn": 46652,
+      "org": "SERVERSTACK-ASN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL",
+      "US"
+    ],
+    "example_targets": [
+      "ns1.serverstack.com",
+      "ns4.serverstack.com",
+      "ns3.serverstack.com",
+      "ns2.serverstack.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)serverstack.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hostpoint.ch",
+    "total_count": 27,
+    "provider_hint": "Hostpoint AG",
+    "top_asn": {
+      "asn": 29097,
+      "org": "Hostpoint AG"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CH"
+    ],
+    "example_targets": [
+      "ns.hostpoint.ch",
+      "ns3.hostpoint.ch",
+      "ns2.hostpoint.ch"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hostpoint.ch(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "domainnetwork.se",
+    "total_count": 26,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.domainnetwork.se",
+      "ns.domainnetwork.se"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domainnetwork.se(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "atom.com",
+    "total_count": 26,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.atom.com",
+      "ns2.atom.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)atom.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "alidns.com",
+    "total_count": 26,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 0.923,
+    "countries": [
+      "CN",
+      "US",
+      "HK",
+      "SG",
+      "DE"
+    ],
+    "example_targets": [
+      "vip8.alidns.com",
+      "ns7.alidns.com",
+      "ns8.alidns.com",
+      "vip7.alidns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)alidns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.com",
+    "total_count": 26,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "edns2.ultradns.com",
+      "edns1.ultradns.com",
+      "sdns3.ultradns.com",
+      "pdns111.ultradns.com",
+      "edns7.ultradns.com",
+      "pdns99.ultradns.com",
+      "pdns91.ultradns.com",
+      "pdns109.ultradns.com",
+      "pdns77.ultradns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ultradns.biz",
+    "total_count": 26,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "sdns3.ultradns.biz",
+      "edns1.ultradns.biz",
+      "pdns99.ultradns.biz",
+      "pdns111.ultradns.biz",
+      "edns2.ultradns.biz",
+      "edns7.ultradns.biz",
+      "pdns91.ultradns.biz",
+      "pdns109.ultradns.biz",
+      "pdns77.ultradns.biz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ultradns.biz(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "easydns.ca",
+    "total_count": 25,
+    "provider_hint": "EDNS",
+    "top_asn": {
+      "asn": 16686,
+      "org": "EDNS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "dns3.easydns.ca"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)easydns.ca(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hsbc.uk",
+    "total_count": 24,
+    "provider_hint": "ORACLE-BMC-31898",
+    "top_asn": {
+      "asn": 31898,
+      "org": "ORACLE-BMC-31898"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns20.hsbc.uk",
+      "ns21.hsbc.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hsbc.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hsbc.net",
+    "total_count": 24,
+    "provider_hint": "ORACLE-BMC-31898",
+    "top_asn": {
+      "asn": 31898,
+      "org": "ORACLE-BMC-31898"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns20.hsbc.net",
+      "ns21.hsbc.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hsbc.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hsbc.com",
+    "total_count": 24,
+    "provider_hint": "HSBC Bank plc",
+    "top_asn": {
+      "asn": 20705,
+      "org": "HSBC Bank plc"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "example_targets": [
+      "ns3.hsbc.com",
+      "ns6.hsbc.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hsbc.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "supercp.com",
+    "total_count": 24,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.supercp.com",
+      "ns2.supercp.com",
+      "ns1.supercp.com",
+      "ns4.supercp.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)supercp.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "a2hosting.com",
+    "total_count": 24,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.a2hosting.com",
+      "ns2.a2hosting.com",
+      "ns3.a2hosting.com",
+      "ns4.a2hosting.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)a2hosting.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ipmanagerinc.net",
+    "total_count": 23,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "dns2.ipmanagerinc.net",
+      "ns1.ipmanagerinc.net",
+      "dns3.ipmanagerinc.net",
+      "ns3.ipmanagerinc.net",
+      "ns5.ipmanagerinc.net",
+      "ns2.ipmanagerinc.net",
+      "dns1.ipmanagerinc.net",
+      "ns4.ipmanagerinc.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ipmanagerinc.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hostns.io",
+    "total_count": 22,
+    "provider_hint": "Hydra Communications Ltd",
+    "top_asn": {
+      "asn": 25369,
+      "org": "Hydra Communications Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns1.hostns.io",
+      "ns1.da.hostns.io",
+      "ns2.hostns.io",
+      "ns2.da.hostns.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hostns.io(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "udag.net",
+    "total_count": 20,
+    "provider_hint": "Fasthosts Internet Limited",
+    "top_asn": {
+      "asn": 15418,
+      "org": "Fasthosts Internet Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns.udag.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)udag.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "udag.de",
+    "total_count": 20,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns.udag.de"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)udag.de(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "udag.org",
+    "total_count": 20,
+    "provider_hint": "Fasthosts Internet Limited",
+    "top_asn": {
+      "asn": 15418,
+      "org": "Fasthosts Internet Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns.udag.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)udag.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dyn.com",
+    "total_count": 20,
+    "provider_hint": "ORACLE-BMC-31898",
+    "top_asn": {
+      "asn": 31898,
+      "org": "ORACLE-BMC-31898"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4153.dns.dyn.com",
+      "ns2177.dns.dyn.com",
+      "ns3139.dns.dyn.com",
+      "ns4152.dns.dyn.com",
+      "ns2142.dns.dyn.com",
+      "ns1148.dns.dyn.com",
+      "ns3161.dns.dyn.com",
+      "ns3132.dns.dyn.com",
+      "ns2136.dns.dyn.com",
+      "ns4185.dns.dyn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dyn.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "transip.eu",
+    "total_count": 19,
+    "provider_hint": "Signet B.V.",
+    "top_asn": {
+      "asn": 20857,
+      "org": "Signet B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "ns2.transip.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)transip.eu(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "transip.net",
+    "total_count": 19,
+    "provider_hint": "Signet B.V.",
+    "top_asn": {
+      "asn": 20857,
+      "org": "Signet B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "ns0.transip.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)transip.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "transip.nl",
+    "total_count": 19,
+    "provider_hint": "Signet B.V.",
+    "top_asn": {
+      "asn": 20857,
+      "org": "Signet B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "ns1.transip.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)transip.nl(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sure.com",
+    "total_count": 19,
+    "provider_hint": "Sure (Guernsey) Limited",
+    "top_asn": {
+      "asn": 8680,
+      "org": "Sure (Guernsey) Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GG",
+      "IM",
+      "JE"
+    ],
+    "example_targets": [
+      "ns1.sure.com",
+      "ns2.sure.com",
+      "ns4.sure.com",
+      "ns3.sure.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sure.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zoneedit.com",
+    "total_count": 17,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 0.765,
+    "countries": [
+      "US",
+      "DE",
+      "GB",
+      "SG"
+    ],
+    "example_targets": [
+      "ns8.zoneedit.com",
+      "ns9.zoneedit.com",
+      "ns3.zoneedit.com",
+      "ns13.zoneedit.com",
+      "ns7.zoneedit.com",
+      "ns12.zoneedit.com",
+      "dns3.zoneedit.com",
+      "ns4.zoneedit.com",
+      "dns2.zoneedit.com",
+      "dns1.zoneedit.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zoneedit.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude-dns.com",
+    "total_count": 16,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.comlaude-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude-dns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude-dns.co.uk",
+    "total_count": 16,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns3.comlaude-dns.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude-dns.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude-dns.eu",
+    "total_count": 16,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns4.comlaude-dns.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude-dns.eu(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "comlaude-dns.net",
+    "total_count": 16,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns2.comlaude-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)comlaude-dns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "inwx.de",
+    "total_count": 16,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AT"
+    ],
+    "example_targets": [
+      "ns.inwx.de",
+      "ns2.inwx.de"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)inwx.de(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dns-servers.eu",
+    "total_count": 16,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE",
+      "US"
+    ],
+    "example_targets": [
+      "4.dns-servers.eu",
+      "2.dns-servers.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dns-servers.eu(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mainnameserver.com",
+    "total_count": 16,
+    "provider_hint": "Heart Internet limited",
+    "top_asn": {
+      "asn": 20738,
+      "org": "Heart Internet limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns2.mainnameserver.com",
+      "ns1.mainnameserver.com",
+      "ns.mainnameserver.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mainnameserver.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "4ns.co.uk",
+    "total_count": 16,
+    "provider_hint": "R.M. Wotton T/A G-Net Online",
+    "top_asn": {
+      "asn": 41400,
+      "org": "R.M. Wotton T/A G-Net Online"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns10.4ns.co.uk",
+      "ns9.4ns.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)4ns.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "enixns.com",
+    "total_count": 16,
+    "provider_hint": "Enix Ltd",
+    "top_asn": {
+      "asn": 52148,
+      "org": "Enix Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns2.enixns.com",
+      "ns3.enixns.com",
+      "ns1.enixns.com",
+      "ns4.enixns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)enixns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "enrapture.cloud",
+    "total_count": 16,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB",
+      "US",
+      "BE",
+      "DE"
+    ],
+    "example_targets": [
+      "ns4.enrapture.cloud",
+      "ns3.enrapture.cloud",
+      "ns1.enrapture.cloud",
+      "ns2.enrapture.cloud"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)enrapture.cloud(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hostingww.com",
+    "total_count": 15,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.hostingww.com",
+      "ns3.hostingww.com",
+      "ns2.hostingww.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hostingww.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "netronics.at",
+    "total_count": 15,
+    "provider_hint": "conova communications GmbH",
+    "top_asn": {
+      "asn": 5404,
+      "org": "conova communications GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AT"
+    ],
+    "example_targets": [
+      "ns23.netronics.at",
+      "ns22.netronics.at",
+      "ns21.netronics.at"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)netronics.at(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "no-ip.com",
+    "total_count": 15,
+    "provider_hint": "VITAL-DNS",
+    "top_asn": {
+      "asn": 29997,
+      "org": "VITAL-DNS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.no-ip.com",
+      "ns5.no-ip.com",
+      "ns4.no-ip.com",
+      "ns3.no-ip.com",
+      "ns1.no-ip.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)no-ip.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mtgsy.co.uk",
+    "total_count": 14,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "example_targets": [
+      "dns2.mtgsy.co.uk",
+      "dns1.mtgsy.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mtgsy.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sawsells.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.sawsells.com",
+      "ns2.sawsells.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sawsells.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "iptwins.net",
+    "total_count": 14,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "ns2.iptwins.net",
+      "ns1.iptwins.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)iptwins.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "advert-int-ns.com",
+    "total_count": 14,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns1.advert-int-ns.com",
+      "ns2.advert-int-ns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)advert-int-ns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1and1.co.uk",
+    "total_count": 14,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns67.1and1.co.uk",
+      "ns33.1and1.co.uk",
+      "ns68.1and1.co.uk",
+      "ns59.1and1.co.uk",
+      "ns60.1and1.co.uk",
+      "ns34.1and1.co.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1and1.co.uk(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "share-dns.net",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "b.share-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)share-dns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "share-dns.com",
+    "total_count": 13,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "a.share-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)share-dns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brandshelter.com",
+    "total_count": 13,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns1.brandshelter.com",
+      "ns01.brandshelter.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brandshelter.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brandshelter.net",
+    "total_count": 13,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns4.brandshelter.net",
+      "ns02.brandshelter.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brandshelter.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "safenames.net",
+    "total_count": 13,
+    "provider_hint": "Safenames Ltd.",
+    "top_asn": {
+      "asn": 60819,
+      "org": "Safenames Ltd."
+    },
+    "pct": 0.846,
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "example_targets": [
+      "dns2.safenames.net",
+      "pdns1.safenames.net",
+      "pdns2.safenames.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)safenames.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "safenames.org",
+    "total_count": 13,
+    "provider_hint": "Safenames Ltd.",
+    "top_asn": {
+      "asn": 60819,
+      "org": "Safenames Ltd."
+    },
+    "pct": 0.846,
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "example_targets": [
+      "pdns4.safenames.org",
+      "pdns3.safenames.org",
+      "dns3.safenames.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)safenames.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "justhost.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.justhost.com",
+      "ns1.justhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)justhost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "messagingengine.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.messagingengine.com",
+      "ns1.messagingengine.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)messagingengine.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namecity.com",
+    "total_count": 12,
+    "provider_hint": "Iomart Cloud Services Limited",
+    "top_asn": {
+      "asn": 20860,
+      "org": "Iomart Cloud Services Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns2.namecity.com",
+      "ns1.namecity.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namecity.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dns.ie",
+    "total_count": 12,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "AT"
+    ],
+    "example_targets": [
+      "b.dns.ie",
+      "a.dns.ie"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dns.ie(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "opalstack.com",
+    "total_count": 12,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB",
+      "DE"
+    ],
+    "example_targets": [
+      "ns1.de.opalstack.com",
+      "ns3.de.opalstack.com",
+      "ns2.de.opalstack.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)opalstack.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "facebook.com",
+    "total_count": 12,
+    "provider_hint": "FACEBOOK",
+    "top_asn": {
+      "asn": 32934,
+      "org": "FACEBOOK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IL",
+      "US"
+    ],
+    "example_targets": [
+      "b.ns.facebook.com",
+      "d.ns.facebook.com",
+      "c.ns.facebook.com",
+      "a.ns.facebook.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)facebook.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "oraclecloud.net",
+    "total_count": 12,
+    "provider_hint": "ORACLE-BMC-31898",
+    "top_asn": {
+      "asn": 31898,
+      "org": "ORACLE-BMC-31898"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.p201.dns.oraclecloud.net",
+      "ns1.p201.dns.oraclecloud.net",
+      "ns2.p201.dns.oraclecloud.net",
+      "ns4.p201.dns.oraclecloud.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)oraclecloud.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hpdns.net",
+    "total_count": 12,
+    "provider_hint": "Enix Ltd",
+    "top_asn": {
+      "asn": 52148,
+      "org": "Enix Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns1.hpdns.net",
+      "ns4.hpdns.net",
+      "ns2.hpdns.net",
+      "ns3.hpdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hpdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mysecurecloudhost.com",
+    "total_count": 12,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.mysecurecloudhost.com",
+      "ns2.mysecurecloudhost.com",
+      "ns4.mysecurecloudhost.com",
+      "ns3.mysecurecloudhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mysecurecloudhost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nokia.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns5.nokia.com",
+      "ns.nokia.com",
+      "ns3.nokia.com",
+      "ns4.nokia.com",
+      "ns6.nokia.com",
+      "ns2.nokia.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nokia.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "moodys.com",
+    "total_count": 12,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.moodys.com",
+      "ns2.moodys.com",
+      "ns4.moodys.com",
+      "ns5.moodys.com",
+      "ns6.moodys.com",
+      "ns1.moodys.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)moodys.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brandshelter.us",
+    "total_count": 11,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns5.brandshelter.us"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brandshelter.us(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brandshelter.de",
+    "total_count": 11,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns2.brandshelter.de"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brandshelter.de(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brandshelter.info",
+    "total_count": 11,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns3.brandshelter.info"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brandshelter.info(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bb-online.net",
+    "total_count": 11,
+    "provider_hint": "BB-Online UK Ltd",
+    "top_asn": {
+      "asn": 212217,
+      "org": "BB-Online UK Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns1.bb-online.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bb-online.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bb-online.info",
+    "total_count": 11,
+    "provider_hint": "Buy Limited",
+    "top_asn": {
+      "asn": 210727,
+      "org": "Buy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns3.bb-online.info"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bb-online.info(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bb-online.org",
+    "total_count": 11,
+    "provider_hint": "BB-Online UK Ltd",
+    "top_asn": {
+      "asn": 212217,
+      "org": "BB-Online UK Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns2.bb-online.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bb-online.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "safenames.com",
+    "total_count": 11,
+    "provider_hint": "Safenames Ltd.",
+    "top_asn": {
+      "asn": 60819,
+      "org": "Safenames Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "dns1.safenames.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)safenames.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1and1-dns.com",
+    "total_count": 11,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns-uk.1and1-dns.com",
+      "ns-us.1and1-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1and1-dns.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1and1-dns.org",
+    "total_count": 11,
+    "provider_hint": "IONOS SE",
+    "top_asn": {
+      "asn": 8560,
+      "org": "IONOS SE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns-us.1and1-dns.org",
+      "ns-uk.1and1-dns.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1and1-dns.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "lexsynergy.net",
+    "total_count": 10,
+    "provider_hint": "Netnod AB",
+    "top_asn": {
+      "asn": 8674,
+      "org": "Netnod AB"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SE"
+    ],
+    "example_targets": [
+      "ns1.lexsynergy.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)lexsynergy.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "lexsynergy.info",
+    "total_count": 10,
+    "provider_hint": "Rackspace Ltd.",
+    "top_asn": {
+      "asn": 15395,
+      "org": "Rackspace Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns3.lexsynergy.info"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)lexsynergy.info(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "lexsynergy.us",
+    "total_count": 10,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.lexsynergy.us"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)lexsynergy.us(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namecheaphosting.com",
+    "total_count": 10,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns2.namecheaphosting.com",
+      "dns1.namecheaphosting.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namecheaphosting.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "website.org",
+    "total_count": 10,
+    "provider_hint": "Hetzner Online GmbH",
+    "top_asn": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE",
+      "FI"
+    ],
+    "example_targets": [
+      "ns1.website.org",
+      "ns2.website.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)website.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bladns.net",
+    "total_count": 10,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "ns2.bladns.net",
+      "ns1.bladns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bladns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xssl.net",
+    "total_count": 10,
+    "provider_hint": "Iomart Cloud Services Limited",
+    "top_asn": {
+      "asn": 20860,
+      "org": "Iomart Cloud Services Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ns1.xssl.net",
+      "ns2.xssl.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xssl.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "imagematters.xyz",
+    "total_count": 10,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns1.imagematters.xyz",
+      "ns2.imagematters.xyz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)imagematters.xyz(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jtibs.net",
+    "total_count": 10,
+    "provider_hint": "JTGlobal",
+    "top_asn": {
+      "asn": 8681,
+      "org": "JTGlobal"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JE"
+    ],
+    "example_targets": [
+      "ns1.jtibs.net",
+      "ns2.jtibs.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jtibs.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "domainbird.net",
+    "total_count": 10,
+    "provider_hint": "ipcom GmbH",
+    "top_asn": {
+      "asn": 1921,
+      "org": "ipcom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE"
+    ],
+    "example_targets": [
+      "ns3.domainbird.net",
+      "ns4.domainbird.net",
+      "ns2.domainbird.net",
+      "ns1.domainbird.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domainbird.net(?:\\.|$)"
+    ]
+  }
+]
