@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "imyrs.net",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "cf.imyrs.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)imyrs\\.net(?:\\.|$)",
+      "(?:^|\\.)imyrs[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
