@@ -1,0 +1,111 @@
+[
+  {
+    "sld": "djym55100.com",
+    "total_count": 21,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "site.djym55100.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)djym55100\\.com(?:\\.|$)",
+      "(?:^|\\.)djym55100[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mkton.com",
+    "total_count": 20,
+    "provider_hint": "ASN-CXA-ALL-CCI-22773-RDC",
+    "top_asn": {
+      "asn": 22773,
+      "org": "ASN-CXA-ALL-CCI-22773-RDC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "venta.mkton.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mkton\\.com(?:\\.|$)",
+      "(?:^|\\.)mkton[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "eens.eu",
+    "total_count": 20,
+    "provider_hint": "LLC Baxet",
+    "top_asn": {
+      "asn": 49392,
+      "org": "LLC Baxet"
+    },
+    "pct": 1.0,
+    "countries": [
+      "RU"
+    ],
+    "example_targets": [
+      "nonoedge.eens.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)eens\\.eu(?:\\.|$)",
+      "(?:^|\\.)eens[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ak99999n.cc",
+    "total_count": 15,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "588e21ad.ak99999n.cc",
+      "64b0cf56.ak99999n.cc",
+      "633da3cb.ak99999n.cc",
+      "81caa0af.ak99999n.cc",
+      "39b58437.ak99999n.cc",
+      "6812c0dd.ak99999n.cc",
+      "5699a85a.ak99999n.cc",
+      "5c6ce368.ak99999n.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ak99999n\\.cc(?:\\.|$)",
+      "(?:^|\\.)ak99999n[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 11,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "982j3nkr.zx770.com",
+      "sa548nkm.zx770.com",
+      "pj5e4aru.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
