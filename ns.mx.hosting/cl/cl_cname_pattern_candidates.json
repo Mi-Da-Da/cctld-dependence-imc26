@@ -1,0 +1,112 @@
+[
+  {
+    "sld": "xblgxfc.com",
+    "total_count": 42,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "poloc.xblgxfc.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xblgxfc\\.com(?:\\.|$)",
+      "(?:^|\\.)xblgxfc[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "myshopify.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "shops.myshopify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)myshopify\\.com(?:\\.|$)",
+      "(?:^|\\.)myshopify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bodis.com",
+    "total_count": 21,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "11776.BODIS.com",
+      "86817.bodis.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 17,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ae5ums6h.aisdun-cname.com",
+      "jv5hn4e9.aisdun-cname.com",
+      "39tkcpu4.aisdun-cname.com",
+      "85gbvjx6.aisdun-cname.com",
+      "jgswq2nv.aisdun-cname.com",
+      "5hyebrxv.aisdun-cname.com",
+      "5867ry3d.aisdun-cname.com",
+      "a73rk869.aisdun-cname.com",
+      "qra92w37.aisdun-cname.com",
+      "kgc93xap.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 10,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ghs.google.com",
+      "ASPMX.L.GOOGLE.COM"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google\\.com(?:\\.|$)",
+      "(?:^|\\.)google[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
