@@ -1,0 +1,82 @@
+[
+  {
+    "sld": "namdan.ir",
+    "total_count": 63,
+    "provider_hint": "Pars Parva System LLC",
+    "top_asn": {
+      "asn": 60631,
+      "org": "Pars Parva System LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IR"
+    ],
+    "example_targets": [
+      "namdan.ir"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namdan\\.ir(?:\\.|$)",
+      "(?:^|\\.)namdan[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bodis.com",
+    "total_count": 30,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "11776.BODIS.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "domainhold.ir",
+    "total_count": 29,
+    "provider_hint": "Pars Parva System LLC",
+    "top_asn": {
+      "asn": 60631,
+      "org": "Pars Parva System LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IR"
+    ],
+    "example_targets": [
+      "domainhold.ir"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domainhold\\.ir(?:\\.|$)",
+      "(?:^|\\.)domainhold[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "la4.ir",
+    "total_count": 16,
+    "provider_hint": "Pars Parva System LLC",
+    "top_asn": {
+      "asn": 60631,
+      "org": "Pars Parva System LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IR"
+    ],
+    "example_targets": [
+      "la4.ir"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)la4\\.ir(?:\\.|$)",
+      "(?:^|\\.)la4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
