@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "vhostgo.com",
+    "total_count": 20,
+    "provider_hint": "West263 International Limited",
+    "top_asn": {
+      "asn": 139021,
+      "org": "West263 International Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "freeurl.vhostgo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vhostgo\\.com(?:\\.|$)",
+      "(?:^|\\.)vhostgo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
