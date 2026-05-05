@@ -1,0 +1,130 @@
+[
+  {
+    "sld": "berdu.id",
+    "total_count": 18,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "luwak.berdu.id",
+      "oreo.berdu.id",
+      "matcha.berdu.id",
+      "bento.berdu.id",
+      "sushi.berdu.id",
+      "nugget.berdu.id",
+      "pancake.berdu.id"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)berdu\\.id(?:\\.|$)",
+      "(?:^|\\.)berdu[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "orionxyz.com",
+    "total_count": 17,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "lbvwheto.orionxyz.com",
+      "wqblzzgy.orionxyz.com",
+      "orrifoxo.orionxyz.com",
+      "qbughkqf.orionxyz.com",
+      "mleikxls.orionxyz.com",
+      "bioqyptq.orionxyz.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)orionxyz\\.com(?:\\.|$)",
+      "(?:^|\\.)orionxyz[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "byteshieldcdn.com",
+    "total_count": 15,
+    "provider_hint": "ZEN-ECN",
+    "top_asn": {
+      "asn": 21859,
+      "org": "ZEN-ECN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "89924dd3.spb24.id.cname.byteshieldcdn.com",
+      "c326bcd1.spb54.id.cname.byteshieldcdn.com",
+      "ee638488.spb41.id.cname.byteshieldcdn.com",
+      "302f7f00.spb85.id.cname.byteshieldcdn.com",
+      "cb7a845b.spb76.id.cname.byteshieldcdn.com",
+      "50440401.spb66.id.cname.byteshieldcdn.com",
+      "d6403915.spb36.id.cname.byteshieldcdn.com",
+      "5befbaae.spb23.id.cname.byteshieldcdn.com",
+      "22890250.spb59.id.cname.byteshieldcdn.com",
+      "872a3c46.spb11.id.cname.byteshieldcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)byteshieldcdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2bhxcdn.com",
+    "total_count": 13,
+    "provider_hint": "BGPNET PTE. LTD.",
+    "top_asn": {
+      "asn": 4907,
+      "org": "BGPNET PTE. LTD."
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "6bnew.2bhxcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2bhxcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)2bhxcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "redirect.center",
+    "total_count": 11,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "docky.ly.opts-slash.park.opts-slash.prison.id.opts-uri.opts-https.redirect.center",
+      "quick.co.id.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.scene.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.herbalife.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.future.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.corona.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.grape.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.forest.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.vote.id.opts-uri.opts-https.redirect.center",
+      "docky.ly.opts-slash.park.opts-slash.sneaker.id.opts-uri.opts-https.redirect.center"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)redirect\\.center(?:\\.|$)",
+      "(?:^|\\.)redirect[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
