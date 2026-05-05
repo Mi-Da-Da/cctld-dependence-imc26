@@ -1,0 +1,52 @@
+[
+  {
+    "sld": "cloudflare.com",
+    "total_count": 64,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 0.766,
+    "countries": [
+      null,
+      "Unknown"
+    ],
+    "example_targets": [
+      "gerald.ns.cloudflare.com",
+      "isla.ns.cloudflare.com",
+      "amir.ns.cloudflare.com",
+      "ryleigh.ns.cloudflare.com",
+      "naomi.ns.cloudflare.com",
+      "elliott.ns.cloudflare.com",
+      "sharon.ns.cloudflare.com",
+      "achiel.ns.cloudflare.com",
+      "nolan.ns.cloudflare.com",
+      "rex.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "101domain.com",
+    "total_count": 22,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.101domain.com",
+      "ns5.101domain.com",
+      "ns2.101domain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)101domain.com(?:\\.|$)"
+    ]
+  }
+]
