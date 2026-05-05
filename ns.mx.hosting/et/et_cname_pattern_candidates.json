@@ -1,0 +1,21 @@
+[
+  {
+    "sld": "nr-data.net",
+    "total_count": 11,
+    "provider_hint": "FASTLY",
+    "top_asn": {
+      "asn": 54113,
+      "org": "FASTLY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "bam.cell.nr-data.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nr\\-data\\.net(?:\\.|$)"
+    ]
+  }
+]
