@@ -1,0 +1,42 @@
+[
+  {
+    "sld": "nidoma.com",
+    "total_count": 47,
+    "provider_hint": "Aruba S.p.A.",
+    "top_asn": {
+      "asn": 31034,
+      "org": "Aruba S.p.A."
+    },
+    "pct": 1.0,
+    "countries": [
+      "IT"
+    ],
+    "example_targets": [
+      "parking.nidoma.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nidoma\\.com(?:\\.|$)",
+      "(?:^|\\.)nidoma[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cname66.com",
+    "total_count": 32,
+    "provider_hint": "ANTI-DDOS",
+    "top_asn": {
+      "asn": 35251,
+      "org": "ANTI-DDOS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "tianxia.cname66.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cname66\\.com(?:\\.|$)",
+      "(?:^|\\.)cname66[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
