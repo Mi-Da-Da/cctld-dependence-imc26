@@ -1,0 +1,102 @@
+[
+  {
+    "sld": "belbone.be",
+    "total_count": 53,
+    "provider_hint": "Proximus NV",
+    "top_asn": {
+      "asn": 5432,
+      "org": "Proximus NV"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BE"
+    ],
+    "example_targets": [
+      "ntp2.belbone.be"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)belbone\\.be(?:\\.|$)",
+      "(?:^|\\.)belbone[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gopremium.net",
+    "total_count": 45,
+    "provider_hint": "Stichting DIGI NL",
+    "top_asn": {
+      "asn": 206281,
+      "org": "Stichting DIGI NL"
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "parked.gopremium.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gopremium\\.net(?:\\.|$)",
+      "(?:^|\\.)gopremium[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jobewinkel.nl",
+    "total_count": 12,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "jobewinkel.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jobewinkel\\.nl(?:\\.|$)",
+      "(?:^|\\.)jobewinkel[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "albertdevries.nl",
+    "total_count": 12,
+    "provider_hint": "CLDIN B.V.",
+    "top_asn": {
+      "asn": 48635,
+      "org": "CLDIN B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "aLBERTDeVriES.Nl",
+      "albertdevries.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)albertdevries\\.nl(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pubmarket.be",
+    "total_count": 10,
+    "provider_hint": "Easyhost BVBA",
+    "top_asn": {
+      "asn": 28747,
+      "org": "Easyhost BVBA"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BE"
+    ],
+    "example_targets": [
+      "www.pubmarket.be"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pubmarket\\.be(?:\\.|$)",
+      "(?:^|\\.)pubmarket[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
