@@ -1,0 +1,71 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 18,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "herokudns.com",
+    "total_count": 15,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "murmuring-firefly-p4wxmzqiqg2mdpqi4cxzp9br.herokudns.com",
+      "polar-camellia-yzppuzxycsyd88wc3qnfjb8l.herokudns.com",
+      "shrouded-panther-zjbg1qzuy68e60l9cl6i251v.herokudns.com",
+      "tropical-parsnip-1xb6twugk9ger5w51mls2v8h.herokudns.com",
+      "general-brushlands-fvrdtw1fkc7mwr1imyjcesot.herokudns.com",
+      "darwinian-lark-1dcpaw82hkk2b8ov2dzf8o3h.herokudns.com",
+      "fitted-silverfish-orz4ggwp42h588egcsc4i378.herokudns.com",
+      "crystalline-wave-9bup37wfhsdavmyb3r0zwhsk.herokudns.com",
+      "fitted-bat-rwlqissly1tuqjk1xgc10aqv.herokudns.com",
+      "tapered-retreat-zye7fg87auh70wlhxcurza7j.herokudns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)herokudns\\.com(?:\\.|$)",
+      "(?:^|\\.)herokudns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "92kun.com",
+    "total_count": 14,
+    "provider_hint": "Eons Data Communications Limited",
+    "top_asn": {
+      "asn": 138997,
+      "org": "Eons Data Communications Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "zonghe168.92kun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)92kun\\.com(?:\\.|$)",
+      "(?:^|\\.)92kun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
