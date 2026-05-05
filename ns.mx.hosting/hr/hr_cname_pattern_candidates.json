@@ -1,0 +1,24 @@
+[
+  {
+    "sld": "whjxp.com",
+    "total_count": 16,
+    "provider_hint": "ENZUINC",
+    "top_asn": {
+      "asn": 18978,
+      "org": "ENZUINC"
+    },
+    "pct": 0.75,
+    "countries": [
+      "US",
+      "HK"
+    ],
+    "example_targets": [
+      "hr.whjxp.com",
+      "mi.whjxp.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)whjxp\\.com(?:\\.|$)",
+      "(?:^|\\.)whjxp[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
