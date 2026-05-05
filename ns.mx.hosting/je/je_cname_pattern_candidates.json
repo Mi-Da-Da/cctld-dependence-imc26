@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 29,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
