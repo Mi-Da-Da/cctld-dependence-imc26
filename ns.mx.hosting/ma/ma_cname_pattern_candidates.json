@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "outgedns770.com",
+    "total_count": 23,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "xt_skip.outgedns770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns770\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
