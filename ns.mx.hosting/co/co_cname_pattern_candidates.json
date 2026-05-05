@@ -1,0 +1,4561 @@
+[
+  {
+    "sld": "keilao.com",
+    "total_count": 5305,
+    "provider_hint": "IT7NET",
+    "top_asn": {
+      "asn": 25820,
+      "org": "IT7NET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "cdn-http-ok.ns.keilao.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)keilao\\.com(?:\\.|$)",
+      "(?:^|\\.)keilao[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yuncdn.eu.org",
+    "total_count": 2310,
+    "provider_hint": "PEG-SV",
+    "top_asn": {
+      "asn": 54600,
+      "org": "PEG-SV"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "104233239201.yuncdn.eu.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yuncdn\\.eu\\.org(?:\\.|$)",
+      "(?:^|\\.)yuncdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "go.co",
+    "total_count": 1965,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pr-suspensions.go.co"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)go\\.co(?:\\.|$)",
+      "(?:^|\\.)go[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "taomsvpfm8z0.com",
+    "total_count": 1709,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "zhegnzheng.taomsvpfm8z0.com",
+      "zzz-2.taomsvpfm8z0.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)taomsvpfm8z0\\.com(?:\\.|$)",
+      "(?:^|\\.)taomsvpfm8z0[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns505.com",
+    "total_count": 1177,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "tg-skip_5.outgedns505.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns505\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns505[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnfdnsddd.com",
+    "total_count": 1157,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "cname.dnfdnsddd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnfdnsddd\\.com(?:\\.|$)",
+      "(?:^|\\.)dnfdnsddd[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jog2798q68sjchze.app",
+    "total_count": 1043,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ff02.jog2798q68sjchze.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jog2798q68sjchze\\.app(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sdfgxvbsedfrg.com",
+    "total_count": 1006,
+    "provider_hint": "PEG-HK",
+    "top_asn": {
+      "asn": 398478,
+      "org": "PEG-HK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "106.sdfgxvbsedfrg.com",
+      "105.sdfgxvbsedfrg.com",
+      "101.sdfgxvbsedfrg.com",
+      "104.sdfgxvbsedfrg.com",
+      "102.sdfgxvbsedfrg.com",
+      "107.sdfgxvbsedfrg.com",
+      "108.sdfgxvbsedfrg.com",
+      "103.sdfgxvbsedfrg.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sdfgxvbsedfrg\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fwbsjnakjabdname.com",
+    "total_count": 977,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "spjmhi.cache.fwbsjnakjabdname.com",
+      "kkdhif.cache.fwbsjnakjabdname.com",
+      "zfwmyi.cdn.fwbsjnakjabdname.com",
+      "wyjkqg.cdn.fwbsjnakjabdname.com",
+      "ukfeis.files.fwbsjnakjabdname.com",
+      "argsit.media.fwbsjnakjabdname.com",
+      "abfnbp.cdn.fwbsjnakjabdname.com",
+      "dddnoq.media.fwbsjnakjabdname.com",
+      "lcrgat.cache.fwbsjnakjabdname.com",
+      "nhnxyw.media.fwbsjnakjabdname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fwbsjnakjabdname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gvip.nl",
+    "total_count": 877,
+    "provider_hint": "Kaopu Cloud HK Limited",
+    "top_asn": {
+      "asn": 138915,
+      "org": "Kaopu Cloud HK Limited"
+    },
+    "pct": 0.798,
+    "countries": [
+      "PH",
+      "HK",
+      "RU",
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "hj.gvip.nl",
+      "wynn204.gvip.nl",
+      "tieseven.gvip.nl",
+      "tie.gvip.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gvip\\.nl(?:\\.|$)",
+      "(?:^|\\.)gvip[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hx6699cdn.com",
+    "total_count": 868,
+    "provider_hint": "POWER LINE DATACENTER",
+    "top_asn": {
+      "asn": 132839,
+      "org": "POWER LINE DATACENTER"
+    },
+    "pct": 1.0,
+    "countries": [
+      "ZA",
+      "US"
+    ],
+    "example_targets": [
+      "hx5btg169nb.hx6699cdn.com",
+      "ioabtgzycki.hx6699cdn.com",
+      "av5btgg4nbcy.hx6699cdn.com",
+      "asfdab3543adfa.hx6699cdn.com",
+      "hxabtg168nps.hx6699cdn.com",
+      "fyabtgvc39lgga.hx6699cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hx6699cdn\\.com(?:\\.|$)",
+      "(?:^|\\.)hx6699cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gs-cdn.com",
+    "total_count": 835,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "exp.gs-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gs\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wg-dns.com",
+    "total_count": 730,
+    "provider_hint": "DMIT",
+    "top_asn": {
+      "asn": 906,
+      "org": "DMIT"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "301.wg-dns.com",
+      "alldxdomain.wg-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wg\\-dns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aa5aa5.com",
+    "total_count": 659,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "http-domain.dns.aa5aa5.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aa5aa5\\.com(?:\\.|$)",
+      "(?:^|\\.)aa5aa5[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xmocloud01.com",
+    "total_count": 636,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "svawqy58-u.xmocloud01.com",
+      "6h9vdbme-u.xmocloud01.com",
+      "4y8raepc-u.xmocloud01.com",
+      "n368e5uk-u.xmocloud01.com",
+      "z28ruq36-u.xmocloud01.com",
+      "xv6duwyk-u.xmocloud01.com",
+      "begw6cjv-u.xmocloud01.com",
+      "gwsry5ud-u.xmocloud01.com",
+      "mdb2w8fk-u.xmocloud01.com",
+      "fkc94jnh.xmocloud01.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xmocloud01\\.com(?:\\.|$)",
+      "(?:^|\\.)xmocloud01[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "o00o.eu",
+    "total_count": 626,
+    "provider_hint": "HOSTHATCH",
+    "top_asn": {
+      "asn": 63473,
+      "org": "HOSTHATCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "sms.o00o.eu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)o00o\\.eu(?:\\.|$)",
+      "(?:^|\\.)o00o[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kanejwo.com",
+    "total_count": 620,
+    "provider_hint": "rainbow network limited",
+    "top_asn": {
+      "asn": 138968,
+      "org": "rainbow network limited"
+    },
+    "pct": 0.884,
+    "countries": [
+      "JP",
+      "HK",
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "bd399ac7.u.kanejwo.com",
+      "28af5194.u.kanejwo.com",
+      "a5d6ec73.u.kanejwo.com",
+      "e897982d.u.kanejwo.com",
+      "d7368772.u.kanejwo.com",
+      "fc6711ff.u.kanejwo.com",
+      "f1c3aa36.u.kanejwo.com",
+      "684d4de3.u.kanejwo.com",
+      "734a6e03.u.kanejwo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kanejwo\\.com(?:\\.|$)",
+      "(?:^|\\.)kanejwo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sa99566.com",
+    "total_count": 584,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "2b5ckyza.sa99566.com",
+      "57bwxcq2.sa99566.com",
+      "d7gx38tm.sa99566.com",
+      "qb4pc5zn.sa99566.com",
+      "nyx5am9k.sa99566.com",
+      "xa8pbu6v.sa99566.com",
+      "vhguczrb.sa99566.com",
+      "zak9sr27.sa99566.com",
+      "7hjy6x9b.sa99566.com",
+      "2tv8zq35.sa99566.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sa99566\\.com(?:\\.|$)",
+      "(?:^|\\.)sa99566[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gname.net",
+    "total_count": 524,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "sp.gname.net",
+      "url.gname.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gname\\.net(?:\\.|$)",
+      "(?:^|\\.)gname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "rh2lqcbqssfb.com",
+    "total_count": 505,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "huhu666.rh2lqcbqssfb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)rh2lqcbqssfb\\.com(?:\\.|$)",
+      "(?:^|\\.)rh2lqcbqssfb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fq5uyfsb384w.com",
+    "total_count": 494,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "abc25.fq5uyfsb384w.com",
+      "dafa5188.fq5uyfsb384w.com",
+      "hjdsmckd.fq5uyfsb384w.com",
+      "cdfgdfg.fq5uyfsb384w.com",
+      "gfdcv88.fq5uyfsb384w.com",
+      "wrgasf520.fq5uyfsb384w.com",
+      "vdhfh.fq5uyfsb384w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fq5uyfsb384w\\.com(?:\\.|$)",
+      "(?:^|\\.)fq5uyfsb384w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 489,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "yb6gqhwc.zx770.com",
+      "gp9hu4n7.zx770.com",
+      "6qax7rwb.zx770.com",
+      "pjdkbsmz.zx770.com",
+      "tacs5rhm.zx770.com",
+      "39a5rnbt.zx770.com",
+      "x5eqtr23.zx770.com",
+      "sy25uve7.zx770.com",
+      "jvsgrtp8.zx770.com",
+      "2kwbcs78.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "orionxyz.com",
+    "total_count": 379,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 0.992,
+    "countries": [
+      "HK",
+      "US",
+      "SG",
+      "JP"
+    ],
+    "example_targets": [
+      "bioqyptq.orionxyz.com",
+      "zcnfqgbi.orionxyz.com",
+      "ltwawkbs.orionxyz.com",
+      "wqblzzgy.orionxyz.com",
+      "btvdpiqp.orionxyz.com",
+      "qbughkqf.orionxyz.com",
+      "dvqlqagw.orionxyz.com",
+      "vrxgunly.orionxyz.com",
+      "tosnwvny.orionxyz.com",
+      "xphmflvb.orionxyz.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)orionxyz\\.com(?:\\.|$)",
+      "(?:^|\\.)orionxyz[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns606.com",
+    "total_count": 378,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "tiao-skip_6.outgedns606.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns606\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns606[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hichina.com",
+    "total_count": 337,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "expired.hichina.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hichina\\.com(?:\\.|$)",
+      "(?:^|\\.)hichina[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qo4.net",
+    "total_count": 332,
+    "provider_hint": "Contabo Asia Private Limited",
+    "top_asn": {
+      "asn": 141995,
+      "org": "Contabo Asia Private Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "f852b208.qo4.net",
+      "5e4bb6a7.qo4.net",
+      "1cc4c6ff.qo4.net",
+      "66c06b91.qo4.net",
+      "2bb6a4f0.qo4.net",
+      "dce8ef7f.qo4.net",
+      "6e362163.qo4.net",
+      "b102fc83.qo4.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qo4\\.net(?:\\.|$)",
+      "(?:^|\\.)qo4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ky35888.com",
+    "total_count": 325,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ky35888.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ky35888\\.com(?:\\.|$)",
+      "(?:^|\\.)ky35888[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cname66.com",
+    "total_count": 314,
+    "provider_hint": "ANTI-DDOS",
+    "top_asn": {
+      "asn": 35251,
+      "org": "ANTI-DDOS"
+    },
+    "pct": 0.99,
+    "countries": [
+      "HK",
+      "US",
+      "CN"
+    ],
+    "example_targets": [
+      "ttns.cname66.com",
+      "tianxia.cname66.com",
+      "billy.cname66.com",
+      "xin.cname66.com",
+      "yapi.cname66.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cname66\\.com(?:\\.|$)",
+      "(?:^|\\.)cname66[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "3bhxcdn.com",
+    "total_count": 311,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 0.955,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "3bnew.3bhxcdn.com",
+      "5bnew.3bhxcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3bhxcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)3bhxcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 306,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "rkxajeqv.aisdun-cname.com",
+      "eqr5m3u8.aisdun-cname.com",
+      "fpsq8r2w.aisdun-cname.com",
+      "6e23cq5d.aisdun-cname.com",
+      "gwafs9qm.aisdun-cname.com",
+      "8rpmcsga.aisdun-cname.com",
+      "zf8653ph.aisdun-cname.com",
+      "jevux5qa.aisdun-cname.com",
+      "utzey4qk.aisdun-cname.com",
+      "sxm6d2n8.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "img999.cc",
+    "total_count": 296,
+    "provider_hint": "PEG-LA",
+    "top_asn": {
+      "asn": 398823,
+      "org": "PEG-LA"
+    },
+    "pct": 0.784,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "llmm6789.img999.cc",
+      "LLMM6789.img999.cc",
+      "xbl6789.img999.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)img999\\.cc(?:\\.|$)",
+      "(?:^|\\.)img999[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qiangtiaojienfweif1.com",
+    "total_count": 294,
+    "provider_hint": "Sky Digital Co., Ltd.",
+    "top_asn": {
+      "asn": 134823,
+      "org": "Sky Digital Co., Ltd."
+    },
+    "pct": 0.949,
+    "countries": [
+      "SG",
+      "HK",
+      "CN"
+    ],
+    "example_targets": [
+      "opgqub.cache.qiangtiaojienfweif1.com",
+      "glcmzr.cache.qiangtiaojienfweif1.com",
+      "inrsvl.media.qiangtiaojienfweif1.com",
+      "glykgm.media.qiangtiaojienfweif1.com",
+      "ydjsud.files.qiangtiaojienfweif1.com",
+      "cbgdlq.static.qiangtiaojienfweif1.com",
+      "emduap.cdn.qiangtiaojienfweif1.com",
+      "slwmff.files.qiangtiaojienfweif1.com",
+      "gdsucl.static.qiangtiaojienfweif1.com",
+      "sdyiue.files.qiangtiaojienfweif1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qiangtiaojienfweif1\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mebkw.com",
+    "total_count": 293,
+    "provider_hint": "Hong Kong Communications International Co., Limited",
+    "top_asn": {
+      "asn": 140227,
+      "org": "Hong Kong Communications International Co., Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "pdcax.mebkw.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mebkw\\.com(?:\\.|$)",
+      "(?:^|\\.)mebkw[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bodis.com",
+    "total_count": 286,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "93286.bodis.com",
+      "82774.BODIS.COM",
+      "47986.bodis.com",
+      "85600.bodis.com",
+      "68996.bodis.com",
+      "14862.bodis.com",
+      "95910.BODIS.COM",
+      "76899.bodis.com",
+      "88202.bodis.com",
+      "96421.BODIS.COM"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic35.com",
+    "total_count": 253,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic35.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic35\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic35[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xblgxfc.com",
+    "total_count": 242,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "Unknown"
+    ],
+    "example_targets": [
+      "poloc.xblgxfc.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xblgxfc\\.com(?:\\.|$)",
+      "(?:^|\\.)xblgxfc[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ddge.ru",
+    "total_count": 239,
+    "provider_hint": "LLC Baxet",
+    "top_asn": {
+      "asn": 49392,
+      "org": "LLC Baxet"
+    },
+    "pct": 0.992,
+    "countries": [
+      "RU",
+      "DE",
+      "US"
+    ],
+    "example_targets": [
+      "ffvipqx.ddge.ru",
+      "ffspeed.ddge.ru",
+      "ffvip.ddge.ru",
+      "cgone.ddge.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ddge\\.ru(?:\\.|$)",
+      "(?:^|\\.)ddge[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sjw52kf2.com",
+    "total_count": 220,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "dsnkjr7c.sjw52kf2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sjw52kf2\\.com(?:\\.|$)",
+      "(?:^|\\.)sjw52kf2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zeuscdn-z.com",
+    "total_count": 219,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ctqzf93x.zeuscdn-z.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zeuscdn\\-z\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns770.com",
+    "total_count": 203,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "xt_skip.outgedns770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns770\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gkhkwdj.cn.com",
+    "total_count": 199,
+    "provider_hint": "Yancy Limited",
+    "top_asn": {
+      "asn": 138415,
+      "org": "Yancy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "2syktn93.gkhkwdj.cn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gkhkwdj\\.cn\\.com(?:\\.|$)",
+      "(?:^|\\.)gkhkwdj[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "park.io",
+    "total_count": 189,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2bhxcdn.com",
+    "total_count": 187,
+    "provider_hint": "BGPNET PTE. LTD.",
+    "top_asn": {
+      "asn": 4907,
+      "org": "BGPNET PTE. LTD."
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "8bnew.2bhxcdn.com",
+      "6bnew.2bhxcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2bhxcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)2bhxcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wg2008.cc",
+    "total_count": 186,
+    "provider_hint": "ABCDE GROUP",
+    "top_asn": {
+      "asn": 133201,
+      "org": "ABCDE GROUP"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "www.wg2008.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wg2008\\.cc(?:\\.|$)",
+      "(?:^|\\.)wg2008[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hg42226.com",
+    "total_count": 171,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "hg42226.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hg42226\\.com(?:\\.|$)",
+      "(?:^|\\.)hg42226[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gocname.com",
+    "total_count": 161,
+    "provider_hint": "Skycloud Computing co., Ltd.",
+    "top_asn": {
+      "asn": 7483,
+      "org": "Skycloud Computing co., Ltd."
+    },
+    "pct": 0.991,
+    "countries": [
+      "TW",
+      "KR"
+    ],
+    "example_targets": [
+      "kr311-site-01.gocname.com",
+      "tc183-site-01.gocname.com",
+      "tc195-site-01.gocname.com",
+      "tc195-site-07.gocname.com",
+      "sj28-site-01.gocname.com",
+      "tc183-site-03.gocname.com",
+      "sj29-site-01.gocname.com",
+      "kr174-site-01.gocname.com",
+      "sj38-site-01.gocname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gocname\\.com(?:\\.|$)",
+      "(?:^|\\.)gocname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nbcdn.wang",
+    "total_count": 134,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "b93s56qe-u.gf.nbcdn.wang",
+      "dk6yqfxm-u.gf.nbcdn.wang"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nbcdn\\.wang(?:\\.|$)",
+      "(?:^|\\.)nbcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hgty8h5cdn.com",
+    "total_count": 131,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dns.hgty8h5cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hgty8h5cdn\\.com(?:\\.|$)",
+      "(?:^|\\.)hgty8h5cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "uvixx.com",
+    "total_count": 130,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "eb618148.uvixx.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)uvixx\\.com(?:\\.|$)",
+      "(?:^|\\.)uvixx[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xmocloud02.com",
+    "total_count": 128,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "975f62pq.xmocloud02.com",
+      "uxb6ngvy.xmocloud02.com",
+      "rjqyuk7t.xmocloud02.com",
+      "8kzufxnv.xmocloud02.com",
+      "fz4hsu95.xmocloud02.com",
+      "pyz5a79q.xmocloud02.com",
+      "rbgqw36z.xmocloud02.com",
+      "7erhqw5p.xmocloud02.com",
+      "qvzu6sxk.xmocloud02.com",
+      "d3hgj4yb.xmocloud02.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xmocloud02\\.com(?:\\.|$)",
+      "(?:^|\\.)xmocloud02[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "789132.cc",
+    "total_count": 126,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "tiaozhuan.789132.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)789132\\.cc(?:\\.|$)",
+      "(?:^|\\.)789132[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zvnn65qn.com",
+    "total_count": 117,
+    "provider_hint": "MOACK.Co.LTD",
+    "top_asn": {
+      "asn": 138195,
+      "org": "MOACK.Co.LTD"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "nadoa213.zvnn65qn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zvnn65qn\\.com(?:\\.|$)",
+      "(?:^|\\.)zvnn65qn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xbnewcdn.com",
+    "total_count": 117,
+    "provider_hint": "BGPNET PTE. LTD.",
+    "top_asn": {
+      "asn": 4907,
+      "org": "BGPNET PTE. LTD."
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "xbcdnoe.xbnewcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xbnewcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)xbnewcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6cdn.net",
+    "total_count": 112,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "mg.6cdn.net",
+      "xg.6cdn.net",
+      "pgl.6cdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6cdn\\.net(?:\\.|$)",
+      "(?:^|\\.)6cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xinpujing9956888.com",
+    "total_count": 104,
+    "provider_hint": "Yancy Limited",
+    "top_asn": {
+      "asn": 138415,
+      "org": "Yancy Limited"
+    },
+    "pct": 0.808,
+    "countries": [
+      "HK",
+      "US",
+      "KR",
+      "SC"
+    ],
+    "example_targets": [
+      "2000xjtz.xinpujing9956888.com",
+      "9956xpjtg.xinpujing9956888.com",
+      "7568wgtiaozhuan.xinpujing9956888.com",
+      "2000tiaozhuanqp.xinpujing9956888.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xinpujing9956888\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aliyun.com",
+    "total_count": 98,
+    "provider_hint": "Alibaba Cloud Singapore Private Limited",
+    "top_asn": {
+      "asn": 134963,
+      "org": "Alibaba Cloud Singapore Private Limited"
+    },
+    "pct": 0.867,
+    "countries": [
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "mi.aliyun.com",
+      "qiye.aliyun.com",
+      "imap.qiye.aliyun.com",
+      "overdue.aliyun.com",
+      "smtp.qiye.aliyun.com",
+      "pop.qiye.aliyun.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aliyun\\.com(?:\\.|$)",
+      "(?:^|\\.)aliyun[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "admincdn99.com",
+    "total_count": 92,
+    "provider_hint": "TERAEXCH",
+    "top_asn": {
+      "asn": 399077,
+      "org": "TERAEXCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "cdn.admincdn99.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)admincdn99\\.com(?:\\.|$)",
+      "(?:^|\\.)admincdn99[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdnzhukong.com",
+    "total_count": 87,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 0.805,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "fbu8qce3.cdnzhukong.com",
+      "gbp5w87a.cdnzhukong.com",
+      "cd7ug43k.cdnzhukong.com",
+      "zvq35c6w.cdnzhukong.com",
+      "j2sfu7mz.cdnzhukong.com",
+      "9j8syw7h.cdnzhukong.com",
+      "pt4j59zv.cdnzhukong.com",
+      "3auk59v2.cdnzhukong.com",
+      "5f3b298n.cdnzhukong.com",
+      "eystxzma.cdnzhukong.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdnzhukong\\.com(?:\\.|$)",
+      "(?:^|\\.)cdnzhukong[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wg2008-1.cc",
+    "total_count": 86,
+    "provider_hint": "ABCDE GROUP",
+    "top_asn": {
+      "asn": 133201,
+      "org": "ABCDE GROUP"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "www.wg2008-1.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wg2008\\-1\\.cc(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "whitepanels.com",
+    "total_count": 85,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.whitepanels.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)whitepanels\\.com(?:\\.|$)",
+      "(?:^|\\.)whitepanels[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1bcname.com",
+    "total_count": 80,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "1bnew.1bcname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1bcname\\.com(?:\\.|$)",
+      "(?:^|\\.)1bcname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zonghe888.com",
+    "total_count": 77,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "zonghe888.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zonghe888\\.com(?:\\.|$)",
+      "(?:^|\\.)zonghe888[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yumei993cdn.com",
+    "total_count": 73,
+    "provider_hint": "Stack Network Sdn. Bhd.",
+    "top_asn": {
+      "asn": 153706,
+      "org": "Stack Network Sdn. Bhd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "tiaozhuan993.yumei993cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yumei993cdn\\.com(?:\\.|$)",
+      "(?:^|\\.)yumei993cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "conversiobot.com",
+    "total_count": 72,
+    "provider_hint": "LIQUIDWEB",
+    "top_asn": {
+      "asn": 32244,
+      "org": "LIQUIDWEB"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "live.conversiobot.com",
+      "live1.conversiobot.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)conversiobot\\.com(?:\\.|$)",
+      "(?:^|\\.)conversiobot[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jkydns807.com",
+    "total_count": 69,
+    "provider_hint": "xTom GmbH",
+    "top_asn": {
+      "asn": 3214,
+      "org": "xTom GmbH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "DE",
+      "NL"
+    ],
+    "example_targets": [
+      "888hw.cg.jkydns807.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jkydns807\\.com(?:\\.|$)",
+      "(?:^|\\.)jkydns807[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "chpsz.cn",
+    "total_count": 69,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "80cc7c95.chpsz.cn",
+      "62b782d9.chpsz.cn",
+      "0f19991e.chpsz.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)chpsz\\.cn(?:\\.|$)",
+      "(?:^|\\.)chpsz[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wwwxy688.com",
+    "total_count": 68,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "wwwxy688.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wwwxy688\\.com(?:\\.|$)",
+      "(?:^|\\.)wwwxy688[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "drsdg2z28vzs7m2c.app",
+    "total_count": 64,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ff01.drsdg2z28vzs7m2c.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)drsdg2z28vzs7m2c\\.app(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "orionedg.com",
+    "total_count": 64,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "cwocomzd.orionedg.com",
+      "ixycyiku.orionedg.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)orionedg\\.com(?:\\.|$)",
+      "(?:^|\\.)orionedg[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white11exch.com",
+    "total_count": 61,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white11exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white11exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white11exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sa88566.com",
+    "total_count": 59,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "mp3cw8bn.sa88566.com",
+      "pwmc27gh.sa88566.com",
+      "qdefrxmn.sa88566.com",
+      "vt4yw3ux.sa88566.com",
+      "sygj5pfk.sa88566.com",
+      "7q8dfag5.sa88566.com",
+      "2ymvk4z6.sa88566.com",
+      "4fam3cjp.sa88566.com",
+      "bgfxmv9z.sa88566.com",
+      "rkydq78f.sa88566.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sa88566\\.com(?:\\.|$)",
+      "(?:^|\\.)sa88566[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6jx6np-ntvr6a.com",
+    "total_count": 58,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 0.828,
+    "countries": [
+      "SG",
+      "US"
+    ],
+    "example_targets": [
+      "g4f6533.cdn.6jx6np-ntvr6a.com",
+      "g4f653344.6jx6np-ntvr6a.com",
+      "g969f72hao.6jx6np-ntvr6a.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6jx6np\\-ntvr6a\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "railway.app",
+    "total_count": 57,
+    "provider_hint": "RAILWAY",
+    "top_asn": {
+      "asn": 400940,
+      "org": "RAILWAY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dlp5wgi0.up.railway.app",
+      "zqaqrb8u.up.railway.app",
+      "e2smcknz.up.railway.app",
+      "2dtyrpf4.up.railway.app",
+      "eyybbxf3.up.railway.app",
+      "qevdy8iz.up.railway.app",
+      "fe3y5w2y.up.railway.app",
+      "gkh4427r.up.railway.app",
+      "d94b7cy7.up.railway.app",
+      "1jb4sml8.up.railway.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)railway\\.app(?:\\.|$)",
+      "(?:^|\\.)railway[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cd778.com",
+    "total_count": 56,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dwz1.cd778.com",
+      "dwz3.cd778.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cd778\\.com(?:\\.|$)",
+      "(?:^|\\.)cd778[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudland3.com",
+    "total_count": 56,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "6686.pfw.aczedpcfj.cloudland3.com",
+      "v12.pfw.nbphuwrk.cloudland3.com",
+      "ve5.pfw.gntymejcz.cloudland3.com",
+      "fix01.pfw.djamxtvyk.cloudland3.com",
+      "vg7.pfw.rfznpudap.cloudland3.com",
+      "vt20.pfw.jspakmrtb.cloudland3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudland3\\.com(?:\\.|$)",
+      "(?:^|\\.)cloudland3[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xgame1.cc",
+    "total_count": 55,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "boss.xgame1.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xgame1\\.cc(?:\\.|$)",
+      "(?:^|\\.)xgame1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sun-ecdn.com",
+    "total_count": 54,
+    "provider_hint": "NETLAB-SDN",
+    "top_asn": {
+      "asn": 979,
+      "org": "NETLAB-SDN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ccrnqwohqn.sun-ecdn.com",
+      "vvvvhmtszf.sun-ecdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sun\\-ecdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wpenginepowered.com",
+    "total_count": 52,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "wp.wpenginepowered.com",
+      "thewatercooler.wpenginepowered.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wpenginepowered\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6650dns.com",
+    "total_count": 51,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 0.98,
+    "countries": [
+      "US",
+      "HK"
+    ],
+    "example_targets": [
+      "gn.6650dns.com",
+      "dh.6650dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6650dns\\.com(?:\\.|$)",
+      "(?:^|\\.)6650dns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ai2cachecdns.com",
+    "total_count": 50,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK",
+      "SG"
+    ],
+    "example_targets": [
+      "y85vxfaq-u.ai2cachecdns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ai2cachecdns\\.com(?:\\.|$)",
+      "(?:^|\\.)ai2cachecdns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "msgsndr.com",
+    "total_count": 50,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "flash.funnels.msgsndr.com",
+      "link.msgsndr.com",
+      "preview.memberships.msgsndr.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)msgsndr\\.com(?:\\.|$)",
+      "(?:^|\\.)msgsndr[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunlungr.com",
+    "total_count": 50,
+    "provider_hint": "Zhejiang Taobao Network Co.,Ltd",
+    "top_asn": {
+      "asn": 24429,
+      "org": "Zhejiang Taobao Network Co.,Ltd"
+    },
+    "pct": 0.92,
+    "countries": [
+      "CN",
+      "US",
+      "AU"
+    ],
+    "example_targets": [
+      "vt38.co.w.kunlungr.com",
+      "gowin789.co.w.kunlungr.com",
+      "777mm.co.w.kunlungr.com",
+      "jps88.co.w.kunlungr.com",
+      "iiijogo.co.w.kunlungr.com",
+      "googleo.co.w.kunlungr.com",
+      "8218game.co.w.kunlungr.com",
+      "ate777.co.w.kunlungr.com",
+      "cpf777.co.w.kunlungr.com",
+      "yswin.co.w.kunlungr.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunlungr\\.com(?:\\.|$)",
+      "(?:^|\\.)kunlungr[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "3blecnd.com",
+    "total_count": 47,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "3btg1.3blecnd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3blecnd\\.com(?:\\.|$)",
+      "(?:^|\\.)3blecnd[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dwhitegroup4.com",
+    "total_count": 47,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.dwhitegroup4.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dwhitegroup4\\.com(?:\\.|$)",
+      "(?:^|\\.)dwhitegroup4[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "faipod.com",
+    "total_count": 46,
+    "provider_hint": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+    "top_asn": {
+      "asn": 135377,
+      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED"
+    },
+    "pct": 0.761,
+    "countries": [
+      "HK",
+      "CN",
+      "SG"
+    ],
+    "example_targets": [
+      "rongyitong.co.laz7.faipod.com",
+      "www-dhjy-co.lo0.faipod.com",
+      "www-adallc-co.lo0.faipod.com",
+      "www-memorydevice-co.lv0.faipod.com",
+      "tongyong.co.lo828.faipod.com",
+      "zywlkjkm.cn.lag28.faipod.com",
+      "lengku.co.luo629.faipod.com",
+      "dsiedu.co.luo625.faipod.com",
+      "joypacks.co.lo960.faipod.com",
+      "feiqizhili.co.luo629.faipod.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)faipod\\.com(?:\\.|$)",
+      "(?:^|\\.)faipod[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vnscdn2.com",
+    "total_count": 45,
+    "provider_hint": "PEG-SG",
+    "top_asn": {
+      "asn": 394432,
+      "org": "PEG-SG"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "vnscdn2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vnscdn2\\.com(?:\\.|$)",
+      "(?:^|\\.)vnscdn2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dun7788.com",
+    "total_count": 45,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 0.8,
+    "countries": [
+      "HK",
+      "US",
+      "SC"
+    ],
+    "example_targets": [
+      "billing11jiqun07.cdn.dun7788.com",
+      "billing8jiqun08.cdn.dun7788.com",
+      "billingsudun12.cdn.dun7788.com",
+      "billing13jiqun04.cdn.dun7788.com",
+      "billing360cdn01.cdn.dun7788.com",
+      "bili04jiqun7cdn01.cdn.dun7788.com",
+      "bili04jiqun7cdn03.cdn.dun7788.com",
+      "billing8jiqun01.cdn.dun7788.com",
+      "billing11jiqun09.cdn.dun7788.com",
+      "billing12jiqun14.cdn.dun7788.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dun7788\\.com(?:\\.|$)",
+      "(?:^|\\.)dun7788[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdngslb.com",
+    "total_count": 44,
+    "provider_hint": "Zhejiang Taobao Network Co.,Ltd",
+    "top_asn": {
+      "asn": 24429,
+      "org": "Zhejiang Taobao Network Co.,Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "AU"
+    ],
+    "example_targets": [
+      "lllboi.co.w.cdngslb.com",
+      "eeeboi.co.w.cdngslb.com",
+      "cpc777.co.w.cdngslb.com",
+      "sorriso777.co.w.cdngslb.com",
+      "freeshort.co.w.cdngslb.com",
+      "hupp.co.w.cdngslb.com",
+      "flutepg.co.w.cdngslb.com",
+      "shinetour.co.w.cdngslb.com",
+      "uso777.co.w.cdngslb.com",
+      "pianopg.co.w.cdngslb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdngslb\\.com(?:\\.|$)",
+      "(?:^|\\.)cdngslb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic7.com",
+    "total_count": 42,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic7\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic7[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fastestgmt.com",
+    "total_count": 41,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 0.951,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "lq1.vip.fastestgmt.com",
+      "beifeng.yd.fastestgmt.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fastestgmt\\.com(?:\\.|$)",
+      "(?:^|\\.)fastestgmt[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xhttppack.com",
+    "total_count": 41,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "q3t4aseh4a.xhttppack.com",
+      "stnt8g7vy1.xhttppack.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xhttppack\\.com(?:\\.|$)",
+      "(?:^|\\.)xhttppack[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wadjajds2.com",
+    "total_count": 40,
+    "provider_hint": "GTT Communications Inc.",
+    "top_asn": {
+      "asn": 3257,
+      "org": "GTT Communications Inc."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "u28mx3np.wadjajds2.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wadjajds2\\.com(?:\\.|$)",
+      "(?:^|\\.)wadjajds2[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hjdhsj4902.com",
+    "total_count": 37,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "wn4k6s2c.hjdhsj4902.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hjdhsj4902\\.com(?:\\.|$)",
+      "(?:^|\\.)hjdhsj4902[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "myshopify.com",
+    "total_count": 37,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "shops.myshopify.com",
+      "xoss-co.myshopify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)myshopify\\.com(?:\\.|$)",
+      "(?:^|\\.)myshopify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "herokudns.com",
+    "total_count": 37,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "verifix.co.herokudns.com",
+      "dimensional-vole-rtx1jp94jd8tbslntahn0zy7.herokudns.com",
+      "reticulated-stonecrop-3519mqjglpgfyhz4b5zp8hmt.herokudns.com",
+      "agile-tangerine-js44020dmd50f83iqx78g84f.herokudns.com",
+      "pointy-fish-i1m6zitgyflawxpn7na9h8bz.herokudns.com",
+      "fosterdesign.co.herokudns.com",
+      "bldby.co.herokudns.com",
+      "sleepy-swallow-gowrb04kbw1opcfi569l8g4p.herokudns.com",
+      "fluffy-woodpecker-s0lq195vbhrut95dkrgzn9wo.herokudns.com",
+      "shrouded-mink-47owtarei7zyi22y5cjs76wu.herokudns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)herokudns\\.com(?:\\.|$)",
+      "(?:^|\\.)herokudns[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "che.cn",
+    "total_count": 36,
+    "provider_hint": "Tencent Building, Kejizhongyi Avenue",
+    "top_asn": {
+      "asn": 132203,
+      "org": "Tencent Building, Kejizhongyi Avenue"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "domain.che.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)che\\.cn(?:\\.|$)",
+      "(?:^|\\.)che[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "28a1.cc",
+    "total_count": 36,
+    "provider_hint": "LIGHT CLOUD TECHNOLOGY",
+    "top_asn": {
+      "asn": 135542,
+      "org": "LIGHT CLOUD TECHNOLOGY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "555.28a1.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)28a1\\.cc(?:\\.|$)",
+      "(?:^|\\.)28a1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vnscdn3.com",
+    "total_count": 35,
+    "provider_hint": "PEG-SG",
+    "top_asn": {
+      "asn": 394432,
+      "org": "PEG-SG"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "vnscdn3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vnscdn3\\.com(?:\\.|$)",
+      "(?:^|\\.)vnscdn3[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "abcty1.com",
+    "total_count": 35,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 0.886,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "p-301.abcty1.com",
+      "p-kc325zjcdn.abcty1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)abcty1\\.com(?:\\.|$)",
+      "(?:^|\\.)abcty1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "e68cname.com",
+    "total_count": 34,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 0.941,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "lh-10.com.e68cname.com",
+      "lh-48.com.e68cname.com",
+      "lh-seo020.com.e68cname.com",
+      "lh-mk09.com.e68cname.com",
+      "lh-21.com.e68cname.com",
+      "lh-42.com.e68cname.com",
+      "lh-47.com.e68cname.com",
+      "lh-seo018.com.e68cname.com",
+      "lh-52.com.e68cname.com",
+      "lh-19.com.e68cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)e68cname\\.com(?:\\.|$)",
+      "(?:^|\\.)e68cname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "netlify.app",
+    "total_count": 34,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "visualjoy.netlify.app",
+      "unrivaled-cocada-f9eb7b.netlify.app",
+      "zingy-platypus-39de78.netlify.app",
+      "visibilityventure.netlify.app",
+      "pedantic-noyce-99784a.netlify.app",
+      "madviser.netlify.app",
+      "glowing-llama-792054.netlify.app",
+      "solidkraft.netlify.app",
+      "rhythmreelsco.netlify.app",
+      "topshumorsubmissions.netlify.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)netlify\\.app(?:\\.|$)",
+      "(?:^|\\.)netlify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "substack-custom-domains.com",
+    "total_count": 33,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "target.substack-custom-domains.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)substack\\-custom\\-domains\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1111txdycdn.cc",
+    "total_count": 33,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "d5d3dc7f.1111txdycdn.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1111txdycdn\\.cc(?:\\.|$)",
+      "(?:^|\\.)1111txdycdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "78999a.com",
+    "total_count": 33,
+    "provider_hint": "Yancy Limited",
+    "top_asn": {
+      "asn": 138415,
+      "org": "Yancy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK",
+      "US",
+      "KR"
+    ],
+    "example_targets": [
+      "vkyhdm2n.78999a.com",
+      "k3we8a9q.78999a.com",
+      "vk27gbpw.78999a.com",
+      "gjws86xu.78999a.com",
+      "9med6ncz.78999a.com",
+      "4b39uqak.78999a.com",
+      "at6suwne.78999a.com",
+      "zvutjems.78999a.com",
+      "5twc4vrg.78999a.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)78999a\\.com(?:\\.|$)",
+      "(?:^|\\.)78999a[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "77google-dns.com",
+    "total_count": 32,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xg-dx.77google-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)77google\\-dns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunlunaq.com",
+    "total_count": 32,
+    "provider_hint": "China Telecom Group",
+    "top_asn": {
+      "asn": 4812,
+      "org": "China Telecom Group"
+    },
+    "pct": 0.938,
+    "countries": [
+      "CN",
+      "Unknown"
+    ],
+    "example_targets": [
+      "shifang.co.w.kunlunaq.com",
+      "kesheng.co.w.kunlunaq.com",
+      "inaoo.co.w.kunlunaq.com",
+      "2z2.co.w.kunlunaq.com",
+      "xingaodu.co.w.kunlunaq.com",
+      "caprom.co.w.kunlunaq.com",
+      "tuns.co.w.kunlunaq.com",
+      "dramalink.co.w.kunlunaq.com",
+      "1yb.co.w.kunlunaq.com",
+      "5ka.co.w.kunlunaq.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunlunaq\\.com(?:\\.|$)",
+      "(?:^|\\.)kunlunaq[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "le.cn",
+    "total_count": 31,
+    "provider_hint": "XNNET",
+    "top_asn": {
+      "asn": 6134,
+      "org": "XNNET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xh.cs.le.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)le\\.cn(?:\\.|$)",
+      "(?:^|\\.)le[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wwhitegroup1.com",
+    "total_count": 31,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.wwhitegroup1.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wwhitegroup1\\.com(?:\\.|$)",
+      "(?:^|\\.)wwhitegroup1[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white55exch.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white55exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white55exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white55exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "net-cdn.net",
+    "total_count": 30,
+    "provider_hint": "DIGITALOCEAN-ASN",
+    "top_asn": {
+      "asn": 14061,
+      "org": "DIGITALOCEAN-ASN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "bproxy.9114.net-cdn.net",
+      "bproxy.1772.net-cdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)net\\-cdn\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ghost.io",
+    "total_count": 30,
+    "provider_hint": "FASTLY",
+    "top_asn": {
+      "asn": 54113,
+      "org": "FASTLY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "subobject.ghost.io",
+      "the-brass-basin.ghost.io",
+      "fitup-1.ghost.io",
+      "bom-vitzro.ghost.io",
+      "the-novice.ghost.io",
+      "taylore-faircrest.ghost.io",
+      "alexander-mistakidis.ghost.io",
+      "journey-dynamics.ghost.io",
+      "buffalo-collective.ghost.io",
+      "kitchen-table-revolution.ghost.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ghost\\.io(?:\\.|$)",
+      "(?:^|\\.)ghost[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bck-bet.com",
+    "total_count": 29,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "hk.bck-bet.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bck\\-bet\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zhanghonghong.com",
+    "total_count": 29,
+    "provider_hint": "DXTL Tseung Kwan O Service",
+    "top_asn": {
+      "asn": 134548,
+      "org": "DXTL Tseung Kwan O Service"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "kf9315.zhanghonghong.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zhanghonghong\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wcdnga.com",
+    "total_count": 29,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "CA",
+      "KR"
+    ],
+    "example_targets": [
+      "8w88.co.wcdnga.com",
+      "js908.co.wcdnga.com",
+      "js906.co.wcdnga.com",
+      "js904.co.wcdnga.com",
+      "563599.co.wcdnga.com",
+      "js8820.co.wcdnga.com",
+      "twgj55.co.wcdnga.com",
+      "hzyl.co.wcdnga.com",
+      "8h66.co.wcdnga.com",
+      "jll888.co.wcdnga.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wcdnga\\.com(?:\\.|$)",
+      "(?:^|\\.)wcdnga[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nbcdn.top",
+    "total_count": 28,
+    "provider_hint": "SonderCloud Limited",
+    "top_asn": {
+      "asn": 133199,
+      "org": "SonderCloud Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "c6dsqg7u-u.gf.nbcdn.top",
+      "b93s56qe-u.gf.nbcdn.top"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nbcdn\\.top(?:\\.|$)",
+      "(?:^|\\.)nbcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qu2000.com",
+    "total_count": 28,
+    "provider_hint": "IT7NET",
+    "top_asn": {
+      "asn": 25820,
+      "org": "IT7NET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "qysbs.qu2000.com",
+      "hn.qu2000.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qu2000\\.com(?:\\.|$)",
+      "(?:^|\\.)qu2000[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "down971mgm.com",
+    "total_count": 27,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dns.down971mgm.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)down971mgm\\.com(?:\\.|$)",
+      "(?:^|\\.)down971mgm[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yfuglzhe.xyz",
+    "total_count": 27,
+    "provider_hint": "OWGELS INTERNATIONAL CO., LIMITED",
+    "top_asn": {
+      "asn": 153656,
+      "org": "OWGELS INTERNATIONAL CO., LIMITED"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "gcdn-86538sky.yfuglzhe.xyz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yfuglzhe\\.xyz(?:\\.|$)",
+      "(?:^|\\.)yfuglzhe[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "63879003.com",
+    "total_count": 27,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ba4fdb77.63879003.com",
+      "d59b74bb.63879003.com",
+      "0ff748d7.63879003.com",
+      "fdb0441f.63879003.com",
+      "10b3e3d7.63879003.com",
+      "f050265a.63879003.com",
+      "5411fbe8.63879003.com",
+      "7ec7aac7.63879003.com",
+      "c93de352.63879003.com",
+      "e3822706.63879003.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)63879003\\.com(?:\\.|$)",
+      "(?:^|\\.)63879003[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ccname.org",
+    "total_count": 26,
+    "provider_hint": "HKCLOUDX",
+    "top_asn": {
+      "asn": 62468,
+      "org": "HKCLOUDX"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "jecotuwi.ccname.org",
+      "peyenato.ccname.org",
+      "zanuwewo.ccname.org",
+      "socolofo.ccname.org",
+      "sisunama.ccname.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ccname\\.org(?:\\.|$)",
+      "(?:^|\\.)ccname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outcfdns000.com",
+    "total_count": 25,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "tg-all_0.outcfdns000.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outcfdns000\\.com(?:\\.|$)",
+      "(?:^|\\.)outcfdns000[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "onlinename11txcnddns.com",
+    "total_count": 25,
+    "provider_hint": "GREYPANEL PTE LTD",
+    "top_asn": {
+      "asn": 137962,
+      "org": "GREYPANEL PTE LTD"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "thc-eea953029g.onlinename11txcnddns.com",
+      "yhh-89df94a7e78348g.onlinename11txcnddns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)onlinename11txcnddns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "admingamex.com",
+    "total_count": 25,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "bot.admingamex.com",
+      "boss.admingamex.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)admingamex\\.com(?:\\.|$)",
+      "(?:^|\\.)admingamex[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "2020yiqifa.com",
+    "total_count": 25,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "178dlx.2020yiqifa.com",
+      "178zym.2020yiqifa.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)2020yiqifa\\.com(?:\\.|$)",
+      "(?:^|\\.)2020yiqifa[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "down768xpjxpj.com",
+    "total_count": 24,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dns.down768xpjxpj.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)down768xpjxpj\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zbzbzbzb-obs.com",
+    "total_count": 24,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "95f51b97.zbzbzbzb-obs.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zbzbzbzb\\-obs\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vercel-dns.com",
+    "total_count": 24,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "cname-china.vercel-dns.com",
+      "cname.vercel-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vercel\\-dns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yhcdn-yd.com",
+    "total_count": 24,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 0.833,
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "example_targets": [
+      "96w73hav.yhcdn-yd.com",
+      "bwyzm9kd.yhcdn-yd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yhcdn\\-yd\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mba301.com",
+    "total_count": 23,
+    "provider_hint": "High Family Technology Co., Limited",
+    "top_asn": {
+      "asn": 142032,
+      "org": "High Family Technology Co., Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "at.mba301.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mba301\\.com(?:\\.|$)",
+      "(?:^|\\.)mba301[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jhydns05.com",
+    "total_count": 22,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "3d1128b0.jhydns05.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jhydns05\\.com(?:\\.|$)",
+      "(?:^|\\.)jhydns05[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wpengine.com",
+    "total_count": 22,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "NL"
+    ],
+    "example_targets": [
+      "hallaio.wpengine.com",
+      "gnardog.wpengine.com",
+      "rocketriselive.wpengine.com",
+      "yoursellfco.wpengine.com",
+      "callieco.wpengine.com",
+      "campteton.wpengine.com",
+      "mightyink.wpengine.com",
+      "visionlabco1.wpengine.com",
+      "qualitymeats.wpengine.com",
+      "rubicoinweb.wpengine.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wpengine\\.com(?:\\.|$)",
+      "(?:^|\\.)wpengine[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "amjs16h5cdnt3.com",
+    "total_count": 21,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dns.amjs16h5cdnt3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)amjs16h5cdnt3\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "alb1-dnm-dev-1405939571.us-east-1.elb.amazonaws.com",
+    "total_count": 21,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "alb1-dnm-dev-1405939571.us-east-1.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)alb1\\-dnm\\-dev\\-1405939571\\.us\\-east\\-1\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hkcdn008.com",
+    "total_count": 21,
+    "provider_hint": "Scaleway S.a.s.",
+    "top_asn": {
+      "asn": 12876,
+      "org": "Scaleway S.a.s."
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "web08.hkcdn008.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hkcdn008\\.com(?:\\.|$)",
+      "(?:^|\\.)hkcdn008[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vhostgo.com",
+    "total_count": 20,
+    "provider_hint": "West263 International Limited",
+    "top_asn": {
+      "asn": 139021,
+      "org": "West263 International Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "freeurl.vhostgo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vhostgo\\.com(?:\\.|$)",
+      "(?:^|\\.)vhostgo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "yd666cdn.com",
+    "total_count": 20,
+    "provider_hint": "OVH SAS",
+    "top_asn": {
+      "asn": 16276,
+      "org": "OVH SAS"
+    },
+    "pct": 0.95,
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "example_targets": [
+      "cgn2h85s.yd666cdn.com",
+      "qfexy7n6.yd666cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)yd666cdn\\.com(?:\\.|$)",
+      "(?:^|\\.)yd666cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "jhydns06.com",
+    "total_count": 19,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "5dd7c22d.jhydns06.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)jhydns06\\.com(?:\\.|$)",
+      "(?:^|\\.)jhydns06[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "f7xlia.com",
+    "total_count": 19,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "gtm-sg-vfp3ixsaf0d.f7xlia.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)f7xlia\\.com(?:\\.|$)",
+      "(?:^|\\.)f7xlia[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "webflow.com",
+    "total_count": 19,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 0.947,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "cdn.webflow.com",
+      "proxy-ssl.webflow.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)webflow\\.com(?:\\.|$)",
+      "(?:^|\\.)webflow[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "feicdn.net",
+    "total_count": 19,
+    "provider_hint": "GORILLASERVERS",
+    "top_asn": {
+      "asn": 53850,
+      "org": "GORILLASERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "f69b6f9d.feicdn.net",
+      "d49daba8.feicdn.net",
+      "a007d9c9.feicdn.net",
+      "add03624.feicdn.net",
+      "baea5ca5.feicdn.net",
+      "e78b6599.feicdn.net",
+      "cf260d12.feicdn.net",
+      "68ede512.feicdn.net",
+      "a5615d11.feicdn.net",
+      "8753615e.feicdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)feicdn\\.net(?:\\.|$)",
+      "(?:^|\\.)feicdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white77exch.com",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white77exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white77exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white77exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "1688916.com",
+    "total_count": 18,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "jswebs.c.1688916.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)1688916\\.com(?:\\.|$)",
+      "(?:^|\\.)1688916[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "apex-loadbalancer.netlify.com",
+    "total_count": 18,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "apex-loadbalancer.netlify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)apex\\-loadbalancer\\.netlify\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dsazhilian.com",
+    "total_count": 18,
+    "provider_hint": "Hong Kong Communications International Co., Limited",
+    "top_asn": {
+      "asn": 140227,
+      "org": "Hong Kong Communications International Co., Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "b07.newbbs.dsazhilian.com",
+      "f003.newbbs.dsazhilian.com",
+      "c15.newbbs.dsazhilian.com",
+      "zhibof4.dsazhilian.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dsazhilian\\.com(?:\\.|$)",
+      "(?:^|\\.)dsazhilian[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "688cdn.top",
+    "total_count": 18,
+    "provider_hint": "XNNET",
+    "top_asn": {
+      "asn": 932,
+      "org": "XNNET"
+    },
+    "pct": 0.778,
+    "countries": [
+      "HK",
+      "JP"
+    ],
+    "example_targets": [
+      "c0776197.688cdn.top",
+      "a9634484.688cdn.top",
+      "87c5af0d.688cdn.top"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)688cdn\\.top(?:\\.|$)",
+      "(?:^|\\.)688cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudways.cloud",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "secure.cloudways.cloud"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudways\\.cloud(?:\\.|$)",
+      "(?:^|\\.)cloudways[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic30.com",
+    "total_count": 17,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic30.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic30\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic30[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "convertobot.com",
+    "total_count": 17,
+    "provider_hint": "LIQUIDWEB",
+    "top_asn": {
+      "asn": 32244,
+      "org": "LIQUIDWEB"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "live.convertobot.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)convertobot\\.com(?:\\.|$)",
+      "(?:^|\\.)convertobot[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dellcdn.net",
+    "total_count": 17,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "bet.dellcdn.net",
+      "888pg.dellcdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dellcdn\\.net(?:\\.|$)",
+      "(?:^|\\.)dellcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "anti8.net",
+    "total_count": 17,
+    "provider_hint": "Xdpcloud Ltd",
+    "top_asn": {
+      "asn": 216047,
+      "org": "Xdpcloud Ltd"
+    },
+    "pct": 0.882,
+    "countries": [
+      "CN",
+      "HK",
+      "US",
+      "KR"
+    ],
+    "example_targets": [
+      "gsjx666.cdn.anti8.net",
+      "849js.cdn.anti8.net",
+      "vnsr66123.cdn.anti8.net",
+      "jxpg1.cdn.anti8.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)anti8\\.net(?:\\.|$)",
+      "(?:^|\\.)anti8[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "qycname.com",
+    "total_count": 17,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 0.882,
+    "countries": [
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "qianying-048.com.qycname.com",
+      "qianying-025.com.qycname.com",
+      "qianying-proxy06.com.qycname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)qycname\\.com(?:\\.|$)",
+      "(?:^|\\.)qycname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn-dysxb.com",
+    "total_count": 17,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "rvi.mb.cdn-dysxb.com",
+      "rni.mb.cdn-dysxb.com",
+      "flm.mb.cdn-dysxb.com",
+      "bdo.pt.cdn-dysxb.com",
+      "wyw.mb.cdn-dysxb.com",
+      "blt.mb.cdn-dysxb.com",
+      "oap.mb.cdn-dysxb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn\\-dysxb\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "kunluncan.com",
+    "total_count": 17,
+    "provider_hint": "China Telecom Group",
+    "top_asn": {
+      "asn": 4812,
+      "org": "China Telecom Group"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CN"
+    ],
+    "example_targets": [
+      "bjdtwy.co.w.kunluncan.com",
+      "jingxi.co.w.kunluncan.com",
+      "jq1.co.w.kunluncan.com",
+      "chromaflame.co.w.kunluncan.com",
+      "aerbeisi.co.w.kunluncan.com",
+      "jinli.co.w.kunluncan.com",
+      "xiaohudi.co.w.kunluncan.com",
+      "qdurl.co.w.kunluncan.com",
+      "dilu.co.w.kunluncan.com",
+      "jxkj.co.w.kunluncan.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)kunluncan\\.com(?:\\.|$)",
+      "(?:^|\\.)kunluncan[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "switchy.io",
+    "total_count": 16,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BE"
+    ],
+    "example_targets": [
+      "links.switchy.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)switchy\\.io(?:\\.|$)",
+      "(?:^|\\.)switchy[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xgadmin99.com",
+    "total_count": 16,
+    "provider_hint": "TERAEXCH",
+    "top_asn": {
+      "asn": 399077,
+      "org": "TERAEXCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "cctv.xgadmin99.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xgadmin99\\.com(?:\\.|$)",
+      "(?:^|\\.)xgadmin99[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "70305.uk",
+    "total_count": 16,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ybbq.70305.uk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)70305\\.uk(?:\\.|$)",
+      "(?:^|\\.)70305[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "scdn.sh",
+    "total_count": 16,
+    "provider_hint": "Lazycloud Ltd",
+    "top_asn": {
+      "asn": 215269,
+      "org": "Lazycloud Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "zhengchang6.cname.scdn.sh"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)scdn\\.sh(?:\\.|$)",
+      "(?:^|\\.)scdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dun789.com",
+    "total_count": 16,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "billing7jiqun01.cdn.dun789.com",
+      "billing7jiqun07.cdn.dun789.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dun789\\.com(?:\\.|$)",
+      "(?:^|\\.)dun789[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xiaokushuaidns.com",
+    "total_count": 16,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 0.812,
+    "countries": [
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "panduan.xiaokushuaidns.com",
+      "eetingyong.xiaokushuaidns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xiaokushuaidns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "139hao.com",
+    "total_count": 16,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG",
+      "HK"
+    ],
+    "example_targets": [
+      "bn5z2t87.139hao.com",
+      "gmxu48h2.139hao.com",
+      "y3ahsfx6.139hao.com",
+      "ht4yjufk.139hao.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)139hao\\.com(?:\\.|$)",
+      "(?:^|\\.)139hao[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bos368.com",
+    "total_count": 16,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 0.812,
+    "countries": [
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "bgb96.bos368.com",
+      "bgwns.bos368.com",
+      "bgb38.bos368.com",
+      "bgrb8.bos368.com",
+      "bglis.bos368.com",
+      "bgxab.bos368.com",
+      "bgwei.bos368.com",
+      "bgfll.bos368.com",
+      "bgtgo.bos368.com",
+      "bgjss.bos368.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bos368\\.com(?:\\.|$)",
+      "(?:^|\\.)bos368[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "uuanenron.com",
+    "total_count": 15,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "hcdn2.uuanenron.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)uuanenron\\.com(?:\\.|$)",
+      "(?:^|\\.)uuanenron[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "30387.cc",
+    "total_count": 15,
+    "provider_hint": "LIGHT CLOUD TECHNOLOGY",
+    "top_asn": {
+      "asn": 135542,
+      "org": "LIGHT CLOUD TECHNOLOGY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "hhhh.30387.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)30387\\.cc(?:\\.|$)",
+      "(?:^|\\.)30387[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "live11exch.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.live11exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)live11exch\\.com(?:\\.|$)",
+      "(?:^|\\.)live11exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "clickfunnels.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "target.clickfunnels.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)clickfunnels\\.com(?:\\.|$)",
+      "(?:^|\\.)clickfunnels[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "thindercdn.com",
+    "total_count": 15,
+    "provider_hint": "Alibaba US Technology Co., Ltd.",
+    "top_asn": {
+      "asn": 45102,
+      "org": "Alibaba US Technology Co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "transfer.shareone.thindercdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)thindercdn\\.com(?:\\.|$)",
+      "(?:^|\\.)thindercdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bagpakmusic.com",
+    "total_count": 15,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "777.bagpakmusic.com",
+      "77777.bagpakmusic.com",
+      "7777.bagpakmusic.com",
+      "77.bagpakmusic.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bagpakmusic\\.com(?:\\.|$)",
+      "(?:^|\\.)bagpakmusic[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "lllll.icu",
+    "total_count": 14,
+    "provider_hint": "Liasail Global Hongkong Limited",
+    "top_asn": {
+      "asn": 17497,
+      "org": "Liasail Global Hongkong Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ldy-hk-2.lllll.icu"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)lllll\\.icu(?:\\.|$)",
+      "(?:^|\\.)lllll[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "rbnetidc.com",
+    "total_count": 14,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "ddos549.rbnetidc.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)rbnetidc\\.com(?:\\.|$)",
+      "(?:^|\\.)rbnetidc[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hkcdn002.com",
+    "total_count": 14,
+    "provider_hint": "Scaleway S.a.s.",
+    "top_asn": {
+      "asn": 12876,
+      "org": "Scaleway S.a.s."
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "web02.hkcdn002.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hkcdn002\\.com(?:\\.|$)",
+      "(?:^|\\.)hkcdn002[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "22.cn",
+    "total_count": 14,
+    "provider_hint": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+    "top_asn": {
+      "asn": 135377,
+      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED"
+    },
+    "pct": 0.786,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "fw1.22.cn",
+      "fw2.22.cn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)22\\.cn(?:\\.|$)",
+      "(?:^|\\.)22[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xdpcdn.vip",
+    "total_count": 14,
+    "provider_hint": "Xdpcloud Ltd",
+    "top_asn": {
+      "asn": 216047,
+      "org": "Xdpcloud Ltd"
+    },
+    "pct": 0.786,
+    "countries": [
+      "CN",
+      "HK"
+    ],
+    "example_targets": [
+      "sjyl.xdpcdn.vip",
+      "qpvip.xdpcdn.vip",
+      "qpyh.xdpcdn.vip",
+      "qpxz.xdpcdn.vip",
+      "hylzhu.xdpcdn.vip"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xdpcdn\\.vip(?:\\.|$)",
+      "(?:^|\\.)xdpcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cdn-ng.net",
+    "total_count": 14,
+    "provider_hint": "Skycloud Computing co., Ltd.",
+    "top_asn": {
+      "asn": 7483,
+      "org": "Skycloud Computing co., Ltd."
+    },
+    "pct": 0.786,
+    "countries": [
+      "TW"
+    ],
+    "example_targets": [
+      "cr28-site-01.cdn-ng.net",
+      "kr78-site-01.cdn-ng.net",
+      "dr35-site-01.cdn-ng.net",
+      "tc83-site-01.cdn-ng.net",
+      "an05-prod-x.cdn-ng.net",
+      "cr47-site-02.cdn-ng.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cdn\\-ng\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fastliii.com",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "689696.co.fastliii.com",
+      "49191.co.fastliii.com",
+      "499pg.co.fastliii.com",
+      "jz96.co.fastliii.com",
+      "9999hd.co.fastliii.com",
+      "3737bl.co.fastliii.com",
+      "3737bk.co.fastliii.com",
+      "jz97.co.fastliii.com",
+      "vgbet.co.fastliii.com",
+      "jdgame.co.fastliii.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fastliii\\.com(?:\\.|$)",
+      "(?:^|\\.)fastliii[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ondigitalocean.app",
+    "total_count": 14,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "prd-mojichatbot-frontend-heumz.ondigitalocean.app",
+      "sheet-to-api-tjnzd.ondigitalocean.app",
+      "web-gwintect-47df9.ondigitalocean.app",
+      "project-pulse-website-8gew3.ondigitalocean.app",
+      "sumerce-landings-frontend-8dsyp.ondigitalocean.app",
+      "plankton-app-nrlkp.ondigitalocean.app",
+      "builtbydoug-k99pj.ondigitalocean.app",
+      "orca-app-y9sbr.ondigitalocean.app",
+      "intrena-website-zcsmw.ondigitalocean.app",
+      "shoutme-co-omblw.ondigitalocean.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ondigitalocean\\.app(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic3.com",
+    "total_count": 13,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic3.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic3\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic3[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "googlehosted.com",
+    "total_count": 13,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ghs.googlehosted.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)googlehosted\\.com(?:\\.|$)",
+      "(?:^|\\.)googlehosted[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cname.cx",
+    "total_count": 13,
+    "provider_hint": "FD-298-8796",
+    "top_asn": {
+      "asn": 8796,
+      "org": "FD-298-8796"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "yzh.vip.cname.cx"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cname\\.cx(?:\\.|$)",
+      "(?:^|\\.)cname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "my3w.com",
+    "total_count": 13,
+    "provider_hint": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "top_asn": {
+      "asn": 37963,
+      "org": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    "pct": 0.769,
+    "countries": [
+      "CN",
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "wh-au700ojnvhq9y4aae4b.my3w.com",
+      "wh-is6nsfat64gfo4020.my3w.com",
+      "wh-nbcpnw1xct9uj48x0bq.my3w.com",
+      "wh-nsire7bpsnh385hp2vn.my3w.com",
+      "wh-ax4g4gfmo61dfcd3g67.my3w.com",
+      "wh-abha23av59pd96gat4i.my3w.com",
+      "qxu1587950054.my3w.com",
+      "wh-ns2bufwp7q641tj8kwm.my3w.com",
+      "qxu1588650010.my3w.com",
+      "wh-aa9qnzff8hbckrg7zjj.my3w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)my3w\\.com(?:\\.|$)",
+      "(?:^|\\.)my3w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "portfolio.sh",
+    "total_count": 12,
+    "provider_hint": "AS-VULTR",
+    "top_asn": {
+      "asn": 20473,
+      "org": "AS-VULTR"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "sites.portfolio.sh"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)portfolio\\.sh(?:\\.|$)",
+      "(?:^|\\.)portfolio[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dwoowb.com",
+    "total_count": 12,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "9kp3jf7r.dwoowb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dwoowb\\.com(?:\\.|$)",
+      "(?:^|\\.)dwoowb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "www0088.com",
+    "total_count": 12,
+    "provider_hint": "FD-298-8796",
+    "top_asn": {
+      "asn": 8796,
+      "org": "FD-298-8796"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "www0088.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)www0088\\.com(?:\\.|$)",
+      "(?:^|\\.)www0088[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hostinger.com",
+    "total_count": 12,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "connect.hostinger.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hostinger\\.com(?:\\.|$)",
+      "(?:^|\\.)hostinger[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6200aaaa.com",
+    "total_count": 12,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "url.6200aaaa.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6200aaaa\\.com(?:\\.|$)",
+      "(?:^|\\.)6200aaaa[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "300011facai.xyz",
+    "total_count": 12,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK",
+      "SG"
+    ],
+    "example_targets": [
+      "bc.300011facai.xyz",
+      "jisu.300011facai.xyz"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)300011facai\\.xyz(?:\\.|$)",
+      "(?:^|\\.)300011facai[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "greycdn.net",
+    "total_count": 12,
+    "provider_hint": "GREYPANEL PTE LTD",
+    "top_asn": {
+      "asn": 137962,
+      "org": "GREYPANEL PTE LTD"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "083d6fe11cg.greycdn.net",
+      "9fc3a77ag.greycdn.net",
+      "5d204befb6f84g.love168.co.greycdn.net",
+      "a5b89e9bc47g.a1v.co.greycdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)greycdn\\.net(?:\\.|$)",
+      "(?:^|\\.)greycdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ewzqsyuc.link",
+    "total_count": 12,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 0.833,
+    "countries": [
+      "SG",
+      null
+    ],
+    "example_targets": [
+      "111666.co.ewzqsyuc.link",
+      "mjhl999.co.ewzqsyuc.link",
+      "48789.co.ewzqsyuc.link",
+      "mjhl222.co.ewzqsyuc.link",
+      "532588.co.ewzqsyuc.link",
+      "99966.co.ewzqsyuc.link",
+      "5325.co.ewzqsyuc.link",
+      "555333.co.ewzqsyuc.link",
+      "5325333.co.ewzqsyuc.link",
+      "5325222.co.ewzqsyuc.link"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ewzqsyuc\\.link(?:\\.|$)",
+      "(?:^|\\.)ewzqsyuc[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "azurestaticapps.net",
+    "total_count": 12,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "thankful-ocean-05750070f.5.azurestaticapps.net",
+      "orange-bush-029afd30f.azurestaticapps.net",
+      "lively-bay-032fc9e0f.5.azurestaticapps.net",
+      "happy-ocean-08a657310.5.azurestaticapps.net",
+      "purple-glacier-06ce6e900.2.azurestaticapps.net",
+      "gray-hill-000172e10.3.azurestaticapps.net",
+      "calm-bay-09ae8d60f.4.azurestaticapps.net",
+      "proud-sand-0a8eab010.2.azurestaticapps.net",
+      "gray-glacier-0e4891a10.4.azurestaticapps.net",
+      "polite-water-04b272803.2.azurestaticapps.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)azurestaticapps\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "j0g0.com",
+    "total_count": 11,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "acc3lerat3-universe.j0g0.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)j0g0\\.com(?:\\.|$)",
+      "(?:^|\\.)j0g0[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "framer.app",
+    "total_count": 11,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "sites.framer.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)framer\\.app(?:\\.|$)",
+      "(?:^|\\.)framer[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bitly.com",
+    "total_count": 11,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "cname.bitly.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bitly\\.com(?:\\.|$)",
+      "(?:^|\\.)bitly[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "73054370.com",
+    "total_count": 11,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "354fc355.73054370.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)73054370\\.com(?:\\.|$)",
+      "(?:^|\\.)73054370[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hkcdn007.com",
+    "total_count": 11,
+    "provider_hint": "Scaleway S.a.s.",
+    "top_asn": {
+      "asn": 12876,
+      "org": "Scaleway S.a.s."
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "web07.hkcdn007.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hkcdn007\\.com(?:\\.|$)",
+      "(?:^|\\.)hkcdn007[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "perspective-dns.com",
+    "total_count": 11,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "cname.perspective-dns.com",
+      "funnel.perspective-dns.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)perspective\\-dns\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "6577hccdn.com",
+    "total_count": 11,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "jnbkcp8s.6577hccdn.com",
+      "79k4hsfx.6577hccdn.com",
+      "3m4e2ysp.6577hccdn.com",
+      "a8zykx6g.6577hccdn.com",
+      "92ymc3xf.6577hccdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)6577hccdn\\.com(?:\\.|$)",
+      "(?:^|\\.)6577hccdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xdnspack.com",
+    "total_count": 10,
+    "provider_hint": "NEBULA",
+    "top_asn": {
+      "asn": 140224,
+      "org": "NEBULA"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "1nfeuhsbas.xdnspack.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xdnspack\\.com(?:\\.|$)",
+      "(?:^|\\.)xdnspack[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "redirect.pizza",
+    "total_count": 10,
+    "provider_hint": "Enflow B.V.",
+    "top_asn": {
+      "asn": 209626,
+      "org": "Enflow B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "NL"
+    ],
+    "example_targets": [
+      "edge.redirect.pizza"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)redirect\\.pizza(?:\\.|$)",
+      "(?:^|\\.)redirect[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "akkk.cc",
+    "total_count": 10,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pao-hk.akkk.cc"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)akkk\\.cc(?:\\.|$)",
+      "(?:^|\\.)akkk[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "newexch.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.newexch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)newexch\\.com(?:\\.|$)",
+      "(?:^|\\.)newexch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "shortchange.me",
+    "total_count": 10,
+    "provider_hint": "DIGITALOCEAN-ASN",
+    "top_asn": {
+      "asn": 14061,
+      "org": "DIGITALOCEAN-ASN"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "shortchange.me"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)shortchange\\.me(?:\\.|$)",
+      "(?:^|\\.)shortchange[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "alb2-dnm-dev-161059128.us-east-1.elb.amazonaws.com",
+    "total_count": 10,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "alb2-dnm-dev-161059128.us-east-1.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)alb2\\-dnm\\-dev\\-161059128\\.us\\-east\\-1\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "abcexch.com",
+    "total_count": 10,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.abcexch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)abcexch\\.com(?:\\.|$)",
+      "(?:^|\\.)abcexch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "omutn.com",
+    "total_count": 10,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "9b331c1e.lalcsafeip.com.cname.omutn.com",
+      "5198926c.80195.co.cname.omutn.com",
+      "0b7cf525.lalcsafeip.com.cname.omutn.com",
+      "e1abd79b.lalcsafeip.com.cname.omutn.com",
+      "71087cab.73290.co.cname.omutn.com",
+      "726c9289.90628.co.cname.omutn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)omutn\\.com(?:\\.|$)",
+      "(?:^|\\.)omutn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "queniuaa.com",
+    "total_count": 10,
+    "provider_hint": "Zhejiang Taobao Network Co.,Ltd",
+    "top_asn": {
+      "asn": 24429,
+      "org": "Zhejiang Taobao Network Co.,Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "caogen8.co.queniuaa.com",
+      "rainhajogo.co.queniuaa.com",
+      "salam786.co.queniuaa.com",
+      "e-century.co.queniuaa.com",
+      "kkkboi.co.queniuaa.com",
+      "ginza8.co.queniuaa.com",
+      "tay777.co.queniuaa.com",
+      "betind.co.queniuaa.com",
+      "89f.co.queniuaa.com",
+      "keiya.co.queniuaa.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)queniuaa\\.com(?:\\.|$)",
+      "(?:^|\\.)queniuaa[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
