@@ -1,0 +1,42 @@
+[
+  {
+    "sld": "sa88566.com",
+    "total_count": 19,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "56tzsdrq-u.sa88566.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sa88566\\.com(?:\\.|$)",
+      "(?:^|\\.)sa88566[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 18,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "kongb-cdn-go.longteng-cdn.com",
+      "xpj-cdn-go.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  }
+]
