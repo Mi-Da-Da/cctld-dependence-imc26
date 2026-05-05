@@ -1,0 +1,196 @@
+[
+  {
+    "sld": "cloudflare.com",
+    "total_count": 148,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "keyla.ns.cloudflare.com",
+      "grant.ns.cloudflare.com",
+      "conrad.ns.cloudflare.com",
+      "margaret.ns.cloudflare.com",
+      "kallie.ns.cloudflare.com",
+      "phil.ns.cloudflare.com",
+      "dorthy.ns.cloudflare.com",
+      "lisa.ns.cloudflare.com",
+      "aitana.ns.cloudflare.com",
+      "sofia.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dns-parking.com",
+    "total_count": 66,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.dns-parking.com",
+      "ns1.dns-parking.com",
+      "orbit.dns-parking.com",
+      "horizon.dns-parking.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dns-parking.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "namecheaphosting.com",
+    "total_count": 30,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.namecheaphosting.com",
+      "dns2.namecheaphosting.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)namecheaphosting.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bluehost.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.bluehost.com",
+      "ns2.bluehost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bluehost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "techtime.me",
+    "total_count": 26,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.techtime.me",
+      "ns2.techtime.me"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)techtime.me(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vultr.com",
+    "total_count": 18,
+    "provider_hint": "AS-VULTR",
+    "top_asn": {
+      "asn": 20473,
+      "org": "AS-VULTR"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns1.vultr.com",
+      "ns2.vultr.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vultr.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hosteriq.com",
+    "total_count": 16,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4.hosteriq.com",
+      "ns1.hosteriq.com",
+      "ns3.hosteriq.com",
+      "ns2.hosteriq.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hosteriq.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "inmotionhosting.com",
+    "total_count": 12,
+    "provider_hint": "INMOTION",
+    "top_asn": {
+      "asn": 22611,
+      "org": "INMOTION"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4.inmotionhosting.com",
+      "ns3.inmotionhosting.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)inmotionhosting.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mysecurecloudhost.com",
+    "total_count": 12,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns3.mysecurecloudhost.com",
+      "ns1.mysecurecloudhost.com",
+      "ns2.mysecurecloudhost.com",
+      "ns4.mysecurecloudhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mysecurecloudhost.com(?:\\.|$)"
+    ]
+  }
+]
