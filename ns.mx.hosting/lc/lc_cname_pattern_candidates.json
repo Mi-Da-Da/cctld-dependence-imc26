@@ -1,0 +1,185 @@
+[
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 70,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "7ctd5nk4.aisdun-cname.com",
+      "vw45bqkc.aisdun-cname.com",
+      "cq79nera.aisdun-cname.com",
+      "e7pht94u.aisdun-cname.com",
+      "kj3dfsw9.aisdun-cname.com",
+      "ewt3q64r.aisdun-cname.com",
+      "sz32angq.aisdun-cname.com",
+      "ek3sfw9t.aisdun-cname.com",
+      "2yaspwqd.aisdun-cname.com",
+      "3kgcp7s9.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "park.io",
+    "total_count": 38,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cjahjqve.com",
+    "total_count": 19,
+    "provider_hint": "GNET INC.",
+    "top_asn": {
+      "asn": 9294,
+      "org": "GNET INC."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "6yfkhzqk.shaonvzb66.cjahjqve.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cjahjqve\\.com(?:\\.|$)",
+      "(?:^|\\.)cjahjqve[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns505.com",
+    "total_count": 18,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "tg-skip_5.outgedns505.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns505\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns505[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "wcdnga.com",
+    "total_count": 17,
+    "provider_hint": "ML-1432-54994",
+    "top_asn": {
+      "asn": 54994,
+      "org": "ML-1432-54994"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA",
+      "KR",
+      "US"
+    ],
+    "example_targets": [
+      "45.lc.wcdnga.com",
+      "70.lc.wcdnga.com",
+      "27.lc.wcdnga.com",
+      "25.lc.wcdnga.com",
+      "60.lc.wcdnga.com",
+      "92.lc.wcdnga.com",
+      "48.lc.wcdnga.com",
+      "94.lc.wcdnga.com",
+      "85.lc.wcdnga.com",
+      "54.lc.wcdnga.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)wcdnga\\.com(?:\\.|$)",
+      "(?:^|\\.)wcdnga[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "paike567.top",
+    "total_count": 13,
+    "provider_hint": "DMIT",
+    "top_asn": {
+      "asn": 906,
+      "org": "DMIT"
+    },
+    "pct": 0.923,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ssl.paike567.top",
+      "site1.paike567.top",
+      "302.paike567.top"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)paike567\\.top(?:\\.|$)",
+      "(?:^|\\.)paike567[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gocname.com",
+    "total_count": 10,
+    "provider_hint": "Skycloud Computing co., Ltd.",
+    "top_asn": {
+      "asn": 7483,
+      "org": "Skycloud Computing co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "TW"
+    ],
+    "example_targets": [
+      "tc183-site-03.gocname.com",
+      "sj38-site-01.gocname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gocname\\.com(?:\\.|$)",
+      "(?:^|\\.)gocname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 10,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "e5nvhp9f.zx770.com",
+      "prc9zq48.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
