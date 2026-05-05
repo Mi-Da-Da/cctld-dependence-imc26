@@ -1,0 +1,22 @@
+[
+  {
+    "sld": "domains.lk",
+    "total_count": 565,
+    "provider_hint": "BrainStorm Network, Inc",
+    "top_asn": {
+      "asn": 136258,
+      "org": "BrainStorm Network, Inc"
+    },
+    "pct": 1.0,
+    "countries": [
+      "FR"
+    ],
+    "example_targets": [
+      "suspend.domains.lk"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domains\\.lk(?:\\.|$)",
+      "(?:^|\\.)domains[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
