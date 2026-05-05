@@ -1,0 +1,31 @@
+[
+  {
+    "sld": "buyusdt.me",
+    "total_count": 10,
+    "provider_hint": "POWER LINE DATACENTER",
+    "top_asn": {
+      "asn": 132839,
+      "org": "POWER LINE DATACENTER"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "64274.ch.ttzb.buyusdt.me",
+      "31663.ch.ttzb.buyusdt.me",
+      "66724.ch.ttzb.buyusdt.me",
+      "80172.ch.ttzb.buyusdt.me",
+      "63872.ch.ttzb.buyusdt.me",
+      "04687.ch.ttzb.buyusdt.me",
+      "09752.ch.ttzb.buyusdt.me",
+      "72974.ch.ttzb.buyusdt.me",
+      "17685.ch.ttzb.buyusdt.me",
+      "36929.ch.ttzb.buyusdt.me"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)buyusdt\\.me(?:\\.|$)",
+      "(?:^|\\.)buyusdt[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
