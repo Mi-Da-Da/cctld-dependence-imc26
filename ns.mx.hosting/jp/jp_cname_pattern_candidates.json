@@ -1,0 +1,98 @@
+[
+  {
+    "sld": "aff-infra.net",
+    "total_count": 41,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "act-2-alias145.cn.aff-infra.net",
+      "service-2-100101.cn.aff-infra.net",
+      "act-2-alias138.cn.aff-infra.net",
+      "act-2-alias139.cn.aff-infra.net",
+      "act-2-alias150.cn.aff-infra.net",
+      "act-2-alias123.cn.aff-infra.net",
+      "act-2-alias149.cn.aff-infra.net",
+      "act-2-alias106.cn.aff-infra.net",
+      "act-2-alias103.cn.aff-infra.net",
+      "act-2-alias146.cn.aff-infra.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aff\\-infra\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns770.com",
+    "total_count": 13,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "xt_skip.outgedns770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns770\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sakura.ne.jp",
+    "total_count": 11,
+    "provider_hint": "SAKURA Internet Inc.",
+    "top_asn": {
+      "asn": 9371,
+      "org": "SAKURA Internet Inc."
+    },
+    "pct": 0.818,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "gj4u01.sakura.ne.jp",
+      "nkoz01.sakura.ne.jp",
+      "jjcakes.sakura.ne.jp",
+      "dsl.sakura.ne.jp",
+      "kingsley.sakura.ne.jp",
+      "ifarm-jp.sakura.ne.jp",
+      "www2423gj.sakura.ne.jp",
+      "www1839.sakura.ne.jp",
+      "www-soramichi.sakura.ne.jp",
+      "mcs01.sakura.ne.jp"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sakura\\.ne\\.jp(?:\\.|$)",
+      "(?:^|\\.)sakura[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cp-1811246012.ap-northeast-1.elb.amazonaws.com",
+    "total_count": 10,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "CP-1811246012.ap-northeast-1.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cp\\-1811246012\\.ap\\-northeast\\-1\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  }
+]
