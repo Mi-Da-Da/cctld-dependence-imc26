@@ -1,0 +1,142 @@
+[
+  {
+    "sld": "outgedns770.com",
+    "total_count": 54,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "xt_skip.outgedns770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns770\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns505.com",
+    "total_count": 26,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CH"
+    ],
+    "example_targets": [
+      "tg-skip_5.outgedns505.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns505\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns505[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic7.com",
+    "total_count": 21,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic7.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic7\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic7[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zus.com",
+    "total_count": 15,
+    "provider_hint": "Extraordinary Managed Services Ltd",
+    "top_asn": {
+      "asn": 30827,
+      "org": "Extraordinary Managed Services Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "GB"
+    ],
+    "example_targets": [
+      "c.zus.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zus\\.com(?:\\.|$)",
+      "(?:^|\\.)zus[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xmocloud01.com",
+    "total_count": 11,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "4y8raepc-u.xmocloud01.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xmocloud01\\.com(?:\\.|$)",
+      "(?:^|\\.)xmocloud01[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 11,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xz.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "orionxyz.com",
+    "total_count": 10,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "qbughkqf.orionxyz.com",
+      "tosnwvny.orionxyz.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)orionxyz\\.com(?:\\.|$)",
+      "(?:^|\\.)orionxyz[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
