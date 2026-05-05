@@ -1,0 +1,42 @@
+[
+  {
+    "sld": "orionxyz.com",
+    "total_count": 16,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "lbvwheto.orionxyz.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)orionxyz\\.com(?:\\.|$)",
+      "(?:^|\\.)orionxyz[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cname66.com",
+    "total_count": 15,
+    "provider_hint": "ANTI-DDOS",
+    "top_asn": {
+      "asn": 35251,
+      "org": "ANTI-DDOS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "tianxia.cname66.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cname66\\.com(?:\\.|$)",
+      "(?:^|\\.)cname66[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
