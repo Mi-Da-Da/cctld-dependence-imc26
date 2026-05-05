@@ -1,0 +1,238 @@
+[
+  {
+    "sld": "park.io",
+    "total_count": 62,
+    "provider_hint": "AMAZON-AES",
+    "top_asn": {
+      "asn": 14618,
+      "org": "AMAZON-AES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "park.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)park\\.io(?:\\.|$)",
+      "(?:^|\\.)park[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "3bhxcdn.com",
+    "total_count": 31,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "3bnew.3bhxcdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)3bhxcdn\\.com(?:\\.|$)",
+      "(?:^|\\.)3bhxcdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "xmocloud02.com",
+    "total_count": 29,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 0.931,
+    "countries": [
+      "HK",
+      "US"
+    ],
+    "example_targets": [
+      "mhbe24tc.xmocloud02.com",
+      "dymk2cg7.xmocloud02.com",
+      "3evnuprk.xmocloud02.com",
+      "cubj95m4.xmocloud02.com",
+      "uh2zv6t7.xmocloud02.com",
+      "97xpwad8.xmocloud02.com",
+      "dykhj8ev.xmocloud02.com",
+      "acq9ve3d.xmocloud02.com",
+      "vj8agq7x.xmocloud02.com",
+      "3265bgvw.xmocloud02.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)xmocloud02\\.com(?:\\.|$)",
+      "(?:^|\\.)xmocloud02[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sa99566.com",
+    "total_count": 16,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "mt69zwh7.sa99566.com",
+      "5qr6m4zd.sa99566.com",
+      "ev6h74y8.sa99566.com",
+      "fgm3zwdt.sa99566.com",
+      "mty4n8jg.sa99566.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sa99566\\.com(?:\\.|$)",
+      "(?:^|\\.)sa99566[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "aisdun-cname.com",
+    "total_count": 16,
+    "provider_hint": "NTT-DATA-2914",
+    "top_asn": {
+      "asn": 2914,
+      "org": "NTT-DATA-2914"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BG"
+    ],
+    "example_targets": [
+      "rjz8hwd2.aisdun-cname.com",
+      "mfzxkash.aisdun-cname.com",
+      "564tnjzy.aisdun-cname.com",
+      "n4sdzyum.aisdun-cname.com",
+      "f3hpd75c.aisdun-cname.com",
+      "4sy97aev.aisdun-cname.com",
+      "dkqwpav9.aisdun-cname.com",
+      "75yb3qwg.aisdun-cname.com",
+      "46wp7yuk.aisdun-cname.com",
+      "r48bnq2a.aisdun-cname.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)aisdun\\-cname\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hx6699cdn.com",
+    "total_count": 15,
+    "provider_hint": "POWER LINE DATACENTER",
+    "top_asn": {
+      "asn": 132839,
+      "org": "POWER LINE DATACENTER"
+    },
+    "pct": 1.0,
+    "countries": [
+      "ZA"
+    ],
+    "example_targets": [
+      "hxabtg168nps.hx6699cdn.com",
+      "ioabtgzycki.hx6699cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hx6699cdn\\.com(?:\\.|$)",
+      "(?:^|\\.)hx6699cdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnscdn188.com",
+    "total_count": 15,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 0.933,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "samqyjd3.n.dnscdn188.com",
+      "6nh4zwkq.n.dnscdn188.com",
+      "hyp5edm9.n.dnscdn188.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnscdn188\\.com(?:\\.|$)",
+      "(?:^|\\.)dnscdn188[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "78999a.com",
+    "total_count": 14,
+    "provider_hint": "Yancy Limited",
+    "top_asn": {
+      "asn": 138415,
+      "org": "Yancy Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK",
+      "KR",
+      "US"
+    ],
+    "example_targets": [
+      "9bjg2k5e.78999a.com",
+      "76w8fn4p.78999a.com",
+      "r7qu2jkf.78999a.com",
+      "ra9q453m.78999a.com",
+      "ytu5d6wc.78999a.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)78999a\\.com(?:\\.|$)",
+      "(?:^|\\.)78999a[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 12,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xpj-cdn-go.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 11,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "6twq2cev.zx770.com",
+      "p2bsantd.zx770.com",
+      "cfuayre7.zx770.com",
+      "mzh23ad9.zx770.com",
+      "9juhvyce.zx770.com",
+      "wkmy9b7q.zx770.com",
+      "csjqn6b7.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
