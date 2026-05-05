@@ -1,0 +1,21 @@
+[
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 12,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xpj-cdn-go.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  }
+]
