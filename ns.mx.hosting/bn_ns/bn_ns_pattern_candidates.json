@@ -1,0 +1,138 @@
+[
+  {
+    "sld": "101domain.com",
+    "total_count": 30,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns1.101domain.com",
+      "ns5.101domain.com",
+      "ns2.101domain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)101domain.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "oraclecloud.net",
+    "total_count": 28,
+    "provider_hint": "ORACLE-BMC-31898",
+    "top_asn": {
+      "asn": 31898,
+      "org": "ORACLE-BMC-31898"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.p201.dns.oraclecloud.net",
+      "ns1.p201.dns.oraclecloud.net",
+      "ns4.p201.dns.oraclecloud.net",
+      "ns3.p201.dns.oraclecloud.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)oraclecloud.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudflare.com",
+    "total_count": 26,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "cosmin.ns.cloudflare.com",
+      "vin.ns.cloudflare.com",
+      "alexis.ns.cloudflare.com",
+      "trey.ns.cloudflare.com",
+      "damian.ns.cloudflare.com",
+      "clint.ns.cloudflare.com",
+      "james.ns.cloudflare.com",
+      "ganz.ns.cloudflare.com",
+      "garrett.ns.cloudflare.com",
+      "zainab.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "trademarkarea.com",
+    "total_count": 21,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns02.trademarkarea.com",
+      "ns03.trademarkarea.com",
+      "ns01.trademarkarea.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)trademarkarea.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "duxhub.com",
+    "total_count": 20,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns4.duxhub.com",
+      "ns3.duxhub.com",
+      "ns2.duxhub.com",
+      "ns1.duxhub.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)duxhub.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "brunet.bn",
+    "total_count": 14,
+    "provider_hint": "Unified National Networks",
+    "top_asn": {
+      "asn": 10094,
+      "org": "Unified National Networks"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BN"
+    ],
+    "example_targets": [
+      "pt01.brunet.bn",
+      "ns104.brunet.bn",
+      "pt02.brunet.bn",
+      "ns204.brunet.bn"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)brunet.bn(?:\\.|$)"
+    ]
+  }
+]
