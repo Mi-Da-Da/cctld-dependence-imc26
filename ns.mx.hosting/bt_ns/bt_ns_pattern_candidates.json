@@ -1,0 +1,303 @@
+[
+  {
+    "sld": "druknet.bt",
+    "total_count": 966,
+    "provider_hint": "Bhutan Telecom Ltd",
+    "top_asn": {
+      "asn": 18024,
+      "org": "Bhutan Telecom Ltd"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BT"
+    ],
+    "example_targets": [
+      "ns1.druknet.bt",
+      "ns2.druknet.bt"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)druknet.bt(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudflare.com",
+    "total_count": 146,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "karl.ns.cloudflare.com",
+      "kara.ns.cloudflare.com",
+      "gabe.ns.cloudflare.com",
+      "maeve.ns.cloudflare.com",
+      "nitin.ns.cloudflare.com",
+      "colette.ns.cloudflare.com",
+      "savanna.ns.cloudflare.com",
+      "autumn.ns.cloudflare.com",
+      "tegan.ns.cloudflare.com",
+      "darl.ns.cloudflare.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "neyduetewa.gov.bt",
+    "total_count": 38,
+    "provider_hint": "Government Data Center DITTMoIC",
+    "top_asn": {
+      "asn": 135666,
+      "org": "Government Data Center DITTMoIC"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BT"
+    ],
+    "example_targets": [
+      "ns1.neyduetewa.gov.bt",
+      "ns2.neyduetewa.gov.bt"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)neyduetewa.gov.bt(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bluehost.com",
+    "total_count": 24,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.bluehost.com",
+      "ns1.bluehost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bluehost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tashicell.com",
+    "total_count": 18,
+    "provider_hint": "Tashi InfoComm Limited",
+    "top_asn": {
+      "asn": 23955,
+      "org": "Tashi InfoComm Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "BT"
+    ],
+    "example_targets": [
+      "dns2.tashicell.com",
+      "dns1.tashicell.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tashicell.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "akam.net",
+    "total_count": 18,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 21342,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US",
+      "NL"
+    ],
+    "example_targets": [
+      "a5-65.akam.net",
+      "a7-64.akam.net",
+      "a4-67.akam.net",
+      "a4-64.akam.net",
+      "a1-226.akam.net",
+      "a9-67.akam.net",
+      "a1-103.akam.net",
+      "a10-66.akam.net",
+      "a13-65.akam.net",
+      "a22-65.akam.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)akam.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "nsone.net",
+    "total_count": 16,
+    "provider_hint": "NSONE",
+    "top_asn": {
+      "asn": 62597,
+      "org": "NSONE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns4.p07.nsone.net",
+      "dns2.p07.nsone.net",
+      "dns1.p02.nsone.net",
+      "dns1.p06.nsone.net",
+      "dns4.p02.nsone.net",
+      "dns2.p06.nsone.net",
+      "dns1.p07.nsone.net",
+      "dns3.p06.nsone.net",
+      "dns2.p02.nsone.net",
+      "dns4.p06.nsone.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nsone.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "101domain.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns2.101domain.com",
+      "ns1.101domain.com",
+      "ns5.101domain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)101domain.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "digitalocean.com",
+    "total_count": 12,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "ns3.digitalocean.com",
+      "ns2.digitalocean.com",
+      "ns1.digitalocean.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)digitalocean.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 12,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.google.com",
+      "ns3.google.com",
+      "ns1.google.com",
+      "ns4.google.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mysecurecloudhost.com",
+    "total_count": 12,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns2.mysecurecloudhost.com",
+      "ns1.mysecurecloudhost.com",
+      "ns3.mysecurecloudhost.com",
+      "ns4.mysecurecloudhost.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mysecurecloudhost.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "domaincontrol.com",
+    "total_count": 12,
+    "provider_hint": "Host Europe GmbH",
+    "top_asn": {
+      "asn": 44273,
+      "org": "Host Europe GmbH"
+    },
+    "pct": 0.833,
+    "countries": [
+      "US",
+      "Unknown"
+    ],
+    "example_targets": [
+      "ns04.domaincontrol.com",
+      "pdns03.domaincontrol.com",
+      "ns48.domaincontrol.com",
+      "ns47.domaincontrol.com",
+      "pdns04.domaincontrol.com",
+      "ns03.domaincontrol.com",
+      "ns3.domaincontrol.com",
+      "ns32.domaincontrol.com",
+      "ns31.domaincontrol.com",
+      "ns71.domaincontrol.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)domaincontrol.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cscdns.net",
+    "total_count": 10,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.cscdns.net",
+      "dns2.cscdns.net",
+      "udns1.cscdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cscdns.net(?:\\.|$)"
+    ]
+  }
+]
