@@ -1,0 +1,522 @@
+[
+  {
+    "sld": "bodis.com",
+    "total_count": 450,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "97309.bodis.com",
+      "74428.bodis.com",
+      "82774.BODIS.COM",
+      "11776.BODIS.com",
+      "21900.bodis.com",
+      "96421.BODIS.COM"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "00714.com",
+    "total_count": 56,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "00714.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)00714\\.com(?:\\.|$)",
+      "(?:^|\\.)00714[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "travelyaari.com",
+    "total_count": 28,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "microsites.travelyaari.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)travelyaari\\.com(?:\\.|$)",
+      "(?:^|\\.)travelyaari[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bck-bet.com",
+    "total_count": 27,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "hk.bck-bet.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bck\\-bet\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "itgd-misc1-lb1-2146508248.ap-southeast-1.elb.amazonaws.com",
+    "total_count": 26,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "itgd-misc1-lb1-2146508248.ap-southeast-1.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)itgd\\-misc1\\-lb1\\-2146508248\\.ap\\-southeast\\-1\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "myshopify.com",
+    "total_count": 23,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CA"
+    ],
+    "example_targets": [
+      "autoglam-1.myshopify.com",
+      "shops.myshopify.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)myshopify\\.com(?:\\.|$)",
+      "(?:^|\\.)myshopify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "in.s3-website.ap-south-1.amazonaws.com",
+    "total_count": 23,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IN"
+    ],
+    "example_targets": [
+      "www.amsbullion.in.s3-website.ap-south-1.amazonaws.com",
+      "heartpad.in.s3-website.ap-south-1.amazonaws.com",
+      "www.gkgold.in.s3-website.ap-south-1.amazonaws.com",
+      "www.kalpjewels.in.s3-website.ap-south-1.amazonaws.com",
+      "www.kaveribullion.in.s3-website.ap-south-1.amazonaws.com",
+      "www.miragold.in.s3-website.ap-south-1.amazonaws.com",
+      "www.aishwaryagold.in.s3-website.ap-south-1.amazonaws.com",
+      "www.nakshatrajewellers.in.s3-website.ap-south-1.amazonaws.com",
+      "agarwaljewellers.in.s3-website.ap-south-1.amazonaws.com",
+      "www.sonalijewellers.in.s3-website.ap-south-1.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)in\\.s3\\-website\\.ap\\-south\\-1\\.amazonaws\\.com(?:\\.|$)",
+      "(?:^|\\.)in[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 22,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "google.com",
+      "ghs.google.com",
+      "pub-7347109061593079.afd.ghs.google.com",
+      "www.google.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google\\.com(?:\\.|$)",
+      "(?:^|\\.)google[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gname.net",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "sp.gname.net",
+      "url.gname.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gname\\.net(?:\\.|$)",
+      "(?:^|\\.)gname[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudflare.net",
+    "total_count": 18,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "theartistree.in.cdn.cloudflare.net",
+      "housting.in.cdn.cloudflare.net",
+      "dytt.xyz.cdn.cloudflare.net",
+      "riskreward.in.cdn.cloudflare.net",
+      "iamsaurav.in.cdn.cloudflare.net",
+      "saishirdi.in.cdn.cloudflare.net",
+      "cloudninecomforts.in.cdn.cloudflare.net",
+      "netally.in.cdn.cloudflare.net",
+      "adorz.in.cdn.cloudflare.net",
+      "wayi.in.cdn.cloudflare.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudflare\\.net(?:\\.|$)",
+      "(?:^|\\.)cloudflare[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "railway.app",
+    "total_count": 18,
+    "provider_hint": "RAILWAY",
+    "top_asn": {
+      "asn": 400940,
+      "org": "RAILWAY"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "zssbo11l.up.railway.app",
+      "f6vd7e25.up.railway.app",
+      "i8thv76k.up.railway.app",
+      "sdhyczus.up.railway.app",
+      "un8u4a85.up.railway.app",
+      "u4yorjww.up.railway.app",
+      "8alzg58y.up.railway.app",
+      "pmhmekax.up.railway.app",
+      "oneauth-production.up.railway.app",
+      "9egbe69j.up.railway.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)railway\\.app(?:\\.|$)",
+      "(?:^|\\.)railway[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white55exch.com",
+    "total_count": 17,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white55exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white55exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white55exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "googlehosted.com",
+    "total_count": 16,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "www.ghs.googlehosted.com",
+      "ghs.googlehosted.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)googlehosted\\.com(?:\\.|$)",
+      "(?:^|\\.)googlehosted[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "chirayusoft.com",
+    "total_count": 16,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IN"
+    ],
+    "example_targets": [
+      "webserver2.chirayusoft.com",
+      "webserver5.chirayusoft.com",
+      "webserver4.chirayusoft.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)chirayusoft\\.com(?:\\.|$)",
+      "(?:^|\\.)chirayusoft[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "white11exch.com",
+    "total_count": 15,
+    "provider_hint": "CLOUDFLARENET",
+    "top_asn": {
+      "asn": 13335,
+      "org": "CLOUDFLARENET"
+    },
+    "pct": 1.0,
+    "countries": [
+      null
+    ],
+    "example_targets": [
+      "fallback.white11exch.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)white11exch\\.com(?:\\.|$)",
+      "(?:^|\\.)white11exch[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic35.com",
+    "total_count": 15,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic35.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic35\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic35[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "feicdn.net",
+    "total_count": 15,
+    "provider_hint": "GORILLASERVERS",
+    "top_asn": {
+      "asn": 53850,
+      "org": "GORILLASERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "580c41fa.feicdn.net",
+      "f869d4fb.feicdn.net",
+      "32d80156.feicdn.net",
+      "2cac9055.feicdn.net",
+      "ee7a0453.feicdn.net",
+      "14cff7b6.feicdn.net",
+      "c3e97e95.feicdn.net",
+      "61518c12.feicdn.net",
+      "21c74fe3.feicdn.net",
+      "5643cd84.feicdn.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)feicdn\\.net(?:\\.|$)",
+      "(?:^|\\.)feicdn[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "digitalshowroom.app",
+    "total_count": 14,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "IN"
+    ],
+    "example_targets": [
+      "cname-2.live.digitalshowroom.app",
+      "cname-1.live.digitalshowroom.app",
+      "cname-4.live.digitalshowroom.app",
+      "cname-3.live.digitalshowroom.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)digitalshowroom\\.app(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "netlify.app",
+    "total_count": 14,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "jalyan.netlify.app",
+      "solarxplorer.netlify.app",
+      "aniketjain.netlify.app",
+      "phenomenal-longma-5c93af.netlify.app",
+      "sparkly-lebkuchen-735938.netlify.app",
+      "brandslate.netlify.app",
+      "elaborate-blancmange-c511fc.netlify.app",
+      "uttamdiarylanding.netlify.app",
+      "melodic-monstera-39025e.netlify.app",
+      "guideflow-production.netlify.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)netlify\\.app(?:\\.|$)",
+      "(?:^|\\.)netlify[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fq5uyfsb384w.com",
+    "total_count": 12,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "dafa5188.fq5uyfsb384w.com",
+      "abc225.fq5uyfsb384w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fq5uyfsb384w\\.com(?:\\.|$)",
+      "(?:^|\\.)fq5uyfsb384w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnskong.ru",
+    "total_count": 10,
+    "provider_hint": "HOSTHATCH",
+    "top_asn": {
+      "asn": 63473,
+      "org": "HOSTHATCH"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "tieiii.dnskong.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnskong\\.ru(?:\\.|$)",
+      "(?:^|\\.)dnskong[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "hyl90.com",
+    "total_count": 10,
+    "provider_hint": "COGENT-174",
+    "top_asn": {
+      "asn": 174,
+      "org": "COGENT-174"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "tiaotiaoz.hyl90.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)hyl90\\.com(?:\\.|$)",
+      "(?:^|\\.)hyl90[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "sdfgxvbsedfrg.com",
+    "total_count": 10,
+    "provider_hint": "PEG-HK",
+    "top_asn": {
+      "asn": 398478,
+      "org": "PEG-HK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "104.sdfgxvbsedfrg.com",
+      "103.sdfgxvbsedfrg.com",
+      "102.sdfgxvbsedfrg.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)sdfgxvbsedfrg\\.com(?:\\.|$)"
+    ]
+  }
+]
