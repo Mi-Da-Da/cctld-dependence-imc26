@@ -1,0 +1,40 @@
+[
+  {
+    "sld": "nta.mh",
+    "total_count": 11,
+    "provider_hint": "MARSHALL ISLANDS NTA ISP AS",
+    "top_asn": {
+      "asn": 24439,
+      "org": "MARSHALL ISLANDS NTA ISP AS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MH"
+    ],
+    "example_targets": [
+      "ns.nta.mh"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)nta.mh(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "amarshallinc.com",
+    "total_count": 11,
+    "provider_hint": "UUNET",
+    "top_asn": {
+      "asn": 701,
+      "org": "UUNET"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns.amarshallinc.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)amarshallinc.com(?:\\.|$)"
+    ]
+  }
+]
