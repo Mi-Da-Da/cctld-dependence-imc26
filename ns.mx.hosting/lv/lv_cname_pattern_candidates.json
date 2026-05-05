@@ -1,0 +1,166 @@
+[
+  {
+    "sld": "longteng-cdn.com",
+    "total_count": 140,
+    "provider_hint": "Netsec Limited",
+    "top_asn": {
+      "asn": 45753,
+      "org": "Netsec Limited"
+    },
+    "pct": 0.986,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "xz.longteng-cdn.com",
+      "xpj-cdn-go.longteng-cdn.com",
+      "kongb-cdn-go.longteng-cdn.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)longteng\\-cdn\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "rh2lqcbqssfb.com",
+    "total_count": 24,
+    "provider_hint": "CTG Server Limited",
+    "top_asn": {
+      "asn": 152194,
+      "org": "CTG Server Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "SG"
+    ],
+    "example_targets": [
+      "huhu666.rh2lqcbqssfb.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)rh2lqcbqssfb\\.com(?:\\.|$)",
+      "(?:^|\\.)rh2lqcbqssfb[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fq5uyfsb384w.com",
+    "total_count": 16,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "abc25.fq5uyfsb384w.com",
+      "dafa5188.fq5uyfsb384w.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fq5uyfsb384w\\.com(?:\\.|$)",
+      "(?:^|\\.)fq5uyfsb384w[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "npud450c.com",
+    "total_count": 15,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "PL"
+    ],
+    "example_targets": [
+      "http-301_0.npud450c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)npud450c\\.com(?:\\.|$)",
+      "(?:^|\\.)npud450c[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "thewaydomain.com",
+    "total_count": 13,
+    "provider_hint": "Skycloud Computing co., Ltd.",
+    "top_asn": {
+      "asn": 7483,
+      "org": "Skycloud Computing co., Ltd."
+    },
+    "pct": 1.0,
+    "countries": [
+      "TW"
+    ],
+    "example_targets": [
+      "antiblocking.thewaydomain.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)thewaydomain\\.com(?:\\.|$)",
+      "(?:^|\\.)thewaydomain[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ddge.ru",
+    "total_count": 13,
+    "provider_hint": "Cloudie Limited",
+    "top_asn": {
+      "asn": 55933,
+      "org": "Cloudie Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "ffvip.ddge.ru"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ddge\\.ru(?:\\.|$)",
+      "(?:^|\\.)ddge[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zx770.com",
+    "total_count": 13,
+    "provider_hint": "Dimension Network & Communication Limited",
+    "top_asn": {
+      "asn": 59371,
+      "org": "Dimension Network & Communication Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "u7jge2nm.zx770.com",
+      "wt9yzace.zx770.com",
+      "5tp4sk8m.zx770.com",
+      "b9gd2ar7.zx770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zx770\\.com(?:\\.|$)",
+      "(?:^|\\.)zx770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "fdfdsjfs7jbffd.com",
+    "total_count": 10,
+    "provider_hint": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "top_asn": {
+      "asn": 8075,
+      "org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+    },
+    "pct": 1.0,
+    "countries": [
+      "HK"
+    ],
+    "example_targets": [
+      "166218c9.fdfdsjfs7jbffd.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)fdfdsjfs7jbffd\\.com(?:\\.|$)"
+    ]
+  }
+]
