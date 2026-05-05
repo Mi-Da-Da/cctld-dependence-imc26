@@ -1,0 +1,62 @@
+[
+  {
+    "sld": "npud450c.com",
+    "total_count": 17,
+    "provider_hint": "unknown",
+    "top_asn": {
+      "asn": "unknown",
+      "org": "unknown"
+    },
+    "pct": 1.0,
+    "countries": [
+      "PL"
+    ],
+    "example_targets": [
+      "http-301_0.npud450c.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)npud450c\\.com(?:\\.|$)",
+      "(?:^|\\.)npud450c[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "outgedns770.com",
+    "total_count": 15,
+    "provider_hint": "Alsycon B.V.",
+    "top_asn": {
+      "asn": 49870,
+      "org": "Alsycon B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "xt_skip.outgedns770.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)outgedns770\\.com(?:\\.|$)",
+      "(?:^|\\.)outgedns770[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "gvip.nl",
+    "total_count": 14,
+    "provider_hint": "Kaopu Cloud HK Limited",
+    "top_asn": {
+      "asn": 138915,
+      "org": "Kaopu Cloud HK Limited"
+    },
+    "pct": 1.0,
+    "countries": [
+      "PH"
+    ],
+    "example_targets": [
+      "tieseven.gvip.nl"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)gvip\\.nl(?:\\.|$)",
+      "(?:^|\\.)gvip[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
