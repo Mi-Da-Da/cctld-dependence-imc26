@@ -1,0 +1,126 @@
+[
+  {
+    "sld": "prensaiberica.es",
+    "total_count": 40,
+    "provider_hint": "Telefonica De Espana S.a.u.",
+    "top_asn": {
+      "asn": 3352,
+      "org": "Telefonica De Espana S.a.u."
+    },
+    "pct": 1.0,
+    "countries": [
+      "ES"
+    ],
+    "example_targets": [
+      "balanceowww.prensaiberica.es"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)prensaiberica\\.es(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnscdn188.com",
+    "total_count": 32,
+    "provider_hint": "Cloudflare London, LLC",
+    "top_asn": {
+      "asn": 209242,
+      "org": "Cloudflare London, LLC"
+    },
+    "pct": 0.969,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "hyp5edm9.n.dnscdn188.com",
+      "m5e9yctq.n.dnscdn188.com",
+      "6nh4zwkq.n.dnscdn188.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnscdn188\\.com(?:\\.|$)",
+      "(?:^|\\.)dnscdn188[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "pltraffic35.com",
+    "total_count": 24,
+    "provider_hint": "Akamai Connected Cloud",
+    "top_asn": {
+      "asn": 63949,
+      "org": "Akamai Connected Cloud"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "pltraffic35.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)pltraffic35\\.com(?:\\.|$)",
+      "(?:^|\\.)pltraffic35[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "zdegh279no5x.com",
+    "total_count": 14,
+    "provider_hint": "CNSERVERS",
+    "top_asn": {
+      "asn": 40065,
+      "org": "CNSERVERS"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "jshdkh565.zdegh279no5x.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)zdegh279no5x\\.com(?:\\.|$)",
+      "(?:^|\\.)zdegh279no5x[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "bodis.com",
+    "total_count": 11,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "89765.BODIS.COM",
+      "11776.BODIS.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)bodis\\.com(?:\\.|$)",
+      "(?:^|\\.)bodis[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "vkoopp.com",
+    "total_count": 10,
+    "provider_hint": "MYTEK TRADING PTY LTD",
+    "top_asn": {
+      "asn": 132825,
+      "org": "MYTEK TRADING PTY LTD"
+    },
+    "pct": 1.0,
+    "countries": [
+      "MY"
+    ],
+    "example_targets": [
+      "xm1-64c0rc.vkoopp.com",
+      "wb2-l5oeg0.vkoopp.com",
+      "wb3-n21y83.vkoopp.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)vkoopp\\.com(?:\\.|$)",
+      "(?:^|\\.)vkoopp[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
