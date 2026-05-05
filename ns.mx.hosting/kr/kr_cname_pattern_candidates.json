@@ -1,0 +1,290 @@
+[
+  {
+    "sld": "tistory.io",
+    "total_count": 1160,
+    "provider_hint": "Kakao Corp",
+    "top_asn": {
+      "asn": 7625,
+      "org": "Kakao Corp"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "host.tistory.io"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tistory\\.io(?:\\.|$)",
+      "(?:^|\\.)tistory[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "dnstool.net",
+    "total_count": 113,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR",
+      "IN"
+    ],
+    "example_targets": [
+      "forward.dnstool.net",
+      "parking3.dnstool.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)dnstool\\.net(?:\\.|$)",
+      "(?:^|\\.)dnstool[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "tistory.com",
+    "total_count": 50,
+    "provider_hint": "Kakao Corp",
+    "top_asn": {
+      "asn": 7625,
+      "org": "Kakao Corp"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "blog.tistory.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)tistory\\.com(?:\\.|$)",
+      "(?:^|\\.)tistory[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "real-alb-49294726.ap-northeast-2.elb.amazonaws.com",
+    "total_count": 45,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "real-alb-49294726.ap-northeast-2.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)real\\-alb\\-49294726\\.ap\\-northeast\\-2\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "mvwiz-dns.net",
+    "total_count": 43,
+    "provider_hint": "Korea Telecom",
+    "top_asn": {
+      "asn": 4766,
+      "org": "Korea Telecom"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "ns1.mvwiz-dns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)mvwiz\\-dns\\.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "iwinv.net",
+    "total_count": 27,
+    "provider_hint": "SMILESERV",
+    "top_asn": {
+      "asn": 38700,
+      "org": "SMILESERV"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "heavenletter.iwinv.net",
+      "yoa356.iwinv.net",
+      "backpick.iwinv.net",
+      "linking.iwinv.net",
+      "stressfree.iwinv.net",
+      "miningcalc.iwinv.net",
+      "thezal.iwinv.net",
+      "jindol.iwinv.net",
+      "priceshare.iwinv.net",
+      "uwchkr.iwinv.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)iwinv\\.net(?:\\.|$)",
+      "(?:^|\\.)iwinv[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "iwinv.kr",
+    "total_count": 22,
+    "provider_hint": "SMILESERV",
+    "top_asn": {
+      "asn": 38700,
+      "org": "SMILESERV"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "parking.iwinv.kr",
+      "forwarding.iwinv.kr",
+      "gov.iwinv.kr"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)iwinv\\.kr(?:\\.|$)",
+      "(?:^|\\.)iwinv[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cloudtype.app",
+    "total_count": 22,
+    "provider_hint": "GOOGLE-CLOUD-PLATFORM",
+    "top_asn": {
+      "asn": 396982,
+      "org": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "m1oid3hq64a5b55a.sel4.cloudtype.app",
+      "m73167z2015354c3.sel4.cloudtype.app",
+      "754g42alurkgv39.sel5.cloudtype.app",
+      "m4y76hl943327b07.sel4.cloudtype.app",
+      "o0ynn2alrrmjvoe.sel5.cloudtype.app",
+      "mbrigb1v68e9ee27.sel4.cloudtype.app",
+      "m23konqi92284458.sel4.cloudtype.app",
+      "485qr6p2lls8rdyqx.sel5.cloudtype.app",
+      "mbu57ghk4b06b504.sel4.cloudtype.app",
+      "mbj67og1d83b600c.sel4.cloudtype.app"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cloudtype\\.app(?:\\.|$)",
+      "(?:^|\\.)cloudtype[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "googlehosted.com",
+    "total_count": 13,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ghs.googlehosted.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)googlehosted\\.com(?:\\.|$)",
+      "(?:^|\\.)googlehosted[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "google.com",
+    "total_count": 12,
+    "provider_hint": "GOOGLE",
+    "top_asn": {
+      "asn": 15169,
+      "org": "GOOGLE"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ghs.google.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)google\\.com(?:\\.|$)",
+      "(?:^|\\.)google[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "joagift-lb-05-625603436.ap-northeast-2.elb.amazonaws.com",
+    "total_count": 12,
+    "provider_hint": "AMAZON-02",
+    "top_asn": {
+      "asn": 16509,
+      "org": "AMAZON-02"
+    },
+    "pct": 1.0,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "joagift-lb-05-625603436.ap-northeast-2.elb.amazonaws.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)joagift\\-lb\\-05\\-625603436\\.ap\\-northeast\\-2\\.elb\\.amazonaws\\.com(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "naverncp.com",
+    "total_count": 11,
+    "provider_hint": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+    "top_asn": {
+      "asn": 135354,
+      "org": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD."
+    },
+    "pct": 0.909,
+    "countries": [
+      "KR"
+    ],
+    "example_targets": [
+      "ing-webservice-albvsaidt-80c5f-102347342-b9e1d311fc55.kr.lb.naverncp.com",
+      "kr-9248-sm-prd-lb-04-1506105-d048c088cac9.kr-gov.lb.naverncp.com",
+      "sm-waf-alb-01-7129-2688488-e7b8e997c8f6.kr-gov.lb.naverncp.com",
+      "gmpl-23069418-3fefe48c0a81.kr-fin.lb.naverncp.com",
+      "alb-prod-web-20473565-afc275e9b5e5.kr.lb.naverncp.com",
+      "sobridge-alb-11907545-0a256c0a059d.kr.lb.naverncp.com",
+      "hleague-web-lb-20068051-01721ee8b83f.kr.lb.naverncp.com",
+      "kr-9248-sm-prd-lb-01-1480951-09d84560a689.kr-gov.lb.naverncp.com",
+      "kr-3197398-sm-prd-lb-01-22375094-78e04df70b21.kr.lb.naverncp.com",
+      "kr-8970-sm-prd-lb-01-1332925-abc092ce760f.kr-gov.lb.naverncp.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)naverncp\\.com(?:\\.|$)",
+      "(?:^|\\.)naverncp[a-z0-9-]*?(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "ddnayo.com",
+    "total_count": 10,
+    "provider_hint": "Akamai International B.V.",
+    "top_asn": {
+      "asn": 20940,
+      "org": "Akamai International B.V."
+    },
+    "pct": 1.0,
+    "countries": [
+      "JP"
+    ],
+    "example_targets": [
+      "homp.ddnayo.com"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)ddnayo\\.com(?:\\.|$)",
+      "(?:^|\\.)ddnayo[a-z0-9-]*?(?:\\.|$)"
+    ]
+  }
+]
