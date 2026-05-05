@@ -1,0 +1,89 @@
+[
+  {
+    "sld": "oyster.net.ck",
+    "total_count": 60,
+    "provider_hint": "Telecom Cook Islands",
+    "top_asn": {
+      "asn": 10131,
+      "org": "Telecom Cook Islands"
+    },
+    "pct": 1.0,
+    "countries": [
+      "CK"
+    ],
+    "example_targets": [
+      "parau.oyster.net.ck",
+      "poiparau.oyster.net.ck"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)oyster.net.ck(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "intellectualreserveinc.org",
+    "total_count": 18,
+    "provider_hint": "LDSCHURCH1",
+    "top_asn": {
+      "asn": 19648,
+      "org": "LDSCHURCH1"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns32.intellectualreserveinc.org",
+      "ns31.intellectualreserveinc.org",
+      "ns2.intellectualreserveinc.org",
+      "ns34.intellectualreserveinc.org",
+      "ns33.intellectualreserveinc.org",
+      "ns1.intellectualreserveinc.org"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)intellectualreserveinc.org(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "cscdns.net",
+    "total_count": 17,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "dns1.cscdns.net",
+      "udns1.cscdns.net",
+      "dns2.cscdns.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)cscdns.net(?:\\.|$)"
+    ]
+  },
+  {
+    "sld": "netnames.net",
+    "total_count": 10,
+    "provider_hint": "SECURITYSERVICES",
+    "top_asn": {
+      "asn": 12008,
+      "org": "SECURITYSERVICES"
+    },
+    "pct": 1.0,
+    "countries": [
+      "US"
+    ],
+    "example_targets": [
+      "ns6.netnames.net",
+      "ns1.netnames.net",
+      "ns5.netnames.net",
+      "ns2.netnames.net"
+    ],
+    "suggested_patterns": [
+      "(?:^|\\.)netnames.net(?:\\.|$)"
+    ]
+  }
+]
