@@ -226,7 +226,6 @@ ns.mx.hosting/nl_ns/nl_zdns_ns_raw.json filter=lfs diff=lfs merge=lfs -text
 ns.mx.hosting/no/no_zdns_raw.json filter=lfs diff=lfs merge=lfs -text
 ns.mx.hosting/no_mx/mx_zdns_raw.json filter=lfs diff=lfs merge=lfs -text
 ns.mx.hosting/no_ns/no_zdns_ns_raw.json filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
 CA/CA_ca/ca_ca.json filter=lfs diff=lfs merge=lfs -text
 CA/CA_ch/ch_ca.json filter=lfs diff=lfs merge=lfs -text
 CA/CA_cn/cn_ca.json filter=lfs diff=lfs merge=lfs -text
